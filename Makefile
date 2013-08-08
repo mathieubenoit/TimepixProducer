@@ -27,6 +27,9 @@ $(EXE_FILES): $(OBJ_FILES)
 
 lib: $(TARGET)
 
+install : exe
+	cp ../bin/TimepixProducer.exe $(PIXELMAN_INSTALL)
+
 all: exe
 
 .PHONY: exe lib all default
