@@ -1,8 +1,13 @@
 #include "TimepixDevice.h"
 
 // TOT . start on trigger stop on Timer
-char configName[256] = "config_I10-W0015_TOT_4-06-13" ;
-char AsciiconfigName[256] = "config_I10-W0015_TOT_4-06-13_ascii" ;
+//char configName[256] = "config_I10-W0015_TOT_4-06-13" ;
+//char AsciiconfigName[256] = "config_I10-W0015_TOT_4-06-13_ascii" ;
+
+
+char configName[256] = "/home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/C04-W0110/Configs/BPC_C04-W0110_15V_IKrum1_96MHz_08-08-13" ;
+char AsciiconfigName[256] = "/home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/Default_Ascii_Config" ;
+
 FRAMEID id;
 
 

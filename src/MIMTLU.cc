@@ -5,6 +5,7 @@ using namespace std;
 
 MIMTLU::MIMTLU() {
 	// TODO Auto-generated constructor stub
+	NTrigger =1;
 
 }
 
@@ -42,30 +43,43 @@ int MIMTLU::Connect(char* IP,char* port){
 	}
 	else {
 		std::cout << "[MIMTLU] connect established " << endl;
+		SetNumberOfTrigger(1);
 		return 1;
-
 	}
+	
 
 
 
 
 }
 
+void MIMTLU::SetNumberOfTrigger(int n){
 
-int MIMTLU::Arm(){
+#ifdef DEBUGPROD	
+	std::cout << "TRIGGER SETTING"<<std::endl;
+#endif
+        memset(msg,0,1024);
+	sprintf(msg,"T %i\r\n",n);
+	len = sizeof(msg);
+	bytes_sent = send(socketfd,msg, strlen(msg), 0);
+	NTrigger = n;	
+}
+
+unsigned long int MIMTLU::GetEvent(){
 
 #ifdef DEBUGPROD	
 	std::cout << "ARM"<<std::endl;
 #endif
         memset(msg,0,1024);
-	sprintf(msg,"READ");
+	sprintf(msg,"READ\r\n");
 	len = sizeof(msg);
-	bytes_sent = send(socketfd,msg, 8, 0);
+	bytes_sent = send(socketfd,msg, 6, 0);
 	
 //	incoming_data_buffer= 0;
-	bytes_recieved = recv(socketfd, incoming_data_buffer,8, 0);
+	bytes_recieved = recv(socketfd, incoming_data_buffer,18*NTrigger, 0);
+	
 
-//std::cout << incoming_data_buffer<<std::endl;
+	std::cout << incoming_data_buffer<<std::endl;
 
 	// If no data arrives, the program will just wait here until some data arrives.
 	if (bytes_recieved == 0) {
@@ -83,38 +97,4 @@ int MIMTLU::Arm(){
 
 }
 
-int MIMTLU::GetEvent(){
 
-        memset(msg,0,1024);
-#ifdef DEBUGPROD		
-	std::cout << "READ"<<std::endl;
-#endif
-//	sprintf(msg,"READ");
-//	len = sizeof(msg);
-//	bytes_sent = send(socketfd,msg, 8, 0);
-
-	//incoming_data_buffer= 0;
-	bytes_recieved = recv(socketfd, &incoming_data_buffer,18, 0);
-	// If no data arrives, the program will just wait here until some data arrives.
-
-#ifdef DEBUGPROD		
-	std::cout << "buffer : " << incoming_data_buffer<<std::endl;
-#endif
-	
-	if (bytes_recieved == 0) {
-		std::cout << "host shut down." << std::endl ;
-		return -100;
-	}
-	else if (bytes_recieved == -1){
-		std::cout << "recieve error!" << std::endl ;
-		return -200;
-	}
-	else{
-		sscanf(incoming_data_buffer,"%x",&tluevtnr);
-		//std::cout << "read "<<tluevtnr<<std::endl;
-		
-		return tluevtnr;
-	}
-	
-	
-}

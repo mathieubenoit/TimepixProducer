@@ -27,8 +27,9 @@ class MIMTLU {
 public:
 	MIMTLU();
 	int Connect(char* IP,char* port);
-	int Arm();
-	int GetEvent();
+	unsigned long int GetEvent();
+	void SetNumberOfTrigger(int n);
+	int NTrigger;
 
 
 private :
@@ -40,7 +41,7 @@ private :
 	int len, bytes_sent;
 	ssize_t bytes_recieved;
 	char msg [1024];
-	char incoming_data_buffer[1024];
+	char incoming_data_buffer[40*9];
 	unsigned long int tluevtnr;
 
 

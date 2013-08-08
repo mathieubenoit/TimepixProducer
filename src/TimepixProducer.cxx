@@ -147,6 +147,8 @@ public:
 
     acqTime = config.Get("AcquisitionTime_us", 0);
     aTimepix->SetAcqTime(acqTime*1.0e-6);
+    
+    aMIMTLU->SetNumberOfTrigger(1);
 
     cout << "[TimepixProducer] Setting Acquisition time to : " << acqTime*1.e-6 << "s" << endl;
 
@@ -263,17 +265,14 @@ public:
 	    	} 
 		cout << "after loop" <<  endl;
 
-	aMIMTLU->Arm();
+	TLU=aMIMTLU->GetEvent();
 		//cout << "[timepixProducer] Finished acquisition to file " << output <<  endl;
 
 	while(FrameReady!=1){
 				//cout << status << endl;
 	    		eudaq::mSleep(0.01);
 	    	} 
-	pthread_join(thread1, NULL);
-
-	TLU = aMIMTLU->GetEvent();
-	cout << "TLU: " << TLU << " " << "event counter : " << m_ev << endl;	
+	pthread_join(thread1, NULL);	
 
 /*	if((m_ev%(128*256))-TLU!=0) {
 	    
