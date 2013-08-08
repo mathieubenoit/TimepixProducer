@@ -123,7 +123,7 @@ public:
 
 	  output = new char[1000];
 
-	  sprintf(output,"/home/lcd/eudaq/data/Run%d_%d",m_run,m_ev);
+	  sprintf(output,"$TPPROD/ramdisk/Run%d_%d",m_run,m_ev);
 	  //output = "/home/mbenoit/workspace/eudaq/data/Run";
 	  running =false;
 	  
@@ -171,7 +171,9 @@ public:
     eudaq::RawDataEvent bore(eudaq::RawDataEvent::BORE(EVENT_TYPE, m_run));
     // You can set tags on the BORE that will be saved in the data file
     // and can be used later to help decoding
+    
     bore.SetTag("EXAMPLE", eudaq::to_string(m_exampleparam));
+    
     // Send the event to the Data Collector
     SendEvent(bore);
 
@@ -212,9 +214,13 @@ public:
 
 
 
-    system("cp /home/lcd/eudaq/timepixproducer_mb/ramdisk/* ../data");
-    system("rm -fr /home/lcd/eudaq/timepixproducer_mb/ramdisk/*");
-  }
+    int status = system("cp $TPPROD/ramdisk/* $TPPROD/data");
+    status = system("rm -fr $TPPROD/ramdisk/*");
+    //do something with status to waive compiler warning 
+    if(status==0){
+    status = 1;
+	  }
+  }	
 
   // This gets called when the Run Control is terminating,
   // we should also exit.
@@ -225,7 +231,6 @@ public:
     eudaq::mSleep(1000);
   }
 
-  // This is just an example, adapt it to your hardware
  void ReadoutLoop() {
     // Loop until Run Control tells us to terminate
     
@@ -233,7 +238,7 @@ public:
     	if(running){
 
     	//sprintf(output,"../data/Run%d_%d",m_run,m_ev);
-	sprintf(output,"/home/lcd/eudaq/timepixproducer_mb/ramdisk/Run%d_%d",m_run,m_ev);
+	sprintf(output,"$TPPROD/ramdisk/Run%d_%d",m_run,m_ev);
     	
 	//pthread_mutex_lock(&m_producer_mutex);
     	status=0;
@@ -320,12 +325,14 @@ public:
 
            		}
 
-    	if(m_ev%100==0 | m_ev<100) cout << "event #" << m_ev << endl;
+    	if((m_ev%100==0) | (m_ev<100)) cout << "event #" << m_ev << endl;
 	if(m_ev%1000==0 ) {
 			
 			    //system("cp /home/lcd/eudaq/timepixproducer_mb/ramdisk/* ../data");
-    			    system("rm -fr /home/lcd/eudaq/timepixproducer_mb/ramdisk/*");
-
+    			    int status = system("rm -fr $TPPROD/ramdisk/*");
+			    if(status==0) { 
+			    	status=1;
+				}
 			}
 
 //    if (!hardware.EventsPending()) {
@@ -403,14 +410,14 @@ private:
 int main(int /*argc*/, const char ** argv) {
   // You can use the OptionParser to get command-line arguments
   // then they will automatically be described in the help (-h) option
-  eudaq::OptionParser op("EUDAQ Example Producer", "1.0",
+  eudaq::OptionParser op("EUDAQ Timepix Producer", "1.0",
                          "Just an example, modify it to suit your own needs");
   eudaq::Option<std::string> rctrl(op, "r", "runcontrol",
                                    "tcp://localhost:44000", "address",
                                    "The address of the RunControl.");
   eudaq::Option<std::string> level(op, "l", "log-level", "NONE", "level",
                                    "The minimum level for displaying log messages locally");
-  eudaq::Option<std::string> name (op, "n", "name", "Example", "string",
+  eudaq::Option<std::string> name (op, "n", "name", "TimepixProducer", "string",
                                    "The name of this Producer");
   try {
     // This will look through the command-line arguments and set the options
