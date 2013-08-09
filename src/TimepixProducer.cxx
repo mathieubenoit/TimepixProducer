@@ -168,7 +168,7 @@ public:
     acqTime = config.Get("AcquisitionTime_us", 0);
     aTimepix->SetAcqTime(acqTime*1.0e-6);
     
-    aMIMTLU->SetNumberOfTriggers(10);
+    aMIMTLU->SetNumberOfTriggers(40);
     aMIMTLU->SetPulseLength(10);
     cout << "[TimepixProducer] Setting Acquisition time to : " << acqTime*1.e-6 << "s" << endl;
 
@@ -273,10 +273,9 @@ void ReadoutLoop() {
       while(!fitpixstate.AcqPreStarted)
         eudaq::mSleep(0.01);
 
-      aMIMTLU->Arm();
+    //  aMIMTLU->Arm();
 
-      while(!fitpixstate.FrameReady)
-        eudaq::mSleep(0.01);
+      
       
       std::vector<mimtlu_event> events;
       try
@@ -287,6 +286,9 @@ void ReadoutLoop() {
       {
         std::cout <<e.what()<<endl;
       }
+while(!fitpixstate.FrameReady)
+        eudaq::mSleep(0.01);
+
 #ifdef DEBUGFITPIX
   cout << get_time()<<" [FITPIX] after readout" << endl;
 #endif

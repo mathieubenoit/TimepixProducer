@@ -89,7 +89,7 @@ std::vector<mimtlu_event> MIMTLU::GetEvents()
 #endif
   std::vector<mimtlu_event> events;
   memset(msg,0,1024);
-  sprintf(msg,"READ\r\n");
+  sprintf(msg,"X\r\n");
   bytes_sent = send(socketfd,msg, strlen(msg), 0);
   int bytes_expected=18*NTrigger;
   bytes_recieved = recv(socketfd, incoming_data_buffer,bytes_expected, 0);
