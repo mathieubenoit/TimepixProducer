@@ -40,6 +40,7 @@ struct mimtlu_event
   unsigned long int timestamp;
   unsigned char track;
   unsigned int tlu;
+  char txt[16];
   mimtlu_event(unsigned long int _timestamp,unsigned char _track,  unsigned int _tlu)
   {
     timestamp=_timestamp;
@@ -49,12 +50,14 @@ struct mimtlu_event
   mimtlu_event(const char *buf)
   {
     from_string(buf);
+    
   }
 
   void from_string(const char *buf)
   {
     if (strlen(buf)!=16)
       throw mimtlu_exception("MIMTLU event parssing error");
+    strncpy(txt,&buf[0],16);
     char tmp[16];
     //timestamp
     strncpy(tmp,&buf[0],10);
@@ -71,6 +74,11 @@ struct mimtlu_event
     tmp[4]=0;
     sscanf(tmp, "%x", &tlu);
     return;
+  }
+  
+  const char * to_char(void)
+  {
+    return txt;
   }
 };
 
