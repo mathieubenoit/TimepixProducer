@@ -255,6 +255,9 @@ void ReadoutLoop() {
   {
     if(running)
     {
+#ifdef DEBUGFITPIX
+  cout << get_time()<<" [FITPIX] Loop begin" << endl;
+#endif
       //sprintf(output,"../data/Run%d_%d",m_run,m_ev);
       sprintf(output,"$TPPROD/ramdisk/Run%d_%d",m_run,m_ev);
       //pthread_mutex_lock(&m_producer_mutex);
@@ -272,9 +275,6 @@ void ReadoutLoop() {
 
       aMIMTLU->Arm();
 
-
-      
-
       while(!fitpixstate.FrameReady)
         eudaq::mSleep(0.01);
       
@@ -287,19 +287,25 @@ void ReadoutLoop() {
       {
         std::cout <<e.what()<<endl;
       }
+#ifdef DEBUGFITPIX
+  cout << get_time()<<" [FITPIX] after readout" << endl;
+#endif
       pthread_join(thread1, NULL);  
 
+#ifdef DEBUGFITPIX
+  cout << get_time()<<" [FITPIX] thread join" << endl;
+#endif
 
       
       for(std::vector<mimtlu_event>::iterator it=events.begin(); it!=events.end(); it++)
       {
-        std::cout<< "[event] "<<it->to_char(); 
+     //   std::cout<< "[event] "<<it->to_char(); 
       }
 
       control=aTimepix->GetFrameData2(output,buffer);
   
       unsigned int Data[MATRIX_SIZE];
-
+/*
       for(int i =0;i<MATRIX_SIZE;i++)
       {
         memcpy(&Data[i],buffer+i*4,4);
@@ -375,7 +381,7 @@ void ReadoutLoop() {
       // Send the event to the Data Collector
       SendEvent(ev);
       // Now increment the event number
-      m_ev++;
+  */    m_ev++;
     }
   }
 }
@@ -383,11 +389,11 @@ void ReadoutLoop() {
 void runfitpix()
 {
 #ifdef DEBUGFITPIX  
-  cout << "[FITPIX] before run"<<endl;
+  cout << get_time() << " [FITPIX] before run"<<endl;
 #endif
   control=aTimepix->PerformAcquisition(output);
 #ifdef DEBUGFITPIX  
-  cout << "[FITPIX] after run"<<endl;
+  cout << get_time() << " [FITPIX] after run"<<endl;
 #endif
 }
 

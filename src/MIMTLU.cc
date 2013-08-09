@@ -9,6 +9,8 @@ MIMTLU::MIMTLU()
   NTrigger =1;
 }
 
+char * get_time(void);
+
 int MIMTLU::Connect(char* IP,char* port)
 {
   memset(&host_info, 0, sizeof host_info);
@@ -47,7 +49,7 @@ int MIMTLU::Connect(char* IP,char* port)
 
 void MIMTLU::SetNumberOfTriggers(const unsigned int n){
 #ifdef DEBUGMTLU
-  std::cout << "[MiMTLU] SetNumberOfTriggers "<<n<<std::endl;
+  std::cout << get_time() << " [MiMTLU] SetNumberOfTriggers "<<n<<std::endl;
 #endif
   if (n<1 || n>40) return;
   memset(msg,0,1024);
@@ -59,7 +61,7 @@ void MIMTLU::SetNumberOfTriggers(const unsigned int n){
 
 void MIMTLU::SetPulseLength(const unsigned int n){
 #ifdef DEBUGMTLU
-  std::cout << "[MiMTLU] SetPulseLength "<<n<<std::endl;
+  std::cout << get_time() << " [MiMTLU] SetPulseLength "<<n<<std::endl;
 #endif
  
   memset(msg,0,1024);
@@ -73,7 +75,7 @@ void MIMTLU::SetPulseLength(const unsigned int n){
 void MIMTLU::Arm()
 {
 #ifdef DEBUGMTLU
-  std::cout << "[MiMTLU] Arm "<<std::endl;
+  std::cout << get_time() << " [MiMTLU] Arm "<<std::endl;
 #endif
   memset(msg,0,16);
   sprintf(msg,"A\r\n");
@@ -83,7 +85,7 @@ void MIMTLU::Arm()
 std::vector<mimtlu_event> MIMTLU::GetEvents()
 {
 #ifdef DEBUGMTLU
-  std::cout << "[MiMTLU] GetEvents "<<std::endl;
+  std::cout << get_time() << " [MiMTLU] GetEvents "<<std::endl;
 #endif
   std::vector<mimtlu_event> events;
   memset(msg,0,1024);
@@ -92,7 +94,7 @@ std::vector<mimtlu_event> MIMTLU::GetEvents()
   int bytes_expected=18*NTrigger;
   bytes_recieved = recv(socketfd, incoming_data_buffer,bytes_expected, 0);
   incoming_data_buffer[bytes_recieved]=0;
-  std::cout << incoming_data_buffer<<std::endl;
+ // std::cout << incoming_data_buffer<<std::endl;
   // If no data arrives, the program will just wait here until some data arrives.
   if (bytes_recieved == 0) 
     throw mimtlu_exception("[MiMTLU] Host shut down");
