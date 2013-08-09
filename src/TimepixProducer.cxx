@@ -73,12 +73,13 @@ char timebuf[100];
 char * get_time(void)
 {
     struct timeval now;
+    timebuf[0]=0;
     int rc;
     rc=gettimeofday(&now, NULL);
     if(rc==0) {
         sprintf(timebuf,"%lu.%06lu", now.tv_sec, now.tv_usec);
-        return timebuf;
     }
+    return timebuf;
 }
 void AcquisitionPreStarted(CBPARAM /*par*/,INTPTR /*aptr*/)
 {
@@ -167,9 +168,11 @@ public:
       
     acqTime = config.Get("AcquisitionTime_us", 0);
     aTimepix->SetAcqTime(acqTime*1.0e-6);
-    
-    aMIMTLU->SetNumberOfTriggers(40);
-    aMIMTLU->SetPulseLength(10);
+
+    unsigned int ntrig = config.Get("MiMTLU_NumberOfTriggers", 1);
+    unsigned int plen = config.Get("MiMTLU_PulseLength", 15);
+    aMIMTLU->SetNumberOfTriggers(ntrig);
+    aMIMTLU->SetPulseLength(plen);
     cout << "[TimepixProducer] Setting Acquisition time to : " << acqTime*1.e-6 << "s" << endl;
 
 
@@ -312,8 +315,8 @@ while(!fitpixstate.FrameReady)
 
       control=aTimepix->GetFrameData2(output,buffer);
   
-      unsigned int Data[MATRIX_SIZE];
 /*
+      unsigned int Data[MATRIX_SIZE];
       for(int i =0;i<MATRIX_SIZE;i++)
       {
         memcpy(&Data[i],buffer+i*4,4);
