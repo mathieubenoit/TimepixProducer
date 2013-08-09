@@ -93,7 +93,8 @@ public:
   std::vector<mimtlu_event> GetEvents(void);
   void              Arm(void);
   void              SetNumberOfTriggers(const unsigned int n); 
-  void 		    SetPulseLength(const unsigned int n);
+  void              SetPulseLength(const unsigned int n);
+  void              SetShutterLength(const unsigned int n);
 
 private :
   unsigned int NTrigger;

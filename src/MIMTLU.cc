@@ -47,6 +47,18 @@ int MIMTLU::Connect(char* IP,char* port)
 
 }
 
+void MIMTLU::SetShutterLength(const unsigned int n)
+{
+#ifdef DEBUGMTLU
+  std::cout << get_time() << " [MiMTLU] SetShutterLength "<<n<<std::endl;
+#endif
+  memset(msg,0,1024);
+  sprintf(msg,"S %i\r\n",n);
+  bytes_sent = send(socketfd,msg, strlen(msg), 0);
+  sleep(1);
+}
+
+  
 void MIMTLU::SetNumberOfTriggers(const unsigned int n){
 #ifdef DEBUGMTLU
   std::cout << get_time() << " [MiMTLU] SetNumberOfTriggers "<<n<<std::endl;
