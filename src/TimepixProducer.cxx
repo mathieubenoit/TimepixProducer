@@ -16,32 +16,43 @@
 #include "eudaq/Mutex.hh"
 #include "mpxmanagerapi.h"
 #include "mpxhw.h"
-
-
 #include <iostream>
 #include <ostream>
 #include <vector>
 #include <pthread.h>    /* POSIX Threads */
-
-
 #include "MIMTLU.h"
 #include "TimepixDevice.h"
 
-
-
 using namespace std;
 
-#define DEBUGPROD
+#define DEBUGFITPIX
+
 
 // A name to identify the raw data format of the events generated
 // Modify this to something appropriate for your producer.
 static const std::string EVENT_TYPE = "TimepixRaw";
 
 int status;
-int AcqPreStarted=0;
-int FrameReady;
-unsigned int TLU;
 
+struct fitpixstate_t
+{
+  bool AcqPreStarted;
+  bool FrameReady;
+  bool AcquisitionStarted;
+  bool AcquisitionFinished;
+  fitpixstate_t()
+  {
+    reset();
+  }
+  void reset(void)
+  {
+    AcqPreStarted=0;
+    FrameReady=0;
+    AcquisitionStarted=0;
+    AcquisitionFinished=0;
+  }};
+
+fitpixstate_t fitpixstate;
 MIMTLU *aMIMTLU;
 
 
@@ -57,40 +68,37 @@ MIMTLU *aMIMTLU;
 void * fitpix_acq ( void *ptr );
 
 
-void AcquisitionPreStarted(CBPARAM /*par*/,INTPTR /*aptr*/){
-	
-#ifdef DEBUGPROD	
-	cout << "AcquisitionPreStarted" << endl;	
+void AcquisitionPreStarted(CBPARAM /*par*/,INTPTR /*aptr*/)
+{
+#ifdef DEBUGFITPIX
+  cout << "[FITPIX] AcquisitionPreStarted" << endl;
 #endif
-	//usleep(1);
-	AcqPreStarted=1;
+  fitpixstate.AcqPreStarted=1;
+}
 
-	
-	}
-	
+
 void AcquisitionStarted(CBPARAM /*par*/,INTPTR /*aptr*/)
 {
-#ifdef DEBUGPROD	
-	cout << "triggerred" << endl; 
+#ifdef DEBUGFITPIX
+  cout << "[FITPIX] AcquisitionStarted" << endl;
 #endif
-	//TLU = aMIMTLU->GetEvent();
-
+  fitpixstate.AcquisitionStarted=1;
 }
 
 void AcquisitionFinished(int /*stuff*/,int /*stuff2*/){
-		status =1;
-#ifdef DEBUGPROD	
-		//cout << "acq finished" << endl;
+#ifdef DEBUGFITPIX
+  cout << "[FITPIX] AcquisitionStarted" << endl;
 #endif
-	}
+  fitpixstate.AcquisitionFinished=1;
+}
 
-void FrameIsReady(int /*stuff*/,int /*stuff2*/){
-		FrameReady =1;
-#ifdef DEBUGPROD	
-		cout << "Frame Ready" << endl;
+void FrameIsReady(int /*stuff*/,int /*stuff2*/)
+{
+#ifdef DEBUGFITPIX
+  cout << "[FITPIX] AcquisitionStarted" << endl;
 #endif
-
-	}
+  fitpixstate.FrameReady=1;
+}
 
 
 template <typename T>
@@ -105,38 +113,32 @@ inline void unpack (vector <unsigned char >& src, int index, T& data) {
 }
 
 
-
-
 // Declare a new class that inherits from eudaq::Producer
 class TimepixProducer : public eudaq::Producer {
 public:
-
   // The constructor must call the eudaq::Producer constructor with the name
   // and the runcontrol connection string, and initialize any member variables.
   TimepixProducer(const std::string & name, const std::string & runcontrol)
     : eudaq::Producer(name, runcontrol),
-      m_run(0), m_ev(0), stopping(false), done(false) {
+      m_run(0), m_ev(0), stopping(false), done(false) 
+  {
+    aTimepix = new TimepixDevice();
+    buffer   = new char[4*MATRIX_SIZE];
 
-	  aTimepix = new TimepixDevice();
+    output = new char[1000];
 
-	  buffer = new char[4*MATRIX_SIZE];
-
-	  output = new char[1000];
-
-	  sprintf(output,"$TPPROD/ramdisk/Run%d_%d",m_run,m_ev);
-	  //output = "/home/mbenoit/workspace/eudaq/data/Run";
-	  running =false;
-	  
-	  aMIMTLU= new MIMTLU();
-	  int mimtlu_status = aMIMTLU->Connect(const_cast<char *>("192.168.222.200"),const_cast<char *>("23"));
-	  if(mimtlu_status!=1)	   SetStatus(eudaq::Status::LVL_ERROR, "MIMTLU Not Running !!");
-
-
-
+    sprintf(output,"$TPPROD/ramdisk/Run%d_%d",m_run,m_ev);
+    //output = "/home/mbenoit/workspace/eudaq/data/Run";
+    running =false;
+    
+    aMIMTLU= new MIMTLU();
+    int mimtlu_status = aMIMTLU->Connect(const_cast<char *>("192.168.222.200"),const_cast<char *>("23"));
+    if(mimtlu_status!=1)     SetStatus(eudaq::Status::LVL_ERROR, "MIMTLU Not Running !!");
   }
 
   // This gets called whenever the DAQ is configured
-  virtual void OnConfigure(const eudaq::Configuration & config) {
+  virtual void OnConfigure(const eudaq::Configuration & config) 
+  {
     std::cout << "Configuring: " << config.Name() << std::endl;
 
     // Do any configuration of the hardware here
@@ -212,17 +214,13 @@ public:
     cout << "[TimepixProducer] Sent EORE " << endl;
  
     //
-
-
-
-
     int status = system("cp $TPPROD/ramdisk/* $TPPROD/data");
     status = system("rm -fr $TPPROD/ramdisk/*");
     //do something with status to waive compiler warning 
     if(status==0){
     status = 1;
-	  }
-  }	
+    }
+  }  
 
   // This gets called when the Run Control is terminating,
   // we should also exit.
@@ -233,105 +231,90 @@ public:
     eudaq::mSleep(1000);
   }
 
- void ReadoutLoop() {
-    // Loop until Run Control tells us to terminate
-    
-    while (!done) {
-    	if(running){
+void ReadoutLoop() {
+  // Loop until Run Control tells us to terminate
+  while (!done) 
+  {
+    if(running)
+    {
+      //sprintf(output,"../data/Run%d_%d",m_run,m_ev);
+      sprintf(output,"$TPPROD/ramdisk/Run%d_%d",m_run,m_ev);
+      //pthread_mutex_lock(&m_producer_mutex);
+      fitpixstate.reset();
+      //cout << "starting new frame" << endl;
+      aMIMTLU->Arm();
 
-    	//sprintf(output,"../data/Run%d_%d",m_run,m_ev);
-	sprintf(output,"$TPPROD/ramdisk/Run%d_%d",m_run,m_ev);
-    	
-	//pthread_mutex_lock(&m_producer_mutex);
-    	status=0;
-	AcqPreStarted=0;
-    	FrameReady=0;
-	//cout << "starting new frame" << endl;
-    	
-	//aMIMTLU->Arm();
-	
-	
-	//Multithreading 
-	pthread_t thread1;  /* thread variables */
-	pthread_create (&thread1, NULL,  fitpix_acq, (void *) this);
-	
-	
-	
-	
+      //Multithreading 
+      pthread_t thread1;  /* thread variables */
+      pthread_create (&thread1, NULL,  fitpix_acq, (void *) this);
 
-	while(AcqPreStarted!=1)
-	{
-		//cout << status << endl;
-		eudaq::mSleep(0.01);
-	}
-	cout << "after loop" <<  endl;
-	
-	std::vector<mimtlu_event> events=aMIMTLU->GetEvents();
-	//cout << "[timepixProducer] Finished acquisition to file " << output <<  endl;
+      while(!fitpixstate.AcqPreStarted)
+        eudaq::mSleep(0.01);
 
-	while(FrameReady!=1){
-		//cout << status << endl;
-		eudaq::mSleep(0.01);
-	}
-	pthread_join(thread1, NULL);	
+      std::vector<mimtlu_event> events;
+      try
+      {
+        events=aMIMTLU->GetEvents();
+      }
+      catch(mimtlu_exception e)
+      {
+        std::cout <<e.what()<<endl;
+      }
 
-/*	if((m_ev%(128*256))-TLU!=0) {
-	  // SetStatus(eudaq::Status::LVL_ERROR, "Mismatch");
-	   cout << "TLU: " << TLU << " " << "event counter : " << m_ev << endl;	 
-	}*/
-	
-	
-	
-	if(TLU==0) {
-	  // SetStatus(eudaq::Status::LVL_ERROR, "Mismatch");
-	   cout << "TLU: " << TLU << " " << "event counter : " << m_ev << endl;	 
-	}
+      for(std::vector<mimtlu_event>::iterator it=events.begin(); it!=events.end(); it++)
+      {
+        std::cout<< "[event] "<<it->tlu;
+      }
+      
 
+      while(!fitpixstate.FrameReady)
+        eudaq::mSleep(0.01);
 
-	control=aTimepix->GetFrameData2(output,buffer);
-	
-    	unsigned int Data[MATRIX_SIZE];
+      pthread_join(thread1, NULL);  
 
-    	for(int i =0;i<MATRIX_SIZE;i++){
+      control=aTimepix->GetFrameData2(output,buffer);
+  
+      unsigned int Data[MATRIX_SIZE];
 
-    		memcpy(&Data[i],buffer+i*4,4);
+      for(int i =0;i<MATRIX_SIZE;i++)
+      {
+        memcpy(&Data[i],buffer+i*4,4);
+      }
+      int pos =0;
+      std::vector<unsigned char> bufferOut;
+      std::vector<unsigned char> bufferTLU;
+      
+      unsigned int TLU =0; //!!!!!!!!!!!!!!!!!!!!!
+      pack(bufferTLU,TLU);
+      
+      for(unsigned int i=0;i<256;i++)
+      {
+        for(unsigned int j=0;j<256;j++)
+        {
+           if(Data[pos]!=0)
+           {
+             //cout << "[Data] Evt : " << m_ev << " " << i << " " << j << " " << Data[pos] << endl;
+             pack(bufferOut,i);
+             pack(bufferOut,j);
+             pack(bufferOut,Data[pos]);
+            //pack(bufferOut,i);
+           }
+           //pack(bufferOut,i);
+           // pack(bufferOut,j);
+           //pack(bufferOut,m_ev);
+           pos++;
+        }
+      }
 
-    		}
-        int pos =0;
-
-        std::vector<unsigned char> bufferOut;
-	std::vector<unsigned char> bufferTLU;
-	pack(bufferTLU,TLU);
-        for(unsigned int i=0;i<256;i++){
-           		for(unsigned int j=0;j<256;j++){
-
-           			if(Data[pos]!=0){
-
-           				//cout << "[Data] Evt : " << m_ev << " " << i << " " << j << " " << Data[pos] << endl;
-           				pack(bufferOut,i);
-           				pack(bufferOut,j);
-           				pack(bufferOut,Data[pos]);
-           				//pack(bufferOut,i);
-           			}
-
-           				//pack(bufferOut,i);
-           				// pack(bufferOut,j);
-           				//pack(bufferOut,m_ev);
-           			pos++;
-
-           		}
-
-           		}
-
-    	if((m_ev%100==0) | (m_ev<100)) cout << "event #" << m_ev << endl;
-	if(m_ev%1000==0 ) {
-			
-			    //system("cp /home/lcd/eudaq/timepixproducer_mb/ramdisk/* ../data");
-    			    int status = system("rm -fr $TPPROD/ramdisk/*");
-			    if(status==0) { 
-			    	status=1;
-				}
-			}
+  if((m_ev%100==0) | (m_ev<100)) cout << "event #" << m_ev << endl;
+  if(m_ev%1000==0 ) {
+      
+          //system("cp /home/lcd/eudaq/timepixproducer_mb/ramdisk/* ../data");
+              int status = system("rm -fr $TPPROD/ramdisk/*");
+          if(status==0) { 
+            status=1;
+        }
+      }
 
 //    if (!hardware.EventsPending()) {
 //        // No events are pending, so check if the run is stopping
@@ -361,7 +344,7 @@ public:
 //      std::vector<unsigned char> bufferV;
 //      for(int i =0; i<MATRIX_SIZE;i++){
 //
-//    	  bufferV.push_back(buffer[i]);
+//        bufferV.push_back(buffer[i]);
 //
 //      }
       ev.AddBlock(0, bufferOut);
@@ -370,17 +353,17 @@ public:
       SendEvent(ev);
       // Now increment the event number
       m_ev++;
-    	}
     }
   }
+}
 
 void runfitpix()
 {
-#ifdef DEBUGPROD	
+#ifdef DEBUGPROD  
 cout << "before run"<<endl;
 #endif
-	control=aTimepix->PerformAcquisition(output);
-#ifdef DEBUGPROD	
+  control=aTimepix->PerformAcquisition(output);
+#ifdef DEBUGPROD  
 cout << "after run"<<endl;
 #endif
 }

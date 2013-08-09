@@ -130,9 +130,6 @@ TimepixDevice::TimepixDevice(){
 		// check mode
 		//control =mpxCtrlGetAcqMode(devId, &mode);
 		//cout << "Acq mode after = " << mode << endl;
- 
-
-
 
 		// Data type Set
 		mgrSetFrameType(0,TYPE_U32);
@@ -141,30 +138,17 @@ TimepixDevice::TimepixDevice(){
 		byte *buf=new byte[MATRIX_SIZE];
 		//this->PerformAcquisition("test");
 		delete buf;
+}
 
 
-
-
-
-	}
-	
-	
 int  TimepixDevice::ReadFrame(char * Filename, char* buffer){
-
-
-
-			ifstream in(Filename,ios::binary|ios::ate);
-			long size = in.tellg();
-			in.seekg(0,ios::beg);
-
-			in.read(buffer,size);
-			in.close();
-
-
-
-			return 0;
-
-	}
+	ifstream in(Filename,ios::binary|ios::ate);
+	long size = in.tellg();
+	in.seekg(0,ios::beg);
+	in.read(buffer,size);
+	in.close();
+	return 0;
+}
 
 
 int TimepixDevice::SetTHL(int THL){

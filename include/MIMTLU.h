@@ -20,6 +20,19 @@
 #include <stdlib.h>
 #include <math.h>
 #include <vector>
+#include <string.h>
+#include <exception>
+#include <stdexcept>
+
+#define DEBUGMTLU
+
+class mimtlu_exception : public std::runtime_error 
+{
+public:
+    mimtlu_exception(const std::string& message) 
+        : std::runtime_error(message) { };
+};
+
 
 struct mimtlu_event
 {
@@ -32,13 +45,31 @@ struct mimtlu_event
 		track=_track;
 		tlu=_tlu;
 	}
-	mimtlu_event(const unsigned char *buf)
+	mimtlu_event(const char *buf)
 	{
 		from_string(buf);
 	}
 
-	void from_string(const unsigned char *buf)
+	void from_string(const char *buf)
 	{
+		if (strlen(buf)!=16)
+			throw mimtlu_exception("MIMTLU event parssing error");
+		char tmp[16];
+		//timestamp
+		strncpy(tmp,&buf[0],10);
+		tmp[10]=0;
+		sscanf(tmp, "%lx", &timestamp);
+		//track
+		unsigned int tmpint;
+		strncpy(tmp,&buf[10],2);
+		tmp[2]=0;
+		sscanf(tmp, "%x", &tmpint);
+		track=tmpint&0xff;
+		//tlu
+		strncpy(tmp,&buf[12],4);
+		tmp[4]=0;
+		sscanf(tmp, "%x", &tlu);
+		return;
 	}
 };
 
@@ -52,7 +83,7 @@ public:
 
 
 private :
-	int NTrigger;
+	unsigned int NTrigger;
 	int status;
 	struct addrinfo host_info;       
 	struct addrinfo *host_info_list; 
@@ -60,7 +91,7 @@ private :
 	int len, bytes_sent;
 	ssize_t bytes_recieved;
 	char msg [1024];
-	char incoming_data_buffer[40*9];
+	char incoming_data_buffer[1024];
 	unsigned long int tluevtnr;
 };
 
