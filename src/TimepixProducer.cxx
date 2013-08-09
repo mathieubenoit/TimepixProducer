@@ -26,7 +26,7 @@
 
 using namespace std;
 
-#define DEBUGFITPIX
+//#define DEBUGFITPIX
 
 struct timeval t0;
 
@@ -170,7 +170,7 @@ public:
     aTimepix->SetAcqTime(acqTime*1.0e-6);
 
     unsigned int ntrig = config.Get("MiMTLU_NumberOfTriggers", 1);
-    unsigned int plen = config.Get("MiMTLU_PulseLength", 15);
+    unsigned int plen = config	.Get("MiMTLU_PulseLength", 15);
     unsigned int slen = config.Get("MiMTLU_ShutterLength", 10000);
     unsigned int smode = config.Get("MiMTLU_ShutterMode", 3);
     aMIMTLU->SetNumberOfTriggers(ntrig);

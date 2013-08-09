@@ -24,7 +24,7 @@
 #include <exception>
 #include <stdexcept>
 
-#define DEBUGMTLU
+//#define DEBUGMTLU
 
 class mimtlu_exception : public std::runtime_error 
 {
