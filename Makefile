@@ -12,8 +12,9 @@ PIXELMAN_HWLIBS:=$(PIXELMAN_INSTALL)/hwlibs
 
 BIN = $(TPPROD)
 
-CFLAGS += -c -m32 -isystem $(PIXELMAN_INSTALL)/_other_/headers -I$(PIXELMAN_INSTALL)/_other_/headers
-LDFLAGS +=  -m32 -L$(PIXELMAN_INSTALL) -lMpxManager -lMpxCtrl -L$(PIXELMAN_HWLIBS) -lusb -lstdc++ -ldl -lc 
+CFLAGS += -c -m32 -I$(PIXELMAN_INSTALL)/_other_/headers
+CPPFLAGS += -c -m32
+LDFLAGS +=  -m32  -L/usr/lib/i386-linux-gnu -L/usr/lib32 -L$(PIXELMAN_INSTALL) -lMpxManager -lMpxCtrl -L$(PIXELMAN_HWLIBS) -lusb -lstdc++ -ldl -lc 
 
 ifeq ($(PLATFORM),WIN32)
 EXTERNAL_LIBS += Ws2_32
