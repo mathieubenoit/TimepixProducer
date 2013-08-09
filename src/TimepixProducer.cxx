@@ -5,7 +5,7 @@
  *      Author: Mathieu Benoit
  */
 
-  
+
 #include "eudaq/Producer.hh"
 #include "eudaq/Logger.hh"
 #include "eudaq/RawDataEvent.hh"
@@ -22,11 +22,13 @@
 #include <pthread.h>    /* POSIX Threads */
 #include "MIMTLU.h"
 #include "TimepixDevice.h"
+#include <time.h>
 
 using namespace std;
 
 #define DEBUGFITPIX
 
+struct timeval t0;
 
 // A name to identify the raw data format of the events generated
 // Modify this to something appropriate for your producer.
@@ -67,11 +69,21 @@ MIMTLU *aMIMTLU;
 
 void * fitpix_acq ( void *ptr );
 
-
+char timebuf[100];
+char * get_time(void)
+{
+    struct timeval now;
+    int rc;
+    rc=gettimeofday(&now, NULL);
+    if(rc==0) {
+        sprintf(timebuf,"%lu.%06lu", now.tv_sec, now.tv_usec);
+        return timebuf;
+    }
+}
 void AcquisitionPreStarted(CBPARAM /*par*/,INTPTR /*aptr*/)
 {
 #ifdef DEBUGFITPIX
-  cout << "[FITPIX] AcquisitionPreStarted" << endl;
+  cout << get_time()<<" [FITPIX] AcquisitionPreStarted" << endl;
 #endif
   fitpixstate.AcqPreStarted=1;
 }
@@ -80,14 +92,14 @@ void AcquisitionPreStarted(CBPARAM /*par*/,INTPTR /*aptr*/)
 void AcquisitionStarted(CBPARAM /*par*/,INTPTR /*aptr*/)
 {
 #ifdef DEBUGFITPIX
-  cout << "[FITPIX] AcquisitionStarted" << endl;
+  cout << get_time()<<" [FITPIX] AcquisitionStarted" << endl;
 #endif
   fitpixstate.AcquisitionStarted=1;
 }
 
 void AcquisitionFinished(int /*stuff*/,int /*stuff2*/){
 #ifdef DEBUGFITPIX
-  cout << "[FITPIX] AcquisitionFinished" << endl;
+  cout << get_time()<<" [FITPIX] AcquisitionFinished" << endl;
 #endif
   fitpixstate.AcquisitionFinished=1;
 }
@@ -95,7 +107,7 @@ void AcquisitionFinished(int /*stuff*/,int /*stuff2*/){
 void FrameIsReady(int /*stuff*/,int /*stuff2*/)
 {
 #ifdef DEBUGFITPIX
-  cout << "[FITPIX] FrameReady" << endl;
+  cout << get_time()<<" [FITPIX] FrameReady" << endl;
 #endif
   fitpixstate.FrameReady=1;
 }
@@ -134,6 +146,7 @@ public:
     aMIMTLU= new MIMTLU();
     int mimtlu_status = aMIMTLU->Connect(const_cast<char *>("192.168.222.200"),const_cast<char *>("23"));
     if(mimtlu_status!=1)     SetStatus(eudaq::Status::LVL_ERROR, "MIMTLU Not Running !!");
+    gettimeofday(&t0, NULL);
   }
 
   // This gets called whenever the DAQ is configured
@@ -147,6 +160,11 @@ public:
 //    aTimepix->SetTHL(THL);
 
 
+// std::string Get(const std::string & key, const std::string & def) const;
+//      double Get(const std::string & key, double def) const;
+//      long long Get(const std::string & key, long long def) const;
+//      int Get(const std::string & key, int def) const;
+      
     acqTime = config.Get("AcquisitionTime_us", 0);
     aTimepix->SetAcqTime(acqTime*1.0e-6);
     
@@ -289,8 +307,7 @@ void ReadoutLoop() {
       int pos =0;
       std::vector<unsigned char> bufferOut;
       std::vector<unsigned char> bufferTLU;
-      
-unsigned int TLU=0;
+      unsigned int TLU=0;
       pack(bufferTLU,TLU);
       
       for(unsigned int i=0;i<256;i++)
@@ -365,12 +382,12 @@ unsigned int TLU=0;
 
 void runfitpix()
 {
-#ifdef DEBUGPROD  
-cout << "before run"<<endl;
+#ifdef DEBUGFITPIX  
+  cout << "[FITPIX] before run"<<endl;
 #endif
   control=aTimepix->PerformAcquisition(output);
-#ifdef DEBUGPROD  
-cout << "after run"<<endl;
+#ifdef DEBUGFITPIX  
+  cout << "[FITPIX] after run"<<endl;
 #endif
 }
 

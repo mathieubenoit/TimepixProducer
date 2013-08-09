@@ -1,6 +1,7 @@
 #include "MIMTLU.h"
+#include <time.h>
 
-
+extern time_t t0 ;
 using namespace std;
 
 MIMTLU::MIMTLU() 
