@@ -148,7 +148,7 @@ public:
     acqTime = config.Get("AcquisitionTime_us", 0);
     aTimepix->SetAcqTime(acqTime*1.0e-6);
     
-    aMIMTLU->SetNumberOfTrigger(1);
+    aMIMTLU->SetNumberOfTriggers(1);
 
     cout << "[TimepixProducer] Setting Acquisition time to : " << acqTime*1.e-6 << "s" << endl;
 
@@ -256,26 +256,26 @@ public:
 	pthread_create (&thread1, NULL,  fitpix_acq, (void *) this);
 	
 	
-	    
+	
 	
 
-     	while(AcqPreStarted!=1){
-				//cout << status << endl;
-	    		eudaq::mSleep(0.01);
-	    	} 
-		cout << "after loop" <<  endl;
-
-	TLU=aMIMTLU->GetEvent();
-		//cout << "[timepixProducer] Finished acquisition to file " << output <<  endl;
+	while(AcqPreStarted!=1)
+	{
+		//cout << status << endl;
+		eudaq::mSleep(0.01);
+	}
+	cout << "after loop" <<  endl;
+	
+	std::vector<mimtlu_event> events=aMIMTLU->GetEvents();
+	//cout << "[timepixProducer] Finished acquisition to file " << output <<  endl;
 
 	while(FrameReady!=1){
-				//cout << status << endl;
-	    		eudaq::mSleep(0.01);
-	    	} 
+		//cout << status << endl;
+		eudaq::mSleep(0.01);
+	}
 	pthread_join(thread1, NULL);	
 
 /*	if((m_ev%(128*256))-TLU!=0) {
-	    
 	  // SetStatus(eudaq::Status::LVL_ERROR, "Mismatch");
 	   cout << "TLU: " << TLU << " " << "event counter : " << m_ev << endl;	 
 	}*/
@@ -283,7 +283,6 @@ public:
 	
 	
 	if(TLU==0) {
-	    
 	  // SetStatus(eudaq::Status::LVL_ERROR, "Mismatch");
 	   cout << "TLU: " << TLU << " " << "event counter : " << m_ev << endl;	 
 	}
