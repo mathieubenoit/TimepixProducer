@@ -81,19 +81,22 @@ public:
   int               Connect(char* IP,char* port);
   std::vector<mimtlu_event> GetEvents(void);
   void              Arm(void);
-  void              SetNumberOfTriggers(const unsigned int n);
+  void              SetNumberOfTriggers(const unsigned int n); 
+  void 		    SetPulseLength(const unsigned int n);
 
 private :
   unsigned int NTrigger;
+  unsigned int PulseLength;
   int status;
   struct addrinfo host_info;       
   struct addrinfo *host_info_list; 
   int socketfd ; 
   int len, bytes_sent;
-  ssize_t bytes_recieved;
+  ssize_t bytes_recieved;	
   char msg [1024];
   char incoming_data_buffer[1024];
   unsigned long int tluevtnr;
+
 };
 
 #endif /* MIMTLU_H_ */

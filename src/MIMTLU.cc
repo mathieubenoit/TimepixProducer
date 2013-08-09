@@ -53,7 +53,21 @@ void MIMTLU::SetNumberOfTriggers(const unsigned int n){
   sprintf(msg,"T %i\r\n",n);
   bytes_sent = send(socketfd,msg, strlen(msg), 0);
   NTrigger = n;
+  sleep(1);
 }
+
+void MIMTLU::SetPulseLength(const unsigned int n){
+#ifdef DEBUGMTLU
+  std::cout << "[MiMTLU] SetPulseLength "<<n<<std::endl;
+#endif
+ 
+  memset(msg,0,1024);
+  sprintf(msg,"P %i\r\n",n);
+  bytes_sent = send(socketfd,msg, strlen(msg), 0);
+  PulseLength = n;
+  sleep(1);
+}
+
 
 void MIMTLU::Arm()
 {
@@ -76,6 +90,7 @@ std::vector<mimtlu_event> MIMTLU::GetEvents()
   bytes_sent = send(socketfd,msg, strlen(msg), 0);
   int bytes_expected=18*NTrigger;
   bytes_recieved = recv(socketfd, incoming_data_buffer,bytes_expected, 0);
+  incoming_data_buffer[bytes_recieved]=0;
   std::cout << incoming_data_buffer<<std::endl;
   // If no data arrives, the program will just wait here until some data arrives.
   if (bytes_recieved == 0) 

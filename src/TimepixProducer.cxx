@@ -87,7 +87,7 @@ void AcquisitionStarted(CBPARAM /*par*/,INTPTR /*aptr*/)
 
 void AcquisitionFinished(int /*stuff*/,int /*stuff2*/){
 #ifdef DEBUGFITPIX
-  cout << "[FITPIX] AcquisitionStarted" << endl;
+  cout << "[FITPIX] AcquisitionFinished" << endl;
 #endif
   fitpixstate.AcquisitionFinished=1;
 }
@@ -95,7 +95,7 @@ void AcquisitionFinished(int /*stuff*/,int /*stuff2*/){
 void FrameIsReady(int /*stuff*/,int /*stuff2*/)
 {
 #ifdef DEBUGFITPIX
-  cout << "[FITPIX] AcquisitionStarted" << endl;
+  cout << "[FITPIX] FrameReady" << endl;
 #endif
   fitpixstate.FrameReady=1;
 }
@@ -150,8 +150,8 @@ public:
     acqTime = config.Get("AcquisitionTime_us", 0);
     aTimepix->SetAcqTime(acqTime*1.0e-6);
     
-    aMIMTLU->SetNumberOfTriggers(1);
-
+    aMIMTLU->SetNumberOfTriggers(10);
+    aMIMTLU->SetPulseLength(10);
     cout << "[TimepixProducer] Setting Acquisition time to : " << acqTime*1.e-6 << "s" << endl;
 
 
@@ -241,16 +241,25 @@ void ReadoutLoop() {
       sprintf(output,"$TPPROD/ramdisk/Run%d_%d",m_run,m_ev);
       //pthread_mutex_lock(&m_producer_mutex);
       fitpixstate.reset();
-      //cout << "starting new frame" << endl;
-      aMIMTLU->Arm();
-
-      //Multithreading 
+      
+       //Multithreading 
       pthread_t thread1;  /* thread variables */
       pthread_create (&thread1, NULL,  fitpix_acq, (void *) this);
+      
+      //cout << "starting new frame" << endl;
+
 
       while(!fitpixstate.AcqPreStarted)
         eudaq::mSleep(0.01);
 
+      aMIMTLU->Arm();
+
+
+      
+
+      while(!fitpixstate.FrameReady)
+        eudaq::mSleep(0.01);
+      
       std::vector<mimtlu_event> events;
       try
       {
@@ -260,16 +269,11 @@ void ReadoutLoop() {
       {
         std::cout <<e.what()<<endl;
       }
-
+      
       for(std::vector<mimtlu_event>::iterator it=events.begin(); it!=events.end(); it++)
       {
         std::cout<< "[event] "<<it->tlu;
       }
-      
-
-      while(!fitpixstate.FrameReady)
-        eudaq::mSleep(0.01);
-
       pthread_join(thread1, NULL);  
 
       control=aTimepix->GetFrameData2(output,buffer);
@@ -284,7 +288,7 @@ void ReadoutLoop() {
       std::vector<unsigned char> bufferOut;
       std::vector<unsigned char> bufferTLU;
       
-      unsigned int TLU =0; //!!!!!!!!!!!!!!!!!!!!!
+
       pack(bufferTLU,TLU);
       
       for(unsigned int i=0;i<256;i++)
