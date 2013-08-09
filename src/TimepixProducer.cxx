@@ -269,12 +269,14 @@ void ReadoutLoop() {
       {
         std::cout <<e.what()<<endl;
       }
+      pthread_join(thread1, NULL);  
+
+
       
       for(std::vector<mimtlu_event>::iterator it=events.begin(); it!=events.end(); it++)
       {
-        std::cout<< "[event] "<<it->tlu;
+        std::cout<< "[event] "<<it->to_char(); 
       }
-      pthread_join(thread1, NULL);  
 
       control=aTimepix->GetFrameData2(output,buffer);
   
@@ -288,7 +290,7 @@ void ReadoutLoop() {
       std::vector<unsigned char> bufferOut;
       std::vector<unsigned char> bufferTLU;
       
-
+unsigned int TLU=0;
       pack(bufferTLU,TLU);
       
       for(unsigned int i=0;i<256;i++)
