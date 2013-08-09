@@ -34,7 +34,7 @@ class TimepixDevice {
 
 public:
 
-	TimepixDevice();
+	TimepixDevice(const std::string & binary_config, const std::string & ascii_config);
 	int  ReadFrame(char * Filename, char* buffer);
 	int SetTHL(int THL);
 	int SetIkrum(int IKrum);
@@ -64,6 +64,7 @@ private:
 		int chipnumber;
 		u32 size;
 		FRAMEID FrameID;
+		string ascii_config,binary_config;
 };
 
 #endif /* MIMTLU_H_ */

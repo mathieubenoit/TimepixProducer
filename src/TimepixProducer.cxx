@@ -131,11 +131,12 @@ class TimepixProducer : public eudaq::Producer {
 public:
   // The constructor must call the eudaq::Producer constructor with the name
   // and the runcontrol connection string, and initialize any member variables.
-  TimepixProducer(const std::string & name, const std::string & runcontrol)
+  TimepixProducer(const std::string & name, const std::string & runcontrol,const std::string & binary_config, const std::string & ascii_config)
     : eudaq::Producer(name, runcontrol),
       m_run(0), m_ev(0), stopping(false), done(false) 
   {
-    aTimepix = new TimepixDevice();
+    aTimepix = new TimepixDevice(binary_config,ascii_config);
+
     buffer   = new char[4*MATRIX_SIZE];
 
     output = new char[1000];
@@ -239,7 +240,7 @@ public:
     cout << "[TimepixProducer] Sent EORE " << endl;
  
     //
-    int status = system("cp $TPPROD/ramdisk/* $TPPROD/data");
+    //int status = system("cp $TPPROD/ramdisk/* $TPPROD/data");
     status = system("rm -fr $TPPROD/ramdisk/*");
     //do something with status to waive compiler warning 
     if(status==0){
@@ -305,21 +306,10 @@ while(!fitpixstate.FrameReady)
   cout << get_time()<<" [FITPIX] thread join" << endl;
 #endif
 
-      
-      for(std::vector<mimtlu_event>::iterator it=events.begin(); it!=events.end(); it++)
-      {
-     //   std::cout<< "[event] "<<it->to_char(); 
-        eudaq::RawDataEvent ev(EVENT_TYPE, m_run, m_ev);
-        std::vector<char> buffer;
-        for(unsigned int i=0;i<16;i++)
-          buffer.push_back(it->to_char()[i]);
-        ev.AddBlock(0, buffer);
-        SendEvent(ev);
-      }
 
       control=aTimepix->GetFrameData2(output,buffer);
   
-/*
+
       unsigned int Data[MATRIX_SIZE];
       for(int i =0;i<MATRIX_SIZE;i++)
       {
@@ -391,12 +381,23 @@ while(!fitpixstate.FrameReady)
 //        bufferV.push_back(buffer[i]);
 //
 //      }
-      ev.AddBlock(0, bufferOut);
-      ev.AddBlock(1,bufferTLU);
-      // Send the event to the Data Collector
-      SendEvent(ev);
+
+      for(std::vector<mimtlu_event>::iterator it=events.begin(); it!=events.end(); it++)
+      {
+     //   std::cout<< "[event] "<<it->to_char();
+        eudaq::RawDataEvent ev(EVENT_TYPE, m_run, m_ev);
+        std::vector<char> buffer;
+        for(unsigned int i=0;i<16;i++)
+          buffer.push_back(it->to_char()[i]);
+        ev.AddBlock(0, bufferOut);
+        ev.AddBlock(1, buffer);
+
+        SendEvent(ev);
+      }
+
+
       // Now increment the event number
-  */    m_ev++;
+      m_ev++;
     }
   }
 }
@@ -444,13 +445,18 @@ int main(int /*argc*/, const char ** argv) {
                                    "The minimum level for displaying log messages locally");
   eudaq::Option<std::string> name (op, "n", "name", "TimepixProducer", "string",
                                    "The name of this Producer");
+  eudaq::Option<std::string> binary_config (op, "b", "bpc", "$TP_CONFIG/C04-W0110/Configs/BPC_C04-W0110_15V_IKrum1_96MHz_08-08-13", "string",
+                                   "Binary Pixel Config");
+  eudaq::Option<std::string> ascii_config (op, "a", "ascii", "Default_Ascii_Config", "string",
+                                     "Ascii FITPix Config");
+
   try {
     // This will look through the command-line arguments and set the options
     op.Parse(argv);
     // Set the Log level for displaying messages based on command-line
     EUDAQ_LOG_LEVEL(level.Value());
     // Create a producer
-    TimepixProducer producer(name.Value(), rctrl.Value());
+    TimepixProducer producer(name.Value(), rctrl.Value(), binary_config.Value(), ascii_config.Value());
     // And set it running...
     producer.ReadoutLoop();
     // When the readout loop terminates, it is time to go

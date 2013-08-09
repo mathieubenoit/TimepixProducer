@@ -5,13 +5,13 @@
 //char AsciiconfigName[256] = "config_I10-W0015_TOT_4-06-13_ascii" ;
 
 
-char configName[256] = "/home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/C04-W0110/Configs/BPC_C04-W0110_15V_IKrum1_96MHz_08-08-13" ;
-char AsciiconfigName[256] = "/home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/Default_Ascii_Config" ;
+//char configName[256] = "/home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/C04-W0110/Configs/BPC_C04-W0110_15V_IKrum1_96MHz_08-08-13" ;
+//char AsciiconfigName[256] = "/home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/Default_Ascii_Config" ;
 
 FRAMEID id;
 
 
-TimepixDevice::TimepixDevice(){
+TimepixDevice::TimepixDevice(const std::string & binary_config, const std::string & ascii_config){
 
 
 		// Init manager
@@ -27,6 +27,8 @@ TimepixDevice::TimepixDevice(){
 		mgrRegisterCallback("mpxctrl",MPXCTRL_CB_ACQPRESTART,&AcquisitionPreStarted,0);
 		mgrRegisterCallback("mpxctrl",MPXCTRL_CB_ACQSTART,&AcquisitionStarted,0);
 
+		this->ascii_config=ascii_config;
+		this->binary_config=binary_config;
 
 		// Find device
 		count = 0;
@@ -50,14 +52,14 @@ TimepixDevice::TimepixDevice(){
 		//char configName[256] = "config_I10-W0015_TOT_4-06-13" ;
 		//char configName[256] = "config_I10-W0015_TOA48MHz_4-06-13" ;
 
-		control = mpxCtrlLoadPixelsCfg(devId, configName , true);
-		cout << "Load pixels config : " << configName << endl;
+		control = mpxCtrlLoadPixelsCfg(devId, binary_config.c_str() , true);
+		cout << "Load pixels config : " << binary_config << endl;
 		//control << endl;
 
 
 		//mpxCtrlLoadMpxCfg(devId,"default_ascii");
-		mpxCtrlLoadMpxCfg(devId,AsciiconfigName);
-		cout << "Load Ascii pixels config : " << AsciiconfigName << endl;
+		mpxCtrlLoadMpxCfg(devId,ascii_config.c_str());
+		cout << "Load Ascii pixels config : " << ascii_config << endl;
 
 		//mpxCtrlLoadMpxCfg(devId,"config_I10-W0015_TOA48MHz_4-06-13_ascii");
 
