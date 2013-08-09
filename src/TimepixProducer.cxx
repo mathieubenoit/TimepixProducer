@@ -172,9 +172,11 @@ public:
     unsigned int ntrig = config.Get("MiMTLU_NumberOfTriggers", 1);
     unsigned int plen = config.Get("MiMTLU_PulseLength", 15);
     unsigned int slen = config.Get("MiMTLU_ShutterLength", 10000);
+    unsigned int smode = config.Get("MiMTLU_ShutterMode", 3);
     aMIMTLU->SetNumberOfTriggers(ntrig);
     aMIMTLU->SetPulseLength(plen);
     aMIMTLU->SetShutterLength(slen);
+    aMIMTLU->SetShutterMode(smode);
     cout << "[TimepixProducer] Setting Acquisition time to : " << acqTime*1.e-6 << "s" << endl;
 
 

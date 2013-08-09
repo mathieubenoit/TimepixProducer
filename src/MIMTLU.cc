@@ -83,6 +83,16 @@ void MIMTLU::SetPulseLength(const unsigned int n){
   sleep(1);
 }
 
+void MIMTLU::SetShutterMode(const unsigned int n){
+#ifdef DEBUGMTLU
+  std::cout << get_time() << " [MiMTLU] SetShutterMode "<<n<<std::endl;
+#endif
+ 
+  memset(msg,0,1024);
+  sprintf(msg,"M %i\r\n",n);
+  bytes_sent = send(socketfd,msg, strlen(msg), 0);
+  sleep(1);
+}
 
 void MIMTLU::Arm()
 {
