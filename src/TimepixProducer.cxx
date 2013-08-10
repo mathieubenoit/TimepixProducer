@@ -267,7 +267,7 @@ void ReadoutLoop() {
   cout << get_time()<<" [FITPIX] Loop begin" << endl;
 #endif
       //sprintf(output,"../data/Run%d_%d",m_run,m_ev);
-      sprintf(output,"$TPPROD/ramdisk/Run%d_%d",m_run,m_ev);
+      sprintf(output,"/home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/ramdisk/Run%d_%d",m_run,m_ev);
       //pthread_mutex_lock(&m_producer_mutex);
       fitpixstate.reset();
       
