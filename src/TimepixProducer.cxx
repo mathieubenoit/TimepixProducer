@@ -317,9 +317,6 @@ while(!fitpixstate.FrameReady)
       }
       int pos =0;
       std::vector<unsigned char> bufferOut;
-      std::vector<unsigned char> bufferTLU;
-      unsigned int TLU=0;
-      pack(bufferTLU,TLU);
       
       for(unsigned int i=0;i<256;i++)
       {
@@ -350,37 +347,6 @@ while(!fitpixstate.FrameReady)
         }
       }
 
-//    if (!hardware.EventsPending()) {
-//        // No events are pending, so check if the run is stopping
-//        if (stopping) {
-//          // if so, signal that there are no events left
-//          stopping = false;
-//        }
-//        // Now sleep for a bit, to prevent chewing up all the CPU
-//        eudaq::mSleep(20);
-//        // Then restart the loop
-//        continue;
-//      }
-
-      // If we get here, there must be data to read out
-      // Create a RawDataEvent to contain the event data to be sent
-      eudaq::RawDataEvent ev(EVENT_TYPE, m_run, m_ev);
-
-//      for (unsigned plane = 0; plane < hardware.NumSensors(); ++plane) {
-//        // Read out a block of raw data from the hardware
-//        std::vector<unsigned char> buffer = hardware.ReadSensor(plane);
-//        // Each data block has an ID that is used for ordering the planes later
-//        // If there are multiple sensors, they should be numbered incrementally
-//
-//        // Add the block of raw data to the event
-//        ev.AddBlock(plane, buffer);
-//      }
-//      std::vector<unsigned char> bufferV;
-//      for(int i =0; i<MATRIX_SIZE;i++){
-//
-//        bufferV.push_back(buffer[i]);
-//
-//      }
 
       for(std::vector<mimtlu_event>::iterator it=events.begin(); it!=events.end(); it++)
       {
@@ -393,11 +359,12 @@ while(!fitpixstate.FrameReady)
         ev.AddBlock(1, buffer);
 
         SendEvent(ev);
+	
+	m_ev++;
       }
 
 
-      // Now increment the event number
-      m_ev++;
+
     }
   }
 }
@@ -414,10 +381,7 @@ void runfitpix()
 }
 
 private:
-  // This is just a dummy class representing the hardware
-  // It here basically that the example code will compile
-  // but it also generates example raw data to help illustrate the decoder
-  eudaq::ExampleHardware hardware;
+
   unsigned m_run, m_ev, m_exampleparam;
   int THL;
   int IKrum;
