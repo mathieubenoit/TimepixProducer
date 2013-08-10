@@ -231,16 +231,24 @@ namespace eudaq {
     // or be left undefined as there is already a default version.
     virtual unsigned GetTriggerID(const Event & ev) const {
 
-//      const RawDataEvent * rev = dynamic_cast<const RawDataEvent *> (&ev);
-//      vector<unsigned char> data = rev->GetBlock(1);
-//
-//      mimtlu_event TLU(0,0,0);
-//      TLU.from_string(reinterpret_cast<const char*>(data.data()));
-//
-//      cout << TLU.tlu << endl;
-      return 0;
-	
+    	const RawDataEvent * rev = dynamic_cast<const RawDataEvent *> (&ev);
+	if(rev->NumBlocks()==2){
+		vector<unsigned char> tlu  = rev->GetBlock(1);
+ 		
+		char buffer[16];
+		for(int i=0;i<tlu.size();i++){
+			buffer[i] = tlu[i] ;
+			}
+		mimtlu_event tluev(buffer);
+		
+		//cout << tluev.tlu < endl;
+		return tluev.tlu;	
 
+	}
+	else {
+	
+      		return 0;
+	};	
     }
 
     // Here, the data from the RawDataEvent is extracted into a StandardEvent.
