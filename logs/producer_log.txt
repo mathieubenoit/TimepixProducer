@@ -12,3 +12,56 @@ Ascii Config :  /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/I10-W0
 Bias Voltage :  15V
 Mode :  TOT
 ###############################################
+###############################################
+Sun Aug 11 10:56:26 CEST 2013
+Binary Config :  /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/I10-W0015/Configs/BPC_I10-W0015_0V_IKrum5_96MHz_10-08-13
+Ascii Config :  /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/I10-W0015/Configs/BPC_I10-W0015_0V_IKrum5_96MHz_10-08-13_ascii
+Bias Voltage :  15V
+Mode :  TOT
+###############################################
+Sun Aug 11 11:08:11 CEST 2013
+###############################################
+###############################################
+Sun Aug 11 11:30:02 CEST 2013
+Binary Config :  /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/I10-W0015/Configs/BPC_I10-W0015_0V_IKrum5_96MHz_10-08-13
+Ascii Config :  /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/I10-W0015/Configs/BPC_I10-W0015_0V_IKrum5_96MHz_10-08-13_ascii
+Bias Voltage :  15V
+Mode :  TOT
+###############################################
+###############################################
+Sun Aug 11 11:34:52 CEST 2013
+Binary Config :  /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/I10-W0015/Configs/BPC_I10-W0015_0V_IKrum5_96MHz_10-08-13
+Ascii Config :  /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/I10-W0015/Configs/BPC_I10-W0015_0V_IKrum5_96MHz_10-08-13_ascii
+Bias Voltage :  15V
+Mode :  TOT
+###############################################
+###############################################
+Sun Aug 11 11:37:08 CEST 2013
+Binary Config :  /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/I10-W0015/Configs/BPC_I10-W0015_0V_IKrum5_96MHz_10-08-13
+Ascii Config :  /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/I10-W0015/Configs/BPC_I10-W0015_0V_IKrum5_96MHz_10-08-13_ascii
+Bias Voltage :  15V
+Mode :  TOT
+###############################################
+###############################################
+Sun Aug 11 12:29:50 CEST 2013
+Binary Config :  /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/I10-W0015/Configs/BPC_I10-W0015_0V_IKrum5_96MHz_10-08-13
+Ascii Config :  /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/I10-W0015/Configs/BPC_I10-W0015_0V_IKrum5_96MHz_10-08-13_ascii
+Bias Voltage :  15V
+Mode :  TOT
+###############################################
+###############################################
+Sun Aug 11 12:30:51 CEST 2013
+Binary Config :  /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/I10-W0015/Configs/BPC_I10-W0015_0V_IKrum5_96MHz_10-08-13
+Ascii Config :  /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/I10-W0015/Configs/BPC_I10-W0015_0V_IKrum5_96MHz_10-08-13_ascii
+Bias Voltage :  15V
+Mode :  TOT
+###############################################
+Sun Aug 11 12:31:18 CEST 2013
+Configuring with ni_timepix_autotrig
+Sun Aug 11 12:31:32 CEST 2013
+Starting Run 19
+Sun Aug 11 12:32:41 CEST 2013
+Stopping Run 19
+Sun Aug 11 12:32:49 CEST 2013
+Producer Terminated 19
+###############################################

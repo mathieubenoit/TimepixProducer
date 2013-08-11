@@ -160,10 +160,25 @@ public:
     gettimeofday(&t0, NULL);
   }
 
+  void LogMessage(char* msg){
+
+	  char date_cmd[200];
+	  char logmsg[1000];
+	  sprintf(date_cmd,"date >> %s/logs/producer_log.txt",getenv("TPPROD"));
+	  sprintf(logmsg,"echo %s >> %s/logs/producer_log.txt",msg,getenv("TPPROD"));
+	  system(date_cmd);
+	  system(logmsg);
+
+
+  }
+
   // This gets called whenever the DAQ is configured
   virtual void OnConfigure(const eudaq::Configuration & config) 
   {
     std::cout << "Configuring: " << config.Name() << std::endl;
+    char logmsg[1000];
+    sprintf(logmsg,"Configuring with %s",config.Name().c_str());
+    LogMessage(logmsg);
 
     // Do any configuration of the hardware here
     // Configuration file values are accessible as config.Get(name, default)
@@ -203,7 +218,12 @@ public:
   virtual void OnStartRun(unsigned param) {
     m_run = param;
     m_ev = 1;
+    m_shutter=0;
     std::cout << "Start Run: " << m_run << std::endl;
+
+    char logmsg[1000];
+    sprintf(logmsg,"Starting Run %i",m_run);
+    LogMessage(logmsg);
 
     // It must send a BORE to the Data Collector
     eudaq::RawDataEvent bore(eudaq::RawDataEvent::BORE(EVENT_TYPE, m_run));
@@ -232,6 +252,9 @@ public:
   // This gets called whenever a run is stopped
   virtual void OnStopRun() {
     std::cout << "Stopping Run" << std::endl;
+    char logmsg[1000];
+    sprintf(logmsg,"Stopping Run %i",m_run);
+    LogMessage(logmsg);
 
     running = false;
    // aTimepix->Abort();
@@ -268,6 +291,12 @@ public:
   // we should also exit.
   virtual void OnTerminate() {
     std::cout << "Terminating..." << std::endl;
+    char logmsg[1000];
+    sprintf(logmsg,"Producer Terminated %i",m_run);
+    LogMessage(logmsg);
+    char endmsg[1000];
+    sprintf(endmsg,"echo \"###############################################\" >> %s/logs/producer_log.txt",getenv("TPPROD"));
+    system(endmsg);
     eudaq::mSleep(1000);
     running = false;
     done = true;
@@ -325,6 +354,8 @@ while(!fitpixstate.FrameReady)
 
 
       control=aTimepix->GetFrameData2(output,buffer);
+
+      m_shutter++;
   
 
       unsigned int Data[MATRIX_SIZE];
@@ -355,11 +386,12 @@ while(!fitpixstate.FrameReady)
       }
 
   if((m_ev%100==0) | (m_ev<100)) cout << "event #" << m_ev << endl;
-  if(m_ev%1000==0 ) {
+  if(m_shutter%1000==0 ) {
       
       //system("cp /home/lcd/eudaq/timepixproducer_mb/ramdisk/* ../data");
 	    char command[1000];
-	    sprintf(command,"rm -fr %s/ramdisk/*",getenv("TPPROD"));
+	    sprintf(command,"rm -fr  %s/ramdisk/*",getenv("TPPROD"));
+	    cout << "[TimepixProducer] Clearing cache : " << command << endl;
 	    status = system(command);
           if(status==0) { 
             status=1;
@@ -401,7 +433,7 @@ void runfitpix()
 
 private:
 
-  unsigned m_run, m_ev, m_exampleparam;
+  unsigned m_run, m_ev, m_shutter;
   int THL;
   int IKrum;
   bool stopping, done;
