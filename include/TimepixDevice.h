@@ -46,6 +46,7 @@ public:
 	u32 GetBufferSize(){return size;};
 	int Abort ();
    	int SetAcqTime(double time);
+   	char* GetChipID(){return chipBoardID;};
 	
 private:
 		int control; // Control int for verifying success of operation

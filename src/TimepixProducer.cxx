@@ -3,6 +3,8 @@
  *
  *
  *      Author: Mathieu Benoit
+ *      		Szymon Kulis
+ *      		PH-LCD , CERN
  */
 
 
@@ -131,7 +133,8 @@ class TimepixProducer : public eudaq::Producer {
 public:
   // The constructor must call the eudaq::Producer constructor with the name
   // and the runcontrol connection string, and initialize any member variables.
-  TimepixProducer(const std::string & name, const std::string & runcontrol,const std::string & binary_config, const std::string & ascii_config)
+  TimepixProducer(const std::string & name, const std::string & runcontrol,
+		  const std::string & binary_config, const std::string & ascii_config, const std::string & Bias)
     : eudaq::Producer(name, runcontrol),
       m_run(0), m_ev(0), stopping(false), done(false) 
   {
@@ -139,9 +142,13 @@ public:
 
     buffer   = new char[4*MATRIX_SIZE];
 
+    this->bpc_config=binary_config;
+    this->ascii_config=ascii_config;
+    this->bias_voltage=Bias;
+
     output = new char[1000];
 
-    sprintf(output,"$TPPROD/ramdisk/Run%d_%d",m_run,m_ev);
+    sprintf(output,"%s/ramdisk/Run%d_%d",getenv("TPPROD"),m_run,m_ev);
     //output = "/home/mbenoit/workspace/eudaq/data/Run";
     running =false;
     
@@ -179,12 +186,11 @@ public:
     aMIMTLU->SetShutterLength(slen);
     aMIMTLU->SetShutterMode(smode);
     cout << "[TimepixProducer] Setting Acquisition time to : " << acqTime*1.e-6 << "s" << endl;
+    cout << "[TimepixProducer] Setting MiMTLU Trigger per Shutter to : " << ntrig  << endl;
+    cout << "[TimepixProducer] Setting MiMTLU Pulse Length to : " << plen*1.e-8 << "s" << endl;
+    cout << "[TimepixProducer] Setting MiMTLU Shutter Length to : " << slen*1.e-8 << "s" << endl;
+    cout << "[TimepixProducer] Setting MiMTLU Shutter Mode to : " << smode  << endl;
 
-
-//    IKrum = config.Get("IKrum", 0);
-//    aTimepix->SetIkrum(IKrum);
-
-    //aTimepix->ReadDACs();
 
     // At the end, set the status that will be displayed in the Run Control.
     SetStatus(eudaq::Status::LVL_OK, "Configured (" + config.Name() + ")");
@@ -202,8 +208,10 @@ public:
     // You can set tags on the BORE that will be saved in the data file
     // and can be used later to help decoding
     
-    bore.SetTag("EXAMPLE", eudaq::to_string(m_exampleparam));
-    
+    bore.SetTag("ChipID", eudaq::to_string(aTimepix->GetChipID()));
+    bore.SetTag("BPC",bpc_config);
+    bore.SetTag("Ascii_Config",ascii_config);
+    bore.SetTag("Bias",bias_voltage);
     // Send the event to the Data Collector
     SendEvent(bore);
 
@@ -211,7 +219,9 @@ public:
     SetStatus(eudaq::Status::LVL_OK, "Running");
     //eudaq::mSleep(5000);
 
-
+    char folder[200];
+    sprintf(folder,"%s/ramdisk/Run%i_*",getenv("TPPROD"),m_run);
+    cout << "[TimepixProducer] output Folder" <<  folder << endl;
 
     running = true;
   }
@@ -241,7 +251,10 @@ public:
  
     //
     //int status = system("cp $TPPROD/ramdisk/* $TPPROD/data");
-    status = system("rm -fr $TPPROD/ramdisk/*");
+
+    char command[1000];
+    sprintf(command,"rm -fr %s/ramdisk/*",getenv("TPPROD"));
+    status = system(command);
     //do something with status to waive compiler warning 
     if(status==0){
     status = 1;
@@ -252,9 +265,9 @@ public:
   // we should also exit.
   virtual void OnTerminate() {
     std::cout << "Terminating..." << std::endl;
+    eudaq::mSleep(1000);
     running = false;
     done = true;
-    eudaq::mSleep(1000);
   }
 
 void ReadoutLoop() {
@@ -267,7 +280,8 @@ void ReadoutLoop() {
   cout << get_time()<<" [FITPIX] Loop begin" << endl;
 #endif
       //sprintf(output,"../data/Run%d_%d",m_run,m_ev);
-      sprintf(output,"/home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/ramdisk/Run%d_%d",m_run,m_ev);
+      sprintf(output,"%s/ramdisk/Run%d_%d",getenv("TPPROD"),m_run,m_ev);
+
       //pthread_mutex_lock(&m_producer_mutex);
       fitpixstate.reset();
       
@@ -328,7 +342,7 @@ while(!fitpixstate.FrameReady)
              pack(bufferOut,i);
              pack(bufferOut,j);
              pack(bufferOut,Data[pos]);
-            //pack(bufferOut,i);
+
            }
            //pack(bufferOut,i);
            // pack(bufferOut,j);
@@ -340,8 +354,10 @@ while(!fitpixstate.FrameReady)
   if((m_ev%100==0) | (m_ev<100)) cout << "event #" << m_ev << endl;
   if(m_ev%1000==0 ) {
       
-          //system("cp /home/lcd/eudaq/timepixproducer_mb/ramdisk/* ../data");
-              int status = system("rm -fr $TPPROD/ramdisk/*");
+      //system("cp /home/lcd/eudaq/timepixproducer_mb/ramdisk/* ../data");
+	    char command[1000];
+	    sprintf(command,"rm -fr %s/ramdisk/*",getenv("TPPROD"));
+	    status = system(command);
           if(status==0) { 
             status=1;
         }
@@ -393,6 +409,8 @@ private:
   double acqTime;
   pthread_mutex_t m_producer_mutex;
   int control;
+  string bpc_config,ascii_config;
+  string bias_voltage;
 
 };
 
@@ -413,14 +431,15 @@ int main(int /*argc*/, const char ** argv) {
                                    "Binary Pixel Config");
   eudaq::Option<std::string> ascii_config (op, "a", "ascii", "Default_Ascii_Config", "string",
                                      "Ascii FITPix Config");
-
+  eudaq::Option<std::string> bias_voltage (op, "V", "bias", "15V", "string",
+                                       "Sensor Bias Voltage");
   try {
     // This will look through the command-line arguments and set the options
     op.Parse(argv);
     // Set the Log level for displaying messages based on command-line
     EUDAQ_LOG_LEVEL(level.Value());
     // Create a producer
-    TimepixProducer producer(name.Value(), rctrl.Value(), binary_config.Value(), ascii_config.Value());
+    TimepixProducer producer(name.Value(), rctrl.Value(), binary_config.Value(), ascii_config.Value(),bias_voltage.Value());
     // And set it running...
     producer.ReadoutLoop();
     // When the readout loop terminates, it is time to go

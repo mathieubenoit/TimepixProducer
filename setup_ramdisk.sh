@@ -1,1 +1,1 @@
-sudo mount -t tmpfs -o size=1500M tmpfs $TPPROD/ramdisk
+sudo mount -t tmpfs -o size=650M tmpfs $TPPROD/ramdisk
