@@ -65,3 +65,35 @@ Stopping Run 19
 Sun Aug 11 12:32:49 CEST 2013
 Producer Terminated 19
 ###############################################
+###############################################
+Sun Aug 11 15:16:44 CEST 2013
+Binary Config :  /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/I10-W0015/Configs/BPC_I10-W0015_0V_IKrum5_96MHz_10-08-13
+Ascii Config :  /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/I10-W0015/Configs/BPC_I10-W0015_0V_IKrum5_96MHz_10-08-13_ascii
+Bias Voltage :  15V
+Mode :  TOT
+###############################################
+Sun Aug 11 15:17:04 CEST 2013
+Configuring with ni_timepix_autotrig
+Sun Aug 11 15:17:13 CEST 2013
+Starting Run 20
+Sun Aug 11 15:17:40 CEST 2013
+Stopping Run 20
+Sun Aug 11 15:17:44 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Sun Aug 11 15:20:15 CEST 2013
+Binary Config :  /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/I10-W0015/Configs/BPC_I10-W0015_0V_IKrum5_96MHz_10-08-13
+Ascii Config :  /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/I10-W0015/Configs/BPC_I10-W0015_0V_IKrum5_96MHz_10-08-13_ascii
+Bias Voltage :  15V
+Mode :  TOT
+################ execution log ################
+Sun Aug 11 15:20:30 CEST 2013
+Configuring with ni_timepix_autotrig
+Sun Aug 11 15:20:45 CEST 2013
+Starting Run 21
+Sun Aug 11 15:21:09 CEST 2013
+Stopping Run 21
+Sun Aug 11 15:21:20 CEST 2013
+Producer Terminated 21
+###############################################

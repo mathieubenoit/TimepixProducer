@@ -44,7 +44,7 @@ echo "Binary Config : " $BPC >> logs/producer_log.txt
 echo "Ascii Config : " $ASCII >> logs/producer_log.txt
 echo "Bias Voltage : " $BIAS >> logs/producer_log.txt
 echo "Mode : " $TPMODE >> logs/producer_log.txt
-echo "###############################################" >> logs/producer_log.txt
+echo "################ execution log ################" >> logs/producer_log.txt
 
 cd $TPPROD/Pixelman_SCL_2011_12_07
 eval "./TimepixProducer.exe -b $BPC -a $ASCII -V $BIAS -M $TPMODE"

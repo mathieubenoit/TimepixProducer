@@ -21,6 +21,7 @@
 #include <iostream>
 #include <ostream>
 #include <vector>
+#include <signal.h>
 #include <pthread.h>    /* POSIX Threads */
 #include "MIMTLU.h"
 #include "TimepixDevice.h"
@@ -68,6 +69,19 @@ MIMTLU *aMIMTLU;
 //char configName[256] = "config_I10-W0015_TOT_6-06-13_start_stop_on_trigger" ;
 //char AsciiconfigName[256] = "config_I10-W0015_TOT_6-06-13_start_stop_on_trigger_ascii" ;
 
+
+
+void my_handler(int s){
+           printf("Caught signal %d\n",s);
+           char endmsg[1000];
+           sprintf(endmsg,"date >> %s/logs/producer_log.txt",getenv("TPPROD"));
+           system(endmsg);
+           sprintf(endmsg,"echo \"Producer Interupted\" >> %s/logs/producer_log.txt",getenv("TPPROD"));
+           system(endmsg);
+           sprintf(endmsg,"echo \"###############################################\" >> %s/logs/producer_log.txt",getenv("TPPROD"));
+           system(endmsg);
+           exit(1);
+}
 
 void * fitpix_acq ( void *ptr );
 
@@ -300,6 +314,7 @@ public:
     eudaq::mSleep(1000);
     running = false;
     done = true;
+    exit(1);
   }
 
 void ReadoutLoop() {
@@ -470,6 +485,14 @@ int main(int /*argc*/, const char ** argv) {
                                        "Sensor Bias Voltage");
   eudaq::Option<std::string> mode (op, "M", "Mode", "TOT", "string",
                                        "Timepix Mode");
+
+  struct sigaction sigIntHandler;
+
+  sigIntHandler.sa_handler = my_handler;
+  sigemptyset(&sigIntHandler.sa_mask);
+  sigIntHandler.sa_flags = 0;
+
+  sigaction(SIGINT, &sigIntHandler, NULL);
 
 
   try {
