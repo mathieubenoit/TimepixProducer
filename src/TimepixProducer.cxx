@@ -134,7 +134,8 @@ public:
   // The constructor must call the eudaq::Producer constructor with the name
   // and the runcontrol connection string, and initialize any member variables.
   TimepixProducer(const std::string & name, const std::string & runcontrol,
-		  const std::string & binary_config, const std::string & ascii_config, const std::string & Bias)
+		  const std::string & binary_config, const std::string & ascii_config,
+		  const std::string & Bias, const std::string & Mode)
     : eudaq::Producer(name, runcontrol),
       m_run(0), m_ev(0), stopping(false), done(false) 
   {
@@ -145,6 +146,7 @@ public:
     this->bpc_config=binary_config;
     this->ascii_config=ascii_config;
     this->bias_voltage=Bias;
+    this->mode=Mode;
 
     output = new char[1000];
 
@@ -212,6 +214,7 @@ public:
     bore.SetTag("BPC",bpc_config);
     bore.SetTag("Ascii_Config",ascii_config);
     bore.SetTag("Bias",bias_voltage);
+    bore.SetTag("Mode",mode);
     // Send the event to the Data Collector
     SendEvent(bore);
 
@@ -410,7 +413,7 @@ private:
   pthread_mutex_t m_producer_mutex;
   int control;
   string bpc_config,ascii_config;
-  string bias_voltage;
+  string bias_voltage, mode;
 
 };
 
@@ -433,13 +436,18 @@ int main(int /*argc*/, const char ** argv) {
                                      "Ascii FITPix Config");
   eudaq::Option<std::string> bias_voltage (op, "V", "bias", "15V", "string",
                                        "Sensor Bias Voltage");
+  eudaq::Option<std::string> mode (op, "M", "Mode", "TOT", "string",
+                                       "Timepix Mode");
+
+
   try {
     // This will look through the command-line arguments and set the options
     op.Parse(argv);
     // Set the Log level for displaying messages based on command-line
     EUDAQ_LOG_LEVEL(level.Value());
     // Create a producer
-    TimepixProducer producer(name.Value(), rctrl.Value(), binary_config.Value(), ascii_config.Value(),bias_voltage.Value());
+    TimepixProducer producer(name.Value(), rctrl.Value(), binary_config.Value(),
+    		ascii_config.Value(),bias_voltage.Value(), mode.Value());
     // And set it running...
     producer.ReadoutLoop();
     // When the readout loop terminates, it is time to go
