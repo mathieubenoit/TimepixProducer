@@ -56,7 +56,7 @@ struct mimtlu_event
   unsigned long int timestamp;
   unsigned char track;
   unsigned int tlu;
-  char txt[17];
+  unsigned char txt[17];
   mimtlu_event(unsigned long int _timestamp,unsigned char _track,  unsigned int _tlu)
   {
     timestamp=_timestamp;
@@ -64,7 +64,7 @@ struct mimtlu_event
     tlu=_tlu;
     txt[16]=0;
   }
-  mimtlu_event(const char *buf)
+  mimtlu_event(const unsigned char *buf)
   {
     from_string(buf);
   }
@@ -74,31 +74,31 @@ struct mimtlu_event
     from_vector(buf);
   }
   
-  {
-    if (strlen(buf)!=16)
-      throw mimtlu_exception("MIMTLU event parssing error");
-    strncpy(txt,&buf[0],16);
+  void from_string(const unsigned char* buf){
+//    if (strlen((char*)buf)!=16)
+//      throw mimtlu_exception("MIMTLU event parssing error");
+    strncpy((char*)txt,&((char*)buf)[0],16);
     txt[16]=0;
 
     char tmp[16];
     //timestamp
-    strncpy(tmp,&buf[0],10);
+    strncpy((char*)tmp,&((char*)buf)[0],10);
     tmp[10]=0;
     sscanf(tmp, "%lx", &timestamp);
     //track
     unsigned int tmpint;
-    strncpy(tmp,&buf[10],2);
+    strncpy((char*)tmp,&((char*)buf)[10],2);
     tmp[2]=0;
     sscanf(tmp, "%x", &tmpint);
     track=tmpint&0xff;
     //tlu
-    strncpy(tmp,&buf[12],4);
+    strncpy((char*)tmp,&((char*)buf)[12],4);
     tmp[4]=0;
     sscanf(tmp, "%x", &tlu);
     return;
   }
 
-  const char * to_char(void)
+  const unsigned char * to_char(void)
   {
     return txt;
   }
@@ -244,11 +244,13 @@ namespace eudaq {
 		{
 			vector<unsigned char> tlu  = rev->GetBlock(1);
 			mimtlu_event tluev(tlu);
+			//cout << tluev.tlu << endl;
 			return tluev.tlu;	
-		}
+		};
+
 		return 0;
-	};	
-    }
+	}
+
 
     // Here, the data from the RawDataEvent is extracted into a StandardEvent.
     // The return value indicates whether the conversion was successful.

@@ -97,3 +97,217 @@ Stopping Run 21
 Sun Aug 11 15:21:20 CEST 2013
 Producer Terminated 21
 ###############################################
+###############################################
+Mon Aug 12 10:01:09 CEST 2013
+Binary Config :  /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/I10-W0015/Configs/BPC_I10-W0015_0V_IKrum5_96MHz_10-08-13
+Ascii Config :  /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/I10-W0015/Configs/BPC_I10-W0015_0V_IKrum5_96MHz_10-08-13_ascii
+Bias Voltage :  15V
+Mode :  TOT
+################ execution log ################
+Mon Aug 12 10:01:25 CEST 2013
+Configuring with ni_timepix_autotrig
+Mon Aug 12 10:02:54 CEST 2013
+Starting Run 22
+Mon Aug 12 10:03:13 CEST 2013
+Stopping Run 22
+Mon Aug 12 10:03:22 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Mon Aug 12 10:03:26 CEST 2013
+Binary Config :  /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/I10-W0015/Configs/BPC_I10-W0015_0V_IKrum5_96MHz_10-08-13
+Ascii Config :  /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/I10-W0015/Configs/BPC_I10-W0015_0V_IKrum5_96MHz_10-08-13_ascii
+Bias Voltage :  15V
+Mode :  TOT
+################ execution log ################
+Mon Aug 12 10:03:34 CEST 2013
+Configuring with ni_timepix_autotrig
+Mon Aug 12 10:03:43 CEST 2013
+Starting Run 23
+###############################################
+Mon Aug 12 10:08:12 CEST 2013
+Binary Config :  /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/I10-W0015/Configs/BPC_I10-W0015_0V_IKrum5_96MHz_10-08-13
+Ascii Config :  /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/I10-W0015/Configs/BPC_I10-W0015_0V_IKrum5_96MHz_10-08-13_ascii
+Bias Voltage :  15V
+Mode :  TOT
+################ execution log ################
+Mon Aug 12 10:08:19 CEST 2013
+Configuring with ni_timepix_autotrig
+Mon Aug 12 10:08:36 CEST 2013
+Starting Run 24
+Mon Aug 12 10:09:13 CEST 2013
+Stopping Run 24
+Mon Aug 12 10:09:42 CEST 2013
+Configuring with ni_timepix_autotrig
+Mon Aug 12 10:09:50 CEST 2013
+Starting Run 25
+Mon Aug 12 10:31:26 CEST 2013
+Stopping Run 25
+Mon Aug 12 10:31:48 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Mon Aug 12 10:41:42 CEST 2013
+Started Producer
+################ execution log ################
+Mon Aug 12 10:41:45 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Mon Aug 12 10:41:55 CEST 2013
+Started Producer
+################ execution log ################
+Mon Aug 12 10:42:02 CEST 2013
+Configuring with ni_timepix_autotrig
+Mon Aug 12 10:42:02 CEST 2013
+Binary Config is
+Mon Aug 12 10:42:02 CEST 2013
+Ascii Config is
+Mon Aug 12 10:42:02 CEST 2013
+Mode is
+Mon Aug 12 10:42:02 CEST 2013
+Bias is
+Mon Aug 12 10:42:18 CEST 2013
+Starting Run 26
+Mon Aug 12 10:42:42 CEST 2013
+Stopping Run 26
+Mon Aug 12 10:43:01 CEST 2013
+Producer Terminated 26
+###############################################
+###############################################
+Mon Aug 12 10:45:26 CEST 2013
+Started Producer
+################ execution log ################
+Mon Aug 12 10:45:39 CEST 2013
+Configuring with ni_timepix_autotrig
+Mon Aug 12 10:45:39 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/C04-W0110/Configs/Binary_Config_C04-W0110_15V_IKrum1_96MHz_08-08-13
+Mon Aug 12 10:45:39 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/Default_Ascii_Config_Config
+Mon Aug 12 10:45:39 CEST 2013
+Mode is TOT
+Mon Aug 12 10:45:39 CEST 2013
+Bias is 15V
+Mon Aug 12 10:46:00 CEST 2013
+Starting Run 27
+Mon Aug 12 10:46:20 CEST 2013
+Stopping Run 27
+Mon Aug 12 10:46:37 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Mon Aug 12 10:46:39 CEST 2013
+Started Producer
+################ execution log ################
+Mon Aug 12 10:46:47 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Mon Aug 12 10:46:48 CEST 2013
+Started Producer
+################ execution log ################
+Mon Aug 12 10:46:56 CEST 2013
+Configuring with ni_timepix_autotrig
+Mon Aug 12 10:46:56 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/C04-W0110/Configs/Binary_Config_C04-W0110_15V_IKrum1_96MHz_08-08-13
+Mon Aug 12 10:46:56 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/Default_Ascii_Config_Config
+Mon Aug 12 10:46:56 CEST 2013
+Mode is TOT
+Mon Aug 12 10:46:56 CEST 2013
+Bias is 15V
+Mon Aug 12 10:47:04 CEST 2013
+Starting Run 28
+Mon Aug 12 10:48:26 CEST 2013
+Stopping Run 28
+Mon Aug 12 10:48:39 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Mon Aug 12 10:49:15 CEST 2013
+Started Producer
+################ execution log ################
+Mon Aug 12 10:49:41 CEST 2013
+Configuring with ni_timepix_autotrig
+Mon Aug 12 10:49:41 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/C04-W0110/Configs/Binary_Config_C04-W0110_15V_IKrum1_96MHz_08-08-13
+Mon Aug 12 10:49:41 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/Default_Ascii_Config_Config
+Mon Aug 12 10:49:41 CEST 2013
+Mode is TOT
+Mon Aug 12 10:49:41 CEST 2013
+Bias is 15V
+Mon Aug 12 10:50:41 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Mon Aug 12 10:51:42 CEST 2013
+Started Producer
+################ execution log ################
+Mon Aug 12 10:51:51 CEST 2013
+Configuring with ni_timepix_autotrig
+Mon Aug 12 10:51:51 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/C04-W0110/Configs/Binary_Config_C04-W0110_15V_IKrum1_96MHz_08-08-13
+Mon Aug 12 10:51:51 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/Default_Ascii_Config
+Mon Aug 12 10:51:51 CEST 2013
+Mode is TOT
+Mon Aug 12 10:51:51 CEST 2013
+Bias is 15V
+Mon Aug 12 10:52:55 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Mon Aug 12 10:53:35 CEST 2013
+Started Producer
+################ execution log ################
+Mon Aug 12 10:53:40 CEST 2013
+Configuring with ni_timepix_autotrig
+Mon Aug 12 10:53:40 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/C04-W0110/Configs/Binary_Config_C04-W0110_15V_IKrum1_96MHz_08-08-13
+Mon Aug 12 10:53:40 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/Default_Ascii_Config
+Mon Aug 12 10:53:40 CEST 2013
+Mode is TOT
+Mon Aug 12 10:53:40 CEST 2013
+Bias is 15V
+Mon Aug 12 10:54:58 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Mon Aug 12 10:59:11 CEST 2013
+Started Producer
+################ execution log ################
+Mon Aug 12 10:59:20 CEST 2013
+Configuring with ni_timepix_autotrig
+Mon Aug 12 10:59:20 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/C04-W0110/Configs/Binary_Config_C04-W0110_15V_IKrum1_96MHz_08-08-13
+Mon Aug 12 10:59:20 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/Default_Ascii_Config
+Mon Aug 12 10:59:20 CEST 2013
+Mode is TOT
+Mon Aug 12 10:59:20 CEST 2013
+Bias is 15V
+Mon Aug 12 10:59:34 CEST 2013
+Starting Run 29
+Mon Aug 12 10:59:49 CEST 2013
+Stopping Run 29
+Mon Aug 12 10:59:51 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Mon Aug 12 11:00:08 CEST 2013
+Started Producer
+################ execution log ################
+Mon Aug 12 11:00:13 CEST 2013
+Configuring with ni_timepix_autotrig
+Mon Aug 12 11:00:13 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/C04-W0110/Configs/Binary_Config_C04-W0110_15V_IKrum1_96MHz_08-08-13
+Mon Aug 12 11:00:13 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/Default_Ascii_Config
+Mon Aug 12 11:00:13 CEST 2013
+Mode is TOT
+Mon Aug 12 11:00:13 CEST 2013
+Bias is 15V
+Mon Aug 12 11:00:27 CEST 2013
+Starting Run 30

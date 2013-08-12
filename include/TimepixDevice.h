@@ -34,7 +34,8 @@ class TimepixDevice {
 
 public:
 
-	TimepixDevice(const std::string & binary_config, const std::string & ascii_config);
+	TimepixDevice();
+	void Configure(const std::string & binary_config, const std::string & ascii_config);
 	int  ReadFrame(char * Filename, char* buffer);
 	int SetTHL(int THL);
 	int SetIkrum(int IKrum);

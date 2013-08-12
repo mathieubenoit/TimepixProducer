@@ -147,20 +147,13 @@ class TimepixProducer : public eudaq::Producer {
 public:
   // The constructor must call the eudaq::Producer constructor with the name
   // and the runcontrol connection string, and initialize any member variables.
-  TimepixProducer(const std::string & name, const std::string & runcontrol,
-		  const std::string & binary_config, const std::string & ascii_config,
-		  const std::string & Bias, const std::string & Mode)
+  TimepixProducer(const std::string & name, const std::string & runcontrol)
     : eudaq::Producer(name, runcontrol),
       m_run(0), m_ev(0), stopping(false), done(false) 
   {
-    aTimepix = new TimepixDevice(binary_config,ascii_config);
+    aTimepix = new TimepixDevice();
 
     buffer   = new char[4*MATRIX_SIZE];
-
-    this->bpc_config=binary_config;
-    this->ascii_config=ascii_config;
-    this->bias_voltage=Bias;
-    this->mode=Mode;
 
     output = new char[1000];
 
@@ -182,8 +175,6 @@ public:
 	  sprintf(logmsg,"echo %s >> %s/logs/producer_log.txt",msg,getenv("TPPROD"));
 	  system(date_cmd);
 	  system(logmsg);
-
-
   }
 
   // This gets called whenever the DAQ is configured
@@ -212,17 +203,40 @@ public:
     unsigned int plen = config	.Get("MiMTLU_PulseLength", 15);
     unsigned int slen = config.Get("MiMTLU_ShutterLength", 10000);
     unsigned int smode = config.Get("MiMTLU_ShutterMode", 3);
+
+    bpc_config = config.Get("Binary_Config", "/home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/C04-W0110/Configs/BPC_C04-W0110_15V_IKrum1_96MHz_08-08-13");
+    ascii_config = config.Get("Ascii_Config","/home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/Default_Ascii_Config");
+    mode = config.Get("TPMode","TOT");
+    bias_voltage=config.Get("Bias","15V");
+
+    //Logging of the Configuration
+    sprintf(logmsg,"Binary Config is %s",bpc_config.c_str());
+    LogMessage(logmsg);
+    sprintf(logmsg,"Ascii Config is %s",ascii_config.c_str());
+    LogMessage(logmsg);
+    sprintf(logmsg,"Mode is %s",mode.c_str());
+    LogMessage(logmsg);
+    sprintf(logmsg,"Bias is %s",bias_voltage.c_str());
+    LogMessage(logmsg);
+
+
+    //Timepix Configuration
+    aTimepix->Configure(bpc_config,ascii_config);
+
+    //MIMTLU Configuration
     aMIMTLU->SetNumberOfTriggers(ntrig);
     aMIMTLU->SetPulseLength(plen);
     aMIMTLU->SetShutterLength(slen);
     aMIMTLU->SetShutterMode(smode);
+
+
     cout << "[TimepixProducer] Setting Acquisition time to : " << acqTime*1.e-6 << "s" << endl;
     cout << "[TimepixProducer] Setting MiMTLU Trigger per Shutter to : " << ntrig  << endl;
     cout << "[TimepixProducer] Setting MiMTLU Pulse Length to : " << plen*1.e-8 << "s" << endl;
     cout << "[TimepixProducer] Setting MiMTLU Shutter Length to : " << slen*1.e-8 << "s" << endl;
     cout << "[TimepixProducer] Setting MiMTLU Shutter Mode to : " << smode  << endl;
-
-
+    cout << "[TimepixProducer] Timepix Mode is  : " << mode  << endl;
+    cout << "[TimepixProducer] Bias Voltage is  : " << bias_voltage  << endl;
     // At the end, set the status that will be displayed in the Run Control.
     SetStatus(eudaq::Status::LVL_OK, "Configured (" + config.Name() + ")");
   }
@@ -418,7 +432,7 @@ while(!fitpixstate.FrameReady)
       {
      //   std::cout<< "[event] "<<it->to_char();
         eudaq::RawDataEvent ev(EVENT_TYPE, m_run, m_ev);
-        std::vector<char> buffer;
+        std::vector<unsigned char> buffer;
         for(unsigned int i=0;i<16;i++)
           buffer.push_back(it->to_char()[i]);
         ev.AddBlock(0, bufferOut);
@@ -477,14 +491,6 @@ int main(int /*argc*/, const char ** argv) {
                                    "The minimum level for displaying log messages locally");
   eudaq::Option<std::string> name (op, "n", "name", "TimepixProducer", "string",
                                    "The name of this Producer");
-  eudaq::Option<std::string> binary_config (op, "b", "bpc", "$TP_CONFIG/C04-W0110/Configs/BPC_C04-W0110_15V_IKrum1_96MHz_08-08-13", "string",
-                                   "Binary Pixel Config");
-  eudaq::Option<std::string> ascii_config (op, "a", "ascii", "Default_Ascii_Config", "string",
-                                     "Ascii FITPix Config");
-  eudaq::Option<std::string> bias_voltage (op, "V", "bias", "15V", "string",
-                                       "Sensor Bias Voltage");
-  eudaq::Option<std::string> mode (op, "M", "Mode", "TOT", "string",
-                                       "Timepix Mode");
 
   struct sigaction sigIntHandler;
 
@@ -501,8 +507,7 @@ int main(int /*argc*/, const char ** argv) {
     // Set the Log level for displaying messages based on command-line
     EUDAQ_LOG_LEVEL(level.Value());
     // Create a producer
-    TimepixProducer producer(name.Value(), rctrl.Value(), binary_config.Value(),
-    		ascii_config.Value(),bias_voltage.Value(), mode.Value());
+    TimepixProducer producer(name.Value(), rctrl.Value());
     // And set it running...
     producer.ReadoutLoop();
     // When the readout loop terminates, it is time to go
