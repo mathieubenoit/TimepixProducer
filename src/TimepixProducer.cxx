@@ -358,7 +358,9 @@ void ReadoutLoop() {
 
     //  aMIMTLU->Arm();
 
-      
+#ifdef DEBUGFITPIX
+  cout << get_time()<<" [FITPIX] after Acq Pre-Started" << endl;
+#endif
       
       std::vector<mimtlu_event> events;
       try
@@ -369,8 +371,28 @@ void ReadoutLoop() {
       {
         std::cout <<e.what()<<endl;
       }
-while(!fitpixstate.FrameReady)
+#ifdef DEBUGFITPIX
+  cout << get_time()<<" [FITPIX] after TLU Get Events" << endl;
+#endif
+
+int timeout=0;
+bool badFrame=false;
+while(!fitpixstate.FrameReady){
         eudaq::mSleep(0.01);
+		timeout++;
+		if(timeout>10000){
+#ifdef DEBUGFITPIX
+			cout << get_time()<<" [FITPIX] Corrupted Frame" << endl;
+#endif
+			aTimepix->Abort();
+			char warn_msg[250];
+			sprintf(warn_msg,"Corrupted Frame at event %i, shutter %i",m_ev,m_shutter);
+			LogMessage(warn_msg);
+			SetStatus(eudaq::Status::LVL_WARN, warn_msg);
+			badFrame=true;
+			break;
+		}
+	}
 
 #ifdef DEBUGFITPIX
   cout << get_time()<<" [FITPIX] after readout" << endl;
@@ -381,10 +403,15 @@ while(!fitpixstate.FrameReady)
   cout << get_time()<<" [FITPIX] thread join" << endl;
 #endif
 
-
-      control=aTimepix->GetFrameData2(output,buffer);
-
+  	  int pos =0;
+  	  std::vector<unsigned char> bufferOut;
       m_shutter++;
+
+      if(badFrame==false){
+    	  control=aTimepix->GetFrameData2(output,buffer);
+
+
+
   
 
       unsigned int Data[MATRIX_SIZE];
@@ -392,8 +419,7 @@ while(!fitpixstate.FrameReady)
       {
         memcpy(&Data[i],buffer+i*4,4);
       }
-      int pos =0;
-      std::vector<unsigned char> bufferOut;
+
       
       for(unsigned int i=0;i<256;i++)
       {
@@ -412,6 +438,7 @@ while(!fitpixstate.FrameReady)
            //pack(bufferOut,m_ev);
            pos++;
         }
+      }
       }
 
   if((m_ev%100==0) | (m_ev<100)) cout << "event #" << m_ev << endl;
