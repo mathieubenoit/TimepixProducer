@@ -311,3 +311,9 @@ Mon Aug 12 11:00:13 CEST 2013
 Bias is 15V
 Mon Aug 12 11:00:27 CEST 2013
 Starting Run 30
+Mon Aug 12 13:52:28 CEST 2013
+Stopping Run 30
+Mon Aug 12 13:52:35 CEST 2013
+Starting Run 31
+Mon Aug 12 13:52:55 CEST 2013
+Stopping Run 31
