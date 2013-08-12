@@ -67,10 +67,13 @@ struct mimtlu_event
   mimtlu_event(const char *buf)
   {
     from_string(buf);
-
   }
 
-  void from_string(const char *buf)
+  mimtlu_event(const std::vector<unsigned char> &buf)
+  {
+    from_vector(buf);
+  }
+  
   {
     if (strlen(buf)!=16)
       throw mimtlu_exception("MIMTLU event parssing error");
@@ -99,6 +102,11 @@ struct mimtlu_event
   {
     return txt;
   }
+  
+  void from_vector(const std::vector<unsigned char> &buf)
+  {
+     from_string(&buf[0]);
+  }
 };
 
 
@@ -114,18 +122,18 @@ namespace eudaq {
   class TimepixConverterPlugin : public DataConverterPlugin {
   
   private: 
-  	TFile *f ;
+	TFile *f ;
 	TTree *t;
 	double A[256][256];
-  	double B[256][256];   
-  	double C[256][256];
-  	double D[256][256];  
+	double B[256][256];   
+	double C[256][256];
+	double D[256][256];  
 
-        double Aerr[256][256];
-   	double Berr[256][256];   
-  	double Cerr[256][256];
-  	double Derr[256][256];  
-        double Chi2ndf[256][256];
+	double Aerr[256][256];
+	double Berr[256][256];   
+	double Cerr[256][256];
+	double Derr[256][256];  
+	double Chi2ndf[256][256];
 	double meanA,meanB,meanC,meanD;
 
   public:
@@ -229,25 +237,16 @@ namespace eudaq {
     // This should return the trigger ID (as provided by the TLU)
     // if it was read out, otherwise it can either return (unsigned)-1,
     // or be left undefined as there is already a default version.
-    virtual unsigned GetTriggerID(const Event & ev) const {
-
-    	const RawDataEvent * rev = dynamic_cast<const RawDataEvent *> (&ev);
-	if(rev->NumBlocks()==2){
-		vector<unsigned char> tlu  = rev->GetBlock(1);
- 		
-		char buffer[16];
-		for(int i=0;i<tlu.size();i++){
-			buffer[i] = tlu[i] ;
-			}
-		mimtlu_event tluev(buffer);
-		
-		//cout << tluev.tlu < endl;
-		return tluev.tlu;	
-
-	}
-	else {
-	
-      		return 0;
+	virtual unsigned GetTriggerID(const Event & ev) const 
+	{
+		const RawDataEvent * rev = dynamic_cast<const RawDataEvent *> (&ev);
+		if(rev->NumBlocks()==2)
+		{
+			vector<unsigned char> tlu  = rev->GetBlock(1);
+			mimtlu_event tluev(tlu);
+			return tluev.tlu;	
+		}
+		return 0;
 	};	
     }
 
