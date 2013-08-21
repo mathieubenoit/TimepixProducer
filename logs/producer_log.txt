@@ -615,3 +615,1828 @@ Mon Aug 12 17:36:48 CEST 2013
 Corrupted Frame at event 311902, shutter 311901
 Mon Aug 12 17:53:40 CEST 2013
 Corrupted Frame at event 354409, shutter 354408
+###############################################
+Mon Aug 12 18:02:32 CEST 2013
+Started Producer
+################ execution log ################
+Mon Aug 12 18:02:50 CEST 2013
+Configuring with ni_timepix_autotrig
+Mon Aug 12 18:02:50 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/C04-W0110/Configs/Binary_Config_C04-W0110_15V_IKrum1_96MHz_08-08-13
+Mon Aug 12 18:02:50 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/Default_Ascii_Config
+Mon Aug 12 18:02:50 CEST 2013
+Mode is TOT
+Mon Aug 12 18:02:50 CEST 2013
+Bias is 15V
+Mon Aug 12 18:02:59 CEST 2013
+Starting Run 44
+Mon Aug 12 18:03:16 CEST 2013
+Stopping Run 44
+Mon Aug 12 18:03:29 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Mon Aug 12 18:03:35 CEST 2013
+Started Producer
+################ execution log ################
+Mon Aug 12 18:03:39 CEST 2013
+Configuring with ni_timepix_autotrig
+Mon Aug 12 18:03:39 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/C04-W0110/Configs/Binary_Config_C04-W0110_15V_IKrum1_96MHz_08-08-13
+Mon Aug 12 18:03:39 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/Default_Ascii_Config
+Mon Aug 12 18:03:39 CEST 2013
+Mode is TOT
+Mon Aug 12 18:03:39 CEST 2013
+Bias is 15V
+Mon Aug 12 18:03:46 CEST 2013
+Starting Run 45
+Mon Aug 12 18:19:08 CEST 2013
+Corrupted Frame at event 38102, shutter 38101
+Mon Aug 12 20:05:45 CEST 2013
+Corrupted Frame at event 304954, shutter 304953
+Mon Aug 12 20:48:40 CEST 2013
+Corrupted Frame at event 413051, shutter 413050
+Mon Aug 12 21:43:26 CEST 2013
+Corrupted Frame at event 551102, shutter 551101
+Mon Aug 12 22:37:16 CEST 2013
+Corrupted Frame at event 685802, shutter 685801
+Mon Aug 12 23:30:13 CEST 2013
+Corrupted Frame at event 818270, shutter 818269
+Mon Aug 12 23:31:53 CEST 2013
+Corrupted Frame at event 822402, shutter 822401
+Tue Aug 13 03:45:27 CEST 2013
+Corrupted Frame at event 1456567, shutter 1456566
+###############################################
+Tue Aug 13 07:21:39 CEST 2013
+Started Producer
+################ execution log ################
+Tue Aug 13 07:21:54 CEST 2013
+Configuring with ni_timepix_autotrig
+Tue Aug 13 07:21:54 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/C04-W0110/Configs/Binary_Config_C04-W0110_15V_IKrum1_96MHz_08-08-13
+Tue Aug 13 07:21:54 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/Default_Ascii_Config
+Tue Aug 13 07:21:54 CEST 2013
+Mode is TOT
+Tue Aug 13 07:21:54 CEST 2013
+Bias is 15V
+Tue Aug 13 07:22:02 CEST 2013
+Starting Run 46
+Tue Aug 13 07:33:45 CEST 2013
+Corrupted Frame at event 28968, shutter 28967
+Tue Aug 13 07:56:19 CEST 2013
+Stopping Run 46
+Tue Aug 13 07:56:24 CEST 2013
+Producer Terminated 46
+###############################################
+###############################################
+Tue Aug 13 08:40:24 CEST 2013
+Started Producer
+################ execution log ################
+Tue Aug 13 08:40:49 CEST 2013
+Configuring with ni_timepix_autotrig
+Tue Aug 13 08:40:49 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/C04-W0110/Configs/Binary_Config_C04-W0110_15V_IKrum1_96MHz_08-08-13
+Tue Aug 13 08:40:49 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/Default_Ascii_Config
+Tue Aug 13 08:40:49 CEST 2013
+Mode is TOT
+Tue Aug 13 08:40:49 CEST 2013
+Bias is 15V
+Tue Aug 13 08:40:58 CEST 2013
+Starting Run 47
+Tue Aug 13 09:37:40 CEST 2013
+Corrupted Frame at event 141136, shutter 141135
+Tue Aug 13 09:47:22 CEST 2013
+Stopping Run 47
+Tue Aug 13 09:47:26 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Tue Aug 13 09:53:08 CEST 2013
+Started Producer
+################ execution log ################
+Tue Aug 13 09:53:15 CEST 2013
+Configuring with ni_timepix_autotrig
+Tue Aug 13 09:53:15 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/I10-W0015/Configs/BPC_I10-W0015_0V_IKrum5_96MHz_10-08-13
+Tue Aug 13 09:53:15 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/Default_Ascii_Config_Config
+Tue Aug 13 09:53:15 CEST 2013
+Mode is TOT
+Tue Aug 13 09:53:15 CEST 2013
+Bias is 40V
+Tue Aug 13 09:53:24 CEST 2013
+Starting Run 48
+###############################################
+Tue Aug 13 11:14:06 CEST 2013
+Started Producer
+################ execution log ################
+Tue Aug 13 11:14:12 CEST 2013
+Configuring with ni_timepix_autotrig
+Tue Aug 13 11:14:12 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/I10-W0015/Configs/BPC_I10-W0015_0V_IKrum5_96MHz_10-08-13
+Tue Aug 13 11:14:12 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/Default_Ascii_Config_Config
+Tue Aug 13 11:14:12 CEST 2013
+Mode is TOT
+Tue Aug 13 11:14:12 CEST 2013
+Bias is 40V
+Tue Aug 13 11:14:21 CEST 2013
+Starting Run 49
+Tue Aug 13 11:17:59 CEST 2013
+Corrupted Frame at event 8757, shutter 8756
+Tue Aug 13 11:25:11 CEST 2013
+Stopping Run 49
+Tue Aug 13 11:25:14 CEST 2013
+Producer Terminated 49
+###############################################
+###############################################
+Tue Aug 13 11:32:32 CEST 2013
+Started Producer
+################ execution log ################
+Tue Aug 13 11:32:37 CEST 2013
+Configuring with ni_timepix_autotrig
+Tue Aug 13 11:32:37 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/I10-W0015/Configs/BPC_I10-W0015_0V_IKrum5_96MHz_10-08-13
+Tue Aug 13 11:32:37 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/Default_Ascii_Config_Config
+Tue Aug 13 11:32:37 CEST 2013
+Mode is TOT
+Tue Aug 13 11:32:37 CEST 2013
+Bias is 40V
+Tue Aug 13 11:32:50 CEST 2013
+Starting Run 50
+###############################################
+Tue Aug 13 11:35:55 CEST 2013
+Started Producer
+################ execution log ################
+Tue Aug 13 11:36:11 CEST 2013
+Configuring with ni_timepix_autotrig
+Tue Aug 13 11:36:11 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/I10-W0015/Configs/BPC_I10-W0015_0V_IKrum5_96MHz_10-08-13
+Tue Aug 13 11:36:11 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/Default_Ascii_Config_Config
+Tue Aug 13 11:36:11 CEST 2013
+Mode is TOT
+Tue Aug 13 11:36:11 CEST 2013
+Bias is 40V
+Tue Aug 13 11:39:56 CEST 2013
+Producer Terminated 0
+###############################################
+###############################################
+Tue Aug 13 11:40:55 CEST 2013
+Started Producer
+################ execution log ################
+Tue Aug 13 11:41:08 CEST 2013
+Configuring with ni_timepix_autotrig
+Tue Aug 13 11:41:08 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/I10-W0015/Configs/BPC_I10-W0015_0V_IKrum5_96MHz_10-08-13
+Tue Aug 13 11:41:08 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/Default_Ascii_Config_Config
+Tue Aug 13 11:41:08 CEST 2013
+Mode is TOT
+Tue Aug 13 11:41:08 CEST 2013
+Bias is 40V
+Tue Aug 13 11:41:22 CEST 2013
+Starting Run 51
+Tue Aug 13 12:48:55 CEST 2013
+Corrupted Frame at event 170129, shutter 170128
+Tue Aug 13 15:08:02 CEST 2013
+Corrupted Frame at event 522814, shutter 522813
+Tue Aug 13 15:32:21 CEST 2013
+Corrupted Frame at event 584228, shutter 584227
+Tue Aug 13 16:17:08 CEST 2013
+Corrupted Frame at event 697529, shutter 697528
+Tue Aug 13 16:36:53 CEST 2013
+Corrupted Frame at event 747437, shutter 747436
+Tue Aug 13 16:59:51 CEST 2013
+Corrupted Frame at event 805573, shutter 805572
+Tue Aug 13 18:11:45 CEST 2013
+Corrupted Frame at event 988156, shutter 988155
+Tue Aug 13 19:13:34 CEST 2013
+Corrupted Frame at event 1145042, shutter 1145041
+Tue Aug 13 21:56:28 CEST 2013
+Corrupted Frame at event 1558153, shutter 1558152
+Tue Aug 13 22:10:33 CEST 2013
+Corrupted Frame at event 1593767, shutter 1593766
+Tue Aug 13 23:31:55 CEST 2013
+Corrupted Frame at event 1800325, shutter 1800324
+Wed Aug 14 03:05:14 CEST 2013
+Corrupted Frame at event 2341868, shutter 2341867
+Wed Aug 14 06:11:16 CEST 2013
+Corrupted Frame at event 2814438, shutter 2814437
+Wed Aug 14 06:37:49 CEST 2013
+Corrupted Frame at event 2881677, shutter 2881676
+Wed Aug 14 07:17:21 CEST 2013
+Stopping Run 51
+Wed Aug 14 07:17:44 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Wed Aug 14 07:24:37 CEST 2013
+Started Producer
+################ execution log ################
+Wed Aug 14 07:25:10 CEST 2013
+Configuring with ni_timepix_autotrig
+Wed Aug 14 07:25:10 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/I10-W0015/Configs/BPC_I10-W0015_0V_IKrum5_96MHz_10-08-13
+Wed Aug 14 07:25:10 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/Default_Ascii_Config_Config
+Wed Aug 14 07:25:10 CEST 2013
+Mode is TOT
+Wed Aug 14 07:25:10 CEST 2013
+Bias is 40V
+Wed Aug 14 07:25:19 CEST 2013
+Starting Run 52
+Wed Aug 14 07:52:53 CEST 2013
+Stopping Run 52
+Wed Aug 14 07:54:06 CEST 2013
+Configuring with ni_timepix_autotrig
+Wed Aug 14 07:54:06 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/I10-W0015/Configs/BPC_I10-W0015_0V_IKrum5_96MHz_10-08-13
+Wed Aug 14 07:54:06 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/Default_Ascii_Config_Config
+Wed Aug 14 07:54:06 CEST 2013
+Mode is TOT
+Wed Aug 14 07:54:06 CEST 2013
+Bias is 40V
+Wed Aug 14 07:54:13 CEST 2013
+Starting Run 53
+Wed Aug 14 10:19:58 CEST 2013
+Corrupted Frame at event 367402, shutter 367401
+Wed Aug 14 11:02:12 CEST 2013
+Corrupted Frame at event 474358, shutter 474357
+Wed Aug 14 11:22:02 CEST 2013
+Corrupted Frame at event 524498, shutter 524497
+Wed Aug 14 11:24:54 CEST 2013
+Corrupted Frame at event 531649, shutter 531648
+Wed Aug 14 11:29:31 CEST 2013
+Corrupted Frame at event 543258, shutter 543257
+Wed Aug 14 11:43:51 CEST 2013
+Corrupted Frame at event 579511, shutter 579510
+Wed Aug 14 12:17:51 CEST 2013
+Corrupted Frame at event 665289, shutter 665288
+Wed Aug 14 12:29:05 CEST 2013
+Stopping Run 53
+Wed Aug 14 12:29:15 CEST 2013
+Starting Run 54
+Wed Aug 14 13:29:21 CEST 2013
+Corrupted Frame at event 151731, shutter 151730
+Wed Aug 14 13:39:02 CEST 2013
+Corrupted Frame at event 176178, shutter 176177
+Wed Aug 14 13:40:20 CEST 2013
+Corrupted Frame at event 179356, shutter 179355
+Wed Aug 14 17:03:11 CEST 2013
+Stopping Run 54
+Wed Aug 14 17:03:21 CEST 2013
+Starting Run 55
+Wed Aug 14 21:36:56 CEST 2013
+Stopping Run 55
+Wed Aug 14 21:37:06 CEST 2013
+Starting Run 56
+Thu Aug 15 02:10:35 CEST 2013
+Stopping Run 56
+Thu Aug 15 02:10:45 CEST 2013
+Starting Run 57
+Thu Aug 15 06:20:53 CEST 2013
+Corrupted Frame at event 634546, shutter 634545
+Thu Aug 15 06:44:16 CEST 2013
+Stopping Run 57
+Thu Aug 15 06:44:26 CEST 2013
+Starting Run 58
+Thu Aug 15 06:49:45 CEST 2013
+Corrupted Frame at event 13119, shutter 13118
+Thu Aug 15 08:27:07 CEST 2013
+Corrupted Frame at event 260168, shutter 260167
+Thu Aug 15 10:07:51 CEST 2013
+Corrupted Frame at event 515540, shutter 515539
+Thu Aug 15 11:12:18 CEST 2013
+Corrupted Frame at event 678700, shutter 678699
+Thu Aug 15 11:18:17 CEST 2013
+Stopping Run 58
+Thu Aug 15 11:18:27 CEST 2013
+Starting Run 59
+Thu Aug 15 11:56:05 CEST 2013
+Corrupted Frame at event 94969, shutter 94968
+Thu Aug 15 13:19:01 CEST 2013
+Corrupted Frame at event 305154, shutter 305153
+Thu Aug 15 15:44:02 CEST 2013
+Stopping Run 59
+Thu Aug 15 15:44:06 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Mon Aug 19 17:50:12 CEST 2013
+Started Producer
+################ execution log ################
+Mon Aug 19 17:50:26 CEST 2013
+Configuring with ni_timepix
+Mon Aug 19 17:50:26 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B04-W0110/Configs/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT
+Mon Aug 19 17:50:26 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT_ascii
+Mon Aug 19 17:50:26 CEST 2013
+Mode is TOT
+Mon Aug 19 17:50:26 CEST 2013
+Bias is 15V
+Mon Aug 19 17:54:40 CEST 2013
+Starting Run 13
+Mon Aug 19 17:55:23 CEST 2013
+Stopping Run 13
+Mon Aug 19 17:55:43 CEST 2013
+Configuring with ni_timepix
+Mon Aug 19 17:55:43 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B04-W0110/Configs/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT
+Mon Aug 19 17:55:43 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT_ascii
+Mon Aug 19 17:55:43 CEST 2013
+Mode is TOT
+Mon Aug 19 17:55:43 CEST 2013
+Bias is 15V
+Mon Aug 19 17:56:10 CEST 2013
+Starting Run 14
+Mon Aug 19 17:56:31 CEST 2013
+Stopping Run 14
+Mon Aug 19 17:56:59 CEST 2013
+Configuring with ni_timepix
+Mon Aug 19 17:56:59 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B04-W0110/Configs/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT
+Mon Aug 19 17:56:59 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT_ascii
+Mon Aug 19 17:56:59 CEST 2013
+Mode is TOT
+Mon Aug 19 17:56:59 CEST 2013
+Bias is 15V
+Mon Aug 19 17:57:17 CEST 2013
+Configuring with ni_timepix
+Mon Aug 19 17:57:17 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B04-W0110/Configs/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT
+Mon Aug 19 17:57:17 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT_ascii
+Mon Aug 19 17:57:17 CEST 2013
+Mode is TOT
+Mon Aug 19 17:57:17 CEST 2013
+Bias is 15V
+Mon Aug 19 17:57:32 CEST 2013
+Starting Run 15
+Mon Aug 19 17:57:49 CEST 2013
+Stopping Run 15
+Mon Aug 19 17:58:34 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Mon Aug 19 17:58:41 CEST 2013
+Started Producer
+################ execution log ################
+Mon Aug 19 17:59:40 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Mon Aug 19 18:01:16 CEST 2013
+Started Producer
+################ execution log ################
+Mon Aug 19 18:01:36 CEST 2013
+Configuring with ni_timepix
+Mon Aug 19 18:01:36 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B04-W0110/Configs/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT
+Mon Aug 19 18:01:36 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT_ascii
+Mon Aug 19 18:01:36 CEST 2013
+Mode is TOT
+Mon Aug 19 18:01:36 CEST 2013
+Bias is 15V
+Mon Aug 19 18:01:56 CEST 2013
+Starting Run 16
+Mon Aug 19 18:02:15 CEST 2013
+Stopping Run 16
+Mon Aug 19 18:02:21 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Mon Aug 19 18:02:51 CEST 2013
+Started Producer
+################ execution log ################
+Mon Aug 19 18:03:00 CEST 2013
+Configuring with ni_timepix
+Mon Aug 19 18:03:00 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B04-W0110/Configs/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT
+Mon Aug 19 18:03:00 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT_ascii
+Mon Aug 19 18:03:00 CEST 2013
+Mode is TOT
+Mon Aug 19 18:03:00 CEST 2013
+Bias is 15V
+Mon Aug 19 18:03:10 CEST 2013
+Starting Run 17
+Mon Aug 19 18:03:20 CEST 2013
+Stopping Run 17
+Mon Aug 19 18:06:16 CEST 2013
+Producer Terminated 17
+###############################################
+###############################################
+Mon Aug 19 18:10:51 CEST 2013
+Started Producer
+################ execution log ################
+Mon Aug 19 18:10:57 CEST 2013
+Configuring with ni_timepix
+Mon Aug 19 18:10:57 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B04-W0110/Configs/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT
+Mon Aug 19 18:10:57 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT_ascii
+Mon Aug 19 18:10:57 CEST 2013
+Mode is TOT
+Mon Aug 19 18:10:57 CEST 2013
+Bias is 15V
+Mon Aug 19 18:11:24 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Mon Aug 19 18:12:48 CEST 2013
+Started Producer
+################ execution log ################
+Mon Aug 19 18:13:01 CEST 2013
+Configuring with ni_timepix
+Mon Aug 19 18:13:01 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B04-W0110/Configs/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT
+Mon Aug 19 18:13:01 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT_ascii
+Mon Aug 19 18:13:01 CEST 2013
+Mode is TOT
+Mon Aug 19 18:13:01 CEST 2013
+Bias is 15V
+Mon Aug 19 18:18:44 CEST 2013
+Configuring with ni_timepix
+Mon Aug 19 18:18:44 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B04-W0110/Configs/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT
+Mon Aug 19 18:18:44 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT_ascii
+Mon Aug 19 18:18:44 CEST 2013
+Mode is TOT
+Mon Aug 19 18:18:44 CEST 2013
+Bias is 15V
+Mon Aug 19 18:19:04 CEST 2013
+Configuring with ni_timepix
+Mon Aug 19 18:19:04 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B04-W0110/Configs/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT
+Mon Aug 19 18:19:04 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT_ascii
+Mon Aug 19 18:19:04 CEST 2013
+Mode is TOT
+Mon Aug 19 18:19:04 CEST 2013
+Bias is 15V
+Mon Aug 19 18:19:15 CEST 2013
+Starting Run 18
+Mon Aug 19 18:19:35 CEST 2013
+Stopping Run 18
+###############################################
+Mon Aug 19 18:32:59 CEST 2013
+Started Producer
+################ execution log ################
+Mon Aug 19 18:33:02 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Mon Aug 19 18:33:28 CEST 2013
+Started Producer
+################ execution log ################
+Mon Aug 19 18:35:00 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Mon Aug 19 18:35:16 CEST 2013
+Started Producer
+################ execution log ################
+Mon Aug 19 18:35:29 CEST 2013
+Configuring with ni_timepix
+Mon Aug 19 18:35:29 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B04-W0110/Configs/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT
+Mon Aug 19 18:35:29 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT_ascii
+Mon Aug 19 18:35:29 CEST 2013
+Mode is TOT
+Mon Aug 19 18:35:29 CEST 2013
+Bias is 15V
+Mon Aug 19 18:35:36 CEST 2013
+Starting Run 19
+Mon Aug 19 18:37:02 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Mon Aug 19 18:51:36 CEST 2013
+Started Producer
+################ execution log ################
+Mon Aug 19 18:51:45 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Mon Aug 19 18:51:49 CEST 2013
+Started Producer
+################ execution log ################
+Mon Aug 19 18:51:52 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Mon Aug 19 18:52:12 CEST 2013
+Started Producer
+################ execution log ################
+Mon Aug 19 18:52:18 CEST 2013
+Configuring with ni_timepix
+Mon Aug 19 18:52:18 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B04-W0110/Configs/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT
+Mon Aug 19 18:52:18 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT_ascii
+Mon Aug 19 18:52:18 CEST 2013
+Mode is TOT
+Mon Aug 19 18:52:18 CEST 2013
+Bias is 15V
+Mon Aug 19 18:52:28 CEST 2013
+Starting Run 21
+Mon Aug 19 18:52:54 CEST 2013
+Stopping Run 21
+Mon Aug 19 18:53:23 CEST 2013
+Configuring with ni_timepix
+Mon Aug 19 18:53:23 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B04-W0110/Configs/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT
+Mon Aug 19 18:53:23 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT_ascii
+Mon Aug 19 18:53:23 CEST 2013
+Mode is TOT
+Mon Aug 19 18:53:23 CEST 2013
+Bias is 15V
+Mon Aug 19 18:53:35 CEST 2013
+Starting Run 22
+Mon Aug 19 18:54:37 CEST 2013
+Stopping Run 22
+Mon Aug 19 18:55:02 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Mon Aug 19 18:55:49 CEST 2013
+Started Producer
+################ execution log ################
+Mon Aug 19 18:56:09 CEST 2013
+Configuring with ni_timepix
+Mon Aug 19 18:56:09 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B04-W0110/Configs/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT
+Mon Aug 19 18:56:09 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT_ascii
+Mon Aug 19 18:56:09 CEST 2013
+Mode is TOT
+Mon Aug 19 18:56:09 CEST 2013
+Bias is 15V
+Mon Aug 19 18:56:20 CEST 2013
+Starting Run 23
+Mon Aug 19 18:56:44 CEST 2013
+Stopping Run 23
+Mon Aug 19 18:57:49 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Mon Aug 19 18:57:50 CEST 2013
+Started Producer
+################ execution log ################
+Mon Aug 19 18:57:57 CEST 2013
+Configuring with ni_timepix
+Mon Aug 19 18:57:57 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B04-W0110/Configs/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT
+Mon Aug 19 18:57:57 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT_ascii
+Mon Aug 19 18:57:57 CEST 2013
+Mode is TOT
+Mon Aug 19 18:57:57 CEST 2013
+Bias is 15V
+Mon Aug 19 18:58:06 CEST 2013
+Starting Run 24
+Mon Aug 19 18:58:07 CEST 2013
+Corrupted Frame at event 1, shutter 0
+Mon Aug 19 18:58:07 CEST 2013
+Corrupted Frame at event 1, shutter 1
+Mon Aug 19 18:58:08 CEST 2013
+Corrupted Frame at event 1, shutter 2
+Mon Aug 19 18:58:08 CEST 2013
+Corrupted Frame at event 1, shutter 3
+Mon Aug 19 18:58:09 CEST 2013
+Corrupted Frame at event 1, shutter 4
+Mon Aug 19 18:58:10 CEST 2013
+Corrupted Frame at event 1, shutter 5
+Mon Aug 19 18:58:10 CEST 2013
+Corrupted Frame at event 1, shutter 6
+Mon Aug 19 18:58:11 CEST 2013
+Corrupted Frame at event 1, shutter 7
+Mon Aug 19 18:58:11 CEST 2013
+Corrupted Frame at event 1, shutter 8
+Mon Aug 19 18:58:12 CEST 2013
+Corrupted Frame at event 1, shutter 9
+Mon Aug 19 18:58:12 CEST 2013
+Corrupted Frame at event 1, shutter 10
+Mon Aug 19 18:58:13 CEST 2013
+Corrupted Frame at event 1, shutter 11
+Mon Aug 19 18:58:14 CEST 2013
+Corrupted Frame at event 1, shutter 12
+Mon Aug 19 18:58:14 CEST 2013
+Corrupted Frame at event 1, shutter 13
+Mon Aug 19 18:58:15 CEST 2013
+Corrupted Frame at event 1, shutter 14
+Mon Aug 19 18:58:15 CEST 2013
+Corrupted Frame at event 1, shutter 15
+Mon Aug 19 18:58:16 CEST 2013
+Corrupted Frame at event 1, shutter 16
+Mon Aug 19 18:58:16 CEST 2013
+Corrupted Frame at event 1, shutter 17
+Mon Aug 19 18:58:17 CEST 2013
+Corrupted Frame at event 1, shutter 18
+Mon Aug 19 18:58:18 CEST 2013
+Corrupted Frame at event 1, shutter 19
+Mon Aug 19 18:58:18 CEST 2013
+Corrupted Frame at event 1, shutter 20
+Mon Aug 19 18:58:19 CEST 2013
+Corrupted Frame at event 1, shutter 21
+Mon Aug 19 18:58:19 CEST 2013
+Corrupted Frame at event 1, shutter 22
+Mon Aug 19 18:58:20 CEST 2013
+Corrupted Frame at event 1, shutter 23
+Mon Aug 19 18:58:20 CEST 2013
+Corrupted Frame at event 1, shutter 24
+Mon Aug 19 18:58:21 CEST 2013
+Corrupted Frame at event 1, shutter 25
+Mon Aug 19 18:58:22 CEST 2013
+Corrupted Frame at event 1, shutter 26
+Mon Aug 19 18:58:22 CEST 2013
+Corrupted Frame at event 1, shutter 27
+Mon Aug 19 18:58:23 CEST 2013
+Corrupted Frame at event 1, shutter 28
+Mon Aug 19 18:58:23 CEST 2013
+Corrupted Frame at event 1, shutter 29
+Mon Aug 19 18:58:24 CEST 2013
+Corrupted Frame at event 1, shutter 30
+Mon Aug 19 18:58:24 CEST 2013
+Corrupted Frame at event 1, shutter 31
+Mon Aug 19 18:58:25 CEST 2013
+Corrupted Frame at event 1, shutter 32
+Mon Aug 19 18:58:26 CEST 2013
+Corrupted Frame at event 1, shutter 33
+Mon Aug 19 18:58:26 CEST 2013
+Corrupted Frame at event 1, shutter 34
+Mon Aug 19 18:58:27 CEST 2013
+Corrupted Frame at event 1, shutter 35
+Mon Aug 19 18:58:27 CEST 2013
+Corrupted Frame at event 1, shutter 36
+Mon Aug 19 18:58:28 CEST 2013
+Corrupted Frame at event 1, shutter 37
+Mon Aug 19 18:58:28 CEST 2013
+Corrupted Frame at event 1, shutter 38
+Mon Aug 19 18:58:29 CEST 2013
+Corrupted Frame at event 1, shutter 39
+Mon Aug 19 18:58:30 CEST 2013
+Corrupted Frame at event 1, shutter 40
+Mon Aug 19 18:58:30 CEST 2013
+Corrupted Frame at event 1, shutter 41
+Mon Aug 19 18:58:31 CEST 2013
+Corrupted Frame at event 1, shutter 42
+Mon Aug 19 18:58:31 CEST 2013
+Corrupted Frame at event 1, shutter 43
+Mon Aug 19 18:58:32 CEST 2013
+Corrupted Frame at event 1, shutter 44
+Mon Aug 19 18:58:32 CEST 2013
+Corrupted Frame at event 1, shutter 45
+Mon Aug 19 18:58:33 CEST 2013
+Corrupted Frame at event 1, shutter 46
+Mon Aug 19 18:58:34 CEST 2013
+Corrupted Frame at event 1, shutter 47
+Mon Aug 19 18:58:34 CEST 2013
+Corrupted Frame at event 1, shutter 48
+Mon Aug 19 18:58:35 CEST 2013
+Corrupted Frame at event 1, shutter 49
+Mon Aug 19 18:58:35 CEST 2013
+Corrupted Frame at event 1, shutter 50
+Mon Aug 19 18:58:36 CEST 2013
+Corrupted Frame at event 1, shutter 51
+Mon Aug 19 18:58:36 CEST 2013
+Corrupted Frame at event 1, shutter 52
+Mon Aug 19 18:58:37 CEST 2013
+Corrupted Frame at event 1, shutter 53
+Mon Aug 19 18:58:38 CEST 2013
+Corrupted Frame at event 1, shutter 54
+Mon Aug 19 18:58:38 CEST 2013
+Corrupted Frame at event 1, shutter 55
+Mon Aug 19 18:58:39 CEST 2013
+Corrupted Frame at event 1, shutter 56
+Mon Aug 19 18:58:39 CEST 2013
+Corrupted Frame at event 1, shutter 57
+Mon Aug 19 18:58:40 CEST 2013
+Corrupted Frame at event 1, shutter 58
+Mon Aug 19 18:58:40 CEST 2013
+Corrupted Frame at event 1, shutter 59
+Mon Aug 19 18:58:41 CEST 2013
+Corrupted Frame at event 1, shutter 60
+Mon Aug 19 18:58:42 CEST 2013
+Corrupted Frame at event 1, shutter 61
+Mon Aug 19 18:58:42 CEST 2013
+Corrupted Frame at event 1, shutter 62
+Mon Aug 19 18:58:43 CEST 2013
+Corrupted Frame at event 1, shutter 63
+Mon Aug 19 18:58:43 CEST 2013
+Corrupted Frame at event 1, shutter 64
+Mon Aug 19 18:58:44 CEST 2013
+Corrupted Frame at event 1, shutter 65
+Mon Aug 19 18:58:44 CEST 2013
+Corrupted Frame at event 1, shutter 66
+Mon Aug 19 18:58:45 CEST 2013
+Corrupted Frame at event 1, shutter 67
+Mon Aug 19 18:58:45 CEST 2013
+Corrupted Frame at event 1, shutter 68
+Mon Aug 19 18:58:46 CEST 2013
+Corrupted Frame at event 1, shutter 69
+Mon Aug 19 18:58:47 CEST 2013
+Corrupted Frame at event 1, shutter 70
+Mon Aug 19 18:58:47 CEST 2013
+Corrupted Frame at event 1, shutter 71
+Mon Aug 19 18:58:48 CEST 2013
+Corrupted Frame at event 1, shutter 72
+Mon Aug 19 18:58:48 CEST 2013
+Corrupted Frame at event 1, shutter 73
+Mon Aug 19 18:58:49 CEST 2013
+Corrupted Frame at event 1, shutter 74
+Mon Aug 19 18:58:49 CEST 2013
+Corrupted Frame at event 1, shutter 75
+Mon Aug 19 18:58:50 CEST 2013
+Corrupted Frame at event 1, shutter 76
+Mon Aug 19 18:58:51 CEST 2013
+Corrupted Frame at event 1, shutter 77
+Mon Aug 19 18:58:51 CEST 2013
+Corrupted Frame at event 1, shutter 78
+Mon Aug 19 18:58:52 CEST 2013
+Corrupted Frame at event 1, shutter 79
+Mon Aug 19 18:58:52 CEST 2013
+Corrupted Frame at event 1, shutter 80
+Mon Aug 19 18:58:53 CEST 2013
+Corrupted Frame at event 1, shutter 81
+Mon Aug 19 18:58:53 CEST 2013
+Corrupted Frame at event 1, shutter 82
+Mon Aug 19 18:58:54 CEST 2013
+Corrupted Frame at event 1, shutter 83
+Mon Aug 19 18:58:55 CEST 2013
+Corrupted Frame at event 1, shutter 84
+Mon Aug 19 18:58:55 CEST 2013
+Corrupted Frame at event 1, shutter 85
+Mon Aug 19 18:58:56 CEST 2013
+Corrupted Frame at event 1, shutter 86
+Mon Aug 19 18:58:56 CEST 2013
+Corrupted Frame at event 1, shutter 87
+Mon Aug 19 18:58:57 CEST 2013
+Corrupted Frame at event 1, shutter 88
+Mon Aug 19 18:58:57 CEST 2013
+Corrupted Frame at event 1, shutter 89
+Mon Aug 19 18:58:58 CEST 2013
+Corrupted Frame at event 1, shutter 90
+Mon Aug 19 18:58:59 CEST 2013
+Corrupted Frame at event 1, shutter 91
+Mon Aug 19 18:58:59 CEST 2013
+Corrupted Frame at event 1, shutter 92
+Mon Aug 19 18:59:00 CEST 2013
+Corrupted Frame at event 1, shutter 93
+Mon Aug 19 18:59:00 CEST 2013
+Corrupted Frame at event 1, shutter 94
+Mon Aug 19 18:59:01 CEST 2013
+Corrupted Frame at event 1, shutter 95
+Mon Aug 19 18:59:01 CEST 2013
+Stopping Run 24
+Mon Aug 19 18:59:01 CEST 2013
+Corrupted Frame at event 2, shutter 96
+Mon Aug 19 18:59:06 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Mon Aug 19 19:00:12 CEST 2013
+Started Producer
+################ execution log ################
+Mon Aug 19 19:00:38 CEST 2013
+Configuring with ni_timepix
+Mon Aug 19 19:00:38 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B04-W0110/Configs/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT
+Mon Aug 19 19:00:38 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT_ascii
+Mon Aug 19 19:00:38 CEST 2013
+Mode is TOT
+Mon Aug 19 19:00:38 CEST 2013
+Bias is 15V
+Mon Aug 19 19:00:51 CEST 2013
+Starting Run 25
+Mon Aug 19 19:00:52 CEST 2013
+Corrupted Frame at event 1, shutter 0
+Mon Aug 19 19:00:52 CEST 2013
+Corrupted Frame at event 1, shutter 1
+Mon Aug 19 19:00:53 CEST 2013
+Corrupted Frame at event 1, shutter 2
+Mon Aug 19 19:00:54 CEST 2013
+Corrupted Frame at event 1, shutter 3
+Mon Aug 19 19:00:54 CEST 2013
+Corrupted Frame at event 1, shutter 4
+Mon Aug 19 19:00:55 CEST 2013
+Corrupted Frame at event 1, shutter 5
+Mon Aug 19 19:00:55 CEST 2013
+Corrupted Frame at event 1, shutter 6
+Mon Aug 19 19:00:56 CEST 2013
+Corrupted Frame at event 1, shutter 7
+Mon Aug 19 19:00:56 CEST 2013
+Corrupted Frame at event 1, shutter 8
+Mon Aug 19 19:00:57 CEST 2013
+Corrupted Frame at event 1, shutter 9
+Mon Aug 19 19:00:58 CEST 2013
+Corrupted Frame at event 1, shutter 10
+Mon Aug 19 19:00:58 CEST 2013
+Corrupted Frame at event 1, shutter 11
+Mon Aug 19 19:00:59 CEST 2013
+Corrupted Frame at event 1, shutter 12
+Mon Aug 19 19:00:59 CEST 2013
+Corrupted Frame at event 1, shutter 13
+Mon Aug 19 19:01:00 CEST 2013
+Corrupted Frame at event 1, shutter 14
+Mon Aug 19 19:01:00 CEST 2013
+Corrupted Frame at event 1, shutter 15
+Mon Aug 19 19:01:01 CEST 2013
+Corrupted Frame at event 1, shutter 16
+Mon Aug 19 19:01:02 CEST 2013
+Corrupted Frame at event 1, shutter 17
+Mon Aug 19 19:01:02 CEST 2013
+Corrupted Frame at event 1, shutter 18
+Mon Aug 19 19:01:03 CEST 2013
+Corrupted Frame at event 1, shutter 19
+Mon Aug 19 19:01:03 CEST 2013
+Corrupted Frame at event 1, shutter 20
+Mon Aug 19 19:01:04 CEST 2013
+Corrupted Frame at event 1, shutter 21
+Mon Aug 19 19:01:04 CEST 2013
+Corrupted Frame at event 1, shutter 22
+Mon Aug 19 19:01:05 CEST 2013
+Corrupted Frame at event 1, shutter 23
+Mon Aug 19 19:01:06 CEST 2013
+Corrupted Frame at event 1, shutter 24
+Mon Aug 19 19:01:06 CEST 2013
+Corrupted Frame at event 1, shutter 25
+Mon Aug 19 19:01:07 CEST 2013
+Corrupted Frame at event 1, shutter 26
+Mon Aug 19 19:01:07 CEST 2013
+Corrupted Frame at event 1, shutter 27
+Mon Aug 19 19:01:08 CEST 2013
+Corrupted Frame at event 1, shutter 28
+Mon Aug 19 19:01:08 CEST 2013
+Corrupted Frame at event 1, shutter 29
+Mon Aug 19 19:01:09 CEST 2013
+Corrupted Frame at event 1, shutter 30
+Mon Aug 19 19:01:10 CEST 2013
+Corrupted Frame at event 1, shutter 31
+Mon Aug 19 19:01:10 CEST 2013
+Corrupted Frame at event 1, shutter 32
+Mon Aug 19 19:01:11 CEST 2013
+Corrupted Frame at event 1, shutter 33
+Mon Aug 19 19:01:11 CEST 2013
+Corrupted Frame at event 1, shutter 34
+Mon Aug 19 19:01:12 CEST 2013
+Corrupted Frame at event 1, shutter 35
+Mon Aug 19 19:01:12 CEST 2013
+Corrupted Frame at event 1, shutter 36
+Mon Aug 19 19:01:13 CEST 2013
+Corrupted Frame at event 1, shutter 37
+Mon Aug 19 19:01:14 CEST 2013
+Corrupted Frame at event 1, shutter 38
+Mon Aug 19 19:01:14 CEST 2013
+Corrupted Frame at event 1, shutter 39
+Mon Aug 19 19:01:15 CEST 2013
+Corrupted Frame at event 1, shutter 40
+Mon Aug 19 19:01:15 CEST 2013
+Corrupted Frame at event 1, shutter 41
+Mon Aug 19 19:01:16 CEST 2013
+Corrupted Frame at event 1, shutter 42
+Mon Aug 19 19:01:16 CEST 2013
+Corrupted Frame at event 1, shutter 43
+Mon Aug 19 19:01:17 CEST 2013
+Corrupted Frame at event 1, shutter 44
+Mon Aug 19 19:01:17 CEST 2013
+Corrupted Frame at event 1, shutter 45
+Mon Aug 19 19:01:18 CEST 2013
+Corrupted Frame at event 1, shutter 46
+Mon Aug 19 19:01:19 CEST 2013
+Corrupted Frame at event 1, shutter 47
+Mon Aug 19 19:01:19 CEST 2013
+Corrupted Frame at event 1, shutter 48
+Mon Aug 19 19:01:20 CEST 2013
+Corrupted Frame at event 1, shutter 49
+Mon Aug 19 19:01:20 CEST 2013
+Corrupted Frame at event 1, shutter 50
+Mon Aug 19 19:01:21 CEST 2013
+Corrupted Frame at event 1, shutter 51
+Mon Aug 19 19:01:21 CEST 2013
+Corrupted Frame at event 1, shutter 52
+Mon Aug 19 19:01:22 CEST 2013
+Stopping Run 25
+Mon Aug 19 19:01:22 CEST 2013
+Corrupted Frame at event 2, shutter 53
+Mon Aug 19 19:01:53 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Mon Aug 19 19:04:20 CEST 2013
+Started Producer
+################ execution log ################
+Mon Aug 19 19:04:31 CEST 2013
+Configuring with ni_timepix
+Mon Aug 19 19:04:31 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B04-W0110/Configs/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT
+Mon Aug 19 19:04:31 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT_ascii
+Mon Aug 19 19:04:31 CEST 2013
+Mode is TOT
+Mon Aug 19 19:04:31 CEST 2013
+Bias is 15V
+Mon Aug 19 19:04:44 CEST 2013
+Configuring with ni_timepix
+Mon Aug 19 19:04:44 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B04-W0110/Configs/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT
+Mon Aug 19 19:04:44 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT_ascii
+Mon Aug 19 19:04:44 CEST 2013
+Mode is TOT
+Mon Aug 19 19:04:44 CEST 2013
+Bias is 15V
+Mon Aug 19 19:04:53 CEST 2013
+Starting Run 27
+Mon Aug 19 19:04:53 CEST 2013
+Corrupted Frame at event 1, shutter 0
+Mon Aug 19 19:04:54 CEST 2013
+Corrupted Frame at event 1, shutter 1
+Mon Aug 19 19:04:55 CEST 2013
+Corrupted Frame at event 1, shutter 2
+Mon Aug 19 19:04:55 CEST 2013
+Corrupted Frame at event 1, shutter 3
+Mon Aug 19 19:04:56 CEST 2013
+Corrupted Frame at event 1, shutter 4
+Mon Aug 19 19:04:56 CEST 2013
+Corrupted Frame at event 1, shutter 5
+Mon Aug 19 19:04:57 CEST 2013
+Corrupted Frame at event 1, shutter 6
+Mon Aug 19 19:04:57 CEST 2013
+Corrupted Frame at event 1, shutter 7
+Mon Aug 19 19:04:58 CEST 2013
+Corrupted Frame at event 1, shutter 8
+Mon Aug 19 19:04:59 CEST 2013
+Corrupted Frame at event 1, shutter 9
+Mon Aug 19 19:04:59 CEST 2013
+Corrupted Frame at event 1, shutter 10
+Mon Aug 19 19:05:00 CEST 2013
+Corrupted Frame at event 1, shutter 11
+Mon Aug 19 19:05:00 CEST 2013
+Corrupted Frame at event 1, shutter 12
+Mon Aug 19 19:05:01 CEST 2013
+Corrupted Frame at event 1, shutter 13
+Mon Aug 19 19:05:01 CEST 2013
+Corrupted Frame at event 1, shutter 14
+Mon Aug 19 19:05:02 CEST 2013
+Corrupted Frame at event 1, shutter 15
+Mon Aug 19 19:05:03 CEST 2013
+Corrupted Frame at event 1, shutter 16
+Mon Aug 19 19:05:03 CEST 2013
+Corrupted Frame at event 1, shutter 17
+Mon Aug 19 19:05:04 CEST 2013
+Corrupted Frame at event 1, shutter 18
+Mon Aug 19 19:05:04 CEST 2013
+Corrupted Frame at event 1, shutter 19
+Mon Aug 19 19:05:05 CEST 2013
+Corrupted Frame at event 1, shutter 20
+Mon Aug 19 19:05:05 CEST 2013
+Corrupted Frame at event 1, shutter 21
+Mon Aug 19 19:05:06 CEST 2013
+Corrupted Frame at event 1, shutter 22
+Mon Aug 19 19:05:07 CEST 2013
+Corrupted Frame at event 1, shutter 23
+Mon Aug 19 19:05:07 CEST 2013
+Corrupted Frame at event 1, shutter 24
+Mon Aug 19 19:05:08 CEST 2013
+Corrupted Frame at event 1, shutter 25
+Mon Aug 19 19:05:08 CEST 2013
+Corrupted Frame at event 1, shutter 26
+Mon Aug 19 19:05:09 CEST 2013
+Corrupted Frame at event 1, shutter 27
+Mon Aug 19 19:05:09 CEST 2013
+Corrupted Frame at event 1, shutter 28
+Mon Aug 19 19:05:10 CEST 2013
+Corrupted Frame at event 1, shutter 29
+Mon Aug 19 19:05:11 CEST 2013
+Corrupted Frame at event 1, shutter 30
+Mon Aug 19 19:05:11 CEST 2013
+Corrupted Frame at event 1, shutter 31
+Mon Aug 19 19:05:12 CEST 2013
+Corrupted Frame at event 1, shutter 32
+Mon Aug 19 19:05:12 CEST 2013
+Corrupted Frame at event 1, shutter 33
+Mon Aug 19 19:05:13 CEST 2013
+Corrupted Frame at event 1, shutter 34
+Mon Aug 19 19:05:13 CEST 2013
+Corrupted Frame at event 1, shutter 35
+Mon Aug 19 19:05:14 CEST 2013
+Corrupted Frame at event 1, shutter 36
+Mon Aug 19 19:05:15 CEST 2013
+Corrupted Frame at event 1, shutter 37
+Mon Aug 19 19:05:15 CEST 2013
+Corrupted Frame at event 1, shutter 38
+Mon Aug 19 19:05:16 CEST 2013
+Corrupted Frame at event 1, shutter 39
+Mon Aug 19 19:05:16 CEST 2013
+Corrupted Frame at event 1, shutter 40
+Mon Aug 19 19:05:17 CEST 2013
+Corrupted Frame at event 1, shutter 41
+Mon Aug 19 19:05:17 CEST 2013
+Corrupted Frame at event 1, shutter 42
+Mon Aug 19 19:05:18 CEST 2013
+Corrupted Frame at event 1, shutter 43
+Mon Aug 19 19:05:19 CEST 2013
+Corrupted Frame at event 1, shutter 44
+Mon Aug 19 19:05:19 CEST 2013
+Corrupted Frame at event 1, shutter 45
+Mon Aug 19 19:05:20 CEST 2013
+Corrupted Frame at event 1, shutter 46
+Mon Aug 19 19:05:20 CEST 2013
+Corrupted Frame at event 1, shutter 47
+Mon Aug 19 19:05:21 CEST 2013
+Corrupted Frame at event 1, shutter 48
+Mon Aug 19 19:05:21 CEST 2013
+Corrupted Frame at event 1, shutter 49
+Mon Aug 19 19:05:22 CEST 2013
+Corrupted Frame at event 1, shutter 50
+Mon Aug 19 19:05:23 CEST 2013
+Corrupted Frame at event 1, shutter 51
+Mon Aug 19 19:05:23 CEST 2013
+Corrupted Frame at event 1, shutter 52
+Mon Aug 19 19:05:24 CEST 2013
+Corrupted Frame at event 1, shutter 53
+Mon Aug 19 19:05:24 CEST 2013
+Corrupted Frame at event 1, shutter 54
+Mon Aug 19 19:05:25 CEST 2013
+Corrupted Frame at event 1, shutter 55
+Mon Aug 19 19:05:25 CEST 2013
+Corrupted Frame at event 1, shutter 56
+Mon Aug 19 19:05:26 CEST 2013
+Corrupted Frame at event 1, shutter 57
+Mon Aug 19 19:05:27 CEST 2013
+Corrupted Frame at event 1, shutter 58
+Mon Aug 19 19:05:27 CEST 2013
+Corrupted Frame at event 1, shutter 59
+Mon Aug 19 19:05:28 CEST 2013
+Corrupted Frame at event 1, shutter 60
+Mon Aug 19 19:05:28 CEST 2013
+Corrupted Frame at event 1, shutter 61
+Mon Aug 19 19:05:29 CEST 2013
+Corrupted Frame at event 1, shutter 62
+Mon Aug 19 19:05:29 CEST 2013
+Corrupted Frame at event 1, shutter 63
+Mon Aug 19 19:05:30 CEST 2013
+Corrupted Frame at event 1, shutter 64
+Mon Aug 19 19:05:31 CEST 2013
+Corrupted Frame at event 1, shutter 65
+Mon Aug 19 19:05:31 CEST 2013
+Corrupted Frame at event 1, shutter 66
+Mon Aug 19 19:05:32 CEST 2013
+Corrupted Frame at event 1, shutter 67
+Mon Aug 19 19:05:32 CEST 2013
+Corrupted Frame at event 1, shutter 68
+Mon Aug 19 19:05:33 CEST 2013
+Corrupted Frame at event 1, shutter 69
+Mon Aug 19 19:05:33 CEST 2013
+Corrupted Frame at event 1, shutter 70
+Mon Aug 19 19:05:34 CEST 2013
+Corrupted Frame at event 1, shutter 71
+Mon Aug 19 19:05:35 CEST 2013
+Corrupted Frame at event 1, shutter 72
+Mon Aug 19 19:05:35 CEST 2013
+Corrupted Frame at event 1, shutter 73
+Mon Aug 19 19:05:36 CEST 2013
+Corrupted Frame at event 1, shutter 74
+Mon Aug 19 19:05:36 CEST 2013
+Corrupted Frame at event 1, shutter 75
+Mon Aug 19 19:05:37 CEST 2013
+Corrupted Frame at event 1, shutter 76
+Mon Aug 19 19:05:37 CEST 2013
+Corrupted Frame at event 1, shutter 77
+Mon Aug 19 19:05:38 CEST 2013
+Corrupted Frame at event 1, shutter 78
+Mon Aug 19 19:05:38 CEST 2013
+Corrupted Frame at event 1, shutter 79
+Mon Aug 19 19:05:39 CEST 2013
+Corrupted Frame at event 1, shutter 80
+Mon Aug 19 19:05:40 CEST 2013
+Corrupted Frame at event 1, shutter 81
+Mon Aug 19 19:05:40 CEST 2013
+Corrupted Frame at event 1, shutter 82
+Mon Aug 19 19:05:41 CEST 2013
+Corrupted Frame at event 1, shutter 83
+Mon Aug 19 19:05:41 CEST 2013
+Corrupted Frame at event 1, shutter 84
+Mon Aug 19 19:05:42 CEST 2013
+Corrupted Frame at event 1, shutter 85
+Mon Aug 19 19:05:42 CEST 2013
+Corrupted Frame at event 1, shutter 86
+Mon Aug 19 19:05:43 CEST 2013
+Corrupted Frame at event 1, shutter 87
+Mon Aug 19 19:05:44 CEST 2013
+Corrupted Frame at event 1, shutter 88
+Mon Aug 19 19:05:44 CEST 2013
+Corrupted Frame at event 1, shutter 89
+Mon Aug 19 19:05:45 CEST 2013
+Corrupted Frame at event 1, shutter 90
+Mon Aug 19 19:05:45 CEST 2013
+Corrupted Frame at event 1, shutter 91
+Mon Aug 19 19:05:46 CEST 2013
+Corrupted Frame at event 1, shutter 92
+Mon Aug 19 19:05:46 CEST 2013
+Corrupted Frame at event 1, shutter 93
+Mon Aug 19 19:05:47 CEST 2013
+Corrupted Frame at event 1, shutter 94
+Mon Aug 19 19:05:48 CEST 2013
+Corrupted Frame at event 1, shutter 95
+Mon Aug 19 19:05:48 CEST 2013
+Corrupted Frame at event 1, shutter 96
+Mon Aug 19 19:05:49 CEST 2013
+Corrupted Frame at event 1, shutter 97
+Mon Aug 19 19:05:49 CEST 2013
+Corrupted Frame at event 1, shutter 98
+Mon Aug 19 19:05:50 CEST 2013
+Corrupted Frame at event 1, shutter 99
+Mon Aug 19 19:05:50 CEST 2013
+Corrupted Frame at event 1, shutter 100
+Mon Aug 19 19:05:51 CEST 2013
+Corrupted Frame at event 1, shutter 101
+Mon Aug 19 19:05:52 CEST 2013
+Corrupted Frame at event 1, shutter 102
+Mon Aug 19 19:05:52 CEST 2013
+Corrupted Frame at event 1, shutter 103
+Mon Aug 19 19:05:53 CEST 2013
+Stopping Run 27
+Mon Aug 19 19:05:53 CEST 2013
+Corrupted Frame at event 2, shutter 104
+Mon Aug 19 19:06:01 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Mon Aug 19 19:06:57 CEST 2013
+Started Producer
+################ execution log ################
+Mon Aug 19 19:07:00 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Mon Aug 19 19:12:16 CEST 2013
+Started Producer
+################ execution log ################
+Mon Aug 19 19:13:23 CEST 2013
+Configuring with ni_timepix
+Mon Aug 19 19:13:23 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B04-W0110/Configs/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT
+Mon Aug 19 19:13:23 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT_ascii
+Mon Aug 19 19:13:23 CEST 2013
+Mode is TOT
+Mon Aug 19 19:13:23 CEST 2013
+Bias is 15V
+Mon Aug 19 19:13:33 CEST 2013
+Starting Run 28
+Mon Aug 19 19:17:44 CEST 2013
+Stopping Run 28
+Mon Aug 19 19:18:19 CEST 2013
+Producer Terminated 28
+###############################################
+###############################################
+Mon Aug 19 19:27:05 CEST 2013
+Started Producer
+################ execution log ################
+Mon Aug 19 19:27:21 CEST 2013
+Configuring with ni_timepix
+Mon Aug 19 19:27:21 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B04-W0110/Configs/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT
+Mon Aug 19 19:27:21 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT_ascii
+Mon Aug 19 19:27:21 CEST 2013
+Mode is TOT
+Mon Aug 19 19:27:21 CEST 2013
+Bias is 15V
+Mon Aug 19 19:27:31 CEST 2013
+Starting Run 29
+Mon Aug 19 19:29:16 CEST 2013
+Stopping Run 29
+Mon Aug 19 19:29:50 CEST 2013
+Configuring with ni_timepix
+Mon Aug 19 19:29:50 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B04-W0110/Configs/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT
+Mon Aug 19 19:29:50 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT_ascii
+Mon Aug 19 19:29:50 CEST 2013
+Mode is TOT
+Mon Aug 19 19:29:50 CEST 2013
+Bias is 15V
+Mon Aug 19 19:30:00 CEST 2013
+Starting Run 30
+###############################################
+Mon Aug 19 20:20:13 CEST 2013
+Started Producer
+################ execution log ################
+Mon Aug 19 20:20:53 CEST 2013
+Configuring with ni_timepix
+Mon Aug 19 20:20:53 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B04-W0110/Configs/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT
+Mon Aug 19 20:20:53 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT_ascii
+Mon Aug 19 20:20:53 CEST 2013
+Mode is TOT
+Mon Aug 19 20:20:53 CEST 2013
+Bias is 15V
+Mon Aug 19 20:21:01 CEST 2013
+Starting Run 32
+Mon Aug 19 20:22:48 CEST 2013
+Stopping Run 32
+Mon Aug 19 20:23:03 CEST 2013
+Configuring with ni_timepix
+Mon Aug 19 20:23:03 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B04-W0110/Configs/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT
+Mon Aug 19 20:23:03 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT_ascii
+Mon Aug 19 20:23:03 CEST 2013
+Mode is TOT
+Mon Aug 19 20:23:03 CEST 2013
+Bias is 15V
+Mon Aug 19 20:23:19 CEST 2013
+Starting Run 33
+Mon Aug 19 20:31:05 CEST 2013
+Stopping Run 33
+Mon Aug 19 20:31:24 CEST 2013
+Configuring with ni_timepix
+Mon Aug 19 20:31:24 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B04-W0110/Configs/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT
+Mon Aug 19 20:31:24 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT_ascii
+Mon Aug 19 20:31:24 CEST 2013
+Mode is TOT
+Mon Aug 19 20:31:24 CEST 2013
+Bias is 15V
+Mon Aug 19 20:31:38 CEST 2013
+Starting Run 34
+Mon Aug 19 20:32:52 CEST 2013
+Stopping Run 34
+Mon Aug 19 20:33:18 CEST 2013
+Configuring with ni_timepix
+Mon Aug 19 20:33:18 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B04-W0110/Configs/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT
+Mon Aug 19 20:33:18 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT_ascii
+Mon Aug 19 20:33:18 CEST 2013
+Mode is TOT
+Mon Aug 19 20:33:18 CEST 2013
+Bias is 15V
+Mon Aug 19 20:33:27 CEST 2013
+Starting Run 35
+Mon Aug 19 20:34:40 CEST 2013
+Stopping Run 35
+Mon Aug 19 20:34:56 CEST 2013
+Configuring with ni_timepix
+Mon Aug 19 20:34:56 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B04-W0110/Configs/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT
+Mon Aug 19 20:34:56 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT_ascii
+Mon Aug 19 20:34:56 CEST 2013
+Mode is TOT
+Mon Aug 19 20:34:56 CEST 2013
+Bias is 15V
+Mon Aug 19 20:35:04 CEST 2013
+Starting Run 36
+Mon Aug 19 20:36:07 CEST 2013
+Stopping Run 36
+Mon Aug 19 20:41:27 CEST 2013
+Configuring with ni_timepix
+Mon Aug 19 20:41:27 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B04-W0110/Configs/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT
+Mon Aug 19 20:41:27 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT_ascii
+Mon Aug 19 20:41:27 CEST 2013
+Mode is TOT
+Mon Aug 19 20:41:27 CEST 2013
+Bias is 15V
+Mon Aug 19 20:41:43 CEST 2013
+Starting Run 37
+Mon Aug 19 20:47:44 CEST 2013
+Stopping Run 37
+Mon Aug 19 21:12:49 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Mon Aug 19 21:12:51 CEST 2013
+Started Producer
+################ execution log ################
+Mon Aug 19 21:13:06 CEST 2013
+Configuring with ni_timepix
+Mon Aug 19 21:13:06 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B04-W0110/Configs/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT
+Mon Aug 19 21:13:06 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT_ascii
+Mon Aug 19 21:13:06 CEST 2013
+Mode is TOT
+Mon Aug 19 21:13:06 CEST 2013
+Bias is 15V
+Mon Aug 19 21:13:15 CEST 2013
+Starting Run 38
+###############################################
+Tue Aug 20 08:42:16 CEST 2013
+Started Producer
+################ execution log ################
+Tue Aug 20 08:42:23 CEST 2013
+Configuring with ni_timepix
+Tue Aug 20 08:42:23 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B04-W0110/Configs/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT
+Tue Aug 20 08:42:23 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT_ascii
+Tue Aug 20 08:42:23 CEST 2013
+Mode is TOT
+Tue Aug 20 08:42:23 CEST 2013
+Bias is 15V
+Tue Aug 20 08:44:50 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Tue Aug 20 08:44:51 CEST 2013
+Started Producer
+################ execution log ################
+Tue Aug 20 08:44:57 CEST 2013
+Configuring with ni_timepix
+Tue Aug 20 08:44:57 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B04-W0110/Configs/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT
+Tue Aug 20 08:44:57 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT_ascii
+Tue Aug 20 08:44:57 CEST 2013
+Mode is TOT
+Tue Aug 20 08:44:57 CEST 2013
+Bias is 15V
+Tue Aug 20 08:45:08 CEST 2013
+Starting Run 39
+###############################################
+Tue Aug 20 10:12:45 CEST 2013
+Started Producer
+################ execution log ################
+Tue Aug 20 10:12:52 CEST 2013
+Configuring with ni_timepix
+Tue Aug 20 10:12:52 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B04-W0110/Configs/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT
+Tue Aug 20 10:12:52 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT_ascii
+Tue Aug 20 10:12:52 CEST 2013
+Mode is TOT
+Tue Aug 20 10:12:52 CEST 2013
+Bias is 15V
+Tue Aug 20 10:14:01 CEST 2013
+Starting Run 40
+Tue Aug 20 10:15:48 CEST 2013
+Stopping Run 40
+Tue Aug 20 10:15:52 CEST 2013
+Producer Terminated 40
+###############################################
+###############################################
+Tue Aug 20 10:16:27 CEST 2013
+Started Producer
+################ execution log ################
+Tue Aug 20 10:16:51 CEST 2013
+Configuring with ni_timepix
+Tue Aug 20 10:16:51 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B04-W0110/Configs/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT
+Tue Aug 20 10:16:51 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT_ascii
+Tue Aug 20 10:16:51 CEST 2013
+Mode is TOT
+Tue Aug 20 10:16:51 CEST 2013
+Bias is 15V
+Tue Aug 20 10:17:00 CEST 2013
+Starting Run 40
+###############################################
+Tue Aug 20 10:18:25 CEST 2013
+Started Producer
+################ execution log ################
+Tue Aug 20 10:18:56 CEST 2013
+Configuring with ni_timepix
+Tue Aug 20 10:18:56 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B04-W0110/Configs/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT
+Tue Aug 20 10:18:56 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT_ascii
+Tue Aug 20 10:18:56 CEST 2013
+Mode is TOT
+Tue Aug 20 10:18:56 CEST 2013
+Bias is 15V
+Tue Aug 20 10:19:07 CEST 2013
+Starting Run 40
+###############################################
+Tue Aug 20 10:19:32 CEST 2013
+Started Producer
+################ execution log ################
+Tue Aug 20 10:19:37 CEST 2013
+Configuring with ni_timepix
+Tue Aug 20 10:19:37 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B04-W0110/Configs/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT
+Tue Aug 20 10:19:37 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT_ascii
+Tue Aug 20 10:19:37 CEST 2013
+Mode is TOT
+Tue Aug 20 10:19:37 CEST 2013
+Bias is 15V
+Tue Aug 20 10:19:45 CEST 2013
+Starting Run 42
+Tue Aug 20 10:20:04 CEST 2013
+Stopping Run 42
+Tue Aug 20 10:20:30 CEST 2013
+Configuring with ni_timepix
+Tue Aug 20 10:20:30 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B04-W0110/Configs/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT
+Tue Aug 20 10:20:30 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT_ascii
+Tue Aug 20 10:20:30 CEST 2013
+Mode is TOT
+Tue Aug 20 10:20:30 CEST 2013
+Bias is 15V
+Tue Aug 20 10:20:39 CEST 2013
+Starting Run 43
+Tue Aug 20 10:50:59 CEST 2013
+Stopping Run 43
+Tue Aug 20 10:51:27 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Tue Aug 20 10:52:45 CEST 2013
+Started Producer
+################ execution log ################
+Tue Aug 20 10:53:08 CEST 2013
+Configuring with ni_timepix
+Tue Aug 20 10:53:08 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B04-W0110/Configs/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT
+Tue Aug 20 10:53:08 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT_ascii
+Tue Aug 20 10:53:08 CEST 2013
+Mode is TOT
+Tue Aug 20 10:53:08 CEST 2013
+Bias is 15V
+Tue Aug 20 10:53:32 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Tue Aug 20 10:54:15 CEST 2013
+Started Producer
+################ execution log ################
+Tue Aug 20 10:54:29 CEST 2013
+Configuring with ni_timepix
+Tue Aug 20 10:54:29 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B04-W0110/Configs/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT
+Tue Aug 20 10:54:29 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT_ascii
+Tue Aug 20 10:54:29 CEST 2013
+Mode is TOT
+Tue Aug 20 10:54:29 CEST 2013
+Bias is 15V
+Tue Aug 20 10:54:39 CEST 2013
+Starting Run 44
+Tue Aug 20 10:56:21 CEST 2013
+Stopping Run 44
+Tue Aug 20 10:56:22 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Tue Aug 20 10:57:00 CEST 2013
+Started Producer
+################ execution log ################
+Tue Aug 20 10:57:27 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Tue Aug 20 10:57:29 CEST 2013
+Started Producer
+################ execution log ################
+###############################################
+Tue Aug 20 10:57:30 CEST 2013
+Started Producer
+################ execution log ################
+###############################################
+Tue Aug 20 10:57:50 CEST 2013
+Started Producer
+################ execution log ################
+Tue Aug 20 10:58:27 CEST 2013
+Configuring with ni_timepix
+Tue Aug 20 10:58:27 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B04-W0110/Configs/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT
+Tue Aug 20 10:58:27 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT_ascii
+Tue Aug 20 10:58:27 CEST 2013
+Mode is TOT
+Tue Aug 20 10:58:27 CEST 2013
+Bias is 15V
+Tue Aug 20 10:58:36 CEST 2013
+Starting Run 45
+Tue Aug 20 11:14:55 CEST 2013
+Stopping Run 45
+Tue Aug 20 11:27:35 CEST 2013
+Starting Run 46
+Tue Aug 20 11:37:19 CEST 2013
+Stopping Run 46
+Tue Aug 20 11:41:43 CEST 2013
+Starting Run 47
+Tue Aug 20 11:44:38 CEST 2013
+Corrupted Frame at event 1530, shutter 1529
+Tue Aug 20 11:58:17 CEST 2013
+Stopping Run 47
+Tue Aug 20 12:01:29 CEST 2013
+Starting Run 48
+###############################################
+Tue Aug 20 13:10:31 CEST 2013
+Started Producer
+################ execution log ################
+Tue Aug 20 13:10:46 CEST 2013
+Configuring with ni_timepix
+Tue Aug 20 13:10:46 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B04-W0110/Configs/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT
+Tue Aug 20 13:10:46 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT_ascii
+Tue Aug 20 13:10:46 CEST 2013
+Mode is TOT
+Tue Aug 20 13:10:46 CEST 2013
+Bias is 15V
+Tue Aug 20 13:11:00 CEST 2013
+Starting Run 49
+###############################################
+Tue Aug 20 13:49:02 CEST 2013
+Started Producer
+################ execution log ################
+Tue Aug 20 13:49:28 CEST 2013
+Configuring with ni_timepix
+Tue Aug 20 13:49:28 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B04-W0110/Configs/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT
+Tue Aug 20 13:49:28 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT_ascii
+Tue Aug 20 13:49:28 CEST 2013
+Mode is TOT
+Tue Aug 20 13:49:28 CEST 2013
+Bias is 15V
+Tue Aug 20 13:49:40 CEST 2013
+Starting Run 50
+Tue Aug 20 14:10:20 CEST 2013
+Stopping Run 50
+Tue Aug 20 14:10:33 CEST 2013
+Configuring with ni_timepix
+Tue Aug 20 14:10:33 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B04-W0110/Configs/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT
+Tue Aug 20 14:10:33 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT_ascii
+Tue Aug 20 14:10:33 CEST 2013
+Mode is TOT
+Tue Aug 20 14:10:33 CEST 2013
+Bias is 15V
+Tue Aug 20 14:10:46 CEST 2013
+Starting Run 51
+Tue Aug 20 14:14:48 CEST 2013
+Stopping Run 51
+Tue Aug 20 14:16:22 CEST 2013
+Starting Run 52
+Tue Aug 20 14:22:55 CEST 2013
+Stopping Run 52
+Tue Aug 20 14:23:05 CEST 2013
+Starting Run 53
+Tue Aug 20 14:24:18 CEST 2013
+Stopping Run 53
+Tue Aug 20 14:25:23 CEST 2013
+Starting Run 54
+Tue Aug 20 14:30:00 CEST 2013
+Stopping Run 54
+Tue Aug 20 14:30:52 CEST 2013
+Starting Run 55
+Tue Aug 20 14:35:15 CEST 2013
+Stopping Run 55
+Tue Aug 20 14:36:17 CEST 2013
+Starting Run 56
+Tue Aug 20 14:41:16 CEST 2013
+Stopping Run 56
+Tue Aug 20 14:42:28 CEST 2013
+Starting Run 57
+Tue Aug 20 15:00:41 CEST 2013
+Stopping Run 57
+Tue Aug 20 15:00:51 CEST 2013
+Starting Run 58
+Tue Aug 20 15:02:30 CEST 2013
+Stopping Run 58
+Tue Aug 20 15:03:55 CEST 2013
+Configuring with ni_timepix
+Tue Aug 20 15:03:55 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B04-W0110/Configs/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT
+Tue Aug 20 15:03:55 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT_ascii
+Tue Aug 20 15:03:55 CEST 2013
+Mode is TOT
+Tue Aug 20 15:03:55 CEST 2013
+Bias is 15V
+Tue Aug 20 15:04:05 CEST 2013
+Starting Run 59
+Tue Aug 20 15:37:15 CEST 2013
+Stopping Run 59
+Tue Aug 20 15:51:25 CEST 2013
+Configuring with ni_timepix
+Tue Aug 20 15:51:25 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B04-W0110/Configs/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT
+Tue Aug 20 15:51:25 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT_ascii
+Tue Aug 20 15:51:25 CEST 2013
+Mode is TOT
+Tue Aug 20 15:51:25 CEST 2013
+Bias is 20V
+Tue Aug 20 15:51:33 CEST 2013
+Starting Run 60
+Tue Aug 20 16:24:45 CEST 2013
+Stopping Run 60
+Tue Aug 20 16:30:28 CEST 2013
+Configuring with ni_timepix
+Tue Aug 20 16:30:28 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B04-W0110/Configs/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT
+Tue Aug 20 16:30:28 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT_ascii
+Tue Aug 20 16:30:28 CEST 2013
+Mode is TOT
+Tue Aug 20 16:30:28 CEST 2013
+Bias is 25V
+Tue Aug 20 16:30:38 CEST 2013
+Starting Run 61
+###############################################
+Tue Aug 20 17:01:25 CEST 2013
+Started Producer
+################ execution log ################
+Tue Aug 20 17:01:32 CEST 2013
+Configuring with ni_timepix
+Tue Aug 20 17:01:32 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B04-W0110/Configs/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT
+Tue Aug 20 17:01:32 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT_ascii
+Tue Aug 20 17:01:32 CEST 2013
+Mode is TOT
+Tue Aug 20 17:01:32 CEST 2013
+Bias is 30V
+Tue Aug 20 17:01:46 CEST 2013
+Starting Run 62
+Tue Aug 20 17:29:32 CEST 2013
+Stopping Run 62
+Tue Aug 20 17:31:52 CEST 2013
+Configuring with ni_timepix
+Tue Aug 20 17:31:52 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B04-W0110/Configs/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT
+Tue Aug 20 17:31:52 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT_ascii
+Tue Aug 20 17:31:52 CEST 2013
+Mode is TOT
+Tue Aug 20 17:31:52 CEST 2013
+Bias is 35V
+Tue Aug 20 17:31:59 CEST 2013
+Starting Run 63
+###############################################
+Tue Aug 20 18:08:56 CEST 2013
+Started Producer
+################ execution log ################
+Tue Aug 20 18:23:03 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Tue Aug 20 18:23:04 CEST 2013
+Started Producer
+################ execution log ################
+Tue Aug 20 18:23:51 CEST 2013
+Configuring with ni_timepix
+Tue Aug 20 18:23:51 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B04-W0110/Configs/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT
+Tue Aug 20 18:23:51 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT_ascii
+Tue Aug 20 18:23:51 CEST 2013
+Mode is TOT
+Tue Aug 20 18:23:51 CEST 2013
+Bias is 40V
+Tue Aug 20 18:27:25 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Tue Aug 20 18:27:27 CEST 2013
+Started Producer
+################ execution log ################
+Tue Aug 20 18:27:51 CEST 2013
+Configuring with ni_timepix
+Tue Aug 20 18:27:51 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B04-W0110/Configs/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT
+Tue Aug 20 18:27:51 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT_ascii
+Tue Aug 20 18:27:51 CEST 2013
+Mode is TOT
+Tue Aug 20 18:27:51 CEST 2013
+Bias is 40V
+Tue Aug 20 18:28:03 CEST 2013
+Starting Run 64
+Tue Aug 20 18:53:33 CEST 2013
+Stopping Run 64
+Tue Aug 20 18:56:49 CEST 2013
+Configuring with ni_timepix
+Tue Aug 20 18:56:49 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B04-W0110/Configs/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT
+Tue Aug 20 18:56:49 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT_ascii
+Tue Aug 20 18:56:49 CEST 2013
+Mode is TOT
+Tue Aug 20 18:56:49 CEST 2013
+Bias is 15V
+Tue Aug 20 18:57:00 CEST 2013
+Starting Run 65
+Tue Aug 20 18:57:25 CEST 2013
+Stopping Run 65
+Tue Aug 20 18:57:54 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Tue Aug 20 19:11:45 CEST 2013
+Started Producer
+################ execution log ################
+Tue Aug 20 19:11:55 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Tue Aug 20 19:13:08 CEST 2013
+Started Producer
+################ execution log ################
+Tue Aug 20 19:13:32 CEST 2013
+Configuring with ni_timepix
+Tue Aug 20 19:13:32 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B04-W0110/Configs/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT
+Tue Aug 20 19:13:32 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT_ascii
+Tue Aug 20 19:13:32 CEST 2013
+Mode is TOT
+Tue Aug 20 19:13:32 CEST 2013
+Bias is 25V
+Tue Aug 20 19:13:42 CEST 2013
+Starting Run 66
+Tue Aug 20 19:14:24 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Tue Aug 20 19:16:30 CEST 2013
+Started Producer
+################ execution log ################
+Tue Aug 20 19:16:57 CEST 2013
+Configuring with ni_timepix
+Tue Aug 20 19:16:57 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B04-W0110/Configs/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT
+Tue Aug 20 19:16:57 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT_ascii
+Tue Aug 20 19:16:57 CEST 2013
+Mode is TOT
+Tue Aug 20 19:16:57 CEST 2013
+Bias is 25V
+Tue Aug 20 19:17:08 CEST 2013
+Starting Run 67
+###############################################
+Wed Aug 21 13:37:57 CEST 2013
+Started Producer
+################ execution log ################
+Wed Aug 21 13:38:04 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Wed Aug 21 13:38:44 CEST 2013
+Started Producer
+################ execution log ################
+Wed Aug 21 13:38:51 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Wed Aug 21 13:41:13 CEST 2013
+Started Producer
+################ execution log ################
+Wed Aug 21 13:41:25 CEST 2013
+Configuring with ni_timepix
+Wed Aug 21 13:41:25 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B04-W0110/Configs/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT
+Wed Aug 21 13:41:25 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT_ascii
+Wed Aug 21 13:41:25 CEST 2013
+Mode is TOT
+Wed Aug 21 13:41:25 CEST 2013
+Bias is 25V
+Wed Aug 21 13:42:11 CEST 2013
+Configuring with ni_timepix
+Wed Aug 21 13:42:11 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B04-W0110/Configs/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT
+Wed Aug 21 13:42:11 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/BPC_B04-W0110_15V_IKrum1_96MHz_19-08-13_TOT_ascii
+Wed Aug 21 13:42:11 CEST 2013
+Mode is TOT
+Wed Aug 21 13:42:11 CEST 2013
+Bias is 15V
+Wed Aug 21 13:42:36 CEST 2013
+Starting Run 93
+Wed Aug 21 13:46:05 CEST 2013
+Stopping Run 93
+Wed Aug 21 13:46:17 CEST 2013
+Producer Interupted
+###############################################

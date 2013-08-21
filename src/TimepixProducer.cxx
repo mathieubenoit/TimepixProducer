@@ -380,7 +380,7 @@ bool badFrame=false;
 while(!fitpixstate.FrameReady){
         eudaq::mSleep(0.01);
 		timeout++;
-		if(timeout>10000){
+		if(timeout>1000000){
 #ifdef DEBUGFITPIX
 			cout << get_time()<<" [FITPIX] Corrupted Frame" << endl;
 #endif
