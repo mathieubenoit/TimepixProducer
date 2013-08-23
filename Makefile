@@ -1,7 +1,7 @@
 EXTERNAL_DEFS += EUDAQ_FUNC=__PRETTY_FUNCTION__ EUDAQ_PLATFORM=PF_$(PLATFORM)
-EXTERNAL_LIBS += eudaq dl
-EXTERNAL_LIBDIRS += ../bin
-EXTERNAL_INCS += ../main/include ./include
+EXTERNAL_LIBS += eudaq dl Keithley gpib
+EXTERNAL_LIBDIRS += ../bin $(KEITHLEYLIB)/lib /usr/local/lib
+EXTERNAL_INCS += ../main/include ./include $(KEITHLEYLIB)/include
 EXTERNAL_INCS += $(PIXELMAN_INSTALL)/_other_/headers
 
 include ../Makefile.common

@@ -7,6 +7,8 @@
  *      		PH-LCD , CERN
  */
 
+#define USE_KEITHLEY
+#define KEITHLEYDEBUG
 
 #include "eudaq/Producer.hh"
 #include "eudaq/Logger.hh"
@@ -27,9 +29,38 @@
 #include "TimepixDevice.h"
 #include <time.h>
 
+#ifdef USE_KEITHLEY
+#include "Keithley2000.h"
+#include "Keithley2410.h"
+#endif
+
 using namespace std;
 
 //#define DEBUGFITPIX
+
+
+float GetPt100Temperature(float r)
+{
+      float const Pt100[] = {80.31, 82.29, 84.27, 86.25, 88.22, 90.19, 92.16, 94.12, 96.09, 98.04,
+                            100.0, 101.95, 103.9, 105.85, 107.79, 109.73, 111.67, 113.61, 115.54, 117.47,
+                            119.4, 121.32, 123.24, 125.16, 127.07, 128.98, 130.89, 132.8, 134.7, 136.6,
+                            138.5, 140.39, 142.29, 157.31, 175.84, 195.84};
+
+      int t = -50, i = 0, dt = 0;
+
+      if (r > Pt100[0])
+         while (250 > t)
+         {
+               dt = (t < 110) ? 5 : (t > 110) ? 50 : 40;
+
+               if (r < Pt100 [++i])
+                  return t + ( r - Pt100[i-1])*dt/(Pt100[i]-Pt100[i-1]);
+                  t += dt;
+         };
+
+      return t;
+
+}
 
 struct timeval t0;
 
@@ -165,6 +196,22 @@ public:
     int mimtlu_status = aMIMTLU->Connect(const_cast<char *>("192.168.222.200"),const_cast<char *>("23"));
     if(mimtlu_status!=1)     SetStatus(eudaq::Status::LVL_ERROR, "MIMTLU Not Running !!");
     gettimeofday(&t0, NULL);
+
+#ifdef USE_KEITHLEY
+	k2410 = new Keithley2410(12);
+	k2000 = new Keithley2000(16);
+//Setting up Keithley
+	sleep(1);
+	k2000->SetMeasureResistance4W();
+	sleep(1);
+	k2410->OutputOn();
+	sleep(1);
+	k2410->SetMeasureCurrent();
+	sleep(1);
+	k2410->SetSourceVoltage4W();
+#endif
+	cout << "[TimepixProducer] Done" << endl;
+
   }
 
   void LogMessage(char* msg){
@@ -207,7 +254,15 @@ public:
     bpc_config = config.Get("Binary_Config", "/home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/C04-W0110/Configs/BPC_C04-W0110_15V_IKrum1_96MHz_08-08-13");
     ascii_config = config.Get("Ascii_Config","/home/lcd/CLIC_Testbeam_August2013/eudaq/TimepixProducer/Pixelman_SCL_2011_12_07/Default_Ascii_Config");
     mode = config.Get("TPMode","TOT");
-    bias_voltage=config.Get("Bias","15V");
+    bias_voltage=config.Get("Bias",15.0);
+    VMax=config.Get("Maximum_Bias",40);
+    N_Bias_Step=config.Get("N_Bias_Step",6);
+    doRamp=config.Get("doRamp",0);
+
+    init_bias=bias_voltage;
+    bias_step = (VMax-bias_voltage)/N_Bias_Step;
+    stepcnt=0;
+
 
     //Logging of the Configuration
     sprintf(logmsg,"Binary Config is %s",bpc_config.c_str());
@@ -216,7 +271,7 @@ public:
     LogMessage(logmsg);
     sprintf(logmsg,"Mode is %s",mode.c_str());
     LogMessage(logmsg);
-    sprintf(logmsg,"Bias is %s",bias_voltage.c_str());
+    sprintf(logmsg,"Bias is %f",bias_voltage);
     LogMessage(logmsg);
 
 
@@ -229,16 +284,23 @@ public:
     aMIMTLU->SetShutterLength(slen);
     aMIMTLU->SetShutterMode(smode);
 
+#ifdef USE_KEITHLEY
+	k2410->SetOutputVoltage(bias_voltage);
+#endif
 
+	cout << "[TimepixProducer] Bias Voltage is  : " << bias_voltage  << endl;
     cout << "[TimepixProducer] Setting Acquisition time to : " << acqTime*1.e-6 << "s" << endl;
     cout << "[TimepixProducer] Setting MiMTLU Trigger per Shutter to : " << ntrig  << endl;
     cout << "[TimepixProducer] Setting MiMTLU Pulse Length to : " << plen*1.e-8 << "s" << endl;
     cout << "[TimepixProducer] Setting MiMTLU Shutter Length to : " << slen*1.e-8 << "s" << endl;
     cout << "[TimepixProducer] Setting MiMTLU Shutter Mode to : " << smode  << endl;
     cout << "[TimepixProducer] Timepix Mode is  : " << mode  << endl;
-    cout << "[TimepixProducer] Bias Voltage is  : " << bias_voltage  << endl;
+
+
     // At the end, set the status that will be displayed in the Run Control.
     SetStatus(eudaq::Status::LVL_OK, "Configured (" + config.Name() + ")");
+	cout << "[TimepixProducer] Done" << endl;
+
   }
 
   // This gets called whenever a new run is started
@@ -248,6 +310,19 @@ public:
     m_ev = 1;
     m_shutter=0;
     std::cout << "Start Run: " << m_run << std::endl;
+
+#ifdef USE_KEITHLEY
+
+    if(bias_voltage<VMax && (doRamp==1 && stepcnt<=N_Bias_Step)){
+
+    	k2410->SetOutputVoltage(bias_voltage);
+    	stepcnt++;
+    }
+    else{
+    	k2410->SetOutputVoltage(init_bias);
+    }
+
+#endif
 
     char logmsg[1000];
     sprintf(logmsg,"Starting Run %i",m_run);
@@ -313,6 +388,8 @@ public:
     if(status==0){
     status = 1;
     }
+
+    if(doRamp==1)bias_voltage+=bias_step;
   }  
 
   // This gets called when the Run Control is terminating,
@@ -452,6 +529,17 @@ while(!fitpixstate.FrameReady){
           if(status==0) { 
             status=1;
         }
+
+#ifdef USE_KEITHLEY
+  		double current=k2410->ReadValue();
+		double R=k2000->ReadValue();
+		char kmsg[1024];
+		sprintf(kmsg,"Temperature is : %f C, Bias Voltage is %f V, Current is %f nA",GetPt100Temperature(R),bias_voltage,current*1e9);
+		LogMessage(kmsg);
+		SetStatus(eudaq::Status::LVL_INFO, kmsg);
+
+#endif
+
       }
 
 
@@ -501,7 +589,15 @@ private:
   pthread_mutex_t m_producer_mutex;
   int control;
   string bpc_config,ascii_config;
-  string bias_voltage, mode;
+  string  mode;
+  double bias_voltage, VMax;
+  int N_Bias_Step;
+  Keithley2410 *k2410;
+  Keithley2000 *k2000;
+  int doRamp,stepcnt;
+  double bias_step,init_bias;
+
+
 
 };
 

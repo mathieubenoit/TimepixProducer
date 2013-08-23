@@ -2440,3 +2440,3105 @@ Stopping Run 93
 Wed Aug 21 13:46:17 CEST 2013
 Producer Interupted
 ###############################################
+###############################################
+Wed Aug 21 14:34:19 CEST 2013
+Started Producer
+################ execution log ################
+Wed Aug 21 14:36:11 CEST 2013
+Starting Run 94
+Wed Aug 21 14:36:12 CEST 2013
+Stopping Run 94
+Wed Aug 21 14:36:25 CEST 2013
+Configuring with ni_timepix
+Wed Aug 21 14:36:25 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT
+Wed Aug 21 14:36:25 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT_ascii
+Wed Aug 21 14:36:25 CEST 2013
+Mode is TOT
+Wed Aug 21 14:36:25 CEST 2013
+Bias is 15V
+Wed Aug 21 14:36:35 CEST 2013
+Starting Run 95
+Wed Aug 21 14:37:26 CEST 2013
+Stopping Run 95
+Wed Aug 21 14:38:26 CEST 2013
+Configuring with ni_timepix
+Wed Aug 21 14:38:26 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT
+Wed Aug 21 14:38:26 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT_ascii
+Wed Aug 21 14:38:26 CEST 2013
+Mode is TOT
+Wed Aug 21 14:38:26 CEST 2013
+Bias is 15V
+Wed Aug 21 14:38:35 CEST 2013
+Starting Run 96
+Wed Aug 21 14:50:30 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Wed Aug 21 14:51:02 CEST 2013
+Started Producer
+################ execution log ################
+Wed Aug 21 14:51:10 CEST 2013
+Configuring with ni_timepix
+Wed Aug 21 14:51:10 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT
+Wed Aug 21 14:51:10 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT_ascii
+Wed Aug 21 14:51:10 CEST 2013
+Mode is TOT
+Wed Aug 21 14:51:10 CEST 2013
+Bias is 15V
+Wed Aug 21 14:51:47 CEST 2013
+Starting Run 97
+###############################################
+Wed Aug 21 15:31:09 CEST 2013
+Started Producer
+################ execution log ################
+Wed Aug 21 15:31:37 CEST 2013
+Configuring with ni_timepix
+Wed Aug 21 15:31:37 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT
+Wed Aug 21 15:31:37 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT_ascii
+Wed Aug 21 15:31:37 CEST 2013
+Mode is TOT
+Wed Aug 21 15:31:37 CEST 2013
+Bias is 15V
+Wed Aug 21 15:32:18 CEST 2013
+Starting Run 98
+###############################################
+Wed Aug 21 15:47:57 CEST 2013
+Started Producer
+################ execution log ################
+Wed Aug 21 15:48:21 CEST 2013
+Configuring with ni_timepix
+Wed Aug 21 15:48:21 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT
+Wed Aug 21 15:48:21 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT_ascii
+Wed Aug 21 15:48:21 CEST 2013
+Mode is TOT
+Wed Aug 21 15:48:21 CEST 2013
+Bias is 15V
+Wed Aug 21 15:48:46 CEST 2013
+Starting Run 99
+###############################################
+Wed Aug 21 16:40:22 CEST 2013
+Started Producer
+################ execution log ################
+Wed Aug 21 16:41:33 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Wed Aug 21 16:41:34 CEST 2013
+Started Producer
+################ execution log ################
+###############################################
+Wed Aug 21 16:41:37 CEST 2013
+Started Producer
+################ execution log ################
+###############################################
+Wed Aug 21 16:41:38 CEST 2013
+Started Producer
+################ execution log ################
+###############################################
+Wed Aug 21 16:41:43 CEST 2013
+Started Producer
+################ execution log ################
+###############################################
+Wed Aug 21 16:42:18 CEST 2013
+Started Producer
+################ execution log ################
+Wed Aug 21 16:42:34 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Wed Aug 21 16:42:46 CEST 2013
+Started Producer
+################ execution log ################
+###############################################
+Wed Aug 21 16:42:47 CEST 2013
+Started Producer
+################ execution log ################
+###############################################
+Wed Aug 21 16:42:48 CEST 2013
+Started Producer
+################ execution log ################
+###############################################
+Wed Aug 21 16:42:49 CEST 2013
+Started Producer
+################ execution log ################
+###############################################
+Wed Aug 21 16:42:50 CEST 2013
+Started Producer
+################ execution log ################
+###############################################
+Wed Aug 21 16:42:51 CEST 2013
+Started Producer
+################ execution log ################
+###############################################
+Wed Aug 21 16:42:51 CEST 2013
+Started Producer
+################ execution log ################
+###############################################
+Wed Aug 21 16:42:52 CEST 2013
+Started Producer
+################ execution log ################
+###############################################
+Wed Aug 21 16:42:53 CEST 2013
+Started Producer
+################ execution log ################
+###############################################
+Wed Aug 21 16:42:54 CEST 2013
+Started Producer
+################ execution log ################
+###############################################
+Wed Aug 21 16:42:56 CEST 2013
+Started Producer
+################ execution log ################
+###############################################
+Wed Aug 21 16:43:03 CEST 2013
+Started Producer
+################ execution log ################
+###############################################
+Wed Aug 21 16:43:05 CEST 2013
+Started Producer
+################ execution log ################
+###############################################
+Wed Aug 21 16:43:12 CEST 2013
+Started Producer
+################ execution log ################
+###############################################
+Wed Aug 21 16:43:31 CEST 2013
+Started Producer
+################ execution log ################
+Wed Aug 21 16:46:19 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Wed Aug 21 16:46:20 CEST 2013
+Started Producer
+################ execution log ################
+Wed Aug 21 16:47:42 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Wed Aug 21 16:52:09 CEST 2013
+Started Producer
+################ execution log ################
+Wed Aug 21 16:53:08 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Wed Aug 21 16:54:54 CEST 2013
+Started Producer
+################ execution log ################
+###############################################
+Wed Aug 21 16:55:10 CEST 2013
+Started Producer
+################ execution log ################
+Wed Aug 21 16:55:16 CEST 2013
+Configuring with ni_timepix
+Wed Aug 21 16:55:16 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT
+Wed Aug 21 16:55:16 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT_ascii
+Wed Aug 21 16:55:16 CEST 2013
+Mode is TOT
+Wed Aug 21 16:55:16 CEST 2013
+Bias is 15
+Wed Aug 21 16:56:48 CEST 2013
+Configuring with ni_timepix
+Wed Aug 21 16:56:48 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT
+Wed Aug 21 16:56:48 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT_ascii
+Wed Aug 21 16:56:48 CEST 2013
+Mode is TOT
+Wed Aug 21 16:56:48 CEST 2013
+Bias is 15
+Wed Aug 21 16:56:56 CEST 2013
+Starting Run 100
+###############################################
+Wed Aug 21 17:22:56 CEST 2013
+Started Producer
+################ execution log ################
+Wed Aug 21 17:24:29 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Wed Aug 21 17:25:44 CEST 2013
+Started Producer
+################ execution log ################
+Wed Aug 21 17:25:50 CEST 2013
+Configuring with ni_timepix_autotrig
+Wed Aug 21 17:25:50 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT
+Wed Aug 21 17:25:50 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT_ascii
+Wed Aug 21 17:25:50 CEST 2013
+Mode is TOT
+Wed Aug 21 17:25:50 CEST 2013
+Bias is 15.000000
+Wed Aug 21 17:26:03 CEST 2013
+Starting Run 101
+Wed Aug 21 17:26:34 CEST 2013
+Stopping Run 101
+Wed Aug 21 17:28:00 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Wed Aug 21 17:29:18 CEST 2013
+Started Producer
+################ execution log ################
+###############################################
+Wed Aug 21 17:29:21 CEST 2013
+Started Producer
+################ execution log ################
+###############################################
+Wed Aug 21 17:29:35 CEST 2013
+Started Producer
+################ execution log ################
+Wed Aug 21 17:29:41 CEST 2013
+Configuring with ni_timepix_autotrig
+Wed Aug 21 17:29:41 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT
+Wed Aug 21 17:29:41 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT_ascii
+Wed Aug 21 17:29:41 CEST 2013
+Mode is TOT
+Wed Aug 21 17:29:41 CEST 2013
+Bias is 15.000000
+###############################################
+Wed Aug 21 17:30:41 CEST 2013
+Started Producer
+################ execution log ################
+###############################################
+Wed Aug 21 17:31:05 CEST 2013
+Started Producer
+################ execution log ################
+Wed Aug 21 17:31:11 CEST 2013
+Configuring with ni_timepix_autotrig
+Wed Aug 21 17:31:11 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT
+Wed Aug 21 17:31:11 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT_ascii
+Wed Aug 21 17:31:11 CEST 2013
+Mode is TOT
+Wed Aug 21 17:31:11 CEST 2013
+Bias is 15.000000
+###############################################
+Wed Aug 21 17:38:13 CEST 2013
+Started Producer
+################ execution log ################
+###############################################
+Wed Aug 21 17:39:16 CEST 2013
+Started Producer
+################ execution log ################
+Wed Aug 21 17:39:22 CEST 2013
+Configuring with ni_timepix_autotrig
+Wed Aug 21 17:39:22 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT
+Wed Aug 21 17:39:22 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT_ascii
+Wed Aug 21 17:39:22 CEST 2013
+Mode is TOT
+Wed Aug 21 17:39:22 CEST 2013
+Bias is 15.000000
+Wed Aug 21 17:39:32 CEST 2013
+Starting Run 102
+Wed Aug 21 17:39:36 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Wed Aug 21 17:39:43 CEST 2013
+Started Producer
+################ execution log ################
+Wed Aug 21 17:39:58 CEST 2013
+Configuring with ni_timepix_autotrig
+Wed Aug 21 17:39:58 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT
+Wed Aug 21 17:39:58 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT_ascii
+Wed Aug 21 17:39:58 CEST 2013
+Mode is TOT
+Wed Aug 21 17:39:58 CEST 2013
+Bias is 15.000000
+###############################################
+Wed Aug 21 17:42:25 CEST 2013
+Started Producer
+################ execution log ################
+Wed Aug 21 17:42:35 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Wed Aug 21 17:42:47 CEST 2013
+Started Producer
+################ execution log ################
+Wed Aug 21 17:42:50 CEST 2013
+Configuring with ni_timepix_autotrig
+Wed Aug 21 17:42:50 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT
+Wed Aug 21 17:42:50 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT_ascii
+Wed Aug 21 17:42:50 CEST 2013
+Mode is TOT
+Wed Aug 21 17:42:50 CEST 2013
+Bias is 15.000000
+Wed Aug 21 17:43:27 CEST 2013
+Starting Run 103
+Wed Aug 21 17:43:30 CEST 2013
+Stopping Run 103
+Wed Aug 21 17:43:31 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Wed Aug 21 17:44:04 CEST 2013
+Started Producer
+################ execution log ################
+Wed Aug 21 17:45:14 CEST 2013
+Configuring with ni_timepix_autotrig
+Wed Aug 21 17:45:14 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT
+Wed Aug 21 17:45:14 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT_ascii
+Wed Aug 21 17:45:14 CEST 2013
+Mode is TOT
+Wed Aug 21 17:45:14 CEST 2013
+Bias is 15.000000
+Wed Aug 21 17:45:49 CEST 2013
+Starting Run 104
+Wed Aug 21 17:46:20 CEST 2013
+Stopping Run 104
+Wed Aug 21 17:47:37 CEST 2013
+Configuring with ni_timepix_autotrig
+Wed Aug 21 17:47:37 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT
+Wed Aug 21 17:47:37 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT_ascii
+Wed Aug 21 17:47:37 CEST 2013
+Mode is TOT
+Wed Aug 21 17:47:37 CEST 2013
+Bias is 15.000000
+Wed Aug 21 17:48:29 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Wed Aug 21 17:48:41 CEST 2013
+Started Producer
+################ execution log ################
+Wed Aug 21 17:50:02 CEST 2013
+Configuring with ni_timepix_autotrig
+Wed Aug 21 17:50:02 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT
+Wed Aug 21 17:50:02 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT_ascii
+Wed Aug 21 17:50:02 CEST 2013
+Mode is TOT
+Wed Aug 21 17:50:02 CEST 2013
+Bias is 15.000000
+Wed Aug 21 17:50:18 CEST 2013
+Starting Run 105
+Wed Aug 21 17:50:28 CEST 2013
+Stopping Run 105
+Wed Aug 21 17:50:29 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Wed Aug 21 17:50:42 CEST 2013
+Started Producer
+################ execution log ################
+Wed Aug 21 17:50:58 CEST 2013
+Configuring with ni_timepix_autotrig
+Wed Aug 21 17:50:58 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT
+Wed Aug 21 17:50:58 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT_ascii
+Wed Aug 21 17:50:58 CEST 2013
+Mode is TOT
+Wed Aug 21 17:50:58 CEST 2013
+Bias is 15.000000
+Wed Aug 21 17:51:11 CEST 2013
+Starting Run 106
+Wed Aug 21 17:52:04 CEST 2013
+Stopping Run 106
+Wed Aug 21 17:52:35 CEST 2013
+Starting Run 107
+###############################################
+Wed Aug 21 17:54:42 CEST 2013
+Started Producer
+################ execution log ################
+Wed Aug 21 17:54:55 CEST 2013
+Configuring with ni_timepix_autotrig
+Wed Aug 21 17:54:55 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT
+Wed Aug 21 17:54:55 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT_ascii
+Wed Aug 21 17:54:55 CEST 2013
+Mode is TOT
+Wed Aug 21 17:54:55 CEST 2013
+Bias is 15.000000
+Wed Aug 21 17:55:05 CEST 2013
+Starting Run 108
+Wed Aug 21 17:57:38 CEST 2013
+Temperature is : 25.765026 C, Bias Voltage is 17.500000 V, Current is -0.000000 A
+Wed Aug 21 17:58:10 CEST 2013
+Stopping Run 108
+Wed Aug 21 17:58:48 CEST 2013
+Configuring with ni_timepix_autotrig
+Wed Aug 21 17:58:48 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT
+Wed Aug 21 17:58:48 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT_ascii
+Wed Aug 21 17:58:48 CEST 2013
+Mode is TOT
+Wed Aug 21 17:58:48 CEST 2013
+Bias is 15.000000
+Wed Aug 21 17:58:59 CEST 2013
+Starting Run 109
+Wed Aug 21 17:59:12 CEST 2013
+Stopping Run 109
+Wed Aug 21 17:59:22 CEST 2013
+Starting Run 110
+Wed Aug 21 17:59:35 CEST 2013
+Stopping Run 110
+Wed Aug 21 17:59:45 CEST 2013
+Starting Run 111
+Wed Aug 21 17:59:58 CEST 2013
+Stopping Run 111
+Wed Aug 21 18:00:08 CEST 2013
+Starting Run 112
+Wed Aug 21 18:00:21 CEST 2013
+Stopping Run 112
+Wed Aug 21 18:00:31 CEST 2013
+Starting Run 113
+Wed Aug 21 18:00:44 CEST 2013
+Stopping Run 113
+Wed Aug 21 18:00:54 CEST 2013
+Starting Run 114
+Wed Aug 21 18:01:07 CEST 2013
+Stopping Run 114
+Wed Aug 21 18:01:17 CEST 2013
+Starting Run 115
+Wed Aug 21 18:01:30 CEST 2013
+Stopping Run 115
+Wed Aug 21 18:01:40 CEST 2013
+Starting Run 116
+Wed Aug 21 18:01:53 CEST 2013
+Stopping Run 116
+Wed Aug 21 18:02:03 CEST 2013
+Starting Run 117
+Wed Aug 21 18:02:16 CEST 2013
+Stopping Run 117
+Wed Aug 21 18:02:26 CEST 2013
+Starting Run 118
+Wed Aug 21 18:02:39 CEST 2013
+Stopping Run 118
+Wed Aug 21 18:02:49 CEST 2013
+Starting Run 119
+Wed Aug 21 18:03:01 CEST 2013
+Stopping Run 119
+Wed Aug 21 18:03:11 CEST 2013
+Starting Run 120
+Wed Aug 21 18:03:24 CEST 2013
+Stopping Run 120
+Wed Aug 21 18:03:34 CEST 2013
+Starting Run 121
+Wed Aug 21 18:03:35 CEST 2013
+Stopping Run 121
+Wed Aug 21 18:03:58 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Wed Aug 21 18:04:03 CEST 2013
+Started Producer
+################ execution log ################
+Wed Aug 21 18:04:19 CEST 2013
+Configuring with ni_timepix_autotrig
+Wed Aug 21 18:04:19 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT
+Wed Aug 21 18:04:19 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT_ascii
+Wed Aug 21 18:04:19 CEST 2013
+Mode is TOT
+Wed Aug 21 18:04:19 CEST 2013
+Bias is 15.000000
+Wed Aug 21 18:04:31 CEST 2013
+Starting Run 122
+Wed Aug 21 18:04:41 CEST 2013
+Stopping Run 122
+Wed Aug 21 18:04:50 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Wed Aug 21 18:04:52 CEST 2013
+Started Producer
+################ execution log ################
+Wed Aug 21 18:05:08 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Wed Aug 21 18:05:09 CEST 2013
+Started Producer
+################ execution log ################
+Wed Aug 21 18:05:22 CEST 2013
+Configuring with ni_timepix_autotrig
+Wed Aug 21 18:05:22 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT
+Wed Aug 21 18:05:22 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT_ascii
+Wed Aug 21 18:05:22 CEST 2013
+Mode is TOT
+Wed Aug 21 18:05:22 CEST 2013
+Bias is 15.000000
+Wed Aug 21 18:05:32 CEST 2013
+Starting Run 123
+Wed Aug 21 18:05:45 CEST 2013
+Stopping Run 123
+Wed Aug 21 18:05:55 CEST 2013
+Starting Run 124
+Wed Aug 21 18:06:03 CEST 2013
+Stopping Run 124
+Wed Aug 21 18:06:05 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Wed Aug 21 18:20:45 CEST 2013
+Started Producer
+################ execution log ################
+Wed Aug 21 18:21:04 CEST 2013
+Configuring with ni_timepix
+Wed Aug 21 18:21:04 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT
+Wed Aug 21 18:21:04 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT_ascii
+Wed Aug 21 18:21:04 CEST 2013
+Mode is TOT
+Wed Aug 21 18:21:04 CEST 2013
+Bias is 15.000000
+Wed Aug 21 18:21:22 CEST 2013
+Starting Run 125
+Wed Aug 21 18:21:32 CEST 2013
+Stopping Run 125
+Wed Aug 21 18:22:17 CEST 2013
+Corrupted Frame at event 2, shutter 0
+Wed Aug 21 18:23:01 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Wed Aug 21 18:23:11 CEST 2013
+Started Producer
+################ execution log ################
+Wed Aug 21 18:23:22 CEST 2013
+Configuring with ni_timepix
+Wed Aug 21 18:23:22 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT
+Wed Aug 21 18:23:22 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT_ascii
+Wed Aug 21 18:23:22 CEST 2013
+Mode is TOT
+Wed Aug 21 18:23:22 CEST 2013
+Bias is 15.000000
+Wed Aug 21 18:23:36 CEST 2013
+Starting Run 126
+Wed Aug 21 18:25:14 CEST 2013
+Temperature is : 25.543085 C, Bias Voltage is 17.500000 V, Current is 0.000000 A
+Wed Aug 21 18:26:40 CEST 2013
+Temperature is : 26.304217 C, Bias Voltage is 17.500000 V, Current is 0.000000 A
+Wed Aug 21 18:28:39 CEST 2013
+Temperature is : 26.891013 C, Bias Voltage is 17.500000 V, Current is 0.000000 A
+Wed Aug 21 18:30:28 CEST 2013
+Temperature is : 27.126286 C, Bias Voltage is 17.500000 V, Current is 0.000000 A
+Wed Aug 21 18:32:14 CEST 2013
+Stopping Run 126
+Wed Aug 21 18:32:30 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Wed Aug 21 18:32:36 CEST 2013
+Started Producer
+################ execution log ################
+Wed Aug 21 18:32:48 CEST 2013
+Configuring with ni_timepix
+Wed Aug 21 18:32:48 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT
+Wed Aug 21 18:32:48 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT_ascii
+Wed Aug 21 18:32:48 CEST 2013
+Mode is TOT
+Wed Aug 21 18:32:48 CEST 2013
+Bias is 15.000000
+Wed Aug 21 18:32:59 CEST 2013
+Starting Run 127
+Wed Aug 21 18:35:13 CEST 2013
+Temperature is : 27.008208 C, Bias Voltage is 15.000000 V, Current is 195.134900 nA
+Wed Aug 21 18:37:00 CEST 2013
+Temperature is : 27.265523 C, Bias Voltage is 15.000000 V, Current is 198.022600 nA
+Wed Aug 21 18:38:52 CEST 2013
+Temperature is : 27.374046 C, Bias Voltage is 15.000000 V, Current is 192.509100 nA
+Wed Aug 21 18:40:27 CEST 2013
+Temperature is : 27.314505 C, Bias Voltage is 15.000000 V, Current is 194.001400 nA
+Wed Aug 21 18:42:40 CEST 2013
+Temperature is : 27.400041 C, Bias Voltage is 15.000000 V, Current is 218.826200 nA
+Wed Aug 21 18:44:20 CEST 2013
+Temperature is : 27.414435 C, Bias Voltage is 15.000000 V, Current is 196.523500 nA
+Wed Aug 21 18:46:03 CEST 2013
+Temperature is : 27.393021 C, Bias Voltage is 15.000000 V, Current is 199.825000 nA
+Wed Aug 21 18:47:45 CEST 2013
+Temperature is : 27.371765 C, Bias Voltage is 15.000000 V, Current is 205.089800 nA
+Wed Aug 21 18:49:14 CEST 2013
+Temperature is : 27.366416 C, Bias Voltage is 15.000000 V, Current is 198.785300 nA
+Wed Aug 21 18:50:40 CEST 2013
+Temperature is : 27.332438 C, Bias Voltage is 15.000000 V, Current is 195.330100 nA
+Wed Aug 21 18:52:16 CEST 2013
+Temperature is : 27.352200 C, Bias Voltage is 15.000000 V, Current is 197.639200 nA
+Wed Aug 21 18:54:01 CEST 2013
+Temperature is : 27.432466 C, Bias Voltage is 15.000000 V, Current is 201.673200 nA
+Wed Aug 21 18:55:39 CEST 2013
+Temperature is : 27.353360 C, Bias Voltage is 15.000000 V, Current is 212.834100 nA
+Wed Aug 21 18:56:04 CEST 2013
+Stopping Run 127
+Wed Aug 21 18:56:33 CEST 2013
+Configuring with ni_timepix
+Wed Aug 21 18:56:33 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT
+Wed Aug 21 18:56:33 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT_ascii
+Wed Aug 21 18:56:33 CEST 2013
+Mode is TOT
+Wed Aug 21 18:56:33 CEST 2013
+Bias is 15.000000
+Wed Aug 21 18:56:44 CEST 2013
+Starting Run 128
+Wed Aug 21 18:56:58 CEST 2013
+Stopping Run 128
+Wed Aug 21 18:58:01 CEST 2013
+Configuring with ni_timepix
+Wed Aug 21 18:58:01 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT
+Wed Aug 21 18:58:01 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT_ascii
+Wed Aug 21 18:58:01 CEST 2013
+Mode is TOT
+Wed Aug 21 18:58:01 CEST 2013
+Bias is 17.000000
+Wed Aug 21 18:58:15 CEST 2013
+Starting Run 129
+Wed Aug 21 18:58:58 CEST 2013
+Stopping Run 129
+Wed Aug 21 19:00:15 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Wed Aug 21 19:00:27 CEST 2013
+Started Producer
+################ execution log ################
+Wed Aug 21 19:00:42 CEST 2013
+Configuring with ni_timepix
+Wed Aug 21 19:00:42 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT
+Wed Aug 21 19:00:42 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT_ascii
+Wed Aug 21 19:00:42 CEST 2013
+Mode is TOT
+Wed Aug 21 19:00:42 CEST 2013
+Bias is 17.000000
+Wed Aug 21 19:01:12 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Wed Aug 21 19:01:17 CEST 2013
+Started Producer
+################ execution log ################
+Wed Aug 21 19:01:28 CEST 2013
+Configuring with ni_timepix
+Wed Aug 21 19:01:28 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT
+Wed Aug 21 19:01:28 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT_ascii
+Wed Aug 21 19:01:28 CEST 2013
+Mode is TOT
+Wed Aug 21 19:01:28 CEST 2013
+Bias is 17.500000
+Wed Aug 21 19:02:04 CEST 2013
+Starting Run 130
+Wed Aug 21 19:04:09 CEST 2013
+Temperature is : 26.538664 C, Bias Voltage is 17.500000 V, Current is 201.248500 nA
+Wed Aug 21 19:05:42 CEST 2013
+Temperature is : 26.984572 C, Bias Voltage is 17.500000 V, Current is 211.334400 nA
+Wed Aug 21 19:07:47 CEST 2013
+Temperature is : 27.346104 C, Bias Voltage is 17.500000 V, Current is 221.904700 nA
+Wed Aug 21 19:09:47 CEST 2013
+Temperature is : 27.436241 C, Bias Voltage is 17.500000 V, Current is 223.004800 nA
+Wed Aug 21 19:11:24 CEST 2013
+Temperature is : 27.341758 C, Bias Voltage is 17.500000 V, Current is 225.334900 nA
+Wed Aug 21 19:13:23 CEST 2013
+Temperature is : 27.434354 C, Bias Voltage is 17.500000 V, Current is 221.838800 nA
+Wed Aug 21 19:15:22 CEST 2013
+Temperature is : 27.513617 C, Bias Voltage is 17.500000 V, Current is 223.299500 nA
+Wed Aug 21 19:17:01 CEST 2013
+Temperature is : 27.439643 C, Bias Voltage is 17.500000 V, Current is 218.935400 nA
+Wed Aug 21 19:21:19 CEST 2013
+Temperature is : 27.933451 C, Bias Voltage is 17.500000 V, Current is 265.479000 nA
+Wed Aug 21 19:24:31 CEST 2013
+Temperature is : 27.773391 C, Bias Voltage is 17.500000 V, Current is 227.815700 nA
+Wed Aug 21 19:27:30 CEST 2013
+Temperature is : 27.728538 C, Bias Voltage is 17.500000 V, Current is 224.914600 nA
+Wed Aug 21 19:31:28 CEST 2013
+Temperature is : 27.986031 C, Bias Voltage is 17.500000 V, Current is 245.400500 nA
+Wed Aug 21 19:32:53 CEST 2013
+Temperature is : 27.645401 C, Bias Voltage is 17.500000 V, Current is 217.348000 nA
+Wed Aug 21 19:34:16 CEST 2013
+Temperature is : 27.467329 C, Bias Voltage is 17.500000 V, Current is 218.576800 nA
+Wed Aug 21 19:38:50 CEST 2013
+Temperature is : 27.926667 C, Bias Voltage is 17.500000 V, Current is 239.189400 nA
+Wed Aug 21 19:42:14 CEST 2013
+Temperature is : 27.936165 C, Bias Voltage is 17.500000 V, Current is 237.785900 nA
+###############################################
+Wed Aug 21 19:49:27 CEST 2013
+Started Producer
+################ execution log ################
+Wed Aug 21 19:49:46 CEST 2013
+Configuring with ni_timepix
+Wed Aug 21 19:49:46 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT
+Wed Aug 21 19:49:46 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT_ascii
+Wed Aug 21 19:49:46 CEST 2013
+Mode is TOT
+Wed Aug 21 19:49:46 CEST 2013
+Bias is 20.000000
+Wed Aug 21 19:50:20 CEST 2013
+Starting Run 131
+Wed Aug 21 19:51:56 CEST 2013
+Temperature is : 26.138277 C, Bias Voltage is 20.000000 V, Current is 194.285200 nA
+Wed Aug 21 19:55:14 CEST 2013
+Temperature is : 27.432938 C, Bias Voltage is 20.000000 V, Current is 233.920100 nA
+Wed Aug 21 19:57:18 CEST 2013
+Temperature is : 27.503372 C, Bias Voltage is 20.000000 V, Current is 238.994500 nA
+Wed Aug 21 19:58:48 CEST 2013
+Temperature is : 27.402165 C, Bias Voltage is 20.000000 V, Current is 233.304500 nA
+Wed Aug 21 20:00:20 CEST 2013
+Temperature is : 27.307190 C, Bias Voltage is 20.000000 V, Current is 230.200900 nA
+Wed Aug 21 20:02:23 CEST 2013
+Temperature is : 27.468116 C, Bias Voltage is 20.000000 V, Current is 231.274500 nA
+Wed Aug 21 20:03:54 CEST 2013
+Temperature is : 27.371077 C, Bias Voltage is 20.000000 V, Current is 229.074700 nA
+Wed Aug 21 20:05:24 CEST 2013
+Temperature is : 27.345416 C, Bias Voltage is 20.000000 V, Current is 220.863100 nA
+Wed Aug 21 20:06:54 CEST 2013
+Temperature is : 27.313345 C, Bias Voltage is 20.000000 V, Current is 228.919900 nA
+Wed Aug 21 20:09:00 CEST 2013
+Temperature is : 27.439034 C, Bias Voltage is 20.000000 V, Current is 235.102400 nA
+Wed Aug 21 20:10:28 CEST 2013
+Temperature is : 27.367105 C, Bias Voltage is 20.000000 V, Current is 229.833800 nA
+Wed Aug 21 20:12:32 CEST 2013
+Temperature is : 27.538845 C, Bias Voltage is 20.000000 V, Current is 238.319700 nA
+Wed Aug 21 20:14:03 CEST 2013
+Temperature is : 27.396855 C, Bias Voltage is 20.000000 V, Current is 230.230900 nA
+Wed Aug 21 20:15:12 CEST 2013
+Stopping Run 131
+Wed Aug 21 20:15:22 CEST 2013
+Starting Run 132
+Wed Aug 21 20:17:00 CEST 2013
+Temperature is : 27.277754 C, Bias Voltage is 22.500000 V, Current is 229.342300 nA
+Wed Aug 21 20:18:31 CEST 2013
+Temperature is : 27.307741 C, Bias Voltage is 22.500000 V, Current is 232.798900 nA
+Wed Aug 21 20:20:37 CEST 2013
+Temperature is : 27.445444 C, Bias Voltage is 22.500000 V, Current is 240.926500 nA
+Wed Aug 21 20:22:00 CEST 2013
+Temperature is : 27.340952 C, Bias Voltage is 22.500000 V, Current is 232.925800 nA
+Wed Aug 21 20:23:24 CEST 2013
+Temperature is : 27.283850 C, Bias Voltage is 22.500000 V, Current is 227.964900 nA
+Wed Aug 21 20:24:47 CEST 2013
+Temperature is : 27.265484 C, Bias Voltage is 22.500000 V, Current is 234.801800 nA
+Wed Aug 21 20:26:44 CEST 2013
+Temperature is : 27.384251 C, Bias Voltage is 22.500000 V, Current is 256.372100 nA
+Wed Aug 21 20:28:14 CEST 2013
+Temperature is : 27.381675 C, Bias Voltage is 22.500000 V, Current is 233.693100 nA
+Wed Aug 21 20:29:51 CEST 2013
+Temperature is : 27.334798 C, Bias Voltage is 22.500000 V, Current is 236.401500 nA
+Wed Aug 21 20:31:20 CEST 2013
+Temperature is : 27.333441 C, Bias Voltage is 22.500000 V, Current is 236.670200 nA
+Wed Aug 21 20:32:56 CEST 2013
+Temperature is : 27.325064 C, Bias Voltage is 22.500000 V, Current is 238.012600 nA
+Wed Aug 21 20:34:26 CEST 2013
+Temperature is : 27.330550 C, Bias Voltage is 22.500000 V, Current is 235.536500 nA
+Wed Aug 21 20:36:00 CEST 2013
+Temperature is : 27.320424 C, Bias Voltage is 22.500000 V, Current is 237.371000 nA
+Wed Aug 21 20:37:08 CEST 2013
+Stopping Run 132
+Wed Aug 21 20:37:19 CEST 2013
+Starting Run 133
+Wed Aug 21 20:39:04 CEST 2013
+Temperature is : 27.410856 C, Bias Voltage is 25.000000 V, Current is 244.216700 nA
+Wed Aug 21 20:40:41 CEST 2013
+Temperature is : 27.346045 C, Bias Voltage is 25.000000 V, Current is 244.212800 nA
+Wed Aug 21 20:42:11 CEST 2013
+Temperature is : 27.325595 C, Bias Voltage is 25.000000 V, Current is 239.875100 nA
+Wed Aug 21 20:43:47 CEST 2013
+Temperature is : 27.328997 C, Bias Voltage is 25.000000 V, Current is 244.638500 nA
+Wed Aug 21 20:45:16 CEST 2013
+Temperature is : 27.316530 C, Bias Voltage is 25.000000 V, Current is 240.986200 nA
+Wed Aug 21 20:46:53 CEST 2013
+Temperature is : 27.332123 C, Bias Voltage is 25.000000 V, Current is 245.580600 nA
+Wed Aug 21 20:48:30 CEST 2013
+Temperature is : 27.312912 C, Bias Voltage is 25.000000 V, Current is 246.274100 nA
+Wed Aug 21 20:50:00 CEST 2013
+Temperature is : 27.303395 C, Bias Voltage is 25.000000 V, Current is 237.628900 nA
+Wed Aug 21 20:51:37 CEST 2013
+Temperature is : 27.323275 C, Bias Voltage is 25.000000 V, Current is 240.306200 nA
+Wed Aug 21 20:53:06 CEST 2013
+Temperature is : 27.314230 C, Bias Voltage is 25.000000 V, Current is 244.684400 nA
+Wed Aug 21 20:54:42 CEST 2013
+Temperature is : 27.332045 C, Bias Voltage is 25.000000 V, Current is 242.232600 nA
+Wed Aug 21 20:56:10 CEST 2013
+Temperature is : 27.318575 C, Bias Voltage is 25.000000 V, Current is 237.398400 nA
+Wed Aug 21 20:57:46 CEST 2013
+Temperature is : 27.305184 C, Bias Voltage is 25.000000 V, Current is 243.385500 nA
+Wed Aug 21 20:58:55 CEST 2013
+Stopping Run 133
+Wed Aug 21 20:59:05 CEST 2013
+Starting Run 134
+Wed Aug 21 21:00:46 CEST 2013
+Temperature is : 27.263360 C, Bias Voltage is 27.500000 V, Current is 247.937000 nA
+Wed Aug 21 21:02:21 CEST 2013
+Temperature is : 27.288117 C, Bias Voltage is 27.500000 V, Current is 249.511900 nA
+Wed Aug 21 21:03:50 CEST 2013
+Temperature is : 27.289945 C, Bias Voltage is 27.500000 V, Current is 240.682600 nA
+Wed Aug 21 21:05:26 CEST 2013
+Temperature is : 27.285344 C, Bias Voltage is 27.500000 V, Current is 249.644800 nA
+Wed Aug 21 21:07:08 CEST 2013
+Temperature is : 27.315901 C, Bias Voltage is 27.500000 V, Current is 251.568500 nA
+Wed Aug 21 21:08:37 CEST 2013
+Temperature is : 27.314426 C, Bias Voltage is 27.500000 V, Current is 244.608300 nA
+Wed Aug 21 21:10:12 CEST 2013
+Temperature is : 27.302864 C, Bias Voltage is 27.500000 V, Current is 247.701800 nA
+Wed Aug 21 21:11:44 CEST 2013
+Temperature is : 27.303139 C, Bias Voltage is 27.500000 V, Current is 245.162800 nA
+Wed Aug 21 21:13:21 CEST 2013
+Temperature is : 27.311575 C, Bias Voltage is 27.500000 V, Current is 245.669800 nA
+Wed Aug 21 21:14:53 CEST 2013
+Temperature is : 27.297575 C, Bias Voltage is 27.500000 V, Current is 247.474000 nA
+Wed Aug 21 21:16:30 CEST 2013
+Temperature is : 27.300269 C, Bias Voltage is 27.500000 V, Current is 245.971500 nA
+Wed Aug 21 21:18:06 CEST 2013
+Temperature is : 27.299108 C, Bias Voltage is 27.500000 V, Current is 249.348400 nA
+Wed Aug 21 21:19:36 CEST 2013
+Temperature is : 27.305578 C, Bias Voltage is 27.500000 V, Current is 249.751700 nA
+Wed Aug 21 21:20:44 CEST 2013
+Stopping Run 134
+Wed Aug 21 21:20:54 CEST 2013
+Starting Run 135
+Wed Aug 21 21:22:34 CEST 2013
+Temperature is : 27.254158 C, Bias Voltage is 30.000000 V, Current is 249.194700 nA
+Wed Aug 21 21:24:11 CEST 2013
+Temperature is : 27.303651 C, Bias Voltage is 30.000000 V, Current is 247.311500 nA
+Wed Aug 21 21:25:41 CEST 2013
+Temperature is : 27.296552 C, Bias Voltage is 30.000000 V, Current is 258.554300 nA
+Wed Aug 21 21:27:15 CEST 2013
+Temperature is : 27.318536 C, Bias Voltage is 30.000000 V, Current is 249.966700 nA
+Wed Aug 21 21:28:53 CEST 2013
+Temperature is : 27.295844 C, Bias Voltage is 30.000000 V, Current is 254.168600 nA
+Wed Aug 21 21:33:32 CEST 2013
+Temperature is : 27.841996 C, Bias Voltage is 30.000000 V, Current is 272.929400 nA
+Wed Aug 21 21:35:07 CEST 2013
+Temperature is : 27.536505 C, Bias Voltage is 30.000000 V, Current is 259.057700 nA
+Wed Aug 21 21:36:42 CEST 2013
+Temperature is : 27.403187 C, Bias Voltage is 30.000000 V, Current is 255.636700 nA
+Wed Aug 21 21:38:13 CEST 2013
+Temperature is : 27.359495 C, Bias Voltage is 30.000000 V, Current is 250.104800 nA
+Wed Aug 21 21:39:50 CEST 2013
+Temperature is : 27.354500 C, Bias Voltage is 30.000000 V, Current is 253.762800 nA
+Wed Aug 21 21:41:27 CEST 2013
+Temperature is : 27.320896 C, Bias Voltage is 30.000000 V, Current is 257.065000 nA
+Wed Aug 21 21:42:57 CEST 2013
+Temperature is : 27.332300 C, Bias Voltage is 30.000000 V, Current is 250.255000 nA
+Wed Aug 21 21:44:34 CEST 2013
+Temperature is : 27.310120 C, Bias Voltage is 30.000000 V, Current is 247.711900 nA
+Wed Aug 21 21:45:43 CEST 2013
+Stopping Run 135
+Wed Aug 21 21:45:53 CEST 2013
+Starting Run 136
+Wed Aug 21 21:47:37 CEST 2013
+Temperature is : 27.262082 C, Bias Voltage is 32.500000 V, Current is 254.173500 nA
+Wed Aug 21 21:49:13 CEST 2013
+Temperature is : 27.271029 C, Bias Voltage is 32.500000 V, Current is 252.117600 nA
+Wed Aug 21 21:50:44 CEST 2013
+Temperature is : 27.292993 C, Bias Voltage is 32.500000 V, Current is 254.952500 nA
+Wed Aug 21 21:55:17 CEST 2013
+Temperature is : 27.897231 C, Bias Voltage is 32.500000 V, Current is 282.243100 nA
+Wed Aug 21 21:56:41 CEST 2013
+Temperature is : 27.531058 C, Bias Voltage is 32.500000 V, Current is 260.285100 nA
+Wed Aug 21 21:58:07 CEST 2013
+Temperature is : 27.361678 C, Bias Voltage is 32.500000 V, Current is 253.770500 nA
+Wed Aug 21 21:59:32 CEST 2013
+Temperature is : 27.294448 C, Bias Voltage is 32.500000 V, Current is 248.643700 nA
+Wed Aug 21 22:01:07 CEST 2013
+Temperature is : 27.279996 C, Bias Voltage is 32.500000 V, Current is 265.054700 nA
+Wed Aug 21 22:02:52 CEST 2013
+Temperature is : 27.314485 C, Bias Voltage is 32.500000 V, Current is 283.293800 nA
+Wed Aug 21 22:06:14 CEST 2013
+Temperature is : 27.643730 C, Bias Voltage is 32.500000 V, Current is 286.445300 nA
+Wed Aug 21 22:07:37 CEST 2013
+Temperature is : 27.484692 C, Bias Voltage is 32.500000 V, Current is 261.062000 nA
+Wed Aug 21 22:09:56 CEST 2013
+Temperature is : 27.547182 C, Bias Voltage is 32.500000 V, Current is 258.527900 nA
+Wed Aug 21 22:11:19 CEST 2013
+Temperature is : 27.360753 C, Bias Voltage is 32.500000 V, Current is 251.647100 nA
+Wed Aug 21 22:12:19 CEST 2013
+Stopping Run 136
+Wed Aug 21 22:12:29 CEST 2013
+Starting Run 137
+Wed Aug 21 22:14:22 CEST 2013
+Temperature is : 27.287881 C, Bias Voltage is 35.000000 V, Current is 252.903900 nA
+Wed Aug 21 22:16:12 CEST 2013
+Temperature is : 27.368088 C, Bias Voltage is 35.000000 V, Current is 257.605900 nA
+Wed Aug 21 22:17:35 CEST 2013
+Temperature is : 27.285934 C, Bias Voltage is 35.000000 V, Current is 252.363900 nA
+Wed Aug 21 22:19:00 CEST 2013
+Temperature is : 27.229264 C, Bias Voltage is 35.000000 V, Current is 248.152900 nA
+Wed Aug 21 22:21:21 CEST 2013
+Temperature is : 27.399274 C, Bias Voltage is 35.000000 V, Current is 266.831800 nA
+Wed Aug 21 22:22:46 CEST 2013
+Temperature is : 27.315488 C, Bias Voltage is 35.000000 V, Current is 253.511600 nA
+Wed Aug 21 22:24:10 CEST 2013
+Temperature is : 27.265327 C, Bias Voltage is 35.000000 V, Current is 253.306400 nA
+Wed Aug 21 22:26:13 CEST 2013
+Temperature is : 27.386886 C, Bias Voltage is 35.000000 V, Current is 270.702000 nA
+Wed Aug 21 22:27:37 CEST 2013
+Temperature is : 27.340618 C, Bias Voltage is 35.000000 V, Current is 254.674200 nA
+Wed Aug 21 22:29:03 CEST 2013
+Temperature is : 27.252034 C, Bias Voltage is 35.000000 V, Current is 252.662700 nA
+Wed Aug 21 22:30:28 CEST 2013
+Temperature is : 27.216483 C, Bias Voltage is 35.000000 V, Current is 251.315400 nA
+Wed Aug 21 22:31:52 CEST 2013
+Temperature is : 27.206769 C, Bias Voltage is 35.000000 V, Current is 248.344900 nA
+Wed Aug 21 22:34:17 CEST 2013
+Temperature is : 27.378116 C, Bias Voltage is 35.000000 V, Current is 291.536900 nA
+Wed Aug 21 22:34:53 CEST 2013
+Stopping Run 137
+Wed Aug 21 22:35:03 CEST 2013
+Starting Run 138
+Wed Aug 21 22:36:48 CEST 2013
+Temperature is : 27.292855 C, Bias Voltage is 37.500000 V, Current is 257.384700 nA
+Wed Aug 21 22:38:24 CEST 2013
+Temperature is : 27.282768 C, Bias Voltage is 37.500000 V, Current is 255.911300 nA
+Wed Aug 21 22:39:54 CEST 2013
+Temperature is : 27.263085 C, Bias Voltage is 37.500000 V, Current is 262.006200 nA
+Wed Aug 21 22:41:28 CEST 2013
+Temperature is : 27.284675 C, Bias Voltage is 37.500000 V, Current is 256.078200 nA
+Wed Aug 21 22:43:03 CEST 2013
+Temperature is : 27.278599 C, Bias Voltage is 37.500000 V, Current is 253.723700 nA
+Wed Aug 21 22:44:38 CEST 2013
+Temperature is : 27.248003 C, Bias Voltage is 37.500000 V, Current is 268.579400 nA
+Wed Aug 21 22:46:08 CEST 2013
+Temperature is : 27.274706 C, Bias Voltage is 37.500000 V, Current is 256.063900 nA
+Wed Aug 21 22:47:46 CEST 2013
+Temperature is : 27.283712 C, Bias Voltage is 37.500000 V, Current is 257.568700 nA
+Wed Aug 21 22:49:23 CEST 2013
+Temperature is : 27.255220 C, Bias Voltage is 37.500000 V, Current is 261.162400 nA
+Wed Aug 21 22:50:53 CEST 2013
+Temperature is : 27.258228 C, Bias Voltage is 37.500000 V, Current is 255.361300 nA
+Wed Aug 21 22:52:30 CEST 2013
+Temperature is : 27.261217 C, Bias Voltage is 37.500000 V, Current is 257.799900 nA
+Wed Aug 21 22:54:08 CEST 2013
+Temperature is : 27.254217 C, Bias Voltage is 37.500000 V, Current is 260.064300 nA
+Wed Aug 21 22:55:40 CEST 2013
+Temperature is : 27.245250 C, Bias Voltage is 37.500000 V, Current is 253.761800 nA
+Wed Aug 21 22:57:07 CEST 2013
+Stopping Run 138
+Wed Aug 21 22:57:17 CEST 2013
+Starting Run 139
+Wed Aug 21 22:59:04 CEST 2013
+Temperature is : 27.209404 C, Bias Voltage is 40.000000 V, Current is 257.188900 nA
+Wed Aug 21 23:00:41 CEST 2013
+Temperature is : 27.210151 C, Bias Voltage is 40.000000 V, Current is 263.783500 nA
+Wed Aug 21 23:02:11 CEST 2013
+Temperature is : 27.211527 C, Bias Voltage is 40.000000 V, Current is 256.891100 nA
+Wed Aug 21 23:03:47 CEST 2013
+Temperature is : 27.210544 C, Bias Voltage is 40.000000 V, Current is 253.984900 nA
+Wed Aug 21 23:05:21 CEST 2013
+Temperature is : 27.200123 C, Bias Voltage is 40.000000 V, Current is 266.733200 nA
+Wed Aug 21 23:06:51 CEST 2013
+Temperature is : 27.206749 C, Bias Voltage is 40.000000 V, Current is 253.920300 nA
+Wed Aug 21 23:08:26 CEST 2013
+Temperature is : 27.198432 C, Bias Voltage is 40.000000 V, Current is 254.409300 nA
+Wed Aug 21 23:10:01 CEST 2013
+Temperature is : 27.198845 C, Bias Voltage is 40.000000 V, Current is 267.286900 nA
+Wed Aug 21 23:11:30 CEST 2013
+Temperature is : 27.226314 C, Bias Voltage is 40.000000 V, Current is 254.025500 nA
+Wed Aug 21 23:16:13 CEST 2013
+Temperature is : 27.753609 C, Bias Voltage is 40.000000 V, Current is 283.136600 nA
+Wed Aug 21 23:17:43 CEST 2013
+Temperature is : 27.459051 C, Bias Voltage is 40.000000 V, Current is 262.514800 nA
+Wed Aug 21 23:19:43 CEST 2013
+Temperature is : 27.396246 C, Bias Voltage is 40.000000 V, Current is 275.867400 nA
+Wed Aug 21 23:21:50 CEST 2013
+Temperature is : 27.422084 C, Bias Voltage is 40.000000 V, Current is 264.058500 nA
+Wed Aug 21 23:23:12 CEST 2013
+Stopping Run 139
+Wed Aug 21 23:23:22 CEST 2013
+Starting Run 140
+Wed Aug 21 23:25:09 CEST 2013
+Temperature is : 27.205805 C, Bias Voltage is 42.500000 V, Current is 260.300400 nA
+Wed Aug 21 23:26:39 CEST 2013
+Temperature is : 27.205314 C, Bias Voltage is 42.500000 V, Current is 252.252400 nA
+Wed Aug 21 23:28:14 CEST 2013
+Temperature is : 27.202364 C, Bias Voltage is 42.500000 V, Current is 253.906000 nA
+Wed Aug 21 23:29:51 CEST 2013
+Temperature is : 27.195521 C, Bias Voltage is 42.500000 V, Current is 254.810900 nA
+Wed Aug 21 23:31:24 CEST 2013
+Temperature is : 27.196151 C, Bias Voltage is 42.500000 V, Current is 260.063400 nA
+Wed Aug 21 23:32:59 CEST 2013
+Temperature is : 27.186653 C, Bias Voltage is 42.500000 V, Current is 253.334300 nA
+Wed Aug 21 23:34:33 CEST 2013
+Temperature is : 27.198687 C, Bias Voltage is 42.500000 V, Current is 254.841500 nA
+Wed Aug 21 23:36:10 CEST 2013
+Temperature is : 27.171276 C, Bias Voltage is 42.500000 V, Current is 264.980200 nA
+Wed Aug 21 23:37:40 CEST 2013
+Temperature is : 27.192316 C, Bias Voltage is 42.500000 V, Current is 253.048100 nA
+Wed Aug 21 23:39:16 CEST 2013
+Temperature is : 27.180715 C, Bias Voltage is 42.500000 V, Current is 254.018000 nA
+Wed Aug 21 23:40:53 CEST 2013
+Temperature is : 27.169212 C, Bias Voltage is 42.500000 V, Current is 257.494000 nA
+Wed Aug 21 23:42:21 CEST 2013
+Temperature is : 27.159282 C, Bias Voltage is 42.500000 V, Current is 253.257600 nA
+Wed Aug 21 23:43:57 CEST 2013
+Temperature is : 27.164591 C, Bias Voltage is 42.500000 V, Current is 255.288400 nA
+Wed Aug 21 23:45:04 CEST 2013
+Stopping Run 140
+Wed Aug 21 23:45:14 CEST 2013
+Starting Run 141
+Wed Aug 21 23:50:44 CEST 2013
+Temperature is : 25.762096 C, Bias Voltage is 45.000000 V, Current is 97.138830 nA
+Wed Aug 21 23:52:17 CEST 2013
+Stopping Run 141
+Wed Aug 21 23:52:27 CEST 2013
+Starting Run 142
+Wed Aug 21 23:54:48 CEST 2013
+Temperature is : 26.223105 C, Bias Voltage is 47.500000 V, Current is 135.253300 nA
+Wed Aug 21 23:56:47 CEST 2013
+Temperature is : 26.434841 C, Bias Voltage is 47.500000 V, Current is 154.414000 nA
+Wed Aug 21 23:58:31 CEST 2013
+Temperature is : 26.665828 C, Bias Voltage is 47.500000 V, Current is 168.106600 nA
+Wed Aug 21 23:58:55 CEST 2013
+Stopping Run 142
+Thu Aug 22 00:10:47 CEST 2013
+Producer Terminated 142
+###############################################
+###############################################
+Thu Aug 22 00:12:23 CEST 2013
+Started Producer
+################ execution log ################
+Thu Aug 22 00:13:22 CEST 2013
+Configuring with ni_timepix
+Thu Aug 22 00:13:22 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT
+Thu Aug 22 00:13:22 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT_ascii
+Thu Aug 22 00:13:22 CEST 2013
+Mode is TOT
+Thu Aug 22 00:13:22 CEST 2013
+Bias is 25.000000
+Thu Aug 22 00:14:01 CEST 2013
+Starting Run 143
+Thu Aug 22 00:34:17 CEST 2013
+Temperature is : 27.836215 C, Bias Voltage is 25.000000 V, Current is 302.611800 nA
+Thu Aug 22 00:45:34 CEST 2013
+Stopping Run 143
+Thu Aug 22 00:45:44 CEST 2013
+Starting Run 144
+Thu Aug 22 01:05:24 CEST 2013
+Temperature is : 27.883408 C, Bias Voltage is 27.000000 V, Current is 306.445300 nA
+Thu Aug 22 01:15:13 CEST 2013
+Stopping Run 144
+Thu Aug 22 01:15:23 CEST 2013
+Starting Run 145
+Thu Aug 22 01:35:02 CEST 2013
+Temperature is : 27.883388 C, Bias Voltage is 29.000000 V, Current is 304.852600 nA
+Thu Aug 22 01:54:07 CEST 2013
+Temperature is : 27.864295 C, Bias Voltage is 29.000000 V, Current is 305.428200 nA
+Thu Aug 22 02:12:45 CEST 2013
+Temperature is : 27.844710 C, Bias Voltage is 29.000000 V, Current is 306.825100 nA
+Thu Aug 22 02:37:06 CEST 2013
+Temperature is : 27.849095 C, Bias Voltage is 29.000000 V, Current is 306.081900 nA
+Thu Aug 22 03:00:11 CEST 2013
+Temperature is : 27.831535 C, Bias Voltage is 29.000000 V, Current is 305.484600 nA
+Thu Aug 22 03:19:22 CEST 2013
+Temperature is : 27.785818 C, Bias Voltage is 29.000000 V, Current is 303.763400 nA
+Thu Aug 22 03:41:57 CEST 2013
+Temperature is : 27.797282 C, Bias Voltage is 29.000000 V, Current is 303.229800 nA
+Thu Aug 22 04:01:38 CEST 2013
+Temperature is : 27.790989 C, Bias Voltage is 29.000000 V, Current is 303.280500 nA
+Thu Aug 22 04:21:45 CEST 2013
+Temperature is : 27.773627 C, Bias Voltage is 29.000000 V, Current is 304.794300 nA
+Thu Aug 22 04:41:21 CEST 2013
+Temperature is : 27.776399 C, Bias Voltage is 29.000000 V, Current is 302.680800 nA
+Thu Aug 22 05:01:41 CEST 2013
+Temperature is : 27.770343 C, Bias Voltage is 29.000000 V, Current is 303.637900 nA
+Thu Aug 22 05:22:07 CEST 2013
+Temperature is : 27.783006 C, Bias Voltage is 29.000000 V, Current is 304.174800 nA
+Thu Aug 22 05:42:42 CEST 2013
+Temperature is : 27.792838 C, Bias Voltage is 29.000000 V, Current is 304.683700 nA
+Thu Aug 22 06:03:52 CEST 2013
+Temperature is : 27.781000 C, Bias Voltage is 29.000000 V, Current is 303.565500 nA
+Thu Aug 22 06:24:50 CEST 2013
+Temperature is : 27.772466 C, Bias Voltage is 29.000000 V, Current is 306.419100 nA
+Thu Aug 22 06:45:49 CEST 2013
+Temperature is : 27.758132 C, Bias Voltage is 29.000000 V, Current is 303.176600 nA
+Thu Aug 22 07:06:59 CEST 2013
+Temperature is : 27.736974 C, Bias Voltage is 29.000000 V, Current is 304.841100 nA
+Thu Aug 22 07:26:32 CEST 2013
+Temperature is : 27.726946 C, Bias Voltage is 29.000000 V, Current is 304.059300 nA
+Thu Aug 22 07:46:03 CEST 2013
+Temperature is : 27.720240 C, Bias Voltage is 29.000000 V, Current is 302.050500 nA
+Thu Aug 22 08:06:38 CEST 2013
+Temperature is : 27.736109 C, Bias Voltage is 29.000000 V, Current is 304.809800 nA
+###############################################
+Thu Aug 22 08:28:56 CEST 2013
+Started Producer
+################ execution log ################
+Thu Aug 22 08:29:19 CEST 2013
+Configuring with ni_timepix
+Thu Aug 22 08:29:19 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT
+Thu Aug 22 08:29:19 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT_ascii
+Thu Aug 22 08:29:19 CEST 2013
+Mode is TOT
+Thu Aug 22 08:29:19 CEST 2013
+Bias is 25.000000
+Thu Aug 22 08:29:34 CEST 2013
+Starting Run 146
+Thu Aug 22 08:37:01 CEST 2013
+Stopping Run 146
+Thu Aug 22 08:43:52 CEST 2013
+Configuring with ni_timepix
+Thu Aug 22 08:43:52 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT
+Thu Aug 22 08:43:52 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT_ascii
+Thu Aug 22 08:43:52 CEST 2013
+Mode is TOT
+Thu Aug 22 08:43:52 CEST 2013
+Bias is 25.000000
+Thu Aug 22 08:44:12 CEST 2013
+Starting Run 147
+Thu Aug 22 08:49:35 CEST 2013
+Temperature is : 27.046591 C, Bias Voltage is 25.000000 V, Current is 243.275100 nA
+Thu Aug 22 08:51:15 CEST 2013
+Temperature is : 26.920843 C, Bias Voltage is 25.000000 V, Current is 233.259700 nA
+Thu Aug 22 08:52:52 CEST 2013
+Temperature is : 26.875578 C, Bias Voltage is 25.000000 V, Current is 242.172500 nA
+Thu Aug 22 08:54:30 CEST 2013
+Temperature is : 26.969471 C, Bias Voltage is 25.000000 V, Current is 230.687900 nA
+Thu Aug 22 08:56:06 CEST 2013
+Temperature is : 26.966639 C, Bias Voltage is 25.000000 V, Current is 233.734100 nA
+Thu Aug 22 08:57:46 CEST 2013
+Temperature is : 26.934155 C, Bias Voltage is 25.000000 V, Current is 235.178700 nA
+Thu Aug 22 08:59:22 CEST 2013
+Temperature is : 26.956886 C, Bias Voltage is 25.000000 V, Current is 242.580500 nA
+Thu Aug 22 09:00:01 CEST 2013
+Stopping Run 147
+Thu Aug 22 09:03:20 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Thu Aug 22 09:03:21 CEST 2013
+Started Producer
+################ execution log ################
+Thu Aug 22 09:03:32 CEST 2013
+Configuring with ni_timepix
+Thu Aug 22 09:03:32 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT
+Thu Aug 22 09:03:32 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT_ascii
+Thu Aug 22 09:03:32 CEST 2013
+Mode is TOT
+Thu Aug 22 09:03:32 CEST 2013
+Bias is 25.000000
+Thu Aug 22 09:03:44 CEST 2013
+Starting Run 148
+Thu Aug 22 09:04:40 CEST 2013
+Stopping Run 148
+Thu Aug 22 09:05:55 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Thu Aug 22 09:06:11 CEST 2013
+Started Producer
+################ execution log ################
+Thu Aug 22 09:06:41 CEST 2013
+Configuring with ni_timepix
+Thu Aug 22 09:06:41 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT
+Thu Aug 22 09:06:41 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT_ascii
+Thu Aug 22 09:06:41 CEST 2013
+Mode is TOT
+Thu Aug 22 09:06:41 CEST 2013
+Bias is 25.000000
+Thu Aug 22 09:07:23 CEST 2013
+Configuring with ni_timepix
+Thu Aug 22 09:07:23 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT
+Thu Aug 22 09:07:23 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT_ascii
+Thu Aug 22 09:07:23 CEST 2013
+Mode is TOT
+Thu Aug 22 09:07:23 CEST 2013
+Bias is 25.000000
+Thu Aug 22 09:15:58 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Thu Aug 22 09:15:59 CEST 2013
+Started Producer
+################ execution log ################
+Thu Aug 22 09:16:11 CEST 2013
+Configuring with ni_timepix
+Thu Aug 22 09:16:11 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT
+Thu Aug 22 09:16:11 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT_ascii
+Thu Aug 22 09:16:11 CEST 2013
+Mode is TOT
+Thu Aug 22 09:16:11 CEST 2013
+Bias is 25.000000
+Thu Aug 22 09:16:35 CEST 2013
+Starting Run 149
+Thu Aug 22 09:17:04 CEST 2013
+Stopping Run 149
+Thu Aug 22 09:17:13 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Thu Aug 22 09:18:25 CEST 2013
+Started Producer
+################ execution log ################
+Thu Aug 22 09:18:36 CEST 2013
+Configuring with ni_timepix
+Thu Aug 22 09:18:36 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT
+Thu Aug 22 09:18:36 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT_ascii
+Thu Aug 22 09:18:36 CEST 2013
+Mode is TOT
+Thu Aug 22 09:18:36 CEST 2013
+Bias is 25.000000
+Thu Aug 22 09:18:48 CEST 2013
+Starting Run 150
+Thu Aug 22 09:20:38 CEST 2013
+Temperature is : 25.552267 C, Bias Voltage is 25.000000 V, Current is 190.585100 nA
+Thu Aug 22 09:22:17 CEST 2013
+Temperature is : 26.314029 C, Bias Voltage is 25.000000 V, Current is 217.603600 nA
+Thu Aug 22 09:23:54 CEST 2013
+Temperature is : 26.621821 C, Bias Voltage is 25.000000 V, Current is 231.911200 nA
+Thu Aug 22 09:25:25 CEST 2013
+Temperature is : 26.811023 C, Bias Voltage is 25.000000 V, Current is 230.983300 nA
+Thu Aug 22 09:27:01 CEST 2013
+Temperature is : 26.878075 C, Bias Voltage is 25.000000 V, Current is 232.049100 nA
+Thu Aug 22 09:28:38 CEST 2013
+Temperature is : 26.925424 C, Bias Voltage is 25.000000 V, Current is 235.859200 nA
+Thu Aug 22 09:30:09 CEST 2013
+Temperature is : 26.964102 C, Bias Voltage is 25.000000 V, Current is 235.586700 nA
+Thu Aug 22 09:31:47 CEST 2013
+Temperature is : 26.990668 C, Bias Voltage is 25.000000 V, Current is 235.022700 nA
+Thu Aug 22 09:33:24 CEST 2013
+Temperature is : 27.026082 C, Bias Voltage is 25.000000 V, Current is 236.475500 nA
+Thu Aug 22 09:35:02 CEST 2013
+Temperature is : 27.043366 C, Bias Voltage is 25.000000 V, Current is 242.550600 nA
+Thu Aug 22 09:36:40 CEST 2013
+Temperature is : 27.060257 C, Bias Voltage is 25.000000 V, Current is 244.352600 nA
+Thu Aug 22 09:38:12 CEST 2013
+Temperature is : 27.086507 C, Bias Voltage is 25.000000 V, Current is 235.859400 nA
+Thu Aug 22 09:39:50 CEST 2013
+Temperature is : 27.094569 C, Bias Voltage is 25.000000 V, Current is 242.143800 nA
+Thu Aug 22 09:41:12 CEST 2013
+Stopping Run 150
+Thu Aug 22 09:41:22 CEST 2013
+Starting Run 151
+Thu Aug 22 09:43:07 CEST 2013
+Temperature is : 27.056855 C, Bias Voltage is 27.000000 V, Current is 246.275800 nA
+Thu Aug 22 09:44:38 CEST 2013
+Temperature is : 27.104067 C, Bias Voltage is 27.000000 V, Current is 236.377000 nA
+Thu Aug 22 09:46:17 CEST 2013
+Temperature is : 27.126031 C, Bias Voltage is 27.000000 V, Current is 243.555700 nA
+Thu Aug 22 09:47:54 CEST 2013
+Temperature is : 27.119994 C, Bias Voltage is 27.000000 V, Current is 244.313300 nA
+Thu Aug 22 09:49:26 CEST 2013
+Temperature is : 27.128626 C, Bias Voltage is 27.000000 V, Current is 238.970000 nA
+Thu Aug 22 09:51:02 CEST 2013
+Temperature is : 27.145753 C, Bias Voltage is 27.000000 V, Current is 247.139600 nA
+Thu Aug 22 09:52:40 CEST 2013
+Temperature is : 27.141073 C, Bias Voltage is 27.000000 V, Current is 250.936900 nA
+Thu Aug 22 09:54:13 CEST 2013
+Temperature is : 27.154169 C, Bias Voltage is 27.000000 V, Current is 238.975000 nA
+Thu Aug 22 09:55:50 CEST 2013
+Temperature is : 27.161051 C, Bias Voltage is 27.000000 V, Current is 241.320600 nA
+Thu Aug 22 09:57:27 CEST 2013
+Temperature is : 27.152419 C, Bias Voltage is 27.000000 V, Current is 248.304600 nA
+Thu Aug 22 09:58:59 CEST 2013
+Temperature is : 27.177234 C, Bias Voltage is 27.000000 V, Current is 242.716000 nA
+Thu Aug 22 10:00:37 CEST 2013
+Temperature is : 27.187066 C, Bias Voltage is 27.000000 V, Current is 239.162900 nA
+Thu Aug 22 10:02:16 CEST 2013
+Temperature is : 27.186988 C, Bias Voltage is 27.000000 V, Current is 242.849600 nA
+Thu Aug 22 10:03:31 CEST 2013
+Stopping Run 151
+Thu Aug 22 10:03:41 CEST 2013
+Starting Run 152
+Thu Aug 22 10:05:29 CEST 2013
+Temperature is : 27.131340 C, Bias Voltage is 29.000000 V, Current is 242.111900 nA
+Thu Aug 22 10:07:07 CEST 2013
+Temperature is : 27.185886 C, Bias Voltage is 29.000000 V, Current is 244.250600 nA
+Thu Aug 22 10:08:46 CEST 2013
+Temperature is : 27.178021 C, Bias Voltage is 29.000000 V, Current is 246.888700 nA
+Thu Aug 22 10:10:17 CEST 2013
+Temperature is : 27.187990 C, Bias Voltage is 29.000000 V, Current is 241.562100 nA
+Thu Aug 22 10:12:00 CEST 2013
+Temperature is : 27.237759 C, Bias Voltage is 29.000000 V, Current is 242.272900 nA
+Thu Aug 22 10:13:38 CEST 2013
+Temperature is : 27.203918 C, Bias Voltage is 29.000000 V, Current is 249.580900 nA
+Thu Aug 22 10:15:17 CEST 2013
+Temperature is : 27.198904 C, Bias Voltage is 29.000000 V, Current is 254.989300 nA
+Thu Aug 22 10:16:49 CEST 2013
+Temperature is : 27.197586 C, Bias Voltage is 29.000000 V, Current is 240.350100 nA
+Thu Aug 22 10:18:27 CEST 2013
+Temperature is : 27.199651 C, Bias Voltage is 29.000000 V, Current is 246.777800 nA
+Thu Aug 22 10:20:05 CEST 2013
+Temperature is : 27.224151 C, Bias Voltage is 29.000000 V, Current is 246.081600 nA
+Thu Aug 22 10:21:35 CEST 2013
+Temperature is : 27.237523 C, Bias Voltage is 29.000000 V, Current is 242.409800 nA
+Thu Aug 22 10:23:14 CEST 2013
+Temperature is : 27.232961 C, Bias Voltage is 29.000000 V, Current is 242.783400 nA
+Thu Aug 22 10:24:52 CEST 2013
+Temperature is : 27.208657 C, Bias Voltage is 29.000000 V, Current is 240.916300 nA
+Thu Aug 22 10:26:10 CEST 2013
+Stopping Run 152
+Thu Aug 22 10:26:20 CEST 2013
+Starting Run 153
+Thu Aug 22 10:28:04 CEST 2013
+Temperature is : 27.172279 C, Bias Voltage is 31.000000 V, Current is 239.792100 nA
+Thu Aug 22 10:29:41 CEST 2013
+Temperature is : 27.202325 C, Bias Voltage is 31.000000 V, Current is 245.866400 nA
+Thu Aug 22 10:31:12 CEST 2013
+Temperature is : 27.212491 C, Bias Voltage is 31.000000 V, Current is 242.381700 nA
+Thu Aug 22 10:32:48 CEST 2013
+Temperature is : 27.218134 C, Bias Voltage is 31.000000 V, Current is 239.435200 nA
+Thu Aug 22 10:34:26 CEST 2013
+Temperature is : 27.233511 C, Bias Voltage is 31.000000 V, Current is 245.488300 nA
+Thu Aug 22 10:36:04 CEST 2013
+Temperature is : 27.244090 C, Bias Voltage is 31.000000 V, Current is 256.656100 nA
+Thu Aug 22 10:37:34 CEST 2013
+Temperature is : 27.236677 C, Bias Voltage is 31.000000 V, Current is 243.103600 nA
+Thu Aug 22 10:39:13 CEST 2013
+Temperature is : 27.253942 C, Bias Voltage is 31.000000 V, Current is 244.174900 nA
+Thu Aug 22 10:40:50 CEST 2013
+Temperature is : 27.233846 C, Bias Voltage is 31.000000 V, Current is 256.461500 nA
+Thu Aug 22 10:42:24 CEST 2013
+Temperature is : 27.230208 C, Bias Voltage is 31.000000 V, Current is 242.146700 nA
+Thu Aug 22 10:44:09 CEST 2013
+Temperature is : 27.261138 C, Bias Voltage is 31.000000 V, Current is 251.751000 nA
+Thu Aug 22 10:46:09 CEST 2013
+Temperature is : 27.350312 C, Bias Voltage is 31.000000 V, Current is 254.414100 nA
+Thu Aug 22 10:48:03 CEST 2013
+Temperature is : 27.359751 C, Bias Voltage is 31.000000 V, Current is 250.473400 nA
+Thu Aug 22 10:49:44 CEST 2013
+Temperature is : 27.305735 C, Bias Voltage is 31.000000 V, Current is 249.914500 nA
+Thu Aug 22 10:51:17 CEST 2013
+Temperature is : 27.274667 C, Bias Voltage is 31.000000 V, Current is 241.113600 nA
+###############################################
+Thu Aug 22 11:48:23 CEST 2013
+Started Producer
+################ execution log ################
+Thu Aug 22 11:48:38 CEST 2013
+Configuring with ni_timepix
+Thu Aug 22 11:48:38 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT
+Thu Aug 22 11:48:38 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_A06-W0110_15V_IKrum1_96MHz_21-08-13_TOT_ascii
+Thu Aug 22 11:48:38 CEST 2013
+Mode is TOT
+Thu Aug 22 11:48:38 CEST 2013
+Bias is 5.000000
+Thu Aug 22 11:50:12 CEST 2013
+Configuring with ni_timepix
+Thu Aug 22 11:50:12 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_L05-W0125_45V_IKrum1_96MHz_22-08-13_TOT
+Thu Aug 22 11:50:12 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_L05-W0125_45V_IKrum1_96MHz_22-08-13_TOT_ascii
+Thu Aug 22 11:50:12 CEST 2013
+Mode is TOT
+Thu Aug 22 11:50:12 CEST 2013
+Bias is 5.000000
+Thu Aug 22 11:50:39 CEST 2013
+Starting Run 155
+Thu Aug 22 11:52:31 CEST 2013
+Temperature is : 25.623174 C, Bias Voltage is 5.000000 V, Current is 509.706200 nA
+Thu Aug 22 11:54:11 CEST 2013
+Temperature is : 26.412051 C, Bias Voltage is 5.000000 V, Current is 584.591200 nA
+Thu Aug 22 11:55:46 CEST 2013
+Temperature is : 26.740962 C, Bias Voltage is 5.000000 V, Current is 587.467200 nA
+Thu Aug 22 11:57:26 CEST 2013
+Temperature is : 26.887454 C, Bias Voltage is 5.000000 V, Current is 599.589400 nA
+Thu Aug 22 11:59:09 CEST 2013
+Temperature is : 26.983412 C, Bias Voltage is 5.000000 V, Current is 609.143200 nA
+Thu Aug 22 12:00:51 CEST 2013
+Temperature is : 27.018472 C, Bias Voltage is 5.000000 V, Current is 631.916100 nA
+Thu Aug 22 12:02:26 CEST 2013
+Temperature is : 27.053591 C, Bias Voltage is 5.000000 V, Current is 618.640500 nA
+Thu Aug 22 12:04:07 CEST 2013
+Temperature is : 27.078858 C, Bias Voltage is 5.000000 V, Current is 611.613900 nA
+Thu Aug 22 12:05:50 CEST 2013
+Temperature is : 27.074100 C, Bias Voltage is 5.000000 V, Current is 611.123800 nA
+Thu Aug 22 12:07:31 CEST 2013
+Temperature is : 27.064838 C, Bias Voltage is 5.000000 V, Current is 628.298800 nA
+Thu Aug 22 12:09:06 CEST 2013
+Temperature is : 27.079546 C, Bias Voltage is 5.000000 V, Current is 608.889900 nA
+Thu Aug 22 12:10:46 CEST 2013
+Temperature is : 27.065998 C, Bias Voltage is 5.000000 V, Current is 612.193800 nA
+Thu Aug 22 12:12:27 CEST 2013
+Temperature is : 27.063619 C, Bias Voltage is 5.000000 V, Current is 606.860800 nA
+Thu Aug 22 12:14:04 CEST 2013
+Temperature is : 27.050897 C, Bias Voltage is 5.000000 V, Current is 641.134500 nA
+Thu Aug 22 12:15:41 CEST 2013
+Temperature is : 27.044093 C, Bias Voltage is 5.000000 V, Current is 608.218600 nA
+Thu Aug 22 12:17:22 CEST 2013
+Temperature is : 27.065192 C, Bias Voltage is 5.000000 V, Current is 600.649800 nA
+Thu Aug 22 12:19:03 CEST 2013
+Temperature is : 27.043877 C, Bias Voltage is 5.000000 V, Current is 607.525900 nA
+Thu Aug 22 12:20:37 CEST 2013
+Temperature is : 27.039728 C, Bias Voltage is 5.000000 V, Current is 597.658900 nA
+Thu Aug 22 12:22:17 CEST 2013
+Temperature is : 27.047770 C, Bias Voltage is 5.000000 V, Current is 595.849300 nA
+Thu Aug 22 12:23:57 CEST 2013
+Temperature is : 27.048026 C, Bias Voltage is 5.000000 V, Current is 604.099600 nA
+Thu Aug 22 12:25:39 CEST 2013
+Temperature is : 27.047220 C, Bias Voltage is 5.000000 V, Current is 612.382400 nA
+Thu Aug 22 12:27:12 CEST 2013
+Temperature is : 27.065133 C, Bias Voltage is 5.000000 V, Current is 604.926200 nA
+Thu Aug 22 12:28:52 CEST 2013
+Temperature is : 27.076282 C, Bias Voltage is 5.000000 V, Current is 600.628700 nA
+Thu Aug 22 12:30:34 CEST 2013
+Temperature is : 27.063796 C, Bias Voltage is 5.000000 V, Current is 613.647800 nA
+Thu Aug 22 12:32:11 CEST 2013
+Temperature is : 27.049933 C, Bias Voltage is 5.000000 V, Current is 625.558800 nA
+Thu Aug 22 12:33:48 CEST 2013
+Temperature is : 27.067159 C, Bias Voltage is 5.000000 V, Current is 594.051700 nA
+Thu Aug 22 12:35:27 CEST 2013
+Temperature is : 27.040751 C, Bias Voltage is 5.000000 V, Current is 595.844500 nA
+Thu Aug 22 12:37:07 CEST 2013
+Temperature is : 27.034006 C, Bias Voltage is 5.000000 V, Current is 611.505600 nA
+Thu Aug 22 12:38:40 CEST 2013
+Temperature is : 27.041970 C, Bias Voltage is 5.000000 V, Current is 587.842900 nA
+Thu Aug 22 12:40:21 CEST 2013
+Temperature is : 27.042029 C, Bias Voltage is 5.000000 V, Current is 595.245800 nA
+Thu Aug 22 12:42:02 CEST 2013
+Temperature is : 27.034026 C, Bias Voltage is 5.000000 V, Current is 600.790500 nA
+Thu Aug 22 12:43:44 CEST 2013
+Temperature is : 27.036169 C, Bias Voltage is 5.000000 V, Current is 619.319300 nA
+Thu Aug 22 12:45:17 CEST 2013
+Temperature is : 27.052509 C, Bias Voltage is 5.000000 V, Current is 594.574600 nA
+Thu Aug 22 12:46:59 CEST 2013
+Temperature is : 27.055754 C, Bias Voltage is 5.000000 V, Current is 596.983600 nA
+Thu Aug 22 12:48:41 CEST 2013
+Temperature is : 27.044664 C, Bias Voltage is 5.000000 V, Current is 595.780900 nA
+Thu Aug 22 12:50:23 CEST 2013
+Temperature is : 27.031076 C, Bias Voltage is 5.000000 V, Current is 614.422400 nA
+Thu Aug 22 12:51:57 CEST 2013
+Temperature is : 27.043149 C, Bias Voltage is 5.000000 V, Current is 586.778900 nA
+Thu Aug 22 12:53:39 CEST 2013
+Temperature is : 27.056226 C, Bias Voltage is 5.000000 V, Current is 598.391300 nA
+Thu Aug 22 12:55:20 CEST 2013
+Temperature is : 27.056540 C, Bias Voltage is 5.000000 V, Current is 596.797200 nA
+Thu Aug 22 12:56:55 CEST 2013
+Temperature is : 27.053709 C, Bias Voltage is 5.000000 V, Current is 601.190100 nA
+Thu Aug 22 12:58:34 CEST 2013
+Temperature is : 27.053374 C, Bias Voltage is 5.000000 V, Current is 592.049700 nA
+Thu Aug 22 13:00:15 CEST 2013
+Temperature is : 27.074552 C, Bias Voltage is 5.000000 V, Current is 593.732800 nA
+Thu Aug 22 13:01:56 CEST 2013
+Temperature is : 27.043346 C, Bias Voltage is 5.000000 V, Current is 602.976200 nA
+Thu Aug 22 13:03:27 CEST 2013
+Temperature is : 27.032787 C, Bias Voltage is 5.000000 V, Current is 586.055400 nA
+Thu Aug 22 13:05:09 CEST 2013
+Temperature is : 27.037683 C, Bias Voltage is 5.000000 V, Current is 588.218100 nA
+###############################################
+Thu Aug 22 13:08:17 CEST 2013
+Started Producer
+################ execution log ################
+Thu Aug 22 13:08:30 CEST 2013
+Configuring with ni_timepix
+Thu Aug 22 13:08:30 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_L05-W0125_45V_IKrum1_96MHz_22-08-13_TOT
+Thu Aug 22 13:08:30 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_L05-W0125_45V_IKrum1_96MHz_22-08-13_TOT_ascii
+Thu Aug 22 13:08:30 CEST 2013
+Mode is TOT
+Thu Aug 22 13:08:30 CEST 2013
+Bias is 10.000000
+Thu Aug 22 13:08:41 CEST 2013
+Starting Run 156
+Thu Aug 22 13:09:05 CEST 2013
+Stopping Run 156
+Thu Aug 22 13:09:15 CEST 2013
+Starting Run 157
+Thu Aug 22 13:09:15 CEST 2013
+Stopping Run 157
+Thu Aug 22 13:09:25 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Thu Aug 22 13:12:15 CEST 2013
+Started Producer
+################ execution log ################
+Thu Aug 22 13:12:41 CEST 2013
+Configuring with ni_timepix
+Thu Aug 22 13:12:41 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_L05-W0125_45V_IKrum1_96MHz_22-08-13_TOT
+Thu Aug 22 13:12:41 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_L05-W0125_45V_IKrum1_96MHz_22-08-13_TOT_ascii
+Thu Aug 22 13:12:41 CEST 2013
+Mode is TOT
+Thu Aug 22 13:12:41 CEST 2013
+Bias is 15.000000
+Thu Aug 22 13:12:56 CEST 2013
+Starting Run 158
+Thu Aug 22 13:12:58 CEST 2013
+Stopping Run 158
+###############################################
+Thu Aug 22 13:23:04 CEST 2013
+Started Producer
+################ execution log ################
+Thu Aug 22 13:23:15 CEST 2013
+Configuring with ni_timepix
+Thu Aug 22 13:23:15 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_L05-W0125_45V_IKrum1_96MHz_22-08-13_TOT
+Thu Aug 22 13:23:15 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_L05-W0125_45V_IKrum1_96MHz_22-08-13_TOT_ascii
+Thu Aug 22 13:23:15 CEST 2013
+Mode is TOT
+Thu Aug 22 13:23:15 CEST 2013
+Bias is 10.000000
+Thu Aug 22 13:23:27 CEST 2013
+Starting Run 159
+Thu Aug 22 13:25:01 CEST 2013
+Temperature is : 23.354118 C, Bias Voltage is 10.000000 V, Current is 270.422800 nA
+Thu Aug 22 13:26:14 CEST 2013
+Temperature is : 23.956760 C, Bias Voltage is 10.000000 V, Current is 256.748300 nA
+Thu Aug 22 13:27:28 CEST 2013
+Temperature is : 24.243924 C, Bias Voltage is 10.000000 V, Current is 269.029600 nA
+Thu Aug 22 13:28:41 CEST 2013
+Temperature is : 24.394683 C, Bias Voltage is 10.000000 V, Current is 273.168400 nA
+Thu Aug 22 13:29:54 CEST 2013
+Temperature is : 24.479570 C, Bias Voltage is 10.000000 V, Current is 277.873800 nA
+Thu Aug 22 13:31:27 CEST 2013
+Temperature is : 24.514571 C, Bias Voltage is 10.000000 V, Current is 279.452500 nA
+Thu Aug 22 13:33:40 CEST 2013
+Temperature is : 24.514000 C, Bias Voltage is 10.000000 V, Current is 278.232700 nA
+Thu Aug 22 13:34:53 CEST 2013
+Temperature is : 24.563532 C, Bias Voltage is 10.000000 V, Current is 280.221500 nA
+Thu Aug 22 13:37:57 CEST 2013
+Temperature is : 24.500334 C, Bias Voltage is 10.000000 V, Current is 275.917400 nA
+Thu Aug 22 13:39:10 CEST 2013
+Temperature is : 24.568704 C, Bias Voltage is 10.000000 V, Current is 280.235500 nA
+Thu Aug 22 13:41:04 CEST 2013
+Temperature is : 24.566482 C, Bias Voltage is 10.000000 V, Current is 279.623900 nA
+Thu Aug 22 13:42:15 CEST 2013
+Temperature is : 24.605160 C, Bias Voltage is 10.000000 V, Current is 282.032900 nA
+Thu Aug 22 13:43:09 CEST 2013
+Stopping Run 159
+Thu Aug 22 13:43:19 CEST 2013
+Starting Run 160
+Thu Aug 22 13:45:40 CEST 2013
+Temperature is : 24.556198 C, Bias Voltage is 15.000000 V, Current is 276.713600 nA
+Thu Aug 22 13:48:29 CEST 2013
+Temperature is : 24.507295 C, Bias Voltage is 15.000000 V, Current is 275.570800 nA
+Thu Aug 22 13:51:16 CEST 2013
+Temperature is : 24.516655 C, Bias Voltage is 15.000000 V, Current is 277.754900 nA
+Thu Aug 22 13:53:16 CEST 2013
+Temperature is : 24.538540 C, Bias Voltage is 15.000000 V, Current is 276.441600 nA
+Thu Aug 22 13:54:29 CEST 2013
+Temperature is : 24.599929 C, Bias Voltage is 15.000000 V, Current is 281.770000 nA
+Thu Aug 22 13:56:30 CEST 2013
+Temperature is : 24.584179 C, Bias Voltage is 15.000000 V, Current is 272.210300 nA
+Thu Aug 22 13:57:43 CEST 2013
+Temperature is : 24.604589 C, Bias Voltage is 15.000000 V, Current is 281.120400 nA
+Thu Aug 22 13:59:01 CEST 2013
+Temperature is : 24.632236 C, Bias Voltage is 15.000000 V, Current is 282.736900 nA
+Thu Aug 22 14:01:01 CEST 2013
+Temperature is : 24.581977 C, Bias Voltage is 15.000000 V, Current is 277.939400 nA
+Thu Aug 22 14:02:52 CEST 2013
+Temperature is : 24.579381 C, Bias Voltage is 15.000000 V, Current is 276.660100 nA
+Thu Aug 22 14:04:06 CEST 2013
+Temperature is : 24.616643 C, Bias Voltage is 15.000000 V, Current is 282.217100 nA
+Thu Aug 22 14:06:13 CEST 2013
+Temperature is : 24.573384 C, Bias Voltage is 15.000000 V, Current is 280.047800 nA
+Thu Aug 22 14:07:44 CEST 2013
+Temperature is : 24.609171 C, Bias Voltage is 15.000000 V, Current is 281.110400 nA
+Thu Aug 22 14:08:09 CEST 2013
+Stopping Run 160
+Thu Aug 22 14:08:19 CEST 2013
+Starting Run 161
+Thu Aug 22 14:09:48 CEST 2013
+Temperature is : 24.618747 C, Bias Voltage is 20.000000 V, Current is 283.092800 nA
+Thu Aug 22 14:11:16 CEST 2013
+Temperature is : 24.636936 C, Bias Voltage is 20.000000 V, Current is 281.127300 nA
+Thu Aug 22 14:12:35 CEST 2013
+Temperature is : 24.641498 C, Bias Voltage is 20.000000 V, Current is 281.850600 nA
+Thu Aug 22 14:14:00 CEST 2013
+Temperature is : 24.653197 C, Bias Voltage is 20.000000 V, Current is 278.278900 nA
+Thu Aug 22 14:15:21 CEST 2013
+Temperature is : 24.650149 C, Bias Voltage is 20.000000 V, Current is 283.501700 nA
+Thu Aug 22 14:16:39 CEST 2013
+Temperature is : 24.656422 C, Bias Voltage is 20.000000 V, Current is 283.530700 nA
+Thu Aug 22 14:18:05 CEST 2013
+Temperature is : 24.660748 C, Bias Voltage is 20.000000 V, Current is 282.965000 nA
+Thu Aug 22 14:19:25 CEST 2013
+Temperature is : 24.659096 C, Bias Voltage is 20.000000 V, Current is 282.716900 nA
+Thu Aug 22 14:20:53 CEST 2013
+Temperature is : 24.664150 C, Bias Voltage is 20.000000 V, Current is 281.456200 nA
+Thu Aug 22 14:22:14 CEST 2013
+Temperature is : 24.661633 C, Bias Voltage is 20.000000 V, Current is 281.277500 nA
+Thu Aug 22 14:23:42 CEST 2013
+Temperature is : 24.659863 C, Bias Voltage is 20.000000 V, Current is 282.084600 nA
+Thu Aug 22 14:25:01 CEST 2013
+Temperature is : 24.667316 C, Bias Voltage is 20.000000 V, Current is 281.413300 nA
+Thu Aug 22 14:26:29 CEST 2013
+Temperature is : 24.664228 C, Bias Voltage is 20.000000 V, Current is 280.881200 nA
+Thu Aug 22 14:27:53 CEST 2013
+Temperature is : 24.666509 C, Bias Voltage is 20.000000 V, Current is 282.197200 nA
+Thu Aug 22 14:29:25 CEST 2013
+Temperature is : 24.660866 C, Bias Voltage is 20.000000 V, Current is 280.873500 nA
+Thu Aug 22 14:30:58 CEST 2013
+Temperature is : 24.663894 C, Bias Voltage is 20.000000 V, Current is 276.613000 nA
+Thu Aug 22 14:32:18 CEST 2013
+Temperature is : 24.664110 C, Bias Voltage is 20.000000 V, Current is 282.227700 nA
+###############################################
+Thu Aug 22 14:41:08 CEST 2013
+Started Producer
+################ execution log ################
+Thu Aug 22 14:41:24 CEST 2013
+Configuring with ni_timepix
+Thu Aug 22 14:41:24 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_L05-W0125_45V_IKrum1_96MHz_22-08-13_TOT
+Thu Aug 22 14:41:24 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_L05-W0125_45V_IKrum1_96MHz_22-08-13_TOT_ascii
+Thu Aug 22 14:41:24 CEST 2013
+Mode is TOT
+Thu Aug 22 14:41:24 CEST 2013
+Bias is 25.000000
+Thu Aug 22 14:41:37 CEST 2013
+Starting Run 162
+Thu Aug 22 14:43:46 CEST 2013
+Temperature is : 23.478921 C, Bias Voltage is 25.000000 V, Current is 236.111000 nA
+Thu Aug 22 14:45:18 CEST 2013
+Temperature is : 24.040310 C, Bias Voltage is 25.000000 V, Current is 255.794500 nA
+Thu Aug 22 14:52:21 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Thu Aug 22 14:52:24 CEST 2013
+Started Producer
+################ execution log ################
+Thu Aug 22 14:52:38 CEST 2013
+Configuring with ni_timepix
+Thu Aug 22 14:52:38 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_L05-W0125_45V_IKrum1_96MHz_22-08-13_TOT
+Thu Aug 22 14:52:38 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_L05-W0125_45V_IKrum1_96MHz_22-08-13_TOT_ascii
+Thu Aug 22 14:52:38 CEST 2013
+Mode is TOT
+Thu Aug 22 14:52:38 CEST 2013
+Bias is 25.000000
+Thu Aug 22 14:52:50 CEST 2013
+Starting Run 163
+Thu Aug 22 14:53:14 CEST 2013
+Temperature is : 24.313631 C, Bias Voltage is 25.000000 V, Current is 272.138900 nA
+Thu Aug 22 14:53:18 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Thu Aug 22 14:54:44 CEST 2013
+Started Producer
+################ execution log ################
+Thu Aug 22 14:54:56 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Thu Aug 22 14:55:09 CEST 2013
+Started Producer
+################ execution log ################
+Thu Aug 22 14:55:19 CEST 2013
+Configuring with ni_timepix
+Thu Aug 22 14:55:19 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_L05-W0125_45V_IKrum1_96MHz_22-08-13_TOT
+Thu Aug 22 14:55:19 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_L05-W0125_45V_IKrum1_96MHz_22-08-13_TOT_ascii
+Thu Aug 22 14:55:19 CEST 2013
+Mode is TOT
+Thu Aug 22 14:55:19 CEST 2013
+Bias is 25.000000
+Thu Aug 22 14:55:31 CEST 2013
+Starting Run 164
+Thu Aug 22 14:59:32 CEST 2013
+Temperature is : 24.237612 C, Bias Voltage is 25.000000 V, Current is 263.595600 nA
+Thu Aug 22 15:05:55 CEST 2013
+Temperature is : 24.501809 C, Bias Voltage is 25.000000 V, Current is 271.046400 nA
+Thu Aug 22 15:07:38 CEST 2013
+Temperature is : 24.575232 C, Bias Voltage is 25.000000 V, Current is 276.327900 nA
+Thu Aug 22 15:09:02 CEST 2013
+Temperature is : 24.627576 C, Bias Voltage is 25.000000 V, Current is 280.068700 nA
+Thu Aug 22 15:12:06 CEST 2013
+Temperature is : 24.580403 C, Bias Voltage is 25.000000 V, Current is 276.347900 nA
+Thu Aug 22 15:14:05 CEST 2013
+Temperature is : 24.611157 C, Bias Voltage is 25.000000 V, Current is 277.852400 nA
+Thu Aug 22 15:15:51 CEST 2013
+Temperature is : 24.649599 C, Bias Voltage is 25.000000 V, Current is 274.623500 nA
+Thu Aug 22 15:17:36 CEST 2013
+Temperature is : 24.667178 C, Bias Voltage is 25.000000 V, Current is 277.074200 nA
+Thu Aug 22 15:19:34 CEST 2013
+Temperature is : 24.654456 C, Bias Voltage is 25.000000 V, Current is 277.384300 nA
+Thu Aug 22 15:21:31 CEST 2013
+Temperature is : 24.653217 C, Bias Voltage is 25.000000 V, Current is 278.004100 nA
+Thu Aug 22 15:23:10 CEST 2013
+Temperature is : 24.686409 C, Bias Voltage is 25.000000 V, Current is 279.793100 nA
+Thu Aug 22 15:24:53 CEST 2013
+Temperature is : 24.700920 C, Bias Voltage is 25.000000 V, Current is 278.295100 nA
+Thu Aug 22 15:26:55 CEST 2013
+Temperature is : 24.671111 C, Bias Voltage is 25.000000 V, Current is 277.205100 nA
+Thu Aug 22 15:27:35 CEST 2013
+Stopping Run 164
+Thu Aug 22 15:27:45 CEST 2013
+Starting Run 165
+Thu Aug 22 15:29:26 CEST 2013
+Temperature is : 24.697774 C, Bias Voltage is 30.000000 V, Current is 281.882300 nA
+Thu Aug 22 15:32:24 CEST 2013
+Temperature is : 24.654121 C, Bias Voltage is 30.000000 V, Current is 274.404200 nA
+###############################################
+Thu Aug 22 15:48:05 CEST 2013
+Started Producer
+################ execution log ################
+Thu Aug 22 15:49:32 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Thu Aug 22 15:50:12 CEST 2013
+Started Producer
+################ execution log ################
+Thu Aug 22 15:50:58 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Thu Aug 22 15:50:59 CEST 2013
+Started Producer
+################ execution log ################
+Thu Aug 22 15:51:08 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Thu Aug 22 15:51:45 CEST 2013
+Started Producer
+################ execution log ################
+###############################################
+Thu Aug 22 16:34:14 CEST 2013
+Started Producer
+################ execution log ################
+Thu Aug 22 16:34:23 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Thu Aug 22 16:44:18 CEST 2013
+Started Producer
+################ execution log ################
+Thu Aug 22 16:44:57 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Thu Aug 22 16:45:22 CEST 2013
+Started Producer
+################ execution log ################
+Thu Aug 22 16:46:05 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Thu Aug 22 16:47:16 CEST 2013
+Started Producer
+################ execution log ################
+Thu Aug 22 16:47:34 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Thu Aug 22 16:48:18 CEST 2013
+Started Producer
+################ execution log ################
+Thu Aug 22 16:48:25 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Thu Aug 22 16:50:05 CEST 2013
+Started Producer
+################ execution log ################
+Thu Aug 22 16:50:13 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Thu Aug 22 16:51:52 CEST 2013
+Started Producer
+################ execution log ################
+Thu Aug 22 16:54:28 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Thu Aug 22 17:29:59 CEST 2013
+Started Producer
+################ execution log ################
+Thu Aug 22 17:32:32 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Thu Aug 22 17:34:13 CEST 2013
+Started Producer
+################ execution log ################
+Thu Aug 22 17:36:22 CEST 2013
+Configuring with ni_timepix
+Thu Aug 22 17:36:22 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_L05-W0125_45V_IKrum1_96MHz_22-08-13_TOT
+Thu Aug 22 17:36:22 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_L05-W0125_45V_IKrum1_96MHz_22-08-13_TOT_ascii
+Thu Aug 22 17:36:22 CEST 2013
+Mode is TOT
+Thu Aug 22 17:36:22 CEST 2013
+Bias is 30.000000
+Thu Aug 22 17:40:20 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Thu Aug 22 17:40:22 CEST 2013
+Started Producer
+################ execution log ################
+Thu Aug 22 17:41:24 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Thu Aug 22 17:42:11 CEST 2013
+Started Producer
+################ execution log ################
+Thu Aug 22 17:42:41 CEST 2013
+Configuring with ni_timepix
+Thu Aug 22 17:42:41 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_L05-W0125_45V_IKrum1_96MHz_22-08-13_TOT
+Thu Aug 22 17:42:41 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_L05-W0125_45V_IKrum1_96MHz_22-08-13_TOT_ascii
+Thu Aug 22 17:42:41 CEST 2013
+Mode is TOT
+Thu Aug 22 17:42:41 CEST 2013
+Bias is 30.000000
+Thu Aug 22 17:43:44 CEST 2013
+Configuring with ni_timepix
+Thu Aug 22 17:43:44 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_L05-W0125_45V_IKrum1_96MHz_22-08-13_TOT_v2
+Thu Aug 22 17:43:44 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_L05-W0125_45V_IKrum1_96MHz_22-08-13_TOT_ascii_v2
+Thu Aug 22 17:43:44 CEST 2013
+Mode is TOT
+Thu Aug 22 17:43:44 CEST 2013
+Bias is 30.000000
+Thu Aug 22 17:43:57 CEST 2013
+Starting Run 1558
+Thu Aug 22 17:45:47 CEST 2013
+Temperature is : 25.641205 C, Bias Voltage is 30.000000 V, Current is 502.421500 nA
+Thu Aug 22 17:46:49 CEST 2013
+Stopping Run 1558
+###############################################
+Thu Aug 22 17:59:40 CEST 2013
+Started Producer
+################ execution log ################
+Thu Aug 22 17:59:44 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Thu Aug 22 18:01:12 CEST 2013
+Started Producer
+################ execution log ################
+Thu Aug 22 18:01:33 CEST 2013
+Configuring with ni_timepix
+Thu Aug 22 18:01:33 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_L05-W0125_45V_IKrum1_96MHz_22-08-13_TOT_v2
+Thu Aug 22 18:01:33 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_L05-W0125_45V_IKrum1_96MHz_22-08-13_TOT_ascii_v2
+Thu Aug 22 18:01:33 CEST 2013
+Mode is TOT
+Thu Aug 22 18:01:33 CEST 2013
+Bias is 30.000000
+Thu Aug 22 18:01:46 CEST 2013
+Starting Run 1
+Thu Aug 22 18:03:26 CEST 2013
+Stopping Run 1
+Thu Aug 22 18:04:23 CEST 2013
+Configuring with ni_timepix
+Thu Aug 22 18:04:23 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_L05-W0125_45V_IKrum1_96MHz_22-08-13_TOT_v2
+Thu Aug 22 18:04:23 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_L05-W0125_45V_IKrum1_96MHz_22-08-13_TOT_ascii_v2
+Thu Aug 22 18:04:23 CEST 2013
+Mode is TOT
+Thu Aug 22 18:04:23 CEST 2013
+Bias is 30.000000
+Thu Aug 22 18:04:34 CEST 2013
+Starting Run 2
+Thu Aug 22 18:04:35 CEST 2013
+Stopping Run 2
+Thu Aug 22 18:05:30 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Thu Aug 22 18:06:41 CEST 2013
+Started Producer
+################ execution log ################
+Thu Aug 22 18:07:06 CEST 2013
+Configuring with ni_timepix
+Thu Aug 22 18:07:06 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_L05-W0125_45V_IKrum1_96MHz_22-08-13_TOT_v2
+Thu Aug 22 18:07:06 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_L05-W0125_45V_IKrum1_96MHz_22-08-13_TOT_ascii_v2
+Thu Aug 22 18:07:06 CEST 2013
+Mode is TOT
+Thu Aug 22 18:07:06 CEST 2013
+Bias is 30.000000
+Thu Aug 22 18:07:18 CEST 2013
+Starting Run 167
+Thu Aug 22 18:07:43 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Thu Aug 22 18:08:57 CEST 2013
+Started Producer
+################ execution log ################
+Thu Aug 22 18:09:08 CEST 2013
+Configuring with ni_timepix
+Thu Aug 22 18:09:08 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_L05-W0125_45V_IKrum1_96MHz_22-08-13_TOT_v2
+Thu Aug 22 18:09:08 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_L05-W0125_45V_IKrum1_96MHz_22-08-13_TOT_ascii_v2
+Thu Aug 22 18:09:08 CEST 2013
+Mode is TOT
+Thu Aug 22 18:09:08 CEST 2013
+Bias is 30.000000
+Thu Aug 22 18:09:24 CEST 2013
+Starting Run 168
+Thu Aug 22 18:11:23 CEST 2013
+Temperature is : 25.891619 C, Bias Voltage is 30.000000 V, Current is 502.659600 nA
+Thu Aug 22 18:13:07 CEST 2013
+Temperature is : 26.669092 C, Bias Voltage is 30.000000 V, Current is 563.416400 nA
+Thu Aug 22 18:14:51 CEST 2013
+Temperature is : 26.968625 C, Bias Voltage is 30.000000 V, Current is 593.692300 nA
+Thu Aug 22 18:16:36 CEST 2013
+Temperature is : 27.111244 C, Bias Voltage is 30.000000 V, Current is 608.803600 nA
+Thu Aug 22 18:18:23 CEST 2013
+Temperature is : 27.131006 C, Bias Voltage is 30.000000 V, Current is 625.320900 nA
+Thu Aug 22 18:20:02 CEST 2013
+Temperature is : 27.190153 C, Bias Voltage is 30.000000 V, Current is 600.005500 nA
+Thu Aug 22 18:21:47 CEST 2013
+Temperature is : 27.234239 C, Bias Voltage is 30.000000 V, Current is 612.278300 nA
+Thu Aug 22 18:23:31 CEST 2013
+Temperature is : 27.277597 C, Bias Voltage is 30.000000 V, Current is 614.872000 nA
+Thu Aug 22 18:25:14 CEST 2013
+Temperature is : 27.262141 C, Bias Voltage is 30.000000 V, Current is 617.578900 nA
+Thu Aug 22 18:26:53 CEST 2013
+Temperature is : 27.281746 C, Bias Voltage is 30.000000 V, Current is 624.181300 nA
+Thu Aug 22 18:28:35 CEST 2013
+Temperature is : 27.299049 C, Bias Voltage is 30.000000 V, Current is 612.561400 nA
+Thu Aug 22 18:30:20 CEST 2013
+Temperature is : 27.312027 C, Bias Voltage is 30.000000 V, Current is 609.527900 nA
+Thu Aug 22 18:32:04 CEST 2013
+Temperature is : 27.306836 C, Bias Voltage is 30.000000 V, Current is 612.914300 nA
+Thu Aug 22 18:32:24 CEST 2013
+Stopping Run 168
+Thu Aug 22 18:32:34 CEST 2013
+Starting Run 169
+Thu Aug 22 18:34:20 CEST 2013
+Temperature is : 27.230857 C, Bias Voltage is 35.000000 V, Current is 601.470800 nA
+Thu Aug 22 18:35:04 CEST 2013
+Stopping Run 169
+Thu Aug 22 18:36:39 CEST 2013
+Configuring with ni_timepix
+Thu Aug 22 18:36:39 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_L05-W0125_45V_IKrum1_96MHz_22-08-13_TOT_v2
+Thu Aug 22 18:36:39 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_L05-W0125_45V_IKrum1_96MHz_22-08-13_TOT_ascii_v2
+Thu Aug 22 18:36:39 CEST 2013
+Mode is TOT
+Thu Aug 22 18:36:39 CEST 2013
+Bias is 5.000000
+Thu Aug 22 18:36:49 CEST 2013
+Starting Run 170
+Thu Aug 22 18:38:40 CEST 2013
+Temperature is : 26.690112 C, Bias Voltage is 5.000000 V, Current is 527.899200 nA
+Thu Aug 22 18:40:22 CEST 2013
+Temperature is : 27.043326 C, Bias Voltage is 5.000000 V, Current is 578.571800 nA
+Thu Aug 22 18:41:59 CEST 2013
+Temperature is : 27.167501 C, Bias Voltage is 5.000000 V, Current is 554.322800 nA
+Thu Aug 22 18:43:42 CEST 2013
+Temperature is : 27.246194 C, Bias Voltage is 5.000000 V, Current is 561.996500 nA
+Thu Aug 22 18:45:24 CEST 2013
+Temperature is : 27.261669 C, Bias Voltage is 5.000000 V, Current is 568.015500 nA
+Thu Aug 22 18:47:06 CEST 2013
+Temperature is : 27.267824 C, Bias Voltage is 5.000000 V, Current is 571.139800 nA
+Thu Aug 22 18:48:42 CEST 2013
+Temperature is : 27.279602 C, Bias Voltage is 5.000000 V, Current is 559.367700 nA
+Thu Aug 22 18:50:25 CEST 2013
+Temperature is : 27.285934 C, Bias Voltage is 5.000000 V, Current is 562.890500 nA
+Thu Aug 22 18:52:08 CEST 2013
+Temperature is : 27.306364 C, Bias Voltage is 5.000000 V, Current is 567.343800 nA
+Thu Aug 22 18:53:49 CEST 2013
+Temperature is : 27.293819 C, Bias Voltage is 5.000000 V, Current is 573.516300 nA
+Thu Aug 22 18:55:25 CEST 2013
+Temperature is : 27.295490 C, Bias Voltage is 5.000000 V, Current is 555.085000 nA
+Thu Aug 22 18:57:09 CEST 2013
+Temperature is : 27.294802 C, Bias Voltage is 5.000000 V, Current is 560.201800 nA
+Thu Aug 22 18:58:49 CEST 2013
+Temperature is : 27.310022 C, Bias Voltage is 5.000000 V, Current is 567.236900 nA
+Thu Aug 22 18:59:29 CEST 2013
+Stopping Run 170
+Thu Aug 22 18:59:39 CEST 2013
+Starting Run 171
+Thu Aug 22 19:01:32 CEST 2013
+Temperature is : 27.249694 C, Bias Voltage is 10.000000 V, Current is 589.048500 nA
+Thu Aug 22 19:03:13 CEST 2013
+Temperature is : 27.276830 C, Bias Voltage is 10.000000 V, Current is 603.139500 nA
+Thu Aug 22 19:04:48 CEST 2013
+Temperature is : 27.275375 C, Bias Voltage is 10.000000 V, Current is 582.229800 nA
+Thu Aug 22 19:06:27 CEST 2013
+Temperature is : 27.278796 C, Bias Voltage is 10.000000 V, Current is 582.701100 nA
+Thu Aug 22 19:08:09 CEST 2013
+Temperature is : 27.282886 C, Bias Voltage is 10.000000 V, Current is 593.914300 nA
+Thu Aug 22 19:09:52 CEST 2013
+Temperature is : 27.269279 C, Bias Voltage is 10.000000 V, Current is 600.714000 nA
+Thu Aug 22 19:11:24 CEST 2013
+Temperature is : 27.278855 C, Bias Voltage is 10.000000 V, Current is 578.905100 nA
+Thu Aug 22 19:13:06 CEST 2013
+Temperature is : 27.275532 C, Bias Voltage is 10.000000 V, Current is 582.460400 nA
+Thu Aug 22 19:14:47 CEST 2013
+Temperature is : 27.277538 C, Bias Voltage is 10.000000 V, Current is 590.430000 nA
+Thu Aug 22 19:16:28 CEST 2013
+Temperature is : 27.244641 C, Bias Voltage is 10.000000 V, Current is 595.692500 nA
+Thu Aug 22 19:18:01 CEST 2013
+Temperature is : 27.253175 C, Bias Voltage is 10.000000 V, Current is 582.633000 nA
+Thu Aug 22 19:19:42 CEST 2013
+Temperature is : 27.265287 C, Bias Voltage is 10.000000 V, Current is 580.527600 nA
+Thu Aug 22 19:20:57 CEST 2013
+Stopping Run 171
+Thu Aug 22 19:21:07 CEST 2013
+Starting Run 172
+Thu Aug 22 19:22:51 CEST 2013
+Temperature is : 27.186299 C, Bias Voltage is 15.000000 V, Current is 576.586700 nA
+Thu Aug 22 19:24:33 CEST 2013
+Temperature is : 27.222893 C, Bias Voltage is 15.000000 V, Current is 583.019800 nA
+Thu Aug 22 19:26:15 CEST 2013
+Temperature is : 27.254138 C, Bias Voltage is 15.000000 V, Current is 587.371800 nA
+Thu Aug 22 19:28:02 CEST 2013
+Temperature is : 27.272071 C, Bias Voltage is 15.000000 V, Current is 590.445300 nA
+Thu Aug 22 19:29:43 CEST 2013
+Temperature is : 27.253194 C, Bias Voltage is 15.000000 V, Current is 589.544400 nA
+Thu Aug 22 19:31:15 CEST 2013
+Temperature is : 27.256419 C, Bias Voltage is 15.000000 V, Current is 583.677700 nA
+Thu Aug 22 19:32:54 CEST 2013
+Temperature is : 27.255692 C, Bias Voltage is 15.000000 V, Current is 584.861400 nA
+Thu Aug 22 19:34:34 CEST 2013
+Temperature is : 27.228733 C, Bias Voltage is 15.000000 V, Current is 583.115100 nA
+Thu Aug 22 19:36:09 CEST 2013
+Temperature is : 27.216286 C, Bias Voltage is 15.000000 V, Current is 593.102100 nA
+Thu Aug 22 19:37:48 CEST 2013
+Temperature is : 27.237798 C, Bias Voltage is 15.000000 V, Current is 581.235900 nA
+Thu Aug 22 19:39:30 CEST 2013
+Temperature is : 27.223050 C, Bias Voltage is 15.000000 V, Current is 581.293500 nA
+Thu Aug 22 19:41:12 CEST 2013
+Temperature is : 27.227140 C, Bias Voltage is 15.000000 V, Current is 587.069800 nA
+Thu Aug 22 19:42:18 CEST 2013
+Stopping Run 172
+Thu Aug 22 19:42:28 CEST 2013
+Starting Run 173
+Thu Aug 22 19:44:20 CEST 2013
+Temperature is : 27.165790 C, Bias Voltage is 20.000000 V, Current is 577.095700 nA
+Thu Aug 22 19:46:03 CEST 2013
+Temperature is : 27.206454 C, Bias Voltage is 20.000000 V, Current is 586.629400 nA
+Thu Aug 22 19:47:44 CEST 2013
+Temperature is : 27.219393 C, Bias Voltage is 20.000000 V, Current is 599.287400 nA
+Thu Aug 22 19:49:18 CEST 2013
+Temperature is : 27.223227 C, Bias Voltage is 20.000000 V, Current is 584.469500 nA
+Thu Aug 22 19:50:59 CEST 2013
+Temperature is : 27.220356 C, Bias Voltage is 20.000000 V, Current is 585.336700 nA
+Thu Aug 22 19:52:39 CEST 2013
+Temperature is : 27.213848 C, Bias Voltage is 20.000000 V, Current is 590.025000 nA
+Thu Aug 22 19:54:19 CEST 2013
+Temperature is : 27.203112 C, Bias Voltage is 20.000000 V, Current is 596.902300 nA
+Thu Aug 22 19:55:54 CEST 2013
+Temperature is : 27.197724 C, Bias Voltage is 20.000000 V, Current is 578.900400 nA
+Thu Aug 22 19:57:33 CEST 2013
+Temperature is : 27.206454 C, Bias Voltage is 20.000000 V, Current is 582.478000 nA
+Thu Aug 22 19:59:12 CEST 2013
+Temperature is : 27.189642 C, Bias Voltage is 20.000000 V, Current is 588.189000 nA
+Thu Aug 22 20:00:46 CEST 2013
+Temperature is : 27.198038 C, Bias Voltage is 20.000000 V, Current is 593.085200 nA
+Thu Aug 22 20:02:24 CEST 2013
+Temperature is : 27.186889 C, Bias Voltage is 20.000000 V, Current is 575.654800 nA
+Thu Aug 22 20:03:54 CEST 2013
+Stopping Run 173
+Thu Aug 22 20:04:04 CEST 2013
+Starting Run 174
+Thu Aug 22 20:05:54 CEST 2013
+Temperature is : 27.153579 C, Bias Voltage is 25.000000 V, Current is 585.966500 nA
+Thu Aug 22 20:07:36 CEST 2013
+Temperature is : 27.177805 C, Bias Voltage is 25.000000 V, Current is 603.734200 nA
+Thu Aug 22 20:09:09 CEST 2013
+Temperature is : 27.199218 C, Bias Voltage is 25.000000 V, Current is 590.310200 nA
+Thu Aug 22 20:10:49 CEST 2013
+Temperature is : 27.191864 C, Bias Voltage is 25.000000 V, Current is 590.528700 nA
+Thu Aug 22 20:12:31 CEST 2013
+Temperature is : 27.184726 C, Bias Voltage is 25.000000 V, Current is 595.323500 nA
+Thu Aug 22 20:14:05 CEST 2013
+Temperature is : 27.174108 C, Bias Voltage is 25.000000 V, Current is 593.062200 nA
+Thu Aug 22 20:15:42 CEST 2013
+Temperature is : 27.175012 C, Bias Voltage is 25.000000 V, Current is 585.898100 nA
+Thu Aug 22 20:17:20 CEST 2013
+Temperature is : 27.173715 C, Bias Voltage is 25.000000 V, Current is 588.922800 nA
+Thu Aug 22 20:18:58 CEST 2013
+Temperature is : 27.162448 C, Bias Voltage is 25.000000 V, Current is 596.230800 nA
+Thu Aug 22 20:20:32 CEST 2013
+Temperature is : 27.157630 C, Bias Voltage is 25.000000 V, Current is 584.815600 nA
+Thu Aug 22 20:22:12 CEST 2013
+Temperature is : 27.149706 C, Bias Voltage is 25.000000 V, Current is 586.233300 nA
+Thu Aug 22 20:23:54 CEST 2013
+Temperature is : 27.159872 C, Bias Voltage is 25.000000 V, Current is 591.352200 nA
+Thu Aug 22 20:25:34 CEST 2013
+Temperature is : 27.139107 C, Bias Voltage is 25.000000 V, Current is 604.458800 nA
+Thu Aug 22 20:25:42 CEST 2013
+Stopping Run 174
+Thu Aug 22 20:25:52 CEST 2013
+Starting Run 175
+Thu Aug 22 20:27:41 CEST 2013
+Temperature is : 27.111716 C, Bias Voltage is 30.000000 V, Current is 589.711100 nA
+Thu Aug 22 20:29:22 CEST 2013
+Temperature is : 27.136217 C, Bias Voltage is 30.000000 V, Current is 590.155500 nA
+Thu Aug 22 20:31:03 CEST 2013
+Temperature is : 27.154641 C, Bias Voltage is 30.000000 V, Current is 602.316300 nA
+Thu Aug 22 20:32:42 CEST 2013
+Temperature is : 27.143099 C, Bias Voltage is 30.000000 V, Current is 617.534900 nA
+Thu Aug 22 20:34:13 CEST 2013
+Temperature is : 27.143000 C, Bias Voltage is 30.000000 V, Current is 585.466200 nA
+Thu Aug 22 20:35:53 CEST 2013
+Temperature is : 27.146717 C, Bias Voltage is 30.000000 V, Current is 592.405200 nA
+Thu Aug 22 20:37:33 CEST 2013
+Temperature is : 27.151534 C, Bias Voltage is 30.000000 V, Current is 596.724100 nA
+Thu Aug 22 20:39:12 CEST 2013
+Temperature is : 27.144809 C, Bias Voltage is 30.000000 V, Current is 595.657200 nA
+Thu Aug 22 20:40:53 CEST 2013
+Temperature is : 27.130966 C, Bias Voltage is 30.000000 V, Current is 602.986300 nA
+Thu Aug 22 20:42:36 CEST 2013
+Temperature is : 27.131065 C, Bias Voltage is 30.000000 V, Current is 616.020100 nA
+Thu Aug 22 20:44:11 CEST 2013
+Temperature is : 27.137023 C, Bias Voltage is 30.000000 V, Current is 603.316900 nA
+Thu Aug 22 20:45:52 CEST 2013
+Temperature is : 27.147562 C, Bias Voltage is 30.000000 V, Current is 593.962700 nA
+Thu Aug 22 20:47:33 CEST 2013
+Temperature is : 27.147582 C, Bias Voltage is 30.000000 V, Current is 601.464100 nA
+Thu Aug 22 20:47:57 CEST 2013
+Stopping Run 175
+Thu Aug 22 20:48:07 CEST 2013
+Starting Run 176
+Thu Aug 22 20:49:59 CEST 2013
+Temperature is : 27.102356 C, Bias Voltage is 35.000000 V, Current is 608.374100 nA
+Thu Aug 22 20:51:39 CEST 2013
+Temperature is : 27.123947 C, Bias Voltage is 35.000000 V, Current is 620.936400 nA
+Thu Aug 22 20:53:19 CEST 2013
+Temperature is : 27.129452 C, Bias Voltage is 35.000000 V, Current is 639.708800 nA
+Thu Aug 22 20:54:59 CEST 2013
+Temperature is : 27.118578 C, Bias Voltage is 35.000000 V, Current is 663.654200 nA
+Thu Aug 22 20:56:34 CEST 2013
+Temperature is : 27.131930 C, Bias Voltage is 35.000000 V, Current is 650.967400 nA
+Thu Aug 22 20:58:15 CEST 2013
+Temperature is : 27.131930 C, Bias Voltage is 35.000000 V, Current is 692.215000 nA
+Thu Aug 22 20:59:57 CEST 2013
+Temperature is : 27.138910 C, Bias Voltage is 35.000000 V, Current is 724.725300 nA
+Thu Aug 22 21:01:39 CEST 2013
+Temperature is : 27.139913 C, Bias Voltage is 35.000000 V, Current is 765.911500 nA
+Thu Aug 22 21:03:18 CEST 2013
+Temperature is : 27.118441 C, Bias Voltage is 35.000000 V, Current is 810.084900 nA
+Thu Aug 22 21:04:58 CEST 2013
+Temperature is : 27.108078 C, Bias Voltage is 35.000000 V, Current is 864.560900 nA
+Thu Aug 22 21:06:38 CEST 2013
+Temperature is : 27.116356 C, Bias Voltage is 35.000000 V, Current is 940.309300 nA
+Thu Aug 22 21:08:19 CEST 2013
+Temperature is : 27.116494 C, Bias Voltage is 35.000000 V, Current is 955.011800 nA
+Thu Aug 22 21:09:53 CEST 2013
+Temperature is : 27.122885 C, Bias Voltage is 35.000000 V, Current is 2704.976000 nA
+Thu Aug 22 21:10:25 CEST 2013
+Stopping Run 176
+Thu Aug 22 21:10:35 CEST 2013
+Starting Run 177
+Thu Aug 22 21:12:26 CEST 2013
+Temperature is : 27.059549 C, Bias Voltage is 40.000000 V, Current is 1300.662000 nA
+Thu Aug 22 21:14:08 CEST 2013
+Temperature is : 27.110241 C, Bias Voltage is 40.000000 V, Current is 1459.121000 nA
+Thu Aug 22 21:15:51 CEST 2013
+Temperature is : 27.116337 C, Bias Voltage is 40.000000 V, Current is 1693.411000 nA
+Thu Aug 22 21:17:33 CEST 2013
+Temperature is : 27.109002 C, Bias Voltage is 40.000000 V, Current is 1920.327000 nA
+Thu Aug 22 21:19:15 CEST 2013
+Temperature is : 27.114941 C, Bias Voltage is 40.000000 V, Current is 2105.273000 nA
+Thu Aug 22 21:20:54 CEST 2013
+Temperature is : 27.119503 C, Bias Voltage is 40.000000 V, Current is 2350.930000 nA
+Thu Aug 22 21:22:36 CEST 2013
+Temperature is : 27.102061 C, Bias Voltage is 40.000000 V, Current is 2632.050000 nA
+Thu Aug 22 21:24:09 CEST 2013
+Temperature is : 27.114705 C, Bias Voltage is 40.000000 V, Current is 2840.085000 nA
+Thu Aug 22 21:25:47 CEST 2013
+Temperature is : 27.125264 C, Bias Voltage is 40.000000 V, Current is 3133.987000 nA
+Thu Aug 22 21:27:28 CEST 2013
+Temperature is : 27.129964 C, Bias Voltage is 40.000000 V, Current is 3405.132000 nA
+Thu Aug 22 21:29:08 CEST 2013
+Temperature is : 27.128548 C, Bias Voltage is 40.000000 V, Current is 3500.758000 nA
+Thu Aug 22 21:30:49 CEST 2013
+Temperature is : 27.115413 C, Bias Voltage is 40.000000 V, Current is 3500.760000 nA
+Thu Aug 22 21:32:29 CEST 2013
+Temperature is : 27.107960 C, Bias Voltage is 40.000000 V, Current is 3500.756000 nA
+Thu Aug 22 21:32:54 CEST 2013
+Stopping Run 177
+Thu Aug 22 21:33:04 CEST 2013
+Starting Run 178
+Thu Aug 22 21:34:49 CEST 2013
+Temperature is : 27.032059 C, Bias Voltage is 45.000000 V, Current is 635.470800 nA
+Thu Aug 22 21:36:29 CEST 2013
+Temperature is : 27.090342 C, Bias Voltage is 45.000000 V, Current is 522.645200 nA
+Thu Aug 22 21:38:10 CEST 2013
+Temperature is : 27.118185 C, Bias Voltage is 45.000000 V, Current is 517.314200 nA
+Thu Aug 22 21:39:50 CEST 2013
+Temperature is : 27.135528 C, Bias Voltage is 45.000000 V, Current is 527.305500 nA
+Thu Aug 22 21:41:34 CEST 2013
+Temperature is : 27.139677 C, Bias Voltage is 45.000000 V, Current is 526.704600 nA
+Thu Aug 22 21:43:14 CEST 2013
+Temperature is : 27.125795 C, Bias Voltage is 45.000000 V, Current is 519.570700 nA
+Thu Aug 22 21:44:54 CEST 2013
+Temperature is : 27.127093 C, Bias Voltage is 45.000000 V, Current is 541.257100 nA
+Thu Aug 22 21:46:37 CEST 2013
+Temperature is : 27.129059 C, Bias Voltage is 45.000000 V, Current is 546.379200 nA
+Thu Aug 22 21:48:15 CEST 2013
+Temperature is : 27.128705 C, Bias Voltage is 45.000000 V, Current is 533.956600 nA
+Thu Aug 22 21:49:56 CEST 2013
+Temperature is : 27.147995 C, Bias Voltage is 45.000000 V, Current is 522.752300 nA
+Thu Aug 22 21:51:41 CEST 2013
+Temperature is : 27.155821 C, Bias Voltage is 45.000000 V, Current is 530.043700 nA
+Thu Aug 22 21:53:23 CEST 2013
+Temperature is : 27.159085 C, Bias Voltage is 45.000000 V, Current is 526.429700 nA
+Thu Aug 22 21:55:06 CEST 2013
+Temperature is : 27.162212 C, Bias Voltage is 45.000000 V, Current is 532.311300 nA
+Thu Aug 22 21:55:57 CEST 2013
+Stopping Run 178
+Thu Aug 22 21:56:07 CEST 2013
+Starting Run 179
+Thu Aug 22 21:56:40 CEST 2013
+Stopping Run 179
+Thu Aug 22 22:01:04 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Thu Aug 22 22:15:48 CEST 2013
+Started Producer
+################ execution log ################
+Thu Aug 22 22:16:03 CEST 2013
+Configuring with ni_timepix
+Thu Aug 22 22:16:03 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_L05-W0125_45V_IKrum1_96MHz_22-08-13_TOT_v2
+Thu Aug 22 22:16:03 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_L05-W0125_45V_IKrum1_96MHz_22-08-13_TOT_ascii_v2
+Thu Aug 22 22:16:03 CEST 2013
+Mode is TOT
+Thu Aug 22 22:16:03 CEST 2013
+Bias is 25.000000
+Thu Aug 22 22:16:25 CEST 2013
+Starting Run 180
+Thu Aug 22 22:40:16 CEST 2013
+Temperature is : 24.414641 C, Bias Voltage is 25.000000 V, Current is 409.141500 nA
+Thu Aug 22 23:04:00 CEST 2013
+Temperature is : 24.450055 C, Bias Voltage is 25.000000 V, Current is 404.660600 nA
+Thu Aug 22 23:27:51 CEST 2013
+Temperature is : 24.445356 C, Bias Voltage is 25.000000 V, Current is 402.670000 nA
+Thu Aug 22 23:52:02 CEST 2013
+Temperature is : 24.436468 C, Bias Voltage is 25.000000 V, Current is 399.251900 nA
+Fri Aug 23 00:15:51 CEST 2013
+Temperature is : 24.416981 C, Bias Voltage is 25.000000 V, Current is 397.625700 nA
+Fri Aug 23 00:39:27 CEST 2013
+Temperature is : 24.406147 C, Bias Voltage is 25.000000 V, Current is 396.614700 nA
+Fri Aug 23 01:03:01 CEST 2013
+Temperature is : 24.378598 C, Bias Voltage is 25.000000 V, Current is 401.171700 nA
+Fri Aug 23 01:26:44 CEST 2013
+Temperature is : 24.339134 C, Bias Voltage is 25.000000 V, Current is 404.825500 nA
+Fri Aug 23 01:51:08 CEST 2013
+Temperature is : 24.298333 C, Bias Voltage is 25.000000 V, Current is 406.812700 nA
+Fri Aug 23 02:15:28 CEST 2013
+Temperature is : 24.269132 C, Bias Voltage is 25.000000 V, Current is 413.470500 nA
+Fri Aug 23 02:39:54 CEST 2013
+Temperature is : 24.216612 C, Bias Voltage is 25.000000 V, Current is 418.772100 nA
+Fri Aug 23 03:04:17 CEST 2013
+Temperature is : 24.187883 C, Bias Voltage is 25.000000 V, Current is 426.068300 nA
+Fri Aug 23 03:28:18 CEST 2013
+Temperature is : 24.151742 C, Bias Voltage is 25.000000 V, Current is 433.257500 nA
+Fri Aug 23 03:53:07 CEST 2013
+Temperature is : 24.117331 C, Bias Voltage is 25.000000 V, Current is 441.563800 nA
+Fri Aug 23 04:15:15 CEST 2013
+Temperature is : 24.102564 C, Bias Voltage is 25.000000 V, Current is 450.023600 nA
+Fri Aug 23 04:37:09 CEST 2013
+Temperature is : 24.071024 C, Bias Voltage is 25.000000 V, Current is 458.333200 nA
+Fri Aug 23 04:58:00 CEST 2013
+Temperature is : 24.069274 C, Bias Voltage is 25.000000 V, Current is 465.737000 nA
+Fri Aug 23 05:18:26 CEST 2013
+Temperature is : 24.060032 C, Bias Voltage is 25.000000 V, Current is 474.975700 nA
+Fri Aug 23 05:39:17 CEST 2013
+Temperature is : 24.058990 C, Bias Voltage is 25.000000 V, Current is 483.610200 nA
+Fri Aug 23 06:00:08 CEST 2013
+Temperature is : 24.054350 C, Bias Voltage is 25.000000 V, Current is 494.142800 nA
+Fri Aug 23 06:21:37 CEST 2013
+Temperature is : 24.023301 C, Bias Voltage is 25.000000 V, Current is 502.497100 nA
+Fri Aug 23 06:43:08 CEST 2013
+Temperature is : 24.011247 C, Bias Voltage is 25.000000 V, Current is 511.843800 nA
+Fri Aug 23 07:06:08 CEST 2013
+Temperature is : 24.004837 C, Bias Voltage is 25.000000 V, Current is 520.923200 nA
+Fri Aug 23 07:27:53 CEST 2013
+Temperature is : 24.012781 C, Bias Voltage is 25.000000 V, Current is 535.047400 nA
+Fri Aug 23 07:51:00 CEST 2013
+Temperature is : 24.016950 C, Bias Voltage is 25.000000 V, Current is 547.964800 nA
+Fri Aug 23 08:13:21 CEST 2013
+Temperature is : 24.047566 C, Bias Voltage is 25.000000 V, Current is 558.318100 nA
+Fri Aug 23 08:34:28 CEST 2013
+Temperature is : 24.059737 C, Bias Voltage is 25.000000 V, Current is 573.385200 nA
+Fri Aug 23 08:36:30 CEST 2013
+Stopping Run 180
+Fri Aug 23 08:53:46 CEST 2013
+Configuring with ni_timepix
+Fri Aug 23 08:53:46 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_L05-W0125_45V_IKrum1_96MHz_22-08-13_TOT_v2
+Fri Aug 23 08:53:46 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/A06-W0110/Configs/BPC_L05-W0125_45V_IKrum1_96MHz_22-08-13_TOT_ascii_v2
+Fri Aug 23 08:53:46 CEST 2013
+Mode is TOT
+Fri Aug 23 08:53:46 CEST 2013
+Bias is 25.000000
+Fri Aug 23 08:54:16 CEST 2013
+Starting Run 181
+Fri Aug 23 09:02:03 CEST 2013
+Stopping Run 181
+Fri Aug 23 09:02:30 CEST 2013
+Starting Run 182
+Fri Aug 23 09:04:00 CEST 2013
+Temperature is : 24.150189 C, Bias Voltage is 25.000000 V, Current is 613.492000 nA
+Fri Aug 23 09:04:22 CEST 2013
+Stopping Run 182
+Fri Aug 23 09:05:06 CEST 2013
+Starting Run 183
+Fri Aug 23 09:10:01 CEST 2013
+Temperature is : 24.131902 C, Bias Voltage is 25.000000 V, Current is 603.641700 nA
+Fri Aug 23 09:15:04 CEST 2013
+Temperature is : 24.130112 C, Bias Voltage is 25.000000 V, Current is 606.381700 nA
+Fri Aug 23 09:19:54 CEST 2013
+Temperature is : 24.133711 C, Bias Voltage is 25.000000 V, Current is 611.807300 nA
+Fri Aug 23 09:24:37 CEST 2013
+Temperature is : 24.136444 C, Bias Voltage is 25.000000 V, Current is 613.463800 nA
+Fri Aug 23 09:29:14 CEST 2013
+Temperature is : 24.143877 C, Bias Voltage is 25.000000 V, Current is 616.240100 nA
+Fri Aug 23 09:34:00 CEST 2013
+Temperature is : 24.143031 C, Bias Voltage is 25.000000 V, Current is 620.563700 nA
+Fri Aug 23 09:38:53 CEST 2013
+Temperature is : 24.143169 C, Bias Voltage is 25.000000 V, Current is 623.223900 nA
+Fri Aug 23 09:43:35 CEST 2013
+Temperature is : 24.150385 C, Bias Voltage is 25.000000 V, Current is 625.945600 nA
+Fri Aug 23 09:48:20 CEST 2013
+Temperature is : 24.153374 C, Bias Voltage is 25.000000 V, Current is 630.724000 nA
+Fri Aug 23 09:53:12 CEST 2013
+Temperature is : 24.162891 C, Bias Voltage is 25.000000 V, Current is 634.405600 nA
+Fri Aug 23 09:58:04 CEST 2013
+Temperature is : 24.163599 C, Bias Voltage is 25.000000 V, Current is 635.895600 nA
+Fri Aug 23 10:02:58 CEST 2013
+Temperature is : 24.168751 C, Bias Voltage is 25.000000 V, Current is 639.973000 nA
+Fri Aug 23 10:07:51 CEST 2013
+Temperature is : 24.179821 C, Bias Voltage is 25.000000 V, Current is 642.688700 nA
+Fri Aug 23 10:12:39 CEST 2013
+Temperature is : 24.191600 C, Bias Voltage is 25.000000 V, Current is 649.000100 nA
+Fri Aug 23 10:17:26 CEST 2013
+Temperature is : 24.205462 C, Bias Voltage is 25.000000 V, Current is 652.460100 nA
+Fri Aug 23 10:22:08 CEST 2013
+Temperature is : 24.216277 C, Bias Voltage is 25.000000 V, Current is 656.352100 nA
+Fri Aug 23 10:23:27 CEST 2013
+Stopping Run 183
+Fri Aug 23 10:30:09 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Fri Aug 23 11:07:32 CEST 2013
+Started Producer
+################ execution log ################
+Fri Aug 23 11:08:03 CEST 2013
+Configuring with ni_timepix
+Fri Aug 23 11:08:03 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/C06-W0110/Configs/Binary_Config_C06-W0110_15V_IKrum1_96MHz_23-08-13_TOT
+Fri Aug 23 11:08:03 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/C06-W0110/Configs/Binary_Config_C06-W0110_15V_IKrum1_96MHz_23-08-13_TOT_ascii
+Fri Aug 23 11:08:03 CEST 2013
+Mode is TOT
+Fri Aug 23 11:08:03 CEST 2013
+Bias is 15.000000
+Fri Aug 23 11:09:09 CEST 2013
+Starting Run 185
+Fri Aug 23 11:10:08 CEST 2013
+Stopping Run 185
+Fri Aug 23 11:10:14 CEST 2013
+Configuring with ni_timepix
+Fri Aug 23 11:10:14 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/C06-W0110/Configs/Binary_Config_C06-W0110_15V_IKrum1_96MHz_23-08-13_TOT
+Fri Aug 23 11:10:14 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/C06-W0110/Configs/Binary_Config_C06-W0110_15V_IKrum1_96MHz_23-08-13_TOT_ascii
+Fri Aug 23 11:10:14 CEST 2013
+Mode is TOT
+Fri Aug 23 11:10:14 CEST 2013
+Bias is 15.000000
+Fri Aug 23 11:10:35 CEST 2013
+Starting Run 186
+Fri Aug 23 11:11:43 CEST 2013
+Stopping Run 186
+Fri Aug 23 11:11:53 CEST 2013
+Starting Run 187
+Fri Aug 23 11:13:13 CEST 2013
+Stopping Run 187
+Fri Aug 23 11:13:23 CEST 2013
+Starting Run 188
+Fri Aug 23 11:14:36 CEST 2013
+Stopping Run 188
+Fri Aug 23 11:14:46 CEST 2013
+Starting Run 189
+Fri Aug 23 11:16:04 CEST 2013
+Stopping Run 189
+Fri Aug 23 11:16:14 CEST 2013
+Starting Run 190
+Fri Aug 23 11:17:32 CEST 2013
+Stopping Run 190
+Fri Aug 23 11:17:42 CEST 2013
+Starting Run 191
+Fri Aug 23 11:19:05 CEST 2013
+Stopping Run 191
+Fri Aug 23 11:19:15 CEST 2013
+Starting Run 192
+Fri Aug 23 11:19:58 CEST 2013
+Stopping Run 192
+Fri Aug 23 11:21:35 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Fri Aug 23 11:23:33 CEST 2013
+Started Producer
+################ execution log ################
+Fri Aug 23 11:24:16 CEST 2013
+Configuring with ni_timepix
+Fri Aug 23 11:24:16 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/C06-W0110/Configs/Binary_Config_C06-W0110_15V_IKrum1_96MHz_23-08-13_TOT
+Fri Aug 23 11:24:16 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/C06-W0110/Configs/Binary_Config_C06-W0110_15V_IKrum1_96MHz_23-08-13_TOT_ascii
+Fri Aug 23 11:24:16 CEST 2013
+Mode is TOT
+Fri Aug 23 11:24:16 CEST 2013
+Bias is 15.000000
+Fri Aug 23 11:24:44 CEST 2013
+Starting Run 193
+Fri Aug 23 11:25:51 CEST 2013
+Stopping Run 193
+Fri Aug 23 11:26:01 CEST 2013
+Starting Run 194
+Fri Aug 23 11:26:55 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Fri Aug 23 11:27:47 CEST 2013
+Started Producer
+################ execution log ################
+Fri Aug 23 11:28:10 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Fri Aug 23 11:28:34 CEST 2013
+Started Producer
+################ execution log ################
+Fri Aug 23 11:28:47 CEST 2013
+Configuring with ni_timepix
+Fri Aug 23 11:28:47 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/C06-W0110/Configs/BPC_C06-W0110_15V_IKrum1_96MHz_23-08-13_TOT
+Fri Aug 23 11:28:47 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/C06-W0110/Configs/BPC_C06-W0110_15V_IKrum1_96MHz_23-08-13_TOT_ascii
+Fri Aug 23 11:28:47 CEST 2013
+Mode is TOT
+Fri Aug 23 11:28:47 CEST 2013
+Bias is 15.000000
+Fri Aug 23 11:29:02 CEST 2013
+Starting Run 195
+Fri Aug 23 11:30:49 CEST 2013
+Temperature is : 25.547430 C, Bias Voltage is 15.000000 V, Current is 96.561760 nA
+Fri Aug 23 11:32:26 CEST 2013
+Temperature is : 26.412405 C, Bias Voltage is 15.000000 V, Current is 113.121300 nA
+Fri Aug 23 11:34:00 CEST 2013
+Temperature is : 26.762218 C, Bias Voltage is 15.000000 V, Current is 113.538200 nA
+Fri Aug 23 11:35:37 CEST 2013
+Temperature is : 26.968940 C, Bias Voltage is 15.000000 V, Current is 118.145200 nA
+Fri Aug 23 11:37:15 CEST 2013
+Temperature is : 27.043012 C, Bias Voltage is 15.000000 V, Current is 124.435300 nA
+Fri Aug 23 11:38:48 CEST 2013
+Temperature is : 27.107016 C, Bias Voltage is 15.000000 V, Current is 119.266600 nA
+Fri Aug 23 11:40:28 CEST 2013
+Temperature is : 27.159459 C, Bias Voltage is 15.000000 V, Current is 121.499900 nA
+Fri Aug 23 11:42:07 CEST 2013
+Temperature is : 27.163883 C, Bias Voltage is 15.000000 V, Current is 125.359400 nA
+Fri Aug 23 11:43:40 CEST 2013
+Temperature is : 27.186870 C, Bias Voltage is 15.000000 V, Current is 122.870600 nA
+Fri Aug 23 11:45:20 CEST 2013
+Temperature is : 27.201971 C, Bias Voltage is 15.000000 V, Current is 121.486100 nA
+Fri Aug 23 11:47:00 CEST 2013
+Temperature is : 27.214064 C, Bias Voltage is 15.000000 V, Current is 123.573500 nA
+Fri Aug 23 11:48:34 CEST 2013
+Temperature is : 27.221556 C, Bias Voltage is 15.000000 V, Current is 123.480100 nA
+Fri Aug 23 11:50:14 CEST 2013
+Temperature is : 27.235714 C, Bias Voltage is 15.000000 V, Current is 121.987600 nA
+Fri Aug 23 11:51:54 CEST 2013
+Temperature is : 27.247059 C, Bias Voltage is 15.000000 V, Current is 126.492000 nA
+Fri Aug 23 11:52:18 CEST 2013
+Stopping Run 195
+Fri Aug 23 11:52:28 CEST 2013
+Starting Run 196
+Fri Aug 23 11:54:12 CEST 2013
+Temperature is : 27.159950 C, Bias Voltage is 17.000000 V, Current is 152.009000 nA
+Fri Aug 23 11:55:52 CEST 2013
+Temperature is : 27.219334 C, Bias Voltage is 17.000000 V, Current is 155.752000 nA
+Fri Aug 23 11:57:33 CEST 2013
+Temperature is : 27.226865 C, Bias Voltage is 17.000000 V, Current is 158.455400 nA
+Fri Aug 23 11:59:07 CEST 2013
+Temperature is : 27.259487 C, Bias Voltage is 17.000000 V, Current is 152.234200 nA
+Fri Aug 23 12:00:49 CEST 2013
+Temperature is : 27.260273 C, Bias Voltage is 17.000000 V, Current is 151.617400 nA
+Fri Aug 23 12:02:29 CEST 2013
+Temperature is : 27.238997 C, Bias Voltage is 17.000000 V, Current is 153.251100 nA
+Fri Aug 23 12:04:09 CEST 2013
+Temperature is : 27.235458 C, Bias Voltage is 17.000000 V, Current is 155.177000 nA
+Fri Aug 23 12:05:48 CEST 2013
+Temperature is : 27.260430 C, Bias Voltage is 17.000000 V, Current is 149.855900 nA
+Fri Aug 23 12:07:28 CEST 2013
+Temperature is : 27.259919 C, Bias Voltage is 17.000000 V, Current is 149.685900 nA
+Fri Aug 23 12:09:07 CEST 2013
+Temperature is : 27.236598 C, Bias Voltage is 17.000000 V, Current is 152.983600 nA
+Fri Aug 23 12:10:41 CEST 2013
+Temperature is : 27.246981 C, Bias Voltage is 17.000000 V, Current is 149.705300 nA
+Fri Aug 23 12:12:23 CEST 2013
+Temperature is : 27.245958 C, Bias Voltage is 17.000000 V, Current is 149.795300 nA
+Fri Aug 23 12:14:03 CEST 2013
+Temperature is : 27.235694 C, Bias Voltage is 17.000000 V, Current is 153.436700 nA
+Fri Aug 23 12:15:35 CEST 2013
+Temperature is : 27.237267 C, Bias Voltage is 17.000000 V, Current is 148.082000 nA
+Fri Aug 23 12:16:17 CEST 2013
+Stopping Run 196
+Fri Aug 23 12:16:27 CEST 2013
+Starting Run 197
+Fri Aug 23 12:18:20 CEST 2013
+Temperature is : 27.322901 C, Bias Voltage is 19.000000 V, Current is 182.665200 nA
+Fri Aug 23 12:20:03 CEST 2013
+Temperature is : 27.285816 C, Bias Voltage is 19.000000 V, Current is 179.181100 nA
+Fri Aug 23 12:21:45 CEST 2013
+Temperature is : 27.259919 C, Bias Voltage is 19.000000 V, Current is 183.562400 nA
+Fri Aug 23 12:23:18 CEST 2013
+Temperature is : 27.249360 C, Bias Voltage is 19.000000 V, Current is 175.660200 nA
+Fri Aug 23 12:25:02 CEST 2013
+Temperature is : 27.258582 C, Bias Voltage is 19.000000 V, Current is 176.925000 nA
+Fri Aug 23 12:26:43 CEST 2013
+Temperature is : 27.259290 C, Bias Voltage is 19.000000 V, Current is 174.647500 nA
+Fri Aug 23 12:28:27 CEST 2013
+Temperature is : 27.245742 C, Bias Voltage is 19.000000 V, Current is 181.535200 nA
+Fri Aug 23 12:30:02 CEST 2013
+Temperature is : 27.262534 C, Bias Voltage is 19.000000 V, Current is 175.458100 nA
+Fri Aug 23 12:31:45 CEST 2013
+Temperature is : 27.269594 C, Bias Voltage is 19.000000 V, Current is 175.623000 nA
+Fri Aug 23 12:33:28 CEST 2013
+Temperature is : 27.260411 C, Bias Voltage is 19.000000 V, Current is 177.500400 nA
+Fri Aug 23 12:35:02 CEST 2013
+Temperature is : 27.244896 C, Bias Voltage is 19.000000 V, Current is 173.771000 nA
+Fri Aug 23 12:36:43 CEST 2013
+Temperature is : 27.248849 C, Bias Voltage is 19.000000 V, Current is 175.239500 nA
+Fri Aug 23 12:38:26 CEST 2013
+Temperature is : 27.243205 C, Bias Voltage is 19.000000 V, Current is 174.505300 nA
+Fri Aug 23 12:40:08 CEST 2013
+Temperature is : 27.231683 C, Bias Voltage is 19.000000 V, Current is 177.655700 nA
+Fri Aug 23 12:40:30 CEST 2013
+Stopping Run 197
+Fri Aug 23 12:40:40 CEST 2013
+Starting Run 198
+Fri Aug 23 12:42:34 CEST 2013
+Temperature is : 27.210033 C, Bias Voltage is 21.000000 V, Current is 198.836000 nA
+Fri Aug 23 12:44:17 CEST 2013
+Temperature is : 27.234042 C, Bias Voltage is 21.000000 V, Current is 201.022800 nA
+Fri Aug 23 12:46:01 CEST 2013
+Temperature is : 27.240039 C, Bias Voltage is 21.000000 V, Current is 205.960000 nA
+Fri Aug 23 12:47:40 CEST 2013
+Temperature is : 27.251602 C, Bias Voltage is 21.000000 V, Current is 197.606600 nA
+Fri Aug 23 12:49:24 CEST 2013
+Temperature is : 27.255377 C, Bias Voltage is 21.000000 V, Current is 198.843900 nA
+Fri Aug 23 12:51:08 CEST 2013
+Temperature is : 27.255377 C, Bias Voltage is 21.000000 V, Current is 196.297900 nA
+Fri Aug 23 12:52:49 CEST 2013
+Temperature is : 27.238702 C, Bias Voltage is 21.000000 V, Current is 198.961900 nA
+Fri Aug 23 12:54:24 CEST 2013
+Temperature is : 27.230601 C, Bias Voltage is 21.000000 V, Current is 194.916600 nA
+Fri Aug 23 12:56:05 CEST 2013
+Temperature is : 27.242183 C, Bias Voltage is 21.000000 V, Current is 195.341300 nA
+Fri Aug 23 12:57:47 CEST 2013
+Temperature is : 27.246214 C, Bias Voltage is 21.000000 V, Current is 197.216000 nA
+Fri Aug 23 12:59:27 CEST 2013
+Temperature is : 27.226727 C, Bias Voltage is 21.000000 V, Current is 197.682100 nA
+Fri Aug 23 13:01:01 CEST 2013
+Temperature is : 27.229441 C, Bias Voltage is 21.000000 V, Current is 193.369200 nA
+Fri Aug 23 13:02:44 CEST 2013
+Temperature is : 27.245073 C, Bias Voltage is 21.000000 V, Current is 192.473300 nA
+Fri Aug 23 13:04:24 CEST 2013
+Temperature is : 27.241691 C, Bias Voltage is 21.000000 V, Current is 196.472200 nA
+Fri Aug 23 13:05:08 CEST 2013
+Stopping Run 198
+Fri Aug 23 13:05:18 CEST 2013
+Starting Run 199
+Fri Aug 23 13:07:20 CEST 2013
+Temperature is : 27.206140 C, Bias Voltage is 23.000000 V, Current is 227.160400 nA
+Fri Aug 23 13:09:02 CEST 2013
+Temperature is : 27.227160 C, Bias Voltage is 23.000000 V, Current is 223.728000 nA
+Fri Aug 23 13:10:34 CEST 2013
+Temperature is : 27.228576 C, Bias Voltage is 23.000000 V, Current is 215.159700 nA
+Fri Aug 23 13:12:13 CEST 2013
+Temperature is : 27.230050 C, Bias Voltage is 23.000000 V, Current is 214.280500 nA
+Fri Aug 23 13:13:53 CEST 2013
+Temperature is : 27.214772 C, Bias Voltage is 23.000000 V, Current is 215.903000 nA
+Fri Aug 23 13:15:26 CEST 2013
+Temperature is : 27.217092 C, Bias Voltage is 23.000000 V, Current is 210.798800 nA
+Fri Aug 23 13:17:06 CEST 2013
+Temperature is : 27.237169 C, Bias Voltage is 23.000000 V, Current is 212.458300 nA
+Fri Aug 23 13:18:48 CEST 2013
+Temperature is : 27.229402 C, Bias Voltage is 23.000000 V, Current is 213.046400 nA
+Fri Aug 23 13:20:27 CEST 2013
+Temperature is : 27.213474 C, Bias Voltage is 23.000000 V, Current is 217.432600 nA
+Fri Aug 23 13:22:00 CEST 2013
+Temperature is : 27.231270 C, Bias Voltage is 23.000000 V, Current is 211.057100 nA
+Fri Aug 23 13:23:43 CEST 2013
+Temperature is : 27.233904 C, Bias Voltage is 23.000000 V, Current is 213.001600 nA
+Fri Aug 23 13:25:27 CEST 2013
+Temperature is : 27.237306 C, Bias Voltage is 23.000000 V, Current is 213.112200 nA
+Fri Aug 23 13:27:01 CEST 2013
+Temperature is : 27.228910 C, Bias Voltage is 23.000000 V, Current is 209.011600 nA
+Fri Aug 23 13:28:47 CEST 2013
+Temperature is : 27.250559 C, Bias Voltage is 23.000000 V, Current is 210.027100 nA
+Fri Aug 23 13:29:29 CEST 2013
+Stopping Run 199
+Fri Aug 23 13:29:39 CEST 2013
+Starting Run 200
+Fri Aug 23 13:31:32 CEST 2013
+Temperature is : 27.181639 C, Bias Voltage is 25.000000 V, Current is 226.574300 nA
+Fri Aug 23 13:33:14 CEST 2013
+Temperature is : 27.200221 C, Bias Voltage is 25.000000 V, Current is 232.933800 nA
+Fri Aug 23 13:34:49 CEST 2013
+Temperature is : 27.213769 C, Bias Voltage is 25.000000 V, Current is 226.127700 nA
+Fri Aug 23 13:36:30 CEST 2013
+Temperature is : 27.230011 C, Bias Voltage is 25.000000 V, Current is 227.828000 nA
+Fri Aug 23 13:38:12 CEST 2013
+Temperature is : 27.217505 C, Bias Voltage is 25.000000 V, Current is 227.688900 nA
+Fri Aug 23 13:39:57 CEST 2013
+Temperature is : 27.223247 C, Bias Voltage is 25.000000 V, Current is 229.100700 nA
+Fri Aug 23 13:41:33 CEST 2013
+Temperature is : 27.208578 C, Bias Voltage is 25.000000 V, Current is 230.022900 nA
+Fri Aug 23 13:43:14 CEST 2013
+Temperature is : 27.221792 C, Bias Voltage is 25.000000 V, Current is 223.485600 nA
+Fri Aug 23 13:44:56 CEST 2013
+Temperature is : 27.221261 C, Bias Voltage is 25.000000 V, Current is 228.957200 nA
+Fri Aug 23 13:46:39 CEST 2013
+Temperature is : 27.214182 C, Bias Voltage is 25.000000 V, Current is 230.013900 nA
+Fri Aug 23 13:48:14 CEST 2013
+Temperature is : 27.208047 C, Bias Voltage is 25.000000 V, Current is 225.630400 nA
+Fri Aug 23 13:49:55 CEST 2013
+Temperature is : 27.193889 C, Bias Voltage is 25.000000 V, Current is 222.485200 nA
+Fri Aug 23 13:51:36 CEST 2013
+Temperature is : 27.196760 C, Bias Voltage is 25.000000 V, Current is 224.403700 nA
+Fri Aug 23 13:53:18 CEST 2013
+Temperature is : 27.195050 C, Bias Voltage is 25.000000 V, Current is 227.637300 nA
+Fri Aug 23 13:53:59 CEST 2013
+Stopping Run 200
+Fri Aug 23 13:54:09 CEST 2013
+Starting Run 201
+Fri Aug 23 13:55:53 CEST 2013
+Temperature is : 27.111401 C, Bias Voltage is 27.000000 V, Current is 232.379000 nA
+Fri Aug 23 13:57:35 CEST 2013
+Temperature is : 27.179948 C, Bias Voltage is 27.000000 V, Current is 233.922400 nA
+Fri Aug 23 13:59:18 CEST 2013
+Temperature is : 27.200024 C, Bias Voltage is 27.000000 V, Current is 238.499700 nA
+Fri Aug 23 14:00:58 CEST 2013
+Temperature is : 27.190960 C, Bias Voltage is 27.000000 V, Current is 240.333200 nA
+Fri Aug 23 14:02:29 CEST 2013
+Temperature is : 27.188246 C, Bias Voltage is 27.000000 V, Current is 235.922600 nA
+Fri Aug 23 14:04:10 CEST 2013
+Temperature is : 27.191707 C, Bias Voltage is 27.000000 V, Current is 235.494900 nA
+Fri Aug 23 14:05:50 CEST 2013
+Temperature is : 27.190783 C, Bias Voltage is 27.000000 V, Current is 236.958700 nA
+Fri Aug 23 14:07:31 CEST 2013
+Temperature is : 27.191215 C, Bias Voltage is 27.000000 V, Current is 251.063500 nA
+Fri Aug 23 14:09:06 CEST 2013
+Temperature is : 27.191195 C, Bias Voltage is 27.000000 V, Current is 232.872800 nA
+Fri Aug 23 14:10:46 CEST 2013
+Temperature is : 27.185198 C, Bias Voltage is 27.000000 V, Current is 236.062400 nA
+Fri Aug 23 14:12:28 CEST 2013
+Temperature is : 27.186732 C, Bias Voltage is 27.000000 V, Current is 241.826500 nA
+Fri Aug 23 14:14:04 CEST 2013
+Temperature is : 27.198687 C, Bias Voltage is 27.000000 V, Current is 234.687800 nA
+Fri Aug 23 14:15:45 CEST 2013
+Temperature is : 27.195305 C, Bias Voltage is 27.000000 V, Current is 236.222900 nA
+Fri Aug 23 14:17:26 CEST 2013
+Temperature is : 27.197527 C, Bias Voltage is 27.000000 V, Current is 235.657500 nA
+Fri Aug 23 14:17:57 CEST 2013
+Stopping Run 201
+Fri Aug 23 14:18:07 CEST 2013
+Starting Run 202
+Fri Aug 23 14:19:51 CEST 2013
+Temperature is : 27.107685 C, Bias Voltage is 29.000000 V, Current is 241.117400 nA
+Fri Aug 23 14:21:31 CEST 2013
+Temperature is : 27.156431 C, Bias Voltage is 29.000000 V, Current is 245.839200 nA
+Fri Aug 23 14:23:12 CEST 2013
+Temperature is : 27.175091 C, Bias Voltage is 29.000000 V, Current is 245.282800 nA
+Fri Aug 23 14:24:55 CEST 2013
+Temperature is : 27.167304 C, Bias Voltage is 29.000000 V, Current is 253.242900 nA
+Fri Aug 23 14:26:28 CEST 2013
+Temperature is : 27.173085 C, Bias Voltage is 29.000000 V, Current is 243.116000 nA
+Fri Aug 23 14:28:07 CEST 2013
+Temperature is : 27.175602 C, Bias Voltage is 29.000000 V, Current is 244.440500 nA
+Fri Aug 23 14:29:49 CEST 2013
+Temperature is : 27.176979 C, Bias Voltage is 29.000000 V, Current is 249.499200 nA
+Fri Aug 23 14:31:23 CEST 2013
+Temperature is : 27.203171 C, Bias Voltage is 29.000000 V, Current is 246.387100 nA
+Fri Aug 23 14:33:04 CEST 2013
+Temperature is : 27.197488 C, Bias Voltage is 29.000000 V, Current is 243.671200 nA
+Fri Aug 23 14:34:46 CEST 2013
+Temperature is : 27.208440 C, Bias Voltage is 29.000000 V, Current is 249.183600 nA
+Fri Aug 23 14:36:26 CEST 2013
+Temperature is : 27.205098 C, Bias Voltage is 29.000000 V, Current is 257.622300 nA
+Fri Aug 23 14:38:03 CEST 2013
+Temperature is : 27.214595 C, Bias Voltage is 29.000000 V, Current is 245.966400 nA
+Fri Aug 23 14:39:45 CEST 2013
+Temperature is : 27.217820 C, Bias Voltage is 29.000000 V, Current is 245.503500 nA
+Fri Aug 23 14:41:29 CEST 2013
+Temperature is : 27.224446 C, Bias Voltage is 29.000000 V, Current is 249.638900 nA
+Fri Aug 23 14:42:10 CEST 2013
+Stopping Run 202
+Fri Aug 23 14:42:20 CEST 2013
+Starting Run 203
+Fri Aug 23 14:44:06 CEST 2013
+Temperature is : 27.136846 C, Bias Voltage is 31.000000 V, Current is 252.568400 nA
+Fri Aug 23 14:45:48 CEST 2013
+Temperature is : 27.180833 C, Bias Voltage is 31.000000 V, Current is 251.500600 nA
+Fri Aug 23 14:47:33 CEST 2013
+Temperature is : 27.211685 C, Bias Voltage is 31.000000 V, Current is 255.751300 nA
+Fri Aug 23 14:49:16 CEST 2013
+Temperature is : 27.226727 C, Bias Voltage is 31.000000 V, Current is 255.819200 nA
+Fri Aug 23 14:50:52 CEST 2013
+Temperature is : 27.217171 C, Bias Voltage is 31.000000 V, Current is 254.505300 nA
+Fri Aug 23 14:52:37 CEST 2013
+Temperature is : 27.211056 C, Bias Voltage is 31.000000 V, Current is 252.652500 nA
+Fri Aug 23 14:54:19 CEST 2013
+Temperature is : 27.227671 C, Bias Voltage is 31.000000 V, Current is 252.404600 nA
+Fri Aug 23 14:56:02 CEST 2013
+Temperature is : 27.217309 C, Bias Voltage is 31.000000 V, Current is 256.441800 nA
+Fri Aug 23 14:57:35 CEST 2013
+Temperature is : 27.205510 C, Bias Voltage is 31.000000 V, Current is 251.783800 nA
+Fri Aug 23 14:59:16 CEST 2013
+Temperature is : 27.216876 C, Bias Voltage is 31.000000 V, Current is 253.223300 nA
+Fri Aug 23 15:00:59 CEST 2013
+Temperature is : 27.225508 C, Bias Voltage is 31.000000 V, Current is 254.621700 nA
+Fri Aug 23 15:02:45 CEST 2013
+Temperature is : 27.225154 C, Bias Voltage is 31.000000 V, Current is 258.622000 nA
+Fri Aug 23 15:04:18 CEST 2013
+Temperature is : 27.219118 C, Bias Voltage is 31.000000 V, Current is 252.015000 nA
+Fri Aug 23 15:06:00 CEST 2013
+Temperature is : 27.214143 C, Bias Voltage is 31.000000 V, Current is 252.780800 nA
+Fri Aug 23 15:06:49 CEST 2013
+Stopping Run 203
+Fri Aug 23 15:06:59 CEST 2013
+Starting Run 204
+Fri Aug 23 15:08:52 CEST 2013
+Temperature is : 27.175878 C, Bias Voltage is 33.000000 V, Current is 255.098200 nA
+Fri Aug 23 15:10:37 CEST 2013
+Temperature is : 27.215028 C, Bias Voltage is 33.000000 V, Current is 258.721700 nA
+Fri Aug 23 15:12:22 CEST 2013
+Temperature is : 27.215165 C, Bias Voltage is 33.000000 V, Current is 261.769600 nA
+Fri Aug 23 15:13:58 CEST 2013
+Temperature is : 27.210603 C, Bias Voltage is 33.000000 V, Current is 256.724600 nA
+Fri Aug 23 15:15:41 CEST 2013
+Temperature is : 27.221064 C, Bias Voltage is 33.000000 V, Current is 258.513400 nA
+Fri Aug 23 15:17:23 CEST 2013
+Temperature is : 27.216974 C, Bias Voltage is 33.000000 V, Current is 259.754800 nA
+Fri Aug 23 15:19:08 CEST 2013
+Temperature is : 27.224210 C, Bias Voltage is 33.000000 V, Current is 262.542200 nA
+Fri Aug 23 15:20:44 CEST 2013
+Temperature is : 27.209404 C, Bias Voltage is 33.000000 V, Current is 259.898200 nA
+Fri Aug 23 15:22:26 CEST 2013
+Temperature is : 27.226806 C, Bias Voltage is 33.000000 V, Current is 259.165700 nA
+Fri Aug 23 15:24:08 CEST 2013
+Temperature is : 27.228379 C, Bias Voltage is 33.000000 V, Current is 258.586500 nA
+Fri Aug 23 15:25:49 CEST 2013
+Temperature is : 27.212825 C, Bias Voltage is 33.000000 V, Current is 257.444200 nA
+Fri Aug 23 15:27:25 CEST 2013
+Temperature is : 27.223168 C, Bias Voltage is 33.000000 V, Current is 257.279200 nA
+Fri Aug 23 15:29:07 CEST 2013
+Temperature is : 27.231152 C, Bias Voltage is 33.000000 V, Current is 259.706800 nA
+Fri Aug 23 15:30:51 CEST 2013
+Temperature is : 27.232685 C, Bias Voltage is 33.000000 V, Current is 259.989900 nA
+Fri Aug 23 15:31:38 CEST 2013
+Stopping Run 204
+Fri Aug 23 15:31:48 CEST 2013
+Starting Run 205
+Fri Aug 23 15:33:41 CEST 2013
+Temperature is : 27.199572 C, Bias Voltage is 35.000000 V, Current is 260.424000 nA
+Fri Aug 23 15:35:22 CEST 2013
+Temperature is : 27.205786 C, Bias Voltage is 35.000000 V, Current is 266.719100 nA
+Fri Aug 23 15:36:58 CEST 2013
+Temperature is : 27.218292 C, Bias Voltage is 35.000000 V, Current is 263.343700 nA
+Fri Aug 23 15:38:41 CEST 2013
+Temperature is : 27.237798 C, Bias Voltage is 35.000000 V, Current is 263.508500 nA
+Fri Aug 23 15:40:25 CEST 2013
+Temperature is : 27.252408 C, Bias Voltage is 35.000000 V, Current is 265.144300 nA
+Fri Aug 23 15:42:07 CEST 2013
+Temperature is : 27.238860 C, Bias Voltage is 35.000000 V, Current is 263.988000 nA
+Fri Aug 23 15:43:54 CEST 2013
+Temperature is : 27.241967 C, Bias Voltage is 35.000000 V, Current is 275.265700 nA
+Fri Aug 23 15:45:34 CEST 2013
+Temperature is : 27.277970 C, Bias Voltage is 35.000000 V, Current is 261.812700 nA
+Fri Aug 23 15:47:20 CEST 2013
+Temperature is : 27.270439 C, Bias Voltage is 35.000000 V, Current is 255.673600 nA
+Fri Aug 23 15:49:00 CEST 2013
+Temperature is : 27.242930 C, Bias Voltage is 35.000000 V, Current is 263.516100 nA
+Fri Aug 23 15:50:42 CEST 2013
+Temperature is : 27.235576 C, Bias Voltage is 35.000000 V, Current is 257.969900 nA
+Fri Aug 23 15:52:16 CEST 2013
+Temperature is : 27.228281 C, Bias Voltage is 35.000000 V, Current is 261.470300 nA
+Fri Aug 23 15:53:59 CEST 2013
+Temperature is : 27.245683 C, Bias Voltage is 35.000000 V, Current is 260.509300 nA
+Fri Aug 23 15:55:42 CEST 2013
+Temperature is : 27.243127 C, Bias Voltage is 35.000000 V, Current is 261.033100 nA
+Fri Aug 23 15:56:30 CEST 2013
+Stopping Run 205
+Fri Aug 23 15:56:40 CEST 2013
+Starting Run 206
+Fri Aug 23 15:58:33 CEST 2013
+Temperature is : 27.208204 C, Bias Voltage is 37.000000 V, Current is 261.818500 nA
+Fri Aug 23 16:00:20 CEST 2013
+Temperature is : 27.237877 C, Bias Voltage is 37.000000 V, Current is 263.366400 nA
+Fri Aug 23 16:02:04 CEST 2013
+Temperature is : 27.231977 C, Bias Voltage is 37.000000 V, Current is 271.605400 nA
+Fri Aug 23 16:04:28 CEST 2013
+Temperature is : 27.412783 C, Bias Voltage is 37.000000 V, Current is 286.330600 nA
+Fri Aug 23 16:06:31 CEST 2013
+Temperature is : 27.388105 C, Bias Voltage is 37.000000 V, Current is 275.441100 nA
+Fri Aug 23 16:08:24 CEST 2013
+Temperature is : 27.334896 C, Bias Voltage is 37.000000 V, Current is 275.266900 nA
+Fri Aug 23 16:10:10 CEST 2013
+Temperature is : 27.300859 C, Bias Voltage is 37.000000 V, Current is 270.143300 nA
+Fri Aug 23 16:11:50 CEST 2013
+Temperature is : 27.278580 C, Bias Voltage is 37.000000 V, Current is 270.859300 nA
+Fri Aug 23 16:13:32 CEST 2013
+Temperature is : 27.270537 C, Bias Voltage is 37.000000 V, Current is 266.152500 nA
+Fri Aug 23 16:15:16 CEST 2013
+Temperature is : 27.264855 C, Bias Voltage is 37.000000 V, Current is 263.809600 nA
+Fri Aug 23 16:17:04 CEST 2013
+Temperature is : 27.275866 C, Bias Voltage is 37.000000 V, Current is 269.694200 nA
+Fri Aug 23 16:18:49 CEST 2013
+Temperature is : 27.270577 C, Bias Voltage is 37.000000 V, Current is 274.376300 nA
+Fri Aug 23 16:20:23 CEST 2013
+Temperature is : 27.271796 C, Bias Voltage is 37.000000 V, Current is 262.105300 nA
+Fri Aug 23 16:22:04 CEST 2013
+Temperature is : 27.256262 C, Bias Voltage is 37.000000 V, Current is 265.392000 nA
+Fri Aug 23 16:22:53 CEST 2013
+Stopping Run 206
+Fri Aug 23 16:23:03 CEST 2013
+Starting Run 207
+Fri Aug 23 16:24:53 CEST 2013
+Temperature is : 27.201794 C, Bias Voltage is 39.000000 V, Current is 261.921100 nA
+Fri Aug 23 16:26:33 CEST 2013
+Temperature is : 27.214556 C, Bias Voltage is 39.000000 V, Current is 262.417000 nA
+Fri Aug 23 16:28:06 CEST 2013
+Temperature is : 27.229677 C, Bias Voltage is 39.000000 V, Current is 265.348800 nA
+Fri Aug 23 16:29:46 CEST 2013
+Temperature is : 27.254571 C, Bias Voltage is 39.000000 V, Current is 267.105100 nA
+Fri Aug 23 16:31:25 CEST 2013
+Temperature is : 27.249478 C, Bias Voltage is 39.000000 V, Current is 265.850300 nA
+Fri Aug 23 16:33:05 CEST 2013
+Temperature is : 27.250835 C, Bias Voltage is 39.000000 V, Current is 279.606600 nA
+Fri Aug 23 16:34:39 CEST 2013
+Temperature is : 27.255554 C, Bias Voltage is 39.000000 V, Current is 266.696400 nA
+Fri Aug 23 16:36:17 CEST 2013
+Temperature is : 27.263970 C, Bias Voltage is 39.000000 V, Current is 266.273300 nA
+Fri Aug 23 16:37:59 CEST 2013
+Temperature is : 27.267077 C, Bias Voltage is 39.000000 V, Current is 269.208300 nA
+Fri Aug 23 16:39:31 CEST 2013
+Temperature is : 27.261610 C, Bias Voltage is 39.000000 V, Current is 265.482300 nA
+Fri Aug 23 16:41:10 CEST 2013
+Temperature is : 27.277656 C, Bias Voltage is 39.000000 V, Current is 265.656000 nA
+Fri Aug 23 16:42:49 CEST 2013
+Temperature is : 27.278521 C, Bias Voltage is 39.000000 V, Current is 264.970500 nA
+Fri Aug 23 16:44:30 CEST 2013
+Temperature is : 27.271953 C, Bias Voltage is 39.000000 V, Current is 277.002800 nA
+Fri Aug 23 16:46:09 CEST 2013
+Temperature is : 27.292718 C, Bias Voltage is 39.000000 V, Current is 265.224100 nA
+Fri Aug 23 16:46:47 CEST 2013
+Stopping Run 207
+Fri Aug 23 16:46:57 CEST 2013
+Starting Run 208
+Fri Aug 23 16:48:46 CEST 2013
+Temperature is : 27.370251 C, Bias Voltage is 41.000000 V, Current is 274.564500 nA
+Fri Aug 23 16:50:25 CEST 2013
+Temperature is : 27.311555 C, Bias Voltage is 41.000000 V, Current is 272.776500 nA
+Fri Aug 23 16:51:58 CEST 2013
+Temperature is : 27.291381 C, Bias Voltage is 41.000000 V, Current is 268.264900 nA
+Fri Aug 23 16:53:37 CEST 2013
+Temperature is : 27.298931 C, Bias Voltage is 41.000000 V, Current is 271.944500 nA
+Fri Aug 23 16:55:16 CEST 2013
+Temperature is : 27.312185 C, Bias Voltage is 41.000000 V, Current is 270.643500 nA
+Fri Aug 23 16:56:55 CEST 2013
+Temperature is : 27.298676 C, Bias Voltage is 41.000000 V, Current is 272.656500 nA
+Fri Aug 23 16:58:27 CEST 2013
+Temperature is : 27.299718 C, Bias Voltage is 41.000000 V, Current is 269.331800 nA
+Fri Aug 23 17:00:08 CEST 2013
+Temperature is : 27.304083 C, Bias Voltage is 41.000000 V, Current is 270.896600 nA
+Fri Aug 23 17:01:49 CEST 2013
+Temperature is : 27.318851 C, Bias Voltage is 41.000000 V, Current is 272.325500 nA
+Fri Aug 23 17:03:29 CEST 2013
+Temperature is : 27.310100 C, Bias Voltage is 41.000000 V, Current is 284.764700 nA
+Fri Aug 23 17:05:02 CEST 2013
+Temperature is : 27.324887 C, Bias Voltage is 41.000000 V, Current is 270.754400 nA
+Fri Aug 23 17:06:44 CEST 2013
+Temperature is : 27.341798 C, Bias Voltage is 41.000000 V, Current is 272.704300 nA
+Fri Aug 23 17:08:28 CEST 2013
+Temperature is : 27.346458 C, Bias Voltage is 41.000000 V, Current is 272.124500 nA
+Fri Aug 23 17:09:58 CEST 2013
+Stopping Run 208
+Fri Aug 23 17:10:08 CEST 2013
+Starting Run 209
+Fri Aug 23 17:19:05 CEST 2013
+Temperature is : 27.927454 C, Bias Voltage is 43.000000 V, Current is 330.886100 nA
+Fri Aug 23 17:21:16 CEST 2013
+Temperature is : 27.671082 C, Bias Voltage is 43.000000 V, Current is 298.604200 nA
+Fri Aug 23 17:22:55 CEST 2013
+Temperature is : 27.525199 C, Bias Voltage is 43.000000 V, Current is 279.196900 nA
+Fri Aug 23 17:24:39 CEST 2013
+Temperature is : 27.466208 C, Bias Voltage is 43.000000 V, Current is 276.686600 nA
+Fri Aug 23 17:26:18 CEST 2013
+Temperature is : 27.415182 C, Bias Voltage is 43.000000 V, Current is 276.966200 nA
+Fri Aug 23 17:27:53 CEST 2013
+Temperature is : 27.395853 C, Bias Voltage is 43.000000 V, Current is 285.011200 nA
+Fri Aug 23 17:29:31 CEST 2013
+Temperature is : 27.407061 C, Bias Voltage is 43.000000 V, Current is 271.950300 nA
+Fri Aug 23 17:34:16 CEST 2013
+Temperature is : 27.837356 C, Bias Voltage is 43.000000 V, Current is 297.020800 nA
+Fri Aug 23 17:35:56 CEST 2013
+Temperature is : 27.580512 C, Bias Voltage is 43.000000 V, Current is 288.493700 nA
+Fri Aug 23 17:37:28 CEST 2013
+Temperature is : 27.468706 C, Bias Voltage is 43.000000 V, Current is 274.961800 nA
+Fri Aug 23 17:39:05 CEST 2013
+Temperature is : 27.421218 C, Bias Voltage is 43.000000 V, Current is 274.902700 nA
+Fri Aug 23 17:40:43 CEST 2013
+Temperature is : 27.393041 C, Bias Voltage is 43.000000 V, Current is 276.730200 nA
+Fri Aug 23 17:42:14 CEST 2013
+Temperature is : 27.387004 C, Bias Voltage is 43.000000 V, Current is 269.509500 nA
+Fri Aug 23 17:43:52 CEST 2013
+Temperature is : 27.386807 C, Bias Voltage is 43.000000 V, Current is 274.184900 nA
+Fri Aug 23 17:44:00 CEST 2013
+Stopping Run 209
+Fri Aug 23 17:44:10 CEST 2013
+Starting Run 210
+Fri Aug 23 17:44:37 CEST 2013
+Stopping Run 210
+Fri Aug 23 17:44:47 CEST 2013
+Starting Run 211
+Fri Aug 23 17:45:18 CEST 2013
+Stopping Run 211
+Fri Aug 23 17:45:28 CEST 2013
+Starting Run 212
+Fri Aug 23 17:45:56 CEST 2013
+Stopping Run 212
+Fri Aug 23 17:46:06 CEST 2013
+Starting Run 213
+Fri Aug 23 17:46:34 CEST 2013
+Stopping Run 213
+Fri Aug 23 17:46:44 CEST 2013
+Starting Run 214
+Fri Aug 23 17:47:17 CEST 2013
+Stopping Run 214
+Fri Aug 23 17:47:28 CEST 2013
+Starting Run 215
+Fri Aug 23 17:47:56 CEST 2013
+Stopping Run 215
+Fri Aug 23 17:48:06 CEST 2013
+Starting Run 216
+Fri Aug 23 17:48:35 CEST 2013
+Stopping Run 216
+Fri Aug 23 17:48:45 CEST 2013
+Starting Run 217
+Fri Aug 23 17:49:19 CEST 2013
+Stopping Run 217
+Fri Aug 23 17:49:29 CEST 2013
+Starting Run 218
+Fri Aug 23 17:52:27 CEST 2013
+Stopping Run 218
+Fri Aug 23 17:52:40 CEST 2013
+Producer Interupted
+###############################################
+###############################################
+Fri Aug 23 18:29:05 CEST 2013
+Started Producer
+################ execution log ################
+Fri Aug 23 18:29:39 CEST 2013
+Configuring with ni_timepix
+Fri Aug 23 18:29:39 CEST 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/C06-W0110/Configs/BPC_C06-W0110_15V_IKrum1_96MHz_23-08-13_TOT
+Fri Aug 23 18:29:39 CEST 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/C06-W0110/Configs/BPC_C06-W0110_15V_IKrum1_96MHz_23-08-13_TOT_ascii
+Fri Aug 23 18:29:39 CEST 2013
+Mode is TOT
+Fri Aug 23 18:29:39 CEST 2013
+Bias is 45.000000
+Fri Aug 23 18:29:58 CEST 2013
+Starting Run 219
+Fri Aug 23 18:31:51 CEST 2013
+Temperature is : 24.778315 C, Bias Voltage is 45.000000 V, Current is 196.203100 nA
+Fri Aug 23 18:33:24 CEST 2013
+Temperature is : 25.860413 C, Bias Voltage is 45.000000 V, Current is 223.434200 nA
+Fri Aug 23 18:35:04 CEST 2013
+Temperature is : 26.403832 C, Bias Voltage is 45.000000 V, Current is 242.011700 nA
+Fri Aug 23 18:36:42 CEST 2013
+Temperature is : 26.672002 C, Bias Voltage is 45.000000 V, Current is 251.807500 nA
+Fri Aug 23 18:38:23 CEST 2013
+Temperature is : 26.813756 C, Bias Voltage is 45.000000 V, Current is 263.396500 nA
+Fri Aug 23 18:39:56 CEST 2013
+Temperature is : 26.920253 C, Bias Voltage is 45.000000 V, Current is 258.945900 nA
+Fri Aug 23 18:41:32 CEST 2013
+Temperature is : 26.995780 C, Bias Voltage is 45.000000 V, Current is 263.903400 nA
+Fri Aug 23 18:43:11 CEST 2013
+Temperature is : 27.038509 C, Bias Voltage is 45.000000 V, Current is 269.018800 nA
+Fri Aug 23 18:44:45 CEST 2013
+Temperature is : 27.077403 C, Bias Voltage is 45.000000 V, Current is 263.750400 nA
+Fri Aug 23 18:46:26 CEST 2013
+Temperature is : 27.115944 C, Bias Voltage is 45.000000 V, Current is 265.955600 nA
+Fri Aug 23 18:48:05 CEST 2013
+Temperature is : 27.144141 C, Bias Voltage is 45.000000 V, Current is 271.430200 nA
+Fri Aug 23 18:49:45 CEST 2013
+Temperature is : 27.148762 C, Bias Voltage is 45.000000 V, Current is 275.548200 nA
+Fri Aug 23 18:51:19 CEST 2013
+Temperature is : 27.185886 C, Bias Voltage is 45.000000 V, Current is 269.394500 nA
+Fri Aug 23 18:52:11 CEST 2013
+Stopping Run 219
