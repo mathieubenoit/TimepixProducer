@@ -67,25 +67,25 @@ int  TimepixDevice::ReadFrame(char * Filename, char* buffer){
 }
 
 
-
-int TimepixDevice::SetTHL(int THL){
-
-		// Get and Set Daqs
-		DACTYPE dacVals[14];
-		int chipnumber = 0;
-
-		dacVals[TPX_THLFINE] = THL; // 1000e- above thl adjustment mean
-		control = mpxCtrlSetDACs(devId, dacVals, 14, chipnumber);
-		cout << "[TimepixProducer] Setting THL Fine to " << THL << endl;
-
-		DACTYPE dacVals_new[14];
-		control = mpxCtrlGetDACs(devId, dacVals_new, 14, chipnumber);
-		cout << "[TimepixProducer] THL Fine Readout = " << dacVals_new[TPX_THLFINE] << endl;
-
-		control = mpxCtrlRefreshDACs(devId);
-		return control; 
-
-	}
+//
+//int TimepixDevice::SetTHL(int THL){
+//
+//		// Get and Set Daqs
+//		DACTYPE dacVals[14];
+//		int chipnumber = 0;
+//
+//		dacVals[TPX_THLFINE] = THL; // 1000e- above thl adjustment mean
+//		control = mpxCtrlSetDACs(devId, dacVals, 14, chipnumber);
+//		cout << "[TimepixProducer] Setting THL Fine to " << THL << endl;
+//
+//		DACTYPE dacVals_new[14];
+//		control = mpxCtrlGetDACs(devId, dacVals_new, 14, chipnumber);
+//		cout << "[TimepixProducer] THL Fine Readout = " << dacVals_new[TPX_THLFINE] << endl;
+//
+//		control = mpxCtrlRefreshDACs(devId);
+//		return control;
+//
+//	}
 
 int TimepixDevice::SetIkrum(int IKrum){
 
@@ -105,6 +105,31 @@ int TimepixDevice::SetIkrum(int IKrum){
 		return control;
 
 	}
+
+int TimepixDevice::SetTHL(int THL){
+
+		// Get and Set Daqs
+		DACTYPE dacVals[14];
+		DACTYPE dacVals_new[14];
+		int chipnumber = 0;
+		control = mpxCtrlGetDACs(devId, dacVals, 14, chipnumber);
+
+		dacVals[TPX_THLFINE] = THL; // 1000e- above thl adjustment mean
+		control = mpxCtrlSetDACs(devId, dacVals, 14, chipnumber);
+		cout << "[TimepixProducer] Setting THL to " << THL << endl;
+		control = mpxCtrlRefreshDACs(devId);
+
+
+		control = mpxCtrlGetDACs(devId, dacVals_new, 14, chipnumber);
+		cout << "[TimepixProducer] Reading back THL Value , THL = " << dacVals_new[TPX_THLFINE] << endl ;
+
+		cout << "[TimepixProducer] All the DACS values " << endl;
+		ReadDACs();
+
+		return control;
+
+	}
+
 
 
 int TimepixDevice::ReadDACs(){

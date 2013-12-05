@@ -197,6 +197,7 @@ public:
     if(mimtlu_status!=1)     SetStatus(eudaq::Status::LVL_ERROR, "MIMTLU Not Running !!");
     gettimeofday(&t0, NULL);
 
+
 #ifdef USE_KEITHLEY
 	k2410 = new Keithley2410(12);
 	k2000 = new Keithley2000(16);
@@ -258,11 +259,19 @@ public:
     VMax=config.Get("Maximum_Bias",40);
     N_Bias_Step=config.Get("N_Bias_Step",6);
     doRamp=config.Get("doRamp",0);
+    return_bias=config.Get("return_bias",25.0);
 
     init_bias=bias_voltage;
     bias_step = (VMax-bias_voltage)/N_Bias_Step;
     stepcnt=0;
 
+
+    //THL Scan parameters
+    THL_init=config.Get("THL_init",379);
+    THL_nstep=config.Get("THL_nstep",1);
+    THL_step=config.Get("THL_step",2);
+    doTHLRamp=config.Get("doTHLRamp",0);
+    THLreturn=config.Get("THLreturn",379);
 
     //Logging of the Configuration
     sprintf(logmsg,"Binary Config is %s",bpc_config.c_str());
@@ -288,6 +297,13 @@ public:
 	k2410->SetOutputVoltage(bias_voltage);
 #endif
 
+
+	if(doTHLRamp){
+		aTimepix->SetTHL(THL_init);
+		THLcnt = 0;
+		THLactual=THL_init;
+	}
+
 	cout << "[TimepixProducer] Bias Voltage is  : " << bias_voltage  << endl;
     cout << "[TimepixProducer] Setting Acquisition time to : " << acqTime*1.e-6 << "s" << endl;
     cout << "[TimepixProducer] Setting MiMTLU Trigger per Shutter to : " << ntrig  << endl;
@@ -296,7 +312,11 @@ public:
     cout << "[TimepixProducer] Setting MiMTLU Shutter Mode to : " << smode  << endl;
     cout << "[TimepixProducer] Timepix Mode is  : " << mode  << endl;
 
-
+    cout << "[TimepixProducer]  Ramp Parameters : "  << endl ;
+    cout << "[TimepixProducer]  Initial Voltage : " << init_bias << endl ;
+    cout << "[TimepixProducer]  Final Voltage : " << VMax << endl ;
+    cout << "[TimepixProducer]  Number of Steps : " << N_Bias_Step << endl ;
+    cout << "[TimepixProducer]  Return Voltage : " << return_bias << endl ;
     // At the end, set the status that will be displayed in the Run Control.
     SetStatus(eudaq::Status::LVL_OK, "Configured (" + config.Name() + ")");
 	cout << "[TimepixProducer] Done" << endl;
@@ -313,31 +333,63 @@ public:
 
 #ifdef USE_KEITHLEY
 
-    if(bias_voltage<VMax && (doRamp==1 && stepcnt<=N_Bias_Step)){
+    if(fabs(bias_voltage)<=fabs(VMax) && (doRamp==1 && stepcnt<=N_Bias_Step)){
 
     	k2410->SetOutputVoltage(bias_voltage);
     	stepcnt++;
     }
+
+    else if((doRamp==1 && stepcnt>N_Bias_Step)){
+    	k2410->SetOutputVoltage(return_bias);
+    	bias_voltage=return_bias;
+    }
+
     else{
     	k2410->SetOutputVoltage(init_bias);
+    	bias_voltage=init_bias;
     }
 
 #endif
+    // It must send a BORE to the Data Collector
+    eudaq::RawDataEvent bore(eudaq::RawDataEvent::BORE(EVENT_TYPE, m_run));
+    // You can set tags on the BORE that will be saved in the data file
+    // and can be used later to help decoding
+
+
+    if(doTHLRamp==1 && THLcnt<=THL_nstep){
+
+
+    	aTimepix->SetTHL(THLactual);
+    	THLcnt++;
+    	bore.SetTag("THL",THLactual);
+    	THLactual=THLactual+THL_step;
+
+    }
+
+    else if (doTHLRamp==1){
+    	THLactual=THLreturn;
+    	aTimepix->SetTHL(THLactual);
+    	bore.SetTag("THL",THLactual);
+    }
+
+    else {
+
+    };
+
 
     char logmsg[1000];
     sprintf(logmsg,"Starting Run %i",m_run);
     LogMessage(logmsg);
 
-    // It must send a BORE to the Data Collector
-    eudaq::RawDataEvent bore(eudaq::RawDataEvent::BORE(EVENT_TYPE, m_run));
-    // You can set tags on the BORE that will be saved in the data file
-    // and can be used later to help decoding
+
     
     bore.SetTag("ChipID", eudaq::to_string(aTimepix->GetChipID()));
     bore.SetTag("BPC",bpc_config);
     bore.SetTag("Ascii_Config",ascii_config);
     bore.SetTag("Bias",bias_voltage);
     bore.SetTag("Mode",mode);
+
+
     // Send the event to the Data Collector
     SendEvent(bore);
 
@@ -389,7 +441,7 @@ public:
     status = 1;
     }
 
-    if(doRamp==1)bias_voltage+=bias_step;
+    if(doRamp==1 && stepcnt<=N_Bias_Step)bias_voltage+=bias_step;
   }  
 
   // This gets called when the Run Control is terminating,
@@ -457,7 +509,7 @@ bool badFrame=false;
 while(!fitpixstate.FrameReady){
         eudaq::mSleep(0.01);
 		timeout++;
-		if(timeout>1000000){
+		if(timeout>10000){
 #ifdef DEBUGFITPIX
 			cout << get_time()<<" [FITPIX] Corrupted Frame" << endl;
 #endif
@@ -502,7 +554,7 @@ while(!fitpixstate.FrameReady){
       {
         for(unsigned int j=0;j<256;j++)
         {
-           if(Data[pos]!=0)
+           if(Data[pos]!=0 && Data[pos]!=11810)
            {
              //cout << "[Data] Evt : " << m_ev << " " << i << " " << j << " " << Data[pos] << endl;
              pack(bufferOut,i);
@@ -595,7 +647,14 @@ private:
   Keithley2410 *k2410;
   Keithley2000 *k2000;
   int doRamp,stepcnt;
-  double bias_step,init_bias;
+  double bias_step,init_bias,return_bias;
+  int THL_init;
+  int THL_nstep;
+  int THL_step;
+  int doTHLRamp;
+  int THLcnt;
+  int THLactual;
+  int THLreturn;
 
 
 

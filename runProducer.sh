@@ -2,7 +2,7 @@
 
 source setup_producer.sh
 
-export RUNCONTROL="tcp://192.168.2.8:44000"
+export RUNCONTROL="tcp://192.168.1.2:44000"
 
 echo "###############################################" >> logs/producer_log.txt
 date >> logs/producer_log.txt
