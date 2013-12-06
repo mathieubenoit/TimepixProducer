@@ -30171,3 +30171,2519 @@ Thu Dec  5 09:53:37 CET 2013
 Starting Run 2235
 Thu Dec  5 09:55:11 CET 2013
 Temperature is : 32.838701 C, Bias Voltage is -50.000000 V, Current is -781.026100 nA
+Thu Dec  5 09:56:37 CET 2013
+Temperature is : 33.147829 C, Bias Voltage is -50.000000 V, Current is -803.993800 nA
+Thu Dec  5 09:58:03 CET 2013
+Temperature is : 33.305372 C, Bias Voltage is -50.000000 V, Current is -802.821500 nA
+Thu Dec  5 09:59:29 CET 2013
+Temperature is : 33.512978 C, Bias Voltage is -50.000000 V, Current is -815.448400 nA
+Thu Dec  5 09:59:39 CET 2013
+Stopping Run 2235
+Thu Dec  5 09:59:50 CET 2013
+Starting Run 2236
+Thu Dec  5 10:01:32 CET 2013
+Temperature is : 33.504739 C, Bias Voltage is -50.000000 V, Current is -805.394100 nA
+Thu Dec  5 10:02:00 CET 2013
+Stopping Run 2236
+Thu Dec  5 10:02:18 CET 2013
+Producer Interupted
+###############################################
+###############################################
+Thu Dec  5 10:03:51 CET 2013
+Started Producer
+################ execution log ################
+Thu Dec  5 10:04:11 CET 2013
+Configuring with ni_timepix
+Thu Dec  5 10:04:11 CET 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B06-W0125/Configs/BPC_B06-W0125_50V_IKrum1_96MHz_5-12-13_TOT
+Thu Dec  5 10:04:11 CET 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B06-W0125/Configs/BPC_B06-W0125_50V_IKrum1_96MHz_5-12-13_TOT_ascii
+Thu Dec  5 10:04:11 CET 2013
+Mode is TOT
+Thu Dec  5 10:04:11 CET 2013
+Bias is -50.000000
+Thu Dec  5 10:04:22 CET 2013
+Starting Run 2237
+Thu Dec  5 10:05:56 CET 2013
+Temperature is : 31.514177 C, Bias Voltage is -50.000000 V, Current is -648.480900 nA
+Thu Dec  5 10:07:21 CET 2013
+Temperature is : 32.636287 C, Bias Voltage is -50.000000 V, Current is -714.677700 nA
+Thu Dec  5 10:08:54 CET 2013
+Temperature is : 32.647180 C, Bias Voltage is -50.000000 V, Current is -749.244000 nA
+Thu Dec  5 10:10:19 CET 2013
+Temperature is : 33.199799 C, Bias Voltage is -50.000000 V, Current is -749.494600 nA
+Thu Dec  5 10:10:37 CET 2013
+Stopping Run 2237
+Thu Dec  5 10:10:48 CET 2013
+Starting Run 2238
+Thu Dec  5 10:12:22 CET 2013
+Temperature is : 33.344758 C, Bias Voltage is -50.000000 V, Current is -757.965000 nA
+Thu Dec  5 10:13:48 CET 2013
+Temperature is : 33.475401 C, Bias Voltage is -50.000000 V, Current is -759.920100 nA
+Thu Dec  5 10:15:14 CET 2013
+Temperature is : 33.600028 C, Bias Voltage is -50.000000 V, Current is -759.114100 nA
+Thu Dec  5 10:16:48 CET 2013
+Temperature is : 33.628480 C, Bias Voltage is -50.000000 V, Current is -769.524200 nA
+Thu Dec  5 10:17:00 CET 2013
+Stopping Run 2238
+Thu Dec  5 10:17:11 CET 2013
+Starting Run 2239
+Thu Dec  5 10:18:45 CET 2013
+Temperature is : 33.533152 C, Bias Voltage is -50.000000 V, Current is -800.673100 nA
+Thu Dec  5 10:20:11 CET 2013
+Temperature is : 33.214586 C, Bias Voltage is -50.000000 V, Current is -740.291700 nA
+Thu Dec  5 10:21:37 CET 2013
+Temperature is : 33.464980 C, Bias Voltage is -50.000000 V, Current is -736.400800 nA
+Thu Dec  5 10:23:09 CET 2013
+Temperature is : 33.429566 C, Bias Voltage is -50.000000 V, Current is -747.268400 nA
+Thu Dec  5 10:23:25 CET 2013
+Stopping Run 2239
+Thu Dec  5 10:23:38 CET 2013
+Starting Run 2240
+Thu Dec  5 10:25:10 CET 2013
+Temperature is : 33.255270 C, Bias Voltage is -50.000000 V, Current is -727.527500 nA
+Thu Dec  5 10:26:35 CET 2013
+Temperature is : 33.546170 C, Bias Voltage is -50.000000 V, Current is -733.812200 nA
+Thu Dec  5 10:28:00 CET 2013
+Temperature is : 33.744121 C, Bias Voltage is -50.000000 V, Current is -737.764800 nA
+Thu Dec  5 10:29:25 CET 2013
+Temperature is : 33.419203 C, Bias Voltage is -50.000000 V, Current is -733.618500 nA
+Thu Dec  5 10:29:40 CET 2013
+Stopping Run 2240
+Thu Dec  5 10:29:51 CET 2013
+Starting Run 2241
+Thu Dec  5 10:31:26 CET 2013
+Temperature is : 33.647003 C, Bias Voltage is -50.000000 V, Current is -719.631500 nA
+Thu Dec  5 10:32:51 CET 2013
+Temperature is : 33.727761 C, Bias Voltage is -50.000000 V, Current is -722.803700 nA
+Thu Dec  5 10:34:17 CET 2013
+Temperature is : 33.636070 C, Bias Voltage is -50.000000 V, Current is -714.219100 nA
+Thu Dec  5 10:35:42 CET 2013
+Temperature is : 33.724182 C, Bias Voltage is -50.000000 V, Current is -727.190900 nA
+Thu Dec  5 10:36:00 CET 2013
+Stopping Run 2241
+Thu Dec  5 10:36:13 CET 2013
+Starting Run 2242
+Thu Dec  5 10:37:53 CET 2013
+Temperature is : 33.791844 C, Bias Voltage is -50.000000 V, Current is -769.465200 nA
+Thu Dec  5 10:39:18 CET 2013
+Temperature is : 33.281029 C, Bias Voltage is -50.000000 V, Current is -707.632300 nA
+Thu Dec  5 10:40:43 CET 2013
+Temperature is : 33.486275 C, Bias Voltage is -50.000000 V, Current is -702.742600 nA
+Thu Dec  5 10:42:09 CET 2013
+Temperature is : 33.525877 C, Bias Voltage is -50.000000 V, Current is -709.410300 nA
+Thu Dec  5 10:42:33 CET 2013
+Stopping Run 2242
+Thu Dec  5 10:42:46 CET 2013
+Starting Run 2243
+Thu Dec  5 10:44:18 CET 2013
+Temperature is : 33.655891 C, Bias Voltage is -50.000000 V, Current is -700.357200 nA
+Thu Dec  5 10:45:52 CET 2013
+Temperature is : 33.524579 C, Bias Voltage is -50.000000 V, Current is -705.786400 nA
+Thu Dec  5 10:47:17 CET 2013
+Temperature is : 33.605887 C, Bias Voltage is -50.000000 V, Current is -702.494800 nA
+Thu Dec  5 10:48:43 CET 2013
+Temperature is : 33.607185 C, Bias Voltage is -50.000000 V, Current is -704.502300 nA
+Thu Dec  5 10:48:58 CET 2013
+Stopping Run 2243
+Thu Dec  5 10:49:12 CET 2013
+Starting Run 2244
+Thu Dec  5 10:50:43 CET 2013
+Temperature is : 33.511542 C, Bias Voltage is -50.000000 V, Current is -686.548600 nA
+Thu Dec  5 10:52:16 CET 2013
+Temperature is : 33.763607 C, Bias Voltage is -50.000000 V, Current is -702.356500 nA
+Thu Dec  5 10:53:42 CET 2013
+Temperature is : 33.729294 C, Bias Voltage is -50.000000 V, Current is -704.457400 nA
+Thu Dec  5 10:55:08 CET 2013
+Temperature is : 33.531147 C, Bias Voltage is -50.000000 V, Current is -681.210300 nA
+Thu Dec  5 10:55:24 CET 2013
+Stopping Run 2244
+Thu Dec  5 10:55:37 CET 2013
+Starting Run 2245
+Thu Dec  5 10:57:09 CET 2013
+Temperature is : 33.555215 C, Bias Voltage is -50.000000 V, Current is -686.215000 nA
+Thu Dec  5 10:58:35 CET 2013
+Temperature is : 33.747424 C, Bias Voltage is -50.000000 V, Current is -694.129900 nA
+Thu Dec  5 11:00:08 CET 2013
+Temperature is : 33.244534 C, Bias Voltage is -50.000000 V, Current is -682.739300 nA
+Thu Dec  5 11:01:33 CET 2013
+Temperature is : 33.403374 C, Bias Voltage is -50.000000 V, Current is -677.059600 nA
+Thu Dec  5 11:01:47 CET 2013
+Stopping Run 2245
+Thu Dec  5 11:01:58 CET 2013
+Starting Run 2246
+Thu Dec  5 11:03:32 CET 2013
+Temperature is : 33.676675 C, Bias Voltage is -50.000000 V, Current is -680.066900 nA
+Thu Dec  5 11:04:58 CET 2013
+Temperature is : 33.671130 C, Bias Voltage is -50.000000 V, Current is -685.422400 nA
+Thu Dec  5 11:06:31 CET 2013
+Temperature is : 33.833314 C, Bias Voltage is -50.000000 V, Current is -708.957500 nA
+Thu Dec  5 11:07:56 CET 2013
+Temperature is : 33.615247 C, Bias Voltage is -50.000000 V, Current is -694.549300 nA
+Thu Dec  5 11:07:56 CET 2013
+Stopping Run 2246
+Thu Dec  5 11:08:16 CET 2013
+Starting Run 2247
+Thu Dec  5 11:09:49 CET 2013
+Temperature is : 33.596527 C, Bias Voltage is -50.000000 V, Current is -645.148900 nA
+Thu Dec  5 11:11:14 CET 2013
+Temperature is : 33.575016 C, Bias Voltage is -50.000000 V, Current is -675.439000 nA
+Thu Dec  5 11:12:40 CET 2013
+Temperature is : 33.850657 C, Bias Voltage is -50.000000 V, Current is -680.036200 nA
+Thu Dec  5 11:14:14 CET 2013
+Temperature is : 33.705777 C, Bias Voltage is -50.000000 V, Current is -683.520600 nA
+Thu Dec  5 11:14:50 CET 2013
+Stopping Run 2247
+Thu Dec  5 11:15:02 CET 2013
+Starting Run 2248
+Thu Dec  5 11:16:36 CET 2013
+Temperature is : 33.409175 C, Bias Voltage is -50.000000 V, Current is -678.984600 nA
+Thu Dec  5 11:18:01 CET 2013
+Temperature is : 33.595426 C, Bias Voltage is -50.000000 V, Current is -681.807100 nA
+Thu Dec  5 11:19:26 CET 2013
+Temperature is : 33.488812 C, Bias Voltage is -50.000000 V, Current is -682.850900 nA
+Thu Dec  5 11:20:52 CET 2013
+Temperature is : 33.528650 C, Bias Voltage is -50.000000 V, Current is -675.982800 nA
+Thu Dec  5 11:21:35 CET 2013
+Stopping Run 2248
+Thu Dec  5 11:21:48 CET 2013
+Starting Run 2249
+Thu Dec  5 11:23:21 CET 2013
+Temperature is : 33.596881 C, Bias Voltage is -50.000000 V, Current is -672.951000 nA
+Thu Dec  5 11:24:46 CET 2013
+Temperature is : 33.436546 C, Bias Voltage is -50.000000 V, Current is -672.660200 nA
+Thu Dec  5 11:26:12 CET 2013
+Temperature is : 33.209651 C, Bias Voltage is -50.000000 V, Current is -658.920300 nA
+Thu Dec  5 11:27:37 CET 2013
+Temperature is : 33.370576 C, Bias Voltage is -50.000000 V, Current is -663.116700 nA
+Thu Dec  5 11:28:26 CET 2013
+Stopping Run 2249
+Thu Dec  5 11:28:38 CET 2013
+Starting Run 2250
+Thu Dec  5 11:30:16 CET 2013
+Temperature is : 33.519172 C, Bias Voltage is -50.000000 V, Current is -676.136400 nA
+Thu Dec  5 11:31:41 CET 2013
+Temperature is : 33.376750 C, Bias Voltage is -50.000000 V, Current is -674.028900 nA
+Thu Dec  5 11:33:07 CET 2013
+Temperature is : 33.456111 C, Bias Voltage is -50.000000 V, Current is -658.445400 nA
+Thu Dec  5 11:34:32 CET 2013
+Temperature is : 33.624941 C, Bias Voltage is -50.000000 V, Current is -673.109100 nA
+Thu Dec  5 11:35:09 CET 2013
+Stopping Run 2250
+Thu Dec  5 11:35:20 CET 2013
+Starting Run 2251
+Thu Dec  5 11:37:01 CET 2013
+Temperature is : 33.789700 C, Bias Voltage is -50.000000 V, Current is -740.474800 nA
+Thu Dec  5 11:38:26 CET 2013
+Temperature is : 33.814476 C, Bias Voltage is -50.000000 V, Current is -683.672700 nA
+Thu Dec  5 11:39:52 CET 2013
+Temperature is : 33.756882 C, Bias Voltage is -50.000000 V, Current is -681.975100 nA
+Thu Dec  5 11:41:17 CET 2013
+Temperature is : 33.193193 C, Bias Voltage is -50.000000 V, Current is -658.002300 nA
+Thu Dec  5 11:41:54 CET 2013
+Stopping Run 2251
+Thu Dec  5 11:42:07 CET 2013
+Starting Run 2252
+Thu Dec  5 11:43:47 CET 2013
+Temperature is : 33.724398 C, Bias Voltage is -50.000000 V, Current is -684.676400 nA
+Thu Dec  5 11:45:13 CET 2013
+Temperature is : 33.785217 C, Bias Voltage is -50.000000 V, Current is -672.339600 nA
+Thu Dec  5 11:46:38 CET 2013
+Temperature is : 33.767618 C, Bias Voltage is -50.000000 V, Current is -674.751100 nA
+Thu Dec  5 11:48:03 CET 2013
+Temperature is : 33.387486 C, Bias Voltage is -50.000000 V, Current is -663.329600 nA
+Thu Dec  5 11:48:33 CET 2013
+Stopping Run 2252
+Thu Dec  5 11:48:47 CET 2013
+Starting Run 2253
+Thu Dec  5 11:48:58 CET 2013
+Stopping Run 2253
+Thu Dec  5 11:49:11 CET 2013
+Starting Run 2254
+Thu Dec  5 11:50:54 CET 2013
+Temperature is : 33.399913 C, Bias Voltage is -50.000000 V, Current is -751.784100 nA
+Thu Dec  5 11:52:20 CET 2013
+Temperature is : 33.342221 C, Bias Voltage is -50.000000 V, Current is -666.622800 nA
+Thu Dec  5 11:53:45 CET 2013
+Temperature is : 33.376927 C, Bias Voltage is -50.000000 V, Current is -666.541400 nA
+Thu Dec  5 11:55:11 CET 2013
+Temperature is : 32.942957 C, Bias Voltage is -50.000000 V, Current is -654.376800 nA
+Thu Dec  5 11:56:03 CET 2013
+Stopping Run 2254
+Thu Dec  5 11:56:14 CET 2013
+Starting Run 2255
+Thu Dec  5 11:57:47 CET 2013
+Temperature is : 33.362455 C, Bias Voltage is -50.000000 V, Current is -702.594600 nA
+Thu Dec  5 11:59:21 CET 2013
+Temperature is : 33.282523 C, Bias Voltage is -50.000000 V, Current is -665.089400 nA
+Thu Dec  5 12:00:47 CET 2013
+Temperature is : 33.483955 C, Bias Voltage is -50.000000 V, Current is -667.308400 nA
+Thu Dec  5 12:02:12 CET 2013
+Temperature is : 33.331406 C, Bias Voltage is -50.000000 V, Current is -651.903200 nA
+Thu Dec  5 12:03:03 CET 2013
+Stopping Run 2255
+Thu Dec  5 12:03:16 CET 2013
+Starting Run 2256
+Thu Dec  5 12:04:48 CET 2013
+Temperature is : 33.154790 C, Bias Voltage is -50.000000 V, Current is -696.631600 nA
+Thu Dec  5 12:06:21 CET 2013
+Temperature is : 33.471527 C, Bias Voltage is -50.000000 V, Current is -664.275200 nA
+Thu Dec  5 12:07:46 CET 2013
+Temperature is : 33.489854 C, Bias Voltage is -50.000000 V, Current is -659.059700 nA
+Thu Dec  5 12:09:12 CET 2013
+Temperature is : 33.394093 C, Bias Voltage is -50.000000 V, Current is -648.269600 nA
+Thu Dec  5 12:10:04 CET 2013
+Stopping Run 2256
+Thu Dec  5 12:10:15 CET 2013
+Starting Run 2257
+Thu Dec  5 12:11:50 CET 2013
+Temperature is : 32.942603 C, Bias Voltage is -50.000000 V, Current is -687.653800 nA
+Thu Dec  5 12:13:15 CET 2013
+Temperature is : 32.949072 C, Bias Voltage is -50.000000 V, Current is -640.343500 nA
+Thu Dec  5 12:14:48 CET 2013
+Temperature is : 33.174709 C, Bias Voltage is -50.000000 V, Current is -637.736700 nA
+Thu Dec  5 12:16:13 CET 2013
+Temperature is : 33.209847 C, Bias Voltage is -50.000000 V, Current is -645.391000 nA
+Thu Dec  5 12:17:11 CET 2013
+Stopping Run 2257
+Thu Dec  5 12:17:22 CET 2013
+Starting Run 2258
+Thu Dec  5 12:18:55 CET 2013
+Temperature is : 33.425476 C, Bias Voltage is -50.000000 V, Current is -690.408700 nA
+Thu Dec  5 12:20:21 CET 2013
+Temperature is : 33.356300 C, Bias Voltage is -50.000000 V, Current is -651.868600 nA
+Thu Dec  5 12:21:54 CET 2013
+Temperature is : 33.728764 C, Bias Voltage is -50.000000 V, Current is -668.105200 nA
+Thu Dec  5 12:23:20 CET 2013
+Temperature is : 33.281324 C, Bias Voltage is -50.000000 V, Current is -652.723600 nA
+Thu Dec  5 12:24:22 CET 2013
+Stopping Run 2258
+Thu Dec  5 12:24:33 CET 2013
+Starting Run 2259
+Thu Dec  5 12:26:07 CET 2013
+Temperature is : 32.789110 C, Bias Voltage is -50.000000 V, Current is -678.399500 nA
+Thu Dec  5 12:27:33 CET 2013
+Temperature is : 32.977210 C, Bias Voltage is -50.000000 V, Current is -632.721100 nA
+Thu Dec  5 12:29:06 CET 2013
+Temperature is : 32.956642 C, Bias Voltage is -50.000000 V, Current is -647.296400 nA
+Thu Dec  5 12:30:32 CET 2013
+Temperature is : 33.123427 C, Bias Voltage is -50.000000 V, Current is -607.950500 nA
+Thu Dec  5 12:31:30 CET 2013
+Stopping Run 2259
+Thu Dec  5 12:31:43 CET 2013
+Starting Run 2260
+Thu Dec  5 12:33:15 CET 2013
+Temperature is : 33.129582 C, Bias Voltage is -50.000000 V, Current is -637.289600 nA
+Thu Dec  5 12:34:42 CET 2013
+Temperature is : 33.331269 C, Bias Voltage is -50.000000 V, Current is -612.248300 nA
+Thu Dec  5 12:36:19 CET 2013
+Temperature is : 33.196693 C, Bias Voltage is -50.000000 V, Current is -698.335800 nA
+Thu Dec  5 12:37:44 CET 2013
+Temperature is : 33.238163 C, Bias Voltage is -50.000000 V, Current is -638.000800 nA
+Thu Dec  5 12:38:38 CET 2013
+Stopping Run 2260
+Thu Dec  5 12:38:50 CET 2013
+Starting Run 2261
+Thu Dec  5 12:40:24 CET 2013
+Temperature is : 33.332960 C, Bias Voltage is -50.000000 V, Current is -669.751900 nA
+Thu Dec  5 12:41:49 CET 2013
+Temperature is : 33.034490 C, Bias Voltage is -50.000000 V, Current is -640.690900 nA
+Thu Dec  5 12:43:14 CET 2013
+Temperature is : 32.878933 C, Bias Voltage is -50.000000 V, Current is -625.848700 nA
+Thu Dec  5 12:44:52 CET 2013
+Temperature is : 33.174434 C, Bias Voltage is -50.000000 V, Current is -642.088000 nA
+Thu Dec  5 12:45:51 CET 2013
+Stopping Run 2261
+Thu Dec  5 12:46:03 CET 2013
+Starting Run 2262
+Thu Dec  5 12:47:37 CET 2013
+Temperature is : 33.076844 C, Bias Voltage is -50.000000 V, Current is -633.211200 nA
+Thu Dec  5 12:49:03 CET 2013
+Temperature is : 33.311310 C, Bias Voltage is -50.000000 V, Current is -630.010900 nA
+Thu Dec  5 12:50:29 CET 2013
+Temperature is : 33.334985 C, Bias Voltage is -50.000000 V, Current is -640.408100 nA
+Thu Dec  5 12:52:07 CET 2013
+Temperature is : 33.508613 C, Bias Voltage is -50.000000 V, Current is -645.771900 nA
+Thu Dec  5 12:53:05 CET 2013
+Stopping Run 2262
+Thu Dec  5 12:53:16 CET 2013
+Starting Run 2263
+Thu Dec  5 12:54:50 CET 2013
+Temperature is : 33.235272 C, Bias Voltage is -50.000000 V, Current is -645.544800 nA
+Thu Dec  5 12:56:16 CET 2013
+Temperature is : 33.517854 C, Bias Voltage is -50.000000 V, Current is -635.629000 nA
+Thu Dec  5 12:57:41 CET 2013
+Temperature is : 33.626711 C, Bias Voltage is -50.000000 V, Current is -648.672000 nA
+Thu Dec  5 12:59:20 CET 2013
+Temperature is : 33.774756 C, Bias Voltage is -50.000000 V, Current is -658.430900 nA
+Thu Dec  5 13:00:17 CET 2013
+Stopping Run 2263
+Thu Dec  5 13:00:28 CET 2013
+Starting Run 2264
+Thu Dec  5 13:02:02 CET 2013
+Temperature is : 33.229176 C, Bias Voltage is -50.000000 V, Current is -684.439900 nA
+Thu Dec  5 13:03:27 CET 2013
+Temperature is : 33.763646 C, Bias Voltage is -50.000000 V, Current is -652.334800 nA
+Thu Dec  5 13:04:52 CET 2013
+Temperature is : 33.441167 C, Bias Voltage is -50.000000 V, Current is -648.378900 nA
+Thu Dec  5 13:06:31 CET 2013
+Temperature is : 33.677934 C, Bias Voltage is -50.000000 V, Current is -654.819600 nA
+Thu Dec  5 13:07:21 CET 2013
+Stopping Run 2264
+Thu Dec  5 13:07:32 CET 2013
+Starting Run 2265
+Thu Dec  5 13:09:07 CET 2013
+Temperature is : 33.360134 C, Bias Voltage is -50.000000 V, Current is -644.271700 nA
+Thu Dec  5 13:10:32 CET 2013
+Temperature is : 33.201982 C, Bias Voltage is -50.000000 V, Current is -646.077700 nA
+Thu Dec  5 13:11:57 CET 2013
+Temperature is : 33.479845 C, Bias Voltage is -50.000000 V, Current is -643.677300 nA
+Thu Dec  5 13:13:25 CET 2013
+Temperature is : 33.359840 C, Bias Voltage is -50.000000 V, Current is -664.673300 nA
+Thu Dec  5 13:14:25 CET 2013
+Stopping Run 2265
+Thu Dec  5 13:14:37 CET 2013
+Starting Run 2266
+Thu Dec  5 13:16:11 CET 2013
+Temperature is : 33.546641 C, Bias Voltage is -50.000000 V, Current is -681.388300 nA
+Thu Dec  5 13:17:36 CET 2013
+Temperature is : 33.623309 C, Bias Voltage is -50.000000 V, Current is -647.072300 nA
+Thu Dec  5 13:19:02 CET 2013
+Temperature is : 33.428347 C, Bias Voltage is -50.000000 V, Current is -651.475800 nA
+Thu Dec  5 13:20:27 CET 2013
+Temperature is : 33.462364 C, Bias Voltage is -50.000000 V, Current is -645.575600 nA
+Thu Dec  5 13:21:47 CET 2013
+Stopping Run 2266
+Thu Dec  5 13:21:59 CET 2013
+Starting Run 2267
+Thu Dec  5 13:23:31 CET 2013
+Temperature is : 33.437785 C, Bias Voltage is -50.000000 V, Current is -692.127500 nA
+Thu Dec  5 13:24:56 CET 2013
+Temperature is : 33.346822 C, Bias Voltage is -50.000000 V, Current is -644.476300 nA
+Thu Dec  5 13:26:22 CET 2013
+Temperature is : 33.485665 C, Bias Voltage is -50.000000 V, Current is -641.765200 nA
+Thu Dec  5 13:27:48 CET 2013
+Temperature is : 33.664602 C, Bias Voltage is -50.000000 V, Current is -650.534500 nA
+Thu Dec  5 13:29:03 CET 2013
+Stopping Run 2267
+Thu Dec  5 13:29:15 CET 2013
+Starting Run 2268
+Thu Dec  5 13:30:49 CET 2013
+Temperature is : 33.547487 C, Bias Voltage is -50.000000 V, Current is -644.915500 nA
+Thu Dec  5 13:32:15 CET 2013
+Temperature is : 33.515711 C, Bias Voltage is -50.000000 V, Current is -650.908100 nA
+Thu Dec  5 13:33:41 CET 2013
+Temperature is : 33.775936 C, Bias Voltage is -50.000000 V, Current is -649.750300 nA
+Thu Dec  5 13:35:07 CET 2013
+Temperature is : 33.727092 C, Bias Voltage is -50.000000 V, Current is -649.496200 nA
+Thu Dec  5 13:36:18 CET 2013
+Stopping Run 2268
+Thu Dec  5 13:36:31 CET 2013
+Starting Run 2269
+Thu Dec  5 13:38:04 CET 2013
+Temperature is : 33.323089 C, Bias Voltage is -50.000000 V, Current is -637.844500 nA
+Thu Dec  5 13:39:29 CET 2013
+Temperature is : 33.631037 C, Bias Voltage is -50.000000 V, Current is -644.896500 nA
+Thu Dec  5 13:40:55 CET 2013
+Temperature is : 33.674375 C, Bias Voltage is -50.000000 V, Current is -645.861200 nA
+Thu Dec  5 13:42:20 CET 2013
+Temperature is : 33.616014 C, Bias Voltage is -50.000000 V, Current is -646.525500 nA
+Thu Dec  5 13:43:52 CET 2013
+Stopping Run 2269
+Thu Dec  5 13:44:04 CET 2013
+Starting Run 2270
+Thu Dec  5 13:45:38 CET 2013
+Temperature is : 33.145450 C, Bias Voltage is -50.000000 V, Current is -638.990200 nA
+Thu Dec  5 13:47:02 CET 2013
+Temperature is : 33.377576 C, Bias Voltage is -50.000000 V, Current is -640.803600 nA
+Thu Dec  5 13:48:28 CET 2013
+Temperature is : 33.409254 C, Bias Voltage is -50.000000 V, Current is -643.008300 nA
+Thu Dec  5 13:49:53 CET 2013
+Temperature is : 33.025739 C, Bias Voltage is -50.000000 V, Current is -628.973100 nA
+Thu Dec  5 13:51:09 CET 2013
+Stopping Run 2270
+Thu Dec  5 13:51:20 CET 2013
+Starting Run 2271
+Thu Dec  5 13:52:55 CET 2013
+Temperature is : 33.449760 C, Bias Voltage is -50.000000 V, Current is -635.708500 nA
+Thu Dec  5 13:54:21 CET 2013
+Temperature is : 33.462010 C, Bias Voltage is -50.000000 V, Current is -633.019100 nA
+Thu Dec  5 13:55:47 CET 2013
+Temperature is : 33.434265 C, Bias Voltage is -50.000000 V, Current is -634.412000 nA
+Thu Dec  5 13:57:12 CET 2013
+Temperature is : 33.240680 C, Bias Voltage is -50.000000 V, Current is -629.001500 nA
+Thu Dec  5 13:58:08 CET 2013
+Stopping Run 2271
+Thu Dec  5 13:58:19 CET 2013
+Starting Run 2272
+Thu Dec  5 13:59:54 CET 2013
+Temperature is : 32.954047 C, Bias Voltage is -50.000000 V, Current is -626.687200 nA
+Thu Dec  5 14:01:20 CET 2013
+Temperature is : 33.268543 C, Bias Voltage is -50.000000 V, Current is -623.064500 nA
+Thu Dec  5 14:02:45 CET 2013
+Temperature is : 32.856025 C, Bias Voltage is -50.000000 V, Current is -619.801700 nA
+Thu Dec  5 14:04:11 CET 2013
+Temperature is : 32.937628 C, Bias Voltage is -50.000000 V, Current is -611.683000 nA
+Thu Dec  5 14:05:13 CET 2013
+Stopping Run 2272
+Thu Dec  5 14:05:26 CET 2013
+Starting Run 2273
+Thu Dec  5 14:07:10 CET 2013
+Temperature is : 33.261916 C, Bias Voltage is -50.000000 V, Current is -668.608900 nA
+Thu Dec  5 14:08:36 CET 2013
+Temperature is : 33.275543 C, Bias Voltage is -50.000000 V, Current is -625.521400 nA
+Thu Dec  5 14:10:01 CET 2013
+Temperature is : 33.266832 C, Bias Voltage is -50.000000 V, Current is -631.510900 nA
+Thu Dec  5 14:11:27 CET 2013
+Temperature is : 33.042080 C, Bias Voltage is -50.000000 V, Current is -629.172100 nA
+Thu Dec  5 14:12:18 CET 2013
+Stopping Run 2273
+Thu Dec  5 14:12:29 CET 2013
+Starting Run 2274
+Thu Dec  5 14:14:18 CET 2013
+Temperature is : 33.400582 C, Bias Voltage is -50.000000 V, Current is -676.298400 nA
+Thu Dec  5 14:15:43 CET 2013
+Temperature is : 33.047330 C, Bias Voltage is -50.000000 V, Current is -610.610500 nA
+Thu Dec  5 14:17:09 CET 2013
+Temperature is : 32.839055 C, Bias Voltage is -50.000000 V, Current is -613.465400 nA
+Thu Dec  5 14:18:34 CET 2013
+Temperature is : 33.086420 C, Bias Voltage is -50.000000 V, Current is -616.284400 nA
+Thu Dec  5 14:19:22 CET 2013
+Stopping Run 2274
+Thu Dec  5 14:19:34 CET 2013
+Starting Run 2275
+Thu Dec  5 14:21:21 CET 2013
+Temperature is : 33.149225 C, Bias Voltage is -50.000000 V, Current is -621.408700 nA
+Thu Dec  5 14:22:47 CET 2013
+Temperature is : 32.864913 C, Bias Voltage is -50.000000 V, Current is -608.117500 nA
+Thu Dec  5 14:24:13 CET 2013
+Temperature is : 32.805254 C, Bias Voltage is -50.000000 V, Current is -599.265400 nA
+Thu Dec  5 14:25:39 CET 2013
+Temperature is : 32.863399 C, Bias Voltage is -50.000000 V, Current is -604.843300 nA
+Thu Dec  5 14:26:24 CET 2013
+Stopping Run 2275
+Thu Dec  5 14:26:35 CET 2013
+Starting Run 2276
+Thu Dec  5 14:28:22 CET 2013
+Temperature is : 33.434816 C, Bias Voltage is -50.000000 V, Current is -686.098100 nA
+Thu Dec  5 14:29:48 CET 2013
+Temperature is : 33.474811 C, Bias Voltage is -50.000000 V, Current is -623.230700 nA
+Thu Dec  5 14:31:13 CET 2013
+Temperature is : 33.199328 C, Bias Voltage is -50.000000 V, Current is -622.990400 nA
+Thu Dec  5 14:32:39 CET 2013
+Temperature is : 33.381174 C, Bias Voltage is -50.000000 V, Current is -623.481300 nA
+Thu Dec  5 14:33:27 CET 2013
+Stopping Run 2276
+Thu Dec  5 14:33:38 CET 2013
+Starting Run 2277
+Thu Dec  5 14:35:12 CET 2013
+Temperature is : 33.192268 C, Bias Voltage is -50.000000 V, Current is -619.804300 nA
+Thu Dec  5 14:36:50 CET 2013
+Temperature is : 33.491387 C, Bias Voltage is -50.000000 V, Current is -626.248300 nA
+Thu Dec  5 14:38:16 CET 2013
+Temperature is : 33.307260 C, Bias Voltage is -50.000000 V, Current is -624.995900 nA
+Thu Dec  5 14:39:41 CET 2013
+Temperature is : 33.482008 C, Bias Voltage is -50.000000 V, Current is -633.321700 nA
+Thu Dec  5 14:40:27 CET 2013
+Stopping Run 2277
+Thu Dec  5 14:40:38 CET 2013
+Starting Run 2278
+Thu Dec  5 14:42:12 CET 2013
+Temperature is : 33.261837 C, Bias Voltage is -50.000000 V, Current is -629.208400 nA
+Thu Dec  5 14:43:48 CET 2013
+Temperature is : 33.419931 C, Bias Voltage is -50.000000 V, Current is -643.410200 nA
+Thu Dec  5 14:45:14 CET 2013
+Temperature is : 33.339960 C, Bias Voltage is -50.000000 V, Current is -626.639900 nA
+Thu Dec  5 14:45:36 CET 2013
+Stopping Run 2278
+Thu Dec  5 14:45:51 CET 2013
+Starting Run 2279
+Thu Dec  5 14:47:25 CET 2013
+Temperature is : 33.032012 C, Bias Voltage is -50.000000 V, Current is -651.811600 nA
+Thu Dec  5 14:48:50 CET 2013
+Temperature is : 32.997621 C, Bias Voltage is -50.000000 V, Current is -609.274500 nA
+Thu Dec  5 14:50:29 CET 2013
+Temperature is : 33.195336 C, Bias Voltage is -50.000000 V, Current is -664.825600 nA
+Thu Dec  5 14:51:54 CET 2013
+Temperature is : 33.427599 C, Bias Voltage is -50.000000 V, Current is -633.978400 nA
+Thu Dec  5 14:53:19 CET 2013
+Temperature is : 33.253382 C, Bias Voltage is -50.000000 V, Current is -623.786600 nA
+Thu Dec  5 14:53:32 CET 2013
+Stopping Run 2279
+Thu Dec  5 14:53:44 CET 2013
+Starting Run 2280
+Thu Dec  5 14:55:18 CET 2013
+Temperature is : 33.371775 C, Bias Voltage is -50.000000 V, Current is -633.134200 nA
+Thu Dec  5 14:56:47 CET 2013
+Temperature is : 33.219266 C, Bias Voltage is -50.000000 V, Current is -624.296500 nA
+Thu Dec  5 14:58:25 CET 2013
+Temperature is : 33.405203 C, Bias Voltage is -50.000000 V, Current is -637.944400 nA
+Thu Dec  5 14:59:51 CET 2013
+Temperature is : 33.224123 C, Bias Voltage is -50.000000 V, Current is -632.768800 nA
+Thu Dec  5 15:01:16 CET 2013
+Temperature is : 33.202572 C, Bias Voltage is -50.000000 V, Current is -625.558900 nA
+Thu Dec  5 15:01:33 CET 2013
+Stopping Run 2280
+Thu Dec  5 15:01:45 CET 2013
+Starting Run 2281
+Thu Dec  5 15:03:19 CET 2013
+Temperature is : 33.186291 C, Bias Voltage is -50.000000 V, Current is -624.399000 nA
+Thu Dec  5 15:04:45 CET 2013
+Temperature is : 33.150838 C, Bias Voltage is -50.000000 V, Current is -597.645400 nA
+Thu Dec  5 15:06:25 CET 2013
+Temperature is : 33.360095 C, Bias Voltage is -50.000000 V, Current is -635.923100 nA
+Thu Dec  5 15:07:50 CET 2013
+Temperature is : 33.502301 C, Bias Voltage is -50.000000 V, Current is -635.964900 nA
+Thu Dec  5 15:09:16 CET 2013
+Temperature is : 33.128638 C, Bias Voltage is -50.000000 V, Current is -628.177200 nA
+Thu Dec  5 15:09:43 CET 2013
+Stopping Run 2281
+Thu Dec  5 15:09:54 CET 2013
+Starting Run 2282
+Thu Dec  5 15:11:29 CET 2013
+Temperature is : 33.322125 C, Bias Voltage is -50.000000 V, Current is -620.253400 nA
+Thu Dec  5 15:13:07 CET 2013
+Temperature is : 33.541391 C, Bias Voltage is -50.000000 V, Current is -660.669700 nA
+Thu Dec  5 15:14:32 CET 2013
+Temperature is : 33.139826 C, Bias Voltage is -50.000000 V, Current is -626.516700 nA
+Thu Dec  5 15:15:57 CET 2013
+Temperature is : 33.265790 C, Bias Voltage is -50.000000 V, Current is -621.222000 nA
+Thu Dec  5 15:17:23 CET 2013
+Temperature is : 33.383200 C, Bias Voltage is -50.000000 V, Current is -621.665700 nA
+Thu Dec  5 15:17:38 CET 2013
+Stopping Run 2282
+Thu Dec  5 15:17:50 CET 2013
+Starting Run 2283
+Thu Dec  5 15:19:24 CET 2013
+Temperature is : 32.991840 C, Bias Voltage is -50.000000 V, Current is -613.987400 nA
+Thu Dec  5 15:21:00 CET 2013
+Temperature is : 33.407956 C, Bias Voltage is -50.000000 V, Current is -637.428300 nA
+Thu Dec  5 15:22:25 CET 2013
+Temperature is : 33.232539 C, Bias Voltage is -50.000000 V, Current is -630.295100 nA
+Thu Dec  5 15:23:51 CET 2013
+Temperature is : 32.923745 C, Bias Voltage is -50.000000 V, Current is -623.880200 nA
+Thu Dec  5 15:25:16 CET 2013
+Temperature is : 33.221115 C, Bias Voltage is -50.000000 V, Current is -626.644700 nA
+Thu Dec  5 15:25:30 CET 2013
+Stopping Run 2283
+Thu Dec  5 15:25:43 CET 2013
+Starting Run 2284
+Thu Dec  5 15:27:15 CET 2013
+Temperature is : 33.242331 C, Bias Voltage is -50.000000 V, Current is -617.117000 nA
+Thu Dec  5 15:28:51 CET 2013
+Temperature is : 33.602741 C, Bias Voltage is -50.000000 V, Current is -643.495800 nA
+Thu Dec  5 15:30:16 CET 2013
+Temperature is : 33.507826 C, Bias Voltage is -50.000000 V, Current is -631.422400 nA
+Thu Dec  5 15:31:41 CET 2013
+Temperature is : 33.349143 C, Bias Voltage is -50.000000 V, Current is -632.845900 nA
+Thu Dec  5 15:33:07 CET 2013
+Temperature is : 33.219974 C, Bias Voltage is -50.000000 V, Current is -621.266100 nA
+Thu Dec  5 15:33:21 CET 2013
+Stopping Run 2284
+Thu Dec  5 15:33:32 CET 2013
+Starting Run 2285
+Thu Dec  5 15:35:06 CET 2013
+Temperature is : 33.510599 C, Bias Voltage is -50.000000 V, Current is -643.140700 nA
+Thu Dec  5 15:36:45 CET 2013
+Temperature is : 33.546838 C, Bias Voltage is -50.000000 V, Current is -645.474400 nA
+Thu Dec  5 15:38:11 CET 2013
+Temperature is : 33.232834 C, Bias Voltage is -50.000000 V, Current is -632.899900 nA
+Thu Dec  5 15:39:37 CET 2013
+Temperature is : 33.179468 C, Bias Voltage is -50.000000 V, Current is -631.164500 nA
+Thu Dec  5 15:41:02 CET 2013
+Temperature is : 33.407130 C, Bias Voltage is -50.000000 V, Current is -628.528100 nA
+Thu Dec  5 15:41:16 CET 2013
+Stopping Run 2285
+Thu Dec  5 15:41:28 CET 2013
+Starting Run 2286
+Thu Dec  5 15:43:12 CET 2013
+Temperature is : 33.466887 C, Bias Voltage is -50.000000 V, Current is -643.282200 nA
+Thu Dec  5 15:44:37 CET 2013
+Temperature is : 33.579381 C, Bias Voltage is -50.000000 V, Current is -635.525700 nA
+Thu Dec  5 15:46:02 CET 2013
+Temperature is : 33.520981 C, Bias Voltage is -50.000000 V, Current is -625.208300 nA
+Thu Dec  5 15:47:28 CET 2013
+Temperature is : 33.372267 C, Bias Voltage is -50.000000 V, Current is -627.203900 nA
+Thu Dec  5 15:48:53 CET 2013
+Temperature is : 33.400779 C, Bias Voltage is -50.000000 V, Current is -632.548100 nA
+Thu Dec  5 15:49:06 CET 2013
+Stopping Run 2286
+Thu Dec  5 15:49:17 CET 2013
+Starting Run 2287
+Thu Dec  5 15:51:03 CET 2013
+Temperature is : 33.472078 C, Bias Voltage is -50.000000 V, Current is -626.621200 nA
+Thu Dec  5 15:52:28 CET 2013
+Temperature is : 33.377950 C, Bias Voltage is -50.000000 V, Current is -617.784200 nA
+Thu Dec  5 15:53:54 CET 2013
+Temperature is : 33.238517 C, Bias Voltage is -50.000000 V, Current is -615.556600 nA
+Thu Dec  5 15:55:19 CET 2013
+Temperature is : 33.302658 C, Bias Voltage is -50.000000 V, Current is -623.823400 nA
+Thu Dec  5 15:56:44 CET 2013
+Temperature is : 33.063434 C, Bias Voltage is -50.000000 V, Current is -617.461000 nA
+Thu Dec  5 15:56:59 CET 2013
+Stopping Run 2287
+Thu Dec  5 15:57:10 CET 2013
+Starting Run 2288
+Thu Dec  5 15:57:23 CET 2013
+Stopping Run 2288
+Thu Dec  5 15:57:42 CET 2013
+Starting Run 2289
+Thu Dec  5 15:59:16 CET 2013
+Temperature is : 33.156245 C, Bias Voltage is -50.000000 V, Current is -599.256200 nA
+Thu Dec  5 16:00:41 CET 2013
+Temperature is : 33.183813 C, Bias Voltage is -50.000000 V, Current is -605.688700 nA
+Thu Dec  5 16:02:07 CET 2013
+Temperature is : 33.213642 C, Bias Voltage is -50.000000 V, Current is -612.802000 nA
+Thu Dec  5 16:03:31 CET 2013
+Temperature is : 33.179527 C, Bias Voltage is -50.000000 V, Current is -609.034500 nA
+Thu Dec  5 16:04:57 CET 2013
+Temperature is : 33.162301 C, Bias Voltage is -50.000000 V, Current is -615.389900 nA
+Thu Dec  5 16:06:35 CET 2013
+Temperature is : 33.251081 C, Bias Voltage is -50.000000 V, Current is -619.875300 nA
+Thu Dec  5 16:06:59 CET 2013
+Stopping Run 2289
+Thu Dec  5 16:07:10 CET 2013
+Starting Run 2290
+Thu Dec  5 16:08:44 CET 2013
+Temperature is : 33.161888 C, Bias Voltage is -50.000000 V, Current is -642.495900 nA
+Thu Dec  5 16:10:10 CET 2013
+Temperature is : 33.097727 C, Bias Voltage is -50.000000 V, Current is -613.556700 nA
+Thu Dec  5 16:11:35 CET 2013
+Temperature is : 32.963269 C, Bias Voltage is -50.000000 V, Current is -601.883600 nA
+Thu Dec  5 16:13:23 CET 2013
+Temperature is : 33.423569 C, Bias Voltage is -50.000000 V, Current is -630.958000 nA
+Thu Dec  5 16:14:48 CET 2013
+Temperature is : 33.184383 C, Bias Voltage is -50.000000 V, Current is -612.400200 nA
+Thu Dec  5 16:16:14 CET 2013
+Temperature is : 33.081229 C, Bias Voltage is -50.000000 V, Current is -605.327500 nA
+Thu Dec  5 16:16:39 CET 2013
+Stopping Run 2290
+Thu Dec  5 16:16:50 CET 2013
+Starting Run 2291
+Thu Dec  5 16:18:24 CET 2013
+Temperature is : 32.876475 C, Bias Voltage is -50.000000 V, Current is -596.674200 nA
+Thu Dec  5 16:19:50 CET 2013
+Temperature is : 33.074721 C, Bias Voltage is -50.000000 V, Current is -598.003100 nA
+Thu Dec  5 16:21:33 CET 2013
+Temperature is : 33.104747 C, Bias Voltage is -50.000000 V, Current is -608.241100 nA
+Thu Dec  5 16:22:58 CET 2013
+Temperature is : 32.980474 C, Bias Voltage is -50.000000 V, Current is -598.743300 nA
+Thu Dec  5 16:24:25 CET 2013
+Temperature is : 32.787203 C, Bias Voltage is -50.000000 V, Current is -564.655800 nA
+Thu Dec  5 16:25:50 CET 2013
+Temperature is : 32.597766 C, Bias Voltage is -50.000000 V, Current is -586.255400 nA
+Thu Dec  5 16:26:10 CET 2013
+Stopping Run 2291
+Thu Dec  5 16:26:23 CET 2013
+Starting Run 2292
+Thu Dec  5 16:28:10 CET 2013
+Temperature is : 32.877340 C, Bias Voltage is -50.000000 V, Current is -641.863900 nA
+Thu Dec  5 16:29:37 CET 2013
+Temperature is : 32.918476 C, Bias Voltage is -50.000000 V, Current is -595.874000 nA
+Thu Dec  5 16:31:02 CET 2013
+Temperature is : 32.881430 C, Bias Voltage is -50.000000 V, Current is -589.612100 nA
+Thu Dec  5 16:32:28 CET 2013
+Temperature is : 32.993511 C, Bias Voltage is -50.000000 V, Current is -594.174700 nA
+Thu Dec  5 16:33:53 CET 2013
+Temperature is : 32.997817 C, Bias Voltage is -50.000000 V, Current is -602.485700 nA
+Thu Dec  5 16:35:19 CET 2013
+Temperature is : 33.083176 C, Bias Voltage is -50.000000 V, Current is -604.235900 nA
+Thu Dec  5 16:36:06 CET 2013
+Stopping Run 2292
+Thu Dec  5 16:36:17 CET 2013
+Starting Run 2293
+Thu Dec  5 16:37:52 CET 2013
+Temperature is : 33.137860 C, Bias Voltage is -50.000000 V, Current is -599.392800 nA
+Thu Dec  5 16:39:01 CET 2013
+Stopping Run 2293
+Thu Dec  5 16:40:20 CET 2013
+Configuring with ni_timepix
+Thu Dec  5 16:40:20 CET 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B06-W0125/Configs/BPC_B06-W0125_50V_IKrum1_96MHz_5-12-13_TOT
+Thu Dec  5 16:40:20 CET 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B06-W0125/Configs/BPC_B06-W0125_50V_IKrum1_96MHz_5-12-13_TOT_ascii
+Thu Dec  5 16:40:20 CET 2013
+Mode is TOT
+Thu Dec  5 16:40:20 CET 2013
+Bias is -5.000000
+Thu Dec  5 16:40:35 CET 2013
+Starting Run 2294
+Thu Dec  5 16:42:09 CET 2013
+Temperature is : 32.359250 C, Bias Voltage is -5.000000 V, Current is -336.538400 nA
+Thu Dec  5 16:42:46 CET 2013
+Stopping Run 2294
+Thu Dec  5 16:43:01 CET 2013
+Starting Run 2295
+Thu Dec  5 16:43:14 CET 2013
+Stopping Run 2295
+Thu Dec  5 16:43:49 CET 2013
+Configuring with ni_timepix
+Thu Dec  5 16:43:49 CET 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B06-W0125/Configs/BPC_B06-W0125_50V_IKrum1_96MHz_5-12-13_TOT
+Thu Dec  5 16:43:49 CET 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B06-W0125/Configs/BPC_B06-W0125_50V_IKrum1_96MHz_5-12-13_TOT_ascii
+Thu Dec  5 16:43:49 CET 2013
+Mode is TOT
+Thu Dec  5 16:43:49 CET 2013
+Bias is -5.000000
+Thu Dec  5 16:43:58 CET 2013
+Starting Run 2296
+Thu Dec  5 16:45:31 CET 2013
+Temperature is : 32.514944 C, Bias Voltage is -5.000000 V, Current is -369.953500 nA
+Thu Dec  5 16:46:57 CET 2013
+Temperature is : 32.913147 C, Bias Voltage is -5.000000 V, Current is -357.257000 nA
+Thu Dec  5 16:48:22 CET 2013
+Temperature is : 33.042689 C, Bias Voltage is -5.000000 V, Current is -365.868400 nA
+Thu Dec  5 16:49:48 CET 2013
+Temperature is : 33.359151 C, Bias Voltage is -5.000000 V, Current is -370.140400 nA
+Thu Dec  5 16:51:13 CET 2013
+Temperature is : 33.391616 C, Bias Voltage is -5.000000 V, Current is -379.478000 nA
+Thu Dec  5 16:52:59 CET 2013
+Temperature is : 33.393366 C, Bias Voltage is -5.000000 V, Current is -374.918600 nA
+Thu Dec  5 16:54:08 CET 2013
+Stopping Run 2296
+Thu Dec  5 16:54:22 CET 2013
+Starting Run 2297
+Thu Dec  5 16:55:53 CET 2013
+Temperature is : 33.262270 C, Bias Voltage is -10.000000 V, Current is -397.350700 nA
+Thu Dec  5 16:57:19 CET 2013
+Temperature is : 33.365798 C, Bias Voltage is -10.000000 V, Current is -397.444100 nA
+Thu Dec  5 16:58:44 CET 2013
+Temperature is : 33.256646 C, Bias Voltage is -10.000000 V, Current is -394.295600 nA
+Thu Dec  5 17:00:29 CET 2013
+Temperature is : 33.550220 C, Bias Voltage is -10.000000 V, Current is -403.131900 nA
+Thu Dec  5 17:01:55 CET 2013
+Temperature is : 33.258475 C, Bias Voltage is -10.000000 V, Current is -391.184600 nA
+Thu Dec  5 17:03:20 CET 2013
+Temperature is : 33.130761 C, Bias Voltage is -10.000000 V, Current is -388.407800 nA
+Thu Dec  5 17:04:09 CET 2013
+Stopping Run 2297
+Thu Dec  5 17:04:22 CET 2013
+Starting Run 2298
+Thu Dec  5 17:05:55 CET 2013
+Temperature is : 33.168436 C, Bias Voltage is -15.000000 V, Current is -405.631000 nA
+Thu Dec  5 17:07:21 CET 2013
+Temperature is : 32.952061 C, Bias Voltage is -15.000000 V, Current is -410.744500 nA
+Thu Dec  5 17:09:03 CET 2013
+Temperature is : 33.299434 C, Bias Voltage is -15.000000 V, Current is -413.443200 nA
+Thu Dec  5 17:10:29 CET 2013
+Temperature is : 33.226306 C, Bias Voltage is -15.000000 V, Current is -415.322000 nA
+Thu Dec  5 17:11:55 CET 2013
+Temperature is : 33.323934 C, Bias Voltage is -15.000000 V, Current is -406.845100 nA
+Thu Dec  5 17:13:21 CET 2013
+Temperature is : 33.249312 C, Bias Voltage is -15.000000 V, Current is -405.093100 nA
+Thu Dec  5 17:14:11 CET 2013
+Stopping Run 2298
+Thu Dec  5 17:14:22 CET 2013
+Starting Run 2299
+Thu Dec  5 17:16:20 CET 2013
+Temperature is : 33.541332 C, Bias Voltage is -20.000000 V, Current is -444.085400 nA
+Thu Dec  5 17:17:47 CET 2013
+Temperature is : 33.393346 C, Bias Voltage is -20.000000 V, Current is -429.043200 nA
+Thu Dec  5 17:19:12 CET 2013
+Temperature is : 33.302934 C, Bias Voltage is -20.000000 V, Current is -426.270100 nA
+Thu Dec  5 17:20:38 CET 2013
+Temperature is : 33.409706 C, Bias Voltage is -20.000000 V, Current is -424.308700 nA
+Thu Dec  5 17:21:48 CET 2013
+Corrupted Frame at event 72766, shutter 4851
+Thu Dec  5 17:21:49 CET 2013
+Corrupted Frame at event 72781, shutter 4852
+Thu Dec  5 17:22:06 CET 2013
+Temperature is : 33.084454 C, Bias Voltage is -20.000000 V, Current is -413.653800 nA
+Thu Dec  5 17:23:51 CET 2013
+Temperature is : 33.578791 C, Bias Voltage is -20.000000 V, Current is -443.006400 nA
+Thu Dec  5 17:24:27 CET 2013
+Stopping Run 2299
+Thu Dec  5 17:24:39 CET 2013
+Starting Run 2300
+Thu Dec  5 17:26:12 CET 2013
+Temperature is : 33.415290 C, Bias Voltage is -25.000000 V, Current is -437.511100 nA
+Thu Dec  5 17:27:37 CET 2013
+Temperature is : 33.231634 C, Bias Voltage is -25.000000 V, Current is -433.288500 nA
+Thu Dec  5 17:29:02 CET 2013
+Temperature is : 33.203752 C, Bias Voltage is -25.000000 V, Current is -429.791300 nA
+Thu Dec  5 17:30:27 CET 2013
+Temperature is : 33.285276 C, Bias Voltage is -25.000000 V, Current is -425.511700 nA
+Thu Dec  5 17:32:16 CET 2013
+Temperature is : 33.595308 C, Bias Voltage is -25.000000 V, Current is -445.592500 nA
+Thu Dec  5 17:33:42 CET 2013
+Temperature is : 33.389217 C, Bias Voltage is -25.000000 V, Current is -436.158400 nA
+Thu Dec  5 17:34:54 CET 2013
+Stopping Run 2300
+Thu Dec  5 17:35:06 CET 2013
+Starting Run 2301
+Thu Dec  5 17:36:40 CET 2013
+Temperature is : 33.249135 C, Bias Voltage is -30.000000 V, Current is -444.134000 nA
+Thu Dec  5 17:38:05 CET 2013
+Temperature is : 33.387958 C, Bias Voltage is -30.000000 V, Current is -442.481400 nA
+Thu Dec  5 17:40:29 CET 2013
+Temperature is : 33.786377 C, Bias Voltage is -30.000000 V, Current is -473.624700 nA
+Thu Dec  5 17:41:54 CET 2013
+Temperature is : 33.519309 C, Bias Voltage is -30.000000 V, Current is -451.287000 nA
+Thu Dec  5 17:43:20 CET 2013
+Temperature is : 33.308440 C, Bias Voltage is -30.000000 V, Current is -437.650100 nA
+Thu Dec  5 17:44:45 CET 2013
+Temperature is : 33.253303 C, Bias Voltage is -30.000000 V, Current is -448.462200 nA
+Thu Dec  5 17:46:11 CET 2013
+Temperature is : 33.338426 C, Bias Voltage is -30.000000 V, Current is -444.612600 nA
+Thu Dec  5 17:46:58 CET 2013
+Stopping Run 2301
+Thu Dec  5 17:47:09 CET 2013
+Starting Run 2302
+Thu Dec  5 17:48:59 CET 2013
+Temperature is : 33.414622 C, Bias Voltage is -35.000000 V, Current is -488.576200 nA
+Thu Dec  5 17:50:25 CET 2013
+Temperature is : 33.477092 C, Bias Voltage is -35.000000 V, Current is -453.630900 nA
+Thu Dec  5 17:51:50 CET 2013
+Temperature is : 33.436153 C, Bias Voltage is -35.000000 V, Current is -447.992800 nA
+Thu Dec  5 17:53:15 CET 2013
+Temperature is : 33.448954 C, Bias Voltage is -35.000000 V, Current is -457.917300 nA
+Thu Dec  5 17:54:41 CET 2013
+Temperature is : 33.446299 C, Bias Voltage is -35.000000 V, Current is -444.746900 nA
+Thu Dec  5 17:56:41 CET 2013
+Temperature is : 33.847471 C, Bias Voltage is -35.000000 V, Current is -481.337200 nA
+Thu Dec  5 17:58:07 CET 2013
+Temperature is : 33.560032 C, Bias Voltage is -35.000000 V, Current is -468.886800 nA
+Thu Dec  5 17:58:45 CET 2013
+Stopping Run 2302
+Thu Dec  5 17:58:56 CET 2013
+Starting Run 2303
+Thu Dec  5 18:00:30 CET 2013
+Temperature is : 33.464626 C, Bias Voltage is -40.000000 V, Current is -484.012400 nA
+Thu Dec  5 18:01:55 CET 2013
+Temperature is : 33.500354 C, Bias Voltage is -40.000000 V, Current is -481.304700 nA
+Thu Dec  5 18:03:20 CET 2013
+Temperature is : 33.585831 C, Bias Voltage is -40.000000 V, Current is -482.667400 nA
+Thu Dec  5 18:05:14 CET 2013
+Temperature is : 33.693507 C, Bias Voltage is -40.000000 V, Current is -483.394200 nA
+Thu Dec  5 18:06:39 CET 2013
+Temperature is : 33.654377 C, Bias Voltage is -40.000000 V, Current is -490.094700 nA
+Thu Dec  5 18:08:05 CET 2013
+Temperature is : 33.465117 C, Bias Voltage is -40.000000 V, Current is -479.852400 nA
+Thu Dec  5 18:09:30 CET 2013
+Temperature is : 33.415644 C, Bias Voltage is -40.000000 V, Current is -488.699000 nA
+Thu Dec  5 18:10:18 CET 2013
+Stopping Run 2303
+Thu Dec  5 18:10:29 CET 2013
+Starting Run 2304
+Thu Dec  5 18:12:37 CET 2013
+Temperature is : 33.913029 C, Bias Voltage is -45.000000 V, Current is -556.316600 nA
+Thu Dec  5 18:14:03 CET 2013
+Temperature is : 33.524206 C, Bias Voltage is -45.000000 V, Current is -518.835900 nA
+Thu Dec  5 18:15:28 CET 2013
+Temperature is : 33.546229 C, Bias Voltage is -45.000000 V, Current is -510.523800 nA
+Thu Dec  5 18:16:53 CET 2013
+Temperature is : 33.449898 C, Bias Voltage is -45.000000 V, Current is -510.800600 nA
+Thu Dec  5 18:18:19 CET 2013
+Temperature is : 33.502143 C, Bias Voltage is -45.000000 V, Current is -515.888600 nA
+Thu Dec  5 18:19:44 CET 2013
+Temperature is : 33.356674 C, Bias Voltage is -45.000000 V, Current is -511.330700 nA
+Thu Dec  5 18:22:08 CET 2013
+Temperature is : 33.875747 C, Bias Voltage is -45.000000 V, Current is -544.720100 nA
+Thu Dec  5 18:23:16 CET 2013
+Stopping Run 2304
+Thu Dec  5 18:23:27 CET 2013
+Starting Run 2305
+Thu Dec  5 18:25:01 CET 2013
+Temperature is : 33.598867 C, Bias Voltage is -50.000000 V, Current is -625.826200 nA
+Thu Dec  5 18:26:26 CET 2013
+Temperature is : 33.488556 C, Bias Voltage is -50.000000 V, Current is -611.864900 nA
+Thu Dec  5 18:27:51 CET 2013
+Temperature is : 33.546111 C, Bias Voltage is -50.000000 V, Current is -610.151100 nA
+Thu Dec  5 18:30:13 CET 2013
+Temperature is : 34.012014 C, Bias Voltage is -50.000000 V, Current is -659.396100 nA
+Thu Dec  5 18:31:38 CET 2013
+Temperature is : 33.691207 C, Bias Voltage is -50.000000 V, Current is -628.449800 nA
+Thu Dec  5 18:33:04 CET 2013
+Temperature is : 33.525031 C, Bias Voltage is -50.000000 V, Current is -626.165600 nA
+Thu Dec  5 18:34:29 CET 2013
+Temperature is : 33.456977 C, Bias Voltage is -50.000000 V, Current is -614.971400 nA
+Thu Dec  5 18:35:52 CET 2013
+Stopping Run 2305
+Thu Dec  5 18:35:54 CET 2013
+Temperature is : 33.413914 C, Bias Voltage is -55.000000 V, Current is -613.640600 nA
+Thu Dec  5 18:36:04 CET 2013
+Starting Run 2306
+Thu Dec  5 18:38:24 CET 2013
+Temperature is : 34.003107 C, Bias Voltage is -55.000000 V, Current is -957.294200 nA
+Thu Dec  5 18:39:49 CET 2013
+Temperature is : 33.630230 C, Bias Voltage is -55.000000 V, Current is -868.297400 nA
+Thu Dec  5 18:41:14 CET 2013
+Temperature is : 33.473179 C, Bias Voltage is -55.000000 V, Current is -855.152500 nA
+Thu Dec  5 18:42:39 CET 2013
+Temperature is : 33.506823 C, Bias Voltage is -55.000000 V, Current is -878.178000 nA
+Thu Dec  5 18:44:05 CET 2013
+Temperature is : 33.513076 C, Bias Voltage is -55.000000 V, Current is -858.113200 nA
+Thu Dec  5 18:46:51 CET 2013
+Temperature is : 34.514964 C, Bias Voltage is -55.000000 V, Current is -993.461200 nA
+Thu Dec  5 18:48:17 CET 2013
+Temperature is : 33.795599 C, Bias Voltage is -55.000000 V, Current is -884.574800 nA
+Thu Dec  5 18:49:48 CET 2013
+Temperature is : 33.620261 C, Bias Voltage is -55.000000 V, Current is -883.956500 nA
+Thu Dec  5 18:50:02 CET 2013
+Stopping Run 2306
+Thu Dec  5 18:50:13 CET 2013
+Starting Run 2307
+Thu Dec  5 18:51:46 CET 2013
+Temperature is : 33.421366 C, Bias Voltage is -60.000000 V, Current is -1631.685000 nA
+Thu Dec  5 18:53:12 CET 2013
+Temperature is : 33.432063 C, Bias Voltage is -60.000000 V, Current is -1489.852000 nA
+Thu Dec  5 18:55:32 CET 2013
+Temperature is : 33.908467 C, Bias Voltage is -60.000000 V, Current is -1574.032000 nA
+Thu Dec  5 18:56:59 CET 2013
+Temperature is : 33.462679 C, Bias Voltage is -60.000000 V, Current is -1524.292000 nA
+Thu Dec  5 18:58:24 CET 2013
+Temperature is : 33.304566 C, Bias Voltage is -60.000000 V, Current is -1489.905000 nA
+Thu Dec  5 18:59:50 CET 2013
+Temperature is : 33.250865 C, Bias Voltage is -60.000000 V, Current is -1486.675000 nA
+Thu Dec  5 19:01:15 CET 2013
+Temperature is : 33.293790 C, Bias Voltage is -60.000000 V, Current is -1497.782000 nA
+Thu Dec  5 19:04:07 CET 2013
+Stopping Run 2307
+Thu Dec  5 19:04:18 CET 2013
+Starting Run 2308
+Thu Dec  5 19:05:54 CET 2013
+Temperature is : 33.515259 C, Bias Voltage is -65.000000 V, Current is -2633.976000 nA
+Thu Dec  5 19:07:20 CET 2013
+Temperature is : 33.107342 C, Bias Voltage is -65.000000 V, Current is -2631.964000 nA
+Thu Dec  5 19:08:44 CET 2013
+Temperature is : 33.057889 C, Bias Voltage is -65.000000 V, Current is -2644.065000 nA
+Thu Dec  5 19:11:21 CET 2013
+Temperature is : 32.919262 C, Bias Voltage is -65.000000 V, Current is -2689.495000 nA
+Thu Dec  5 19:12:46 CET 2013
+Temperature is : 32.935740 C, Bias Voltage is -65.000000 V, Current is -2643.259000 nA
+Thu Dec  5 19:14:11 CET 2013
+Temperature is : 32.943330 C, Bias Voltage is -65.000000 V, Current is -2654.613000 nA
+Thu Dec  5 19:15:38 CET 2013
+Temperature is : 32.765436 C, Bias Voltage is -65.000000 V, Current is -2616.002000 nA
+Thu Dec  5 19:16:59 CET 2013
+Stopping Run 2308
+Thu Dec  5 19:17:02 CET 2013
+Temperature is : 32.829460 C, Bias Voltage is -70.000000 V, Current is -2609.553000 nA
+Thu Dec  5 19:17:11 CET 2013
+Starting Run 2309
+Thu Dec  5 19:19:36 CET 2013
+Temperature is : 33.285315 C, Bias Voltage is -70.000000 V, Current is -4119.386000 nA
+Thu Dec  5 19:21:02 CET 2013
+Temperature is : 33.047703 C, Bias Voltage is -70.000000 V, Current is -4110.699000 nA
+Thu Dec  5 19:22:28 CET 2013
+Temperature is : 32.647495 C, Bias Voltage is -70.000000 V, Current is -4097.396000 nA
+Thu Dec  5 19:23:54 CET 2013
+Temperature is : 32.945827 C, Bias Voltage is -70.000000 V, Current is -4107.314000 nA
+Thu Dec  5 19:25:19 CET 2013
+Temperature is : 32.900425 C, Bias Voltage is -70.000000 V, Current is -4142.879000 nA
+Thu Dec  5 19:27:33 CET 2013
+Temperature is : 33.084906 C, Bias Voltage is -70.000000 V, Current is -4221.001000 nA
+Thu Dec  5 19:28:59 CET 2013
+Temperature is : 33.163245 C, Bias Voltage is -70.000000 V, Current is -4172.088000 nA
+Thu Dec  5 19:30:25 CET 2013
+Temperature is : 33.092496 C, Bias Voltage is -70.000000 V, Current is -4172.021000 nA
+Thu Dec  5 19:30:46 CET 2013
+Stopping Run 2309
+Thu Dec  5 19:30:57 CET 2013
+Starting Run 2310
+Thu Dec  5 19:32:32 CET 2013
+Temperature is : 32.513725 C, Bias Voltage is -50.000000 V, Current is -557.167400 nA
+Thu Dec  5 19:34:22 CET 2013
+Temperature is : 33.262290 C, Bias Voltage is -50.000000 V, Current is -598.812400 nA
+Thu Dec  5 19:36:45 CET 2013
+Temperature is : 33.722039 C, Bias Voltage is -50.000000 V, Current is -622.821100 nA
+Thu Dec  5 19:38:13 CET 2013
+Temperature is : 33.140927 C, Bias Voltage is -50.000000 V, Current is -595.202400 nA
+Thu Dec  5 19:39:38 CET 2013
+Temperature is : 33.077159 C, Bias Voltage is -50.000000 V, Current is -583.422300 nA
+Thu Dec  5 19:41:09 CET 2013
+Temperature is : 33.137840 C, Bias Voltage is -50.000000 V, Current is -581.841400 nA
+Thu Dec  5 19:42:35 CET 2013
+Temperature is : 33.106969 C, Bias Voltage is -50.000000 V, Current is -568.294900 nA
+Thu Dec  5 19:45:02 CET 2013
+Temperature is : 33.670757 C, Bias Voltage is -50.000000 V, Current is -618.478100 nA
+Thu Dec  5 19:45:34 CET 2013
+Stopping Run 2310
+Thu Dec  5 19:45:45 CET 2013
+Starting Run 2311
+Thu Dec  5 19:47:18 CET 2013
+Temperature is : 33.296956 C, Bias Voltage is -50.000000 V, Current is -626.632900 nA
+Thu Dec  5 19:48:44 CET 2013
+Temperature is : 33.202965 C, Bias Voltage is -50.000000 V, Current is -585.404900 nA
+Thu Dec  5 19:50:09 CET 2013
+Temperature is : 33.039917 C, Bias Voltage is -50.000000 V, Current is -578.261500 nA
+Thu Dec  5 19:52:42 CET 2013
+Temperature is : 34.095092 C, Bias Voltage is -50.000000 V, Current is -700.495500 nA
+Thu Dec  5 19:54:19 CET 2013
+Temperature is : 33.483090 C, Bias Voltage is -50.000000 V, Current is -601.570400 nA
+Thu Dec  5 19:55:44 CET 2013
+Temperature is : 33.194156 C, Bias Voltage is -50.000000 V, Current is -596.659600 nA
+Thu Dec  5 19:57:10 CET 2013
+Temperature is : 33.016655 C, Bias Voltage is -50.000000 V, Current is -592.549000 nA
+Thu Dec  5 19:58:17 CET 2013
+Stopping Run 2311
+Thu Dec  5 19:58:29 CET 2013
+Starting Run 2312
+Thu Dec  5 20:00:01 CET 2013
+Temperature is : 33.051557 C, Bias Voltage is -50.000000 V, Current is -619.906400 nA
+Thu Dec  5 20:02:33 CET 2013
+Temperature is : 33.362927 C, Bias Voltage is -50.000000 V, Current is -597.986700 nA
+Thu Dec  5 20:03:59 CET 2013
+Temperature is : 33.198934 C, Bias Voltage is -50.000000 V, Current is -588.477800 nA
+Thu Dec  5 20:05:24 CET 2013
+Temperature is : 32.950193 C, Bias Voltage is -50.000000 V, Current is -569.540400 nA
+Thu Dec  5 20:06:50 CET 2013
+Temperature is : 32.783998 C, Bias Voltage is -50.000000 V, Current is -559.936600 nA
+Thu Dec  5 20:08:15 CET 2013
+Temperature is : 32.835968 C, Bias Voltage is -50.000000 V, Current is -563.285100 nA
+Thu Dec  5 20:08:43 CET 2013
+Stopping Run 2312
+Thu Dec  5 20:09:51 CET 2013
+Configuring with ni_timepix
+Thu Dec  5 20:09:51 CET 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B06-W0125/Configs/BPC_B06-W0125_50V_IKrum1_96MHz_5-12-13_TOT
+Thu Dec  5 20:09:51 CET 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B06-W0125/Configs/BPC_B06-W0125_50V_IKrum1_96MHz_5-12-13_TOT_ascii
+Thu Dec  5 20:09:51 CET 2013
+Mode is TOT
+Thu Dec  5 20:09:51 CET 2013
+Bias is -50.000000
+###############################################
+Thu Dec  5 20:23:57 CET 2013
+Started Producer
+################ execution log ################
+###############################################
+Thu Dec  5 20:24:25 CET 2013
+Started Producer
+################ execution log ################
+###############################################
+Thu Dec  5 20:26:05 CET 2013
+Started Producer
+################ execution log ################
+Thu Dec  5 20:26:30 CET 2013
+Configuring with ni_timepix_autotrig
+Thu Dec  5 20:26:30 CET 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B06-W0125/Configs/BPC_B06-W0125_50V_IKrum1_96MHz_5-12-13_TOT
+Thu Dec  5 20:26:30 CET 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B06-W0125/Configs/BPC_B06-W0125_50V_IKrum1_96MHz_5-12-13_TOT_ascii
+Thu Dec  5 20:26:30 CET 2013
+Mode is TOT
+Thu Dec  5 20:26:30 CET 2013
+Bias is -5.000000
+Thu Dec  5 20:26:42 CET 2013
+Starting Run 2313
+Thu Dec  5 20:26:55 CET 2013
+Stopping Run 2313
+Thu Dec  5 20:27:07 CET 2013
+Starting Run 2314
+Thu Dec  5 20:27:07 CET 2013
+Stopping Run 2314
+Thu Dec  5 20:31:07 CET 2013
+Configuring with ni_timepix
+Thu Dec  5 20:31:07 CET 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B06-W0125/Configs/BPC_B06-W0125_50V_IKrum1_96MHz_5-12-13_TOT
+Thu Dec  5 20:31:07 CET 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B06-W0125/Configs/BPC_B06-W0125_50V_IKrum1_96MHz_5-12-13_TOT_ascii
+Thu Dec  5 20:31:07 CET 2013
+Mode is TOT
+Thu Dec  5 20:31:07 CET 2013
+Bias is -50.000000
+Thu Dec  5 20:33:19 CET 2013
+Producer Interupted
+###############################################
+###############################################
+Thu Dec  5 20:33:24 CET 2013
+Started Producer
+################ execution log ################
+Thu Dec  5 20:34:11 CET 2013
+Configuring with ni_timepix
+Thu Dec  5 20:34:11 CET 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B06-W0125/Configs/BPC_B06-W0125_50V_IKrum1_96MHz_5-12-13_TOT
+Thu Dec  5 20:34:11 CET 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B06-W0125/Configs/BPC_B06-W0125_50V_IKrum1_96MHz_5-12-13_TOT_ascii
+Thu Dec  5 20:34:11 CET 2013
+Mode is TOT
+Thu Dec  5 20:34:11 CET 2013
+Bias is -50.000000
+Thu Dec  5 20:34:23 CET 2013
+Starting Run 2315
+Thu Dec  5 20:34:37 CET 2013
+Stopping Run 2315
+###############################################
+Thu Dec  5 20:38:01 CET 2013
+Started Producer
+################ execution log ################
+Thu Dec  5 20:40:41 CET 2013
+Configuring with ni_timepix
+Thu Dec  5 20:40:41 CET 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B06-W0125/Configs/BPC_B06-W0125_50V_IKrum1_96MHz_5-12-13_TOT
+Thu Dec  5 20:40:41 CET 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/B06-W0125/Configs/BPC_B06-W0125_50V_IKrum1_96MHz_5-12-13_TOT_ascii
+Thu Dec  5 20:40:41 CET 2013
+Mode is TOT
+Thu Dec  5 20:40:41 CET 2013
+Bias is -50.000000
+Thu Dec  5 20:40:55 CET 2013
+Starting Run 2316
+Thu Dec  5 20:41:22 CET 2013
+Stopping Run 2316
+Thu Dec  5 20:41:35 CET 2013
+Starting Run 2317
+Thu Dec  5 20:43:06 CET 2013
+Temperature is : 30.866073 C, Bias Voltage is -50.000000 V, Current is -453.475600 nA
+Thu Dec  5 20:44:04 CET 2013
+Stopping Run 2317
+Thu Dec  5 20:44:25 CET 2013
+Starting Run 2318
+Thu Dec  5 20:46:26 CET 2013
+Temperature is : 32.519545 C, Bias Voltage is -50.000000 V, Current is -541.897600 nA
+Thu Dec  5 20:47:51 CET 2013
+Temperature is : 32.210083 C, Bias Voltage is -50.000000 V, Current is -540.886000 nA
+Thu Dec  5 20:49:17 CET 2013
+Temperature is : 32.179939 C, Bias Voltage is -50.000000 V, Current is -529.187700 nA
+Thu Dec  5 20:50:42 CET 2013
+Temperature is : 31.896197 C, Bias Voltage is -50.000000 V, Current is -526.103700 nA
+Thu Dec  5 20:52:07 CET 2013
+Temperature is : 32.065499 C, Bias Voltage is -50.000000 V, Current is -524.116000 nA
+Thu Dec  5 20:54:50 CET 2013
+Temperature is : 32.494101 C, Bias Voltage is -50.000000 V, Current is -563.225200 nA
+Thu Dec  5 20:55:57 CET 2013
+Stopping Run 2318
+Thu Dec  5 20:56:11 CET 2013
+Starting Run 2319
+Thu Dec  5 20:57:42 CET 2013
+Temperature is : 32.273104 C, Bias Voltage is -50.000000 V, Current is -543.643300 nA
+Thu Dec  5 20:59:09 CET 2013
+Temperature is : 32.037498 C, Bias Voltage is -50.000000 V, Current is -504.992600 nA
+Thu Dec  5 21:00:35 CET 2013
+Temperature is : 32.226030 C, Bias Voltage is -50.000000 V, Current is -531.198200 nA
+Thu Dec  5 21:02:55 CET 2013
+Temperature is : 32.449780 C, Bias Voltage is -50.000000 V, Current is -557.999000 nA
+Thu Dec  5 21:04:20 CET 2013
+Temperature is : 32.516557 C, Bias Voltage is -50.000000 V, Current is -546.163000 nA
+Thu Dec  5 21:05:47 CET 2013
+Temperature is : 32.050043 C, Bias Voltage is -50.000000 V, Current is -546.399600 nA
+Thu Dec  5 21:07:12 CET 2013
+Temperature is : 32.199387 C, Bias Voltage is -50.000000 V, Current is -539.925300 nA
+Thu Dec  5 21:08:05 CET 2013
+Stopping Run 2319
+Thu Dec  5 21:08:18 CET 2013
+Starting Run 2320
+Thu Dec  5 21:10:38 CET 2013
+Temperature is : 32.457979 C, Bias Voltage is -50.000000 V, Current is -556.208900 nA
+Thu Dec  5 21:12:04 CET 2013
+Temperature is : 32.507551 C, Bias Voltage is -50.000000 V, Current is -547.557900 nA
+Thu Dec  5 21:13:46 CET 2013
+Temperature is : 32.335929 C, Bias Voltage is -50.000000 V, Current is -552.498600 nA
+Thu Dec  5 21:15:12 CET 2013
+Temperature is : 31.840353 C, Bias Voltage is -50.000000 V, Current is -529.749600 nA
+Thu Dec  5 21:16:38 CET 2013
+Temperature is : 31.557201 C, Bias Voltage is -50.000000 V, Current is -517.208300 nA
+Thu Dec  5 21:18:40 CET 2013
+Temperature is : 32.193075 C, Bias Voltage is -50.000000 V, Current is -536.155000 nA
+Thu Dec  5 21:20:06 CET 2013
+Temperature is : 32.053130 C, Bias Voltage is -50.000000 V, Current is -534.360700 nA
+Thu Dec  5 21:21:15 CET 2013
+Stopping Run 2320
+Thu Dec  5 21:21:28 CET 2013
+Starting Run 2321
+Thu Dec  5 21:23:01 CET 2013
+Temperature is : 31.695572 C, Bias Voltage is -50.000000 V, Current is -516.070900 nA
+Thu Dec  5 21:24:27 CET 2013
+Temperature is : 31.448816 C, Bias Voltage is -50.000000 V, Current is -514.099000 nA
+Thu Dec  5 21:26:46 CET 2013
+Temperature is : 31.931827 C, Bias Voltage is -50.000000 V, Current is -536.532600 nA
+Thu Dec  5 21:28:11 CET 2013
+Temperature is : 31.902902 C, Bias Voltage is -50.000000 V, Current is -527.740400 nA
+Thu Dec  5 21:29:37 CET 2013
+Temperature is : 31.497208 C, Bias Voltage is -50.000000 V, Current is -513.816500 nA
+Thu Dec  5 21:31:02 CET 2013
+Temperature is : 31.586047 C, Bias Voltage is -50.000000 V, Current is -514.122100 nA
+Thu Dec  5 21:32:27 CET 2013
+Temperature is : 31.798136 C, Bias Voltage is -50.000000 V, Current is -512.890100 nA
+Thu Dec  5 21:34:27 CET 2013
+Stopping Run 2321
+Thu Dec  5 21:34:41 CET 2013
+Starting Run 2322
+Thu Dec  5 21:36:12 CET 2013
+Temperature is : 31.984092 C, Bias Voltage is -50.000000 V, Current is -526.422800 nA
+Thu Dec  5 21:37:39 CET 2013
+Temperature is : 32.108443 C, Bias Voltage is -50.000000 V, Current is -526.665600 nA
+Thu Dec  5 21:39:06 CET 2013
+Temperature is : 31.623761 C, Bias Voltage is -50.000000 V, Current is -511.141100 nA
+Thu Dec  5 21:40:32 CET 2013
+Temperature is : 31.286849 C, Bias Voltage is -50.000000 V, Current is -500.323300 nA
+Thu Dec  5 21:42:31 CET 2013
+Temperature is : 32.181041 C, Bias Voltage is -50.000000 V, Current is -516.407800 nA
+Thu Dec  5 21:43:56 CET 2013
+Temperature is : 32.069864 C, Bias Voltage is -50.000000 V, Current is -528.152800 nA
+Thu Dec  5 21:45:23 CET 2013
+Temperature is : 31.645647 C, Bias Voltage is -50.000000 V, Current is -515.797600 nA
+Thu Dec  5 21:46:48 CET 2013
+Temperature is : 32.046248 C, Bias Voltage is -50.000000 V, Current is -522.454900 nA
+Thu Dec  5 21:46:59 CET 2013
+Stopping Run 2322
+Thu Dec  5 21:47:10 CET 2013
+Starting Run 2323
+Thu Dec  5 21:49:28 CET 2013
+Temperature is : 33.007354 C, Bias Voltage is -50.000000 V, Current is -604.679700 nA
+Thu Dec  5 21:50:53 CET 2013
+Temperature is : 32.313945 C, Bias Voltage is -50.000000 V, Current is -547.806500 nA
+Thu Dec  5 21:52:18 CET 2013
+Temperature is : 32.617154 C, Bias Voltage is -50.000000 V, Current is -545.785600 nA
+Thu Dec  5 21:53:44 CET 2013
+Temperature is : 32.431532 C, Bias Voltage is -50.000000 V, Current is -552.691500 nA
+Thu Dec  5 21:55:09 CET 2013
+Temperature is : 31.983660 C, Bias Voltage is -50.000000 V, Current is -538.736200 nA
+Thu Dec  5 21:56:55 CET 2013
+Temperature is : 32.307142 C, Bias Voltage is -50.000000 V, Current is -601.478000 nA
+Thu Dec  5 21:58:46 CET 2013
+Temperature is : 32.647731 C, Bias Voltage is -50.000000 V, Current is -559.047600 nA
+Thu Dec  5 22:00:11 CET 2013
+Temperature is : 32.576412 C, Bias Voltage is -50.000000 V, Current is -549.890500 nA
+Thu Dec  5 22:00:28 CET 2013
+Stopping Run 2323
+Thu Dec  5 22:00:40 CET 2013
+Starting Run 2324
+Thu Dec  5 22:02:12 CET 2013
+Temperature is : 32.486550 C, Bias Voltage is -50.000000 V, Current is -582.749500 nA
+Thu Dec  5 22:03:38 CET 2013
+Temperature is : 32.438513 C, Bias Voltage is -50.000000 V, Current is -542.580700 nA
+Thu Dec  5 22:05:40 CET 2013
+Temperature is : 33.203555 C, Bias Voltage is -50.000000 V, Current is -591.906200 nA
+Thu Dec  5 22:07:05 CET 2013
+Temperature is : 32.570768 C, Bias Voltage is -50.000000 V, Current is -561.623900 nA
+Thu Dec  5 22:08:32 CET 2013
+Temperature is : 32.720977 C, Bias Voltage is -50.000000 V, Current is -556.754200 nA
+Thu Dec  5 22:09:58 CET 2013
+Temperature is : 32.459356 C, Bias Voltage is -50.000000 V, Current is -548.950100 nA
+Thu Dec  5 22:11:24 CET 2013
+Temperature is : 32.595721 C, Bias Voltage is -50.000000 V, Current is -542.831700 nA
+Thu Dec  5 22:13:28 CET 2013
+Temperature is : 33.389394 C, Bias Voltage is -50.000000 V, Current is -622.157700 nA
+Thu Dec  5 22:13:40 CET 2013
+Stopping Run 2324
+Thu Dec  5 22:13:53 CET 2013
+Starting Run 2325
+Thu Dec  5 22:15:26 CET 2013
+Temperature is : 32.558184 C, Bias Voltage is -50.000000 V, Current is -599.373500 nA
+Thu Dec  5 22:16:51 CET 2013
+Temperature is : 32.725440 C, Bias Voltage is -50.000000 V, Current is -559.478600 nA
+Thu Dec  5 22:18:18 CET 2013
+Temperature is : 32.669773 C, Bias Voltage is -50.000000 V, Current is -534.200900 nA
+Thu Dec  5 22:19:43 CET 2013
+Temperature is : 32.640632 C, Bias Voltage is -50.000000 V, Current is -561.694800 nA
+Thu Dec  5 22:21:41 CET 2013
+Temperature is : 33.196535 C, Bias Voltage is -50.000000 V, Current is -591.059500 nA
+Thu Dec  5 22:23:07 CET 2013
+Temperature is : 32.660827 C, Bias Voltage is -50.000000 V, Current is -569.580200 nA
+Thu Dec  5 22:24:32 CET 2013
+Temperature is : 32.691816 C, Bias Voltage is -50.000000 V, Current is -568.648900 nA
+Thu Dec  5 22:25:57 CET 2013
+Temperature is : 32.816816 C, Bias Voltage is -50.000000 V, Current is -574.533400 nA
+Thu Dec  5 22:26:12 CET 2013
+Stopping Run 2325
+Thu Dec  5 22:26:25 CET 2013
+Starting Run 2326
+Thu Dec  5 22:27:58 CET 2013
+Temperature is : 32.634320 C, Bias Voltage is -50.000000 V, Current is -557.044100 nA
+Thu Dec  5 22:30:09 CET 2013
+Temperature is : 33.160492 C, Bias Voltage is -50.000000 V, Current is -589.721300 nA
+Thu Dec  5 22:31:35 CET 2013
+Temperature is : 32.917984 C, Bias Voltage is -50.000000 V, Current is -570.453200 nA
+Thu Dec  5 22:33:00 CET 2013
+Temperature is : 32.889118 C, Bias Voltage is -50.000000 V, Current is -570.807500 nA
+Thu Dec  5 22:34:25 CET 2013
+Temperature is : 32.793613 C, Bias Voltage is -50.000000 V, Current is -574.262300 nA
+Thu Dec  5 22:35:51 CET 2013
+Temperature is : 32.883731 C, Bias Voltage is -50.000000 V, Current is -574.141700 nA
+Thu Dec  5 22:37:39 CET 2013
+Temperature is : 33.061153 C, Bias Voltage is -50.000000 V, Current is -592.553000 nA
+Thu Dec  5 22:39:04 CET 2013
+Temperature is : 32.963800 C, Bias Voltage is -50.000000 V, Current is -568.773400 nA
+Thu Dec  5 22:39:44 CET 2013
+Stopping Run 2326
+Thu Dec  5 22:39:57 CET 2013
+Starting Run 2327
+Thu Dec  5 22:41:30 CET 2013
+Temperature is : 32.857303 C, Bias Voltage is -50.000000 V, Current is -567.341500 nA
+Thu Dec  5 22:42:55 CET 2013
+Temperature is : 32.798765 C, Bias Voltage is -50.000000 V, Current is -569.942000 nA
+Thu Dec  5 22:44:20 CET 2013
+Temperature is : 32.946319 C, Bias Voltage is -50.000000 V, Current is -568.251700 nA
+Thu Dec  5 22:46:06 CET 2013
+Temperature is : 32.989932 C, Bias Voltage is -50.000000 V, Current is -577.903100 nA
+Thu Dec  5 22:47:32 CET 2013
+Temperature is : 32.941089 C, Bias Voltage is -50.000000 V, Current is -571.632600 nA
+Thu Dec  5 22:48:58 CET 2013
+Temperature is : 32.969541 C, Bias Voltage is -50.000000 V, Current is -574.917900 nA
+Thu Dec  5 22:50:23 CET 2013
+Temperature is : 32.945493 C, Bias Voltage is -50.000000 V, Current is -578.816500 nA
+Thu Dec  5 22:51:49 CET 2013
+Temperature is : 32.736550 C, Bias Voltage is -50.000000 V, Current is -574.272200 nA
+Thu Dec  5 22:52:55 CET 2013
+Stopping Run 2327
+Thu Dec  5 22:53:08 CET 2013
+Starting Run 2328
+Thu Dec  5 22:54:40 CET 2013
+Temperature is : 32.616525 C, Bias Voltage is -50.000000 V, Current is -559.681200 nA
+Thu Dec  5 22:56:06 CET 2013
+Temperature is : 32.825035 C, Bias Voltage is -50.000000 V, Current is -568.404700 nA
+Thu Dec  5 22:57:32 CET 2013
+Temperature is : 32.709238 C, Bias Voltage is -50.000000 V, Current is -560.202200 nA
+Thu Dec  5 22:58:57 CET 2013
+Temperature is : 32.682948 C, Bias Voltage is -50.000000 V, Current is -560.966000 nA
+Thu Dec  5 23:00:41 CET 2013
+Temperature is : 33.044832 C, Bias Voltage is -50.000000 V, Current is -597.554300 nA
+Thu Dec  5 23:02:07 CET 2013
+Temperature is : 32.984781 C, Bias Voltage is -50.000000 V, Current is -572.609700 nA
+Thu Dec  5 23:03:33 CET 2013
+Temperature is : 33.002104 C, Bias Voltage is -50.000000 V, Current is -565.070900 nA
+Thu Dec  5 23:04:58 CET 2013
+Temperature is : 32.605160 C, Bias Voltage is -50.000000 V, Current is -558.241900 nA
+Thu Dec  5 23:05:40 CET 2013
+Stopping Run 2328
+Thu Dec  5 23:05:52 CET 2013
+Starting Run 2329
+Thu Dec  5 23:07:25 CET 2013
+Temperature is : 32.676911 C, Bias Voltage is -50.000000 V, Current is -595.000300 nA
+Thu Dec  5 23:09:09 CET 2013
+Temperature is : 32.996008 C, Bias Voltage is -50.000000 V, Current is -571.552000 nA
+Thu Dec  5 23:10:36 CET 2013
+Temperature is : 32.707724 C, Bias Voltage is -50.000000 V, Current is -569.604700 nA
+Thu Dec  5 23:12:02 CET 2013
+Temperature is : 32.762899 C, Bias Voltage is -50.000000 V, Current is -569.175000 nA
+Thu Dec  5 23:13:27 CET 2013
+Temperature is : 32.831780 C, Bias Voltage is -50.000000 V, Current is -562.833900 nA
+Thu Dec  5 23:14:53 CET 2013
+Temperature is : 33.169026 C, Bias Voltage is -50.000000 V, Current is -575.986600 nA
+Thu Dec  5 23:16:42 CET 2013
+Temperature is : 33.028138 C, Bias Voltage is -50.000000 V, Current is -585.754900 nA
+Thu Dec  5 23:18:07 CET 2013
+Temperature is : 33.072479 C, Bias Voltage is -50.000000 V, Current is -571.604500 nA
+Thu Dec  5 23:19:00 CET 2013
+Stopping Run 2329
+Thu Dec  5 23:19:13 CET 2013
+Starting Run 2330
+Thu Dec  5 23:20:45 CET 2013
+Temperature is : 32.735331 C, Bias Voltage is -50.000000 V, Current is -560.153100 nA
+Thu Dec  5 23:22:11 CET 2013
+Temperature is : 32.814633 C, Bias Voltage is -50.000000 V, Current is -567.572600 nA
+Thu Dec  5 23:23:53 CET 2013
+Temperature is : 32.807358 C, Bias Voltage is -50.000000 V, Current is -578.721800 nA
+Thu Dec  5 23:25:18 CET 2013
+Temperature is : 33.103803 C, Bias Voltage is -50.000000 V, Current is -573.960400 nA
+Thu Dec  5 23:26:44 CET 2013
+Temperature is : 32.825311 C, Bias Voltage is -50.000000 V, Current is -575.135200 nA
+Thu Dec  5 23:28:10 CET 2013
+Temperature is : 32.976463 C, Bias Voltage is -50.000000 V, Current is -570.367600 nA
+Thu Dec  5 23:29:35 CET 2013
+Temperature is : 32.616781 C, Bias Voltage is -50.000000 V, Current is -561.249800 nA
+Thu Dec  5 23:31:23 CET 2013
+Temperature is : 33.249135 C, Bias Voltage is -50.000000 V, Current is -646.597100 nA
+Thu Dec  5 23:32:20 CET 2013
+Stopping Run 2330
+Thu Dec  5 23:32:32 CET 2013
+Starting Run 2331
+Thu Dec  5 23:34:04 CET 2013
+Temperature is : 33.015003 C, Bias Voltage is -50.000000 V, Current is -618.638000 nA
+Thu Dec  5 23:35:29 CET 2013
+Temperature is : 32.892854 C, Bias Voltage is -50.000000 V, Current is -566.319400 nA
+Thu Dec  5 23:36:55 CET 2013
+Temperature is : 32.963210 C, Bias Voltage is -50.000000 V, Current is -573.480600 nA
+Thu Dec  5 23:38:20 CET 2013
+Temperature is : 32.720151 C, Bias Voltage is -50.000000 V, Current is -568.370800 nA
+Thu Dec  5 23:40:04 CET 2013
+Temperature is : 32.956229 C, Bias Voltage is -50.000000 V, Current is -579.883100 nA
+Thu Dec  5 23:41:30 CET 2013
+Temperature is : 32.866564 C, Bias Voltage is -50.000000 V, Current is -575.105200 nA
+Thu Dec  5 23:42:56 CET 2013
+Temperature is : 32.863399 C, Bias Voltage is -50.000000 V, Current is -569.488900 nA
+Thu Dec  5 23:44:22 CET 2013
+Temperature is : 32.874233 C, Bias Voltage is -50.000000 V, Current is -573.845900 nA
+Thu Dec  5 23:45:18 CET 2013
+Stopping Run 2331
+Thu Dec  5 23:45:38 CET 2013
+Starting Run 2332
+Thu Dec  5 23:47:21 CET 2013
+Temperature is : 33.270450 C, Bias Voltage is -50.000000 V, Current is -595.389700 nA
+Thu Dec  5 23:48:47 CET 2013
+Temperature is : 33.120084 C, Bias Voltage is -50.000000 V, Current is -586.366800 nA
+Thu Dec  5 23:50:12 CET 2013
+Temperature is : 32.975558 C, Bias Voltage is -50.000000 V, Current is -583.861400 nA
+Thu Dec  5 23:51:37 CET 2013
+Temperature is : 32.951471 C, Bias Voltage is -50.000000 V, Current is -574.029300 nA
+Thu Dec  5 23:53:03 CET 2013
+Temperature is : 32.747876 C, Bias Voltage is -50.000000 V, Current is -562.479400 nA
+Thu Dec  5 23:54:53 CET 2013
+Temperature is : 33.028925 C, Bias Voltage is -50.000000 V, Current is -584.368400 nA
+Thu Dec  5 23:56:18 CET 2013
+Temperature is : 33.090294 C, Bias Voltage is -50.000000 V, Current is -583.105600 nA
+Thu Dec  5 23:57:44 CET 2013
+Temperature is : 33.007708 C, Bias Voltage is -50.000000 V, Current is -579.171600 nA
+Thu Dec  5 23:58:32 CET 2013
+Stopping Run 2332
+Thu Dec  5 23:58:44 CET 2013
+Starting Run 2333
+Fri Dec  6 00:00:17 CET 2013
+Temperature is : 32.752773 C, Bias Voltage is -50.000000 V, Current is -614.354100 nA
+Fri Dec  6 00:02:01 CET 2013
+Temperature is : 33.259773 C, Bias Voltage is -50.000000 V, Current is -620.818300 nA
+Fri Dec  6 00:03:27 CET 2013
+Temperature is : 32.924768 C, Bias Voltage is -50.000000 V, Current is -576.650700 nA
+Fri Dec  6 00:04:53 CET 2013
+Temperature is : 32.862828 C, Bias Voltage is -50.000000 V, Current is -567.908600 nA
+Fri Dec  6 00:06:19 CET 2013
+Temperature is : 32.897574 C, Bias Voltage is -50.000000 V, Current is -572.581100 nA
+Fri Dec  6 00:07:44 CET 2013
+Temperature is : 32.816207 C, Bias Voltage is -50.000000 V, Current is -577.269900 nA
+Fri Dec  6 00:09:10 CET 2013
+Temperature is : 32.784843 C, Bias Voltage is -50.000000 V, Current is -570.905500 nA
+Fri Dec  6 00:10:51 CET 2013
+Temperature is : 33.019860 C, Bias Voltage is -50.000000 V, Current is -587.275700 nA
+Fri Dec  6 00:11:58 CET 2013
+Stopping Run 2333
+Fri Dec  6 00:12:18 CET 2013
+Starting Run 2334
+Fri Dec  6 00:13:44 CET 2013
+Temperature is : 33.068212 C, Bias Voltage is -50.000000 V, Current is -591.795400 nA
+Fri Dec  6 00:15:09 CET 2013
+Temperature is : 33.044675 C, Bias Voltage is -50.000000 V, Current is -582.601400 nA
+Fri Dec  6 00:16:34 CET 2013
+Temperature is : 32.797153 C, Bias Voltage is -50.000000 V, Current is -583.576800 nA
+Fri Dec  6 00:18:17 CET 2013
+Temperature is : 33.127301 C, Bias Voltage is -50.000000 V, Current is -578.023600 nA
+Fri Dec  6 00:19:42 CET 2013
+Temperature is : 32.903119 C, Bias Voltage is -50.000000 V, Current is -572.706300 nA
+Fri Dec  6 00:21:08 CET 2013
+Temperature is : 32.677246 C, Bias Voltage is -50.000000 V, Current is -571.426100 nA
+Fri Dec  6 00:22:33 CET 2013
+Temperature is : 32.685858 C, Bias Voltage is -50.000000 V, Current is -562.431000 nA
+Fri Dec  6 00:23:59 CET 2013
+Temperature is : 32.710300 C, Bias Voltage is -50.000000 V, Current is -561.298600 nA
+Fri Dec  6 00:25:43 CET 2013
+Temperature is : 32.950153 C, Bias Voltage is -50.000000 V, Current is -548.393100 nA
+Fri Dec  6 00:25:54 CET 2013
+Stopping Run 2334
+Fri Dec  6 00:26:07 CET 2013
+Starting Run 2335
+Fri Dec  6 00:27:38 CET 2013
+Temperature is : 32.522849 C, Bias Voltage is -50.000000 V, Current is -602.636700 nA
+Fri Dec  6 00:29:03 CET 2013
+Temperature is : 32.530577 C, Bias Voltage is -50.000000 V, Current is -559.154300 nA
+Fri Dec  6 00:30:29 CET 2013
+Temperature is : 32.763115 C, Bias Voltage is -50.000000 V, Current is -562.218800 nA
+Fri Dec  6 00:31:54 CET 2013
+Temperature is : 32.776526 C, Bias Voltage is -50.000000 V, Current is -572.395600 nA
+Fri Dec  6 00:33:39 CET 2013
+Temperature is : 32.907582 C, Bias Voltage is -50.000000 V, Current is -577.996400 nA
+Fri Dec  6 00:35:04 CET 2013
+Temperature is : 32.930274 C, Bias Voltage is -50.000000 V, Current is -574.489600 nA
+Fri Dec  6 00:36:29 CET 2013
+Temperature is : 32.664091 C, Bias Voltage is -50.000000 V, Current is -570.543900 nA
+Fri Dec  6 00:37:55 CET 2013
+Temperature is : 32.734368 C, Bias Voltage is -50.000000 V, Current is -567.312900 nA
+Fri Dec  6 00:39:15 CET 2013
+Stopping Run 2335
+Fri Dec  6 00:39:27 CET 2013
+Starting Run 2336
+Fri Dec  6 00:41:16 CET 2013
+Temperature is : 32.546248 C, Bias Voltage is -50.000000 V, Current is -542.469700 nA
+Fri Dec  6 00:42:41 CET 2013
+Temperature is : 32.471232 C, Bias Voltage is -50.000000 V, Current is -558.667900 nA
+Fri Dec  6 00:44:06 CET 2013
+Temperature is : 32.719246 C, Bias Voltage is -50.000000 V, Current is -567.460700 nA
+Fri Dec  6 00:45:32 CET 2013
+Temperature is : 32.511621 C, Bias Voltage is -50.000000 V, Current is -564.399900 nA
+Fri Dec  6 00:46:57 CET 2013
+Temperature is : 32.248250 C, Bias Voltage is -50.000000 V, Current is -559.827700 nA
+Fri Dec  6 00:48:42 CET 2013
+Temperature is : 32.883790 C, Bias Voltage is -50.000000 V, Current is -576.120200 nA
+Fri Dec  6 00:50:07 CET 2013
+Temperature is : 32.824170 C, Bias Voltage is -50.000000 V, Current is -566.572900 nA
+Fri Dec  6 00:51:33 CET 2013
+Temperature is : 32.690518 C, Bias Voltage is -50.000000 V, Current is -570.647000 nA
+Fri Dec  6 00:52:59 CET 2013
+Temperature is : 32.721468 C, Bias Voltage is -50.000000 V, Current is -561.261400 nA
+Fri Dec  6 00:53:09 CET 2013
+Stopping Run 2336
+Fri Dec  6 00:53:29 CET 2013
+Starting Run 2337
+Fri Dec  6 00:55:13 CET 2013
+Temperature is : 33.058263 C, Bias Voltage is -50.000000 V, Current is -613.355700 nA
+Fri Dec  6 00:56:39 CET 2013
+Temperature is : 32.766852 C, Bias Voltage is -50.000000 V, Current is -575.844400 nA
+Fri Dec  6 00:58:04 CET 2013
+Temperature is : 32.930018 C, Bias Voltage is -50.000000 V, Current is -570.206900 nA
+Fri Dec  6 00:59:29 CET 2013
+Temperature is : 32.926518 C, Bias Voltage is -50.000000 V, Current is -578.031800 nA
+Fri Dec  6 01:00:55 CET 2013
+Temperature is : 32.801341 C, Bias Voltage is -50.000000 V, Current is -569.358500 nA
+Fri Dec  6 01:02:21 CET 2013
+Temperature is : 32.843971 C, Bias Voltage is -50.000000 V, Current is -569.760900 nA
+Fri Dec  6 01:04:02 CET 2013
+Temperature is : 32.947774 C, Bias Voltage is -50.000000 V, Current is -575.592700 nA
+Fri Dec  6 01:05:28 CET 2013
+Temperature is : 32.968047 C, Bias Voltage is -50.000000 V, Current is -571.548500 nA
+Fri Dec  6 01:06:53 CET 2013
+Temperature is : 32.695631 C, Bias Voltage is -50.000000 V, Current is -571.922600 nA
+Fri Dec  6 01:06:59 CET 2013
+Stopping Run 2337
+Fri Dec  6 01:07:11 CET 2013
+Starting Run 2338
+Fri Dec  6 01:08:46 CET 2013
+Temperature is : 32.622719 C, Bias Voltage is -50.000000 V, Current is -555.321300 nA
+Fri Dec  6 01:10:30 CET 2013
+Temperature is : 32.956170 C, Bias Voltage is -50.000000 V, Current is -612.339300 nA
+Fri Dec  6 01:11:57 CET 2013
+Temperature is : 33.135972 C, Bias Voltage is -50.000000 V, Current is -580.522100 nA
+Fri Dec  6 01:13:22 CET 2013
+Temperature is : 32.758849 C, Bias Voltage is -50.000000 V, Current is -567.734200 nA
+Fri Dec  6 01:14:48 CET 2013
+Temperature is : 32.855376 C, Bias Voltage is -50.000000 V, Current is -564.153400 nA
+Fri Dec  6 01:16:14 CET 2013
+Temperature is : 32.704440 C, Bias Voltage is -50.000000 V, Current is -567.427900 nA
+Fri Dec  6 01:17:39 CET 2013
+Temperature is : 32.792709 C, Bias Voltage is -50.000000 V, Current is -566.853000 nA
+Fri Dec  6 01:19:24 CET 2013
+Temperature is : 33.023301 C, Bias Voltage is -50.000000 V, Current is -579.515900 nA
+Fri Dec  6 01:20:49 CET 2013
+Temperature is : 32.996461 C, Bias Voltage is -50.000000 V, Current is -573.468700 nA
+Fri Dec  6 01:21:02 CET 2013
+Stopping Run 2338
+Fri Dec  6 01:21:13 CET 2013
+Starting Run 2339
+Fri Dec  6 01:22:47 CET 2013
+Temperature is : 32.918751 C, Bias Voltage is -50.000000 V, Current is -570.826000 nA
+Fri Dec  6 01:24:13 CET 2013
+Temperature is : 32.857814 C, Bias Voltage is -50.000000 V, Current is -579.612600 nA
+Fri Dec  6 01:25:56 CET 2013
+Temperature is : 33.275307 C, Bias Voltage is -50.000000 V, Current is -599.866200 nA
+Fri Dec  6 01:27:22 CET 2013
+Temperature is : 33.028197 C, Bias Voltage is -50.000000 V, Current is -577.908400 nA
+Fri Dec  6 01:28:47 CET 2013
+Temperature is : 32.966572 C, Bias Voltage is -50.000000 V, Current is -580.639100 nA
+Fri Dec  6 01:30:13 CET 2013
+Temperature is : 33.026074 C, Bias Voltage is -50.000000 V, Current is -584.914800 nA
+Fri Dec  6 01:31:38 CET 2013
+Temperature is : 32.802010 C, Bias Voltage is -50.000000 V, Current is -580.545500 nA
+Fri Dec  6 01:33:22 CET 2013
+Temperature is : 33.399068 C, Bias Voltage is -50.000000 V, Current is -623.183600 nA
+Fri Dec  6 01:34:47 CET 2013
+Temperature is : 32.760815 C, Bias Voltage is -50.000000 V, Current is -578.631200 nA
+Fri Dec  6 01:35:07 CET 2013
+Stopping Run 2339
+Fri Dec  6 01:35:20 CET 2013
+Starting Run 2340
+Fri Dec  6 01:36:54 CET 2013
+Temperature is : 32.878657 C, Bias Voltage is -50.000000 V, Current is -569.528800 nA
+Fri Dec  6 01:38:20 CET 2013
+Temperature is : 32.814319 C, Bias Voltage is -50.000000 V, Current is -569.203000 nA
+Fri Dec  6 01:39:45 CET 2013
+Temperature is : 32.927855 C, Bias Voltage is -50.000000 V, Current is -577.839600 nA
+Fri Dec  6 01:41:28 CET 2013
+Temperature is : 33.227564 C, Bias Voltage is -50.000000 V, Current is -598.239800 nA
+Fri Dec  6 01:42:53 CET 2013
+Temperature is : 32.963465 C, Bias Voltage is -50.000000 V, Current is -584.631600 nA
+Fri Dec  6 01:44:19 CET 2013
+Temperature is : 32.765967 C, Bias Voltage is -50.000000 V, Current is -578.981600 nA
+Fri Dec  6 01:45:45 CET 2013
+Temperature is : 33.028885 C, Bias Voltage is -50.000000 V, Current is -578.024800 nA
+Fri Dec  6 01:47:11 CET 2013
+Temperature is : 32.887663 C, Bias Voltage is -50.000000 V, Current is -577.788400 nA
+Fri Dec  6 01:48:52 CET 2013
+Temperature is : 33.165959 C, Bias Voltage is -50.000000 V, Current is -603.016700 nA
+Fri Dec  6 01:49:14 CET 2013
+Stopping Run 2340
+Fri Dec  6 01:49:27 CET 2013
+Starting Run 2341
+Fri Dec  6 01:51:00 CET 2013
+Temperature is : 32.636660 C, Bias Voltage is -50.000000 V, Current is -566.258100 nA
+Fri Dec  6 01:52:25 CET 2013
+Temperature is : 32.696732 C, Bias Voltage is -50.000000 V, Current is -561.587200 nA
+Fri Dec  6 01:53:51 CET 2013
+Temperature is : 32.805805 C, Bias Voltage is -50.000000 V, Current is -568.845900 nA
+Fri Dec  6 01:55:17 CET 2013
+Temperature is : 32.748997 C, Bias Voltage is -50.000000 V, Current is -545.042700 nA
+Fri Dec  6 01:56:59 CET 2013
+Temperature is : 33.076412 C, Bias Voltage is -50.000000 V, Current is -588.619900 nA
+Fri Dec  6 01:58:24 CET 2013
+Temperature is : 32.908152 C, Bias Voltage is -50.000000 V, Current is -577.132900 nA
+Fri Dec  6 01:59:49 CET 2013
+Temperature is : 32.870556 C, Bias Voltage is -50.000000 V, Current is -576.207400 nA
+Fri Dec  6 02:01:15 CET 2013
+Temperature is : 33.026172 C, Bias Voltage is -50.000000 V, Current is -578.525300 nA
+Fri Dec  6 02:02:41 CET 2013
+Temperature is : 33.021905 C, Bias Voltage is -50.000000 V, Current is -584.314800 nA
+Fri Dec  6 02:03:06 CET 2013
+Stopping Run 2341
+Fri Dec  6 02:03:28 CET 2013
+Starting Run 2342
+Fri Dec  6 02:05:08 CET 2013
+Temperature is : 33.143228 C, Bias Voltage is -50.000000 V, Current is -596.921000 nA
+Fri Dec  6 02:06:33 CET 2013
+Temperature is : 33.168908 C, Bias Voltage is -50.000000 V, Current is -582.337000 nA
+Fri Dec  6 02:07:58 CET 2013
+Temperature is : 33.036436 C, Bias Voltage is -50.000000 V, Current is -580.557600 nA
+Fri Dec  6 02:09:23 CET 2013
+Temperature is : 32.829342 C, Bias Voltage is -50.000000 V, Current is -581.319000 nA
+Fri Dec  6 02:10:49 CET 2013
+Temperature is : 32.962620 C, Bias Voltage is -50.000000 V, Current is -573.905800 nA
+Fri Dec  6 02:12:32 CET 2013
+Temperature is : 32.879994 C, Bias Voltage is -50.000000 V, Current is -588.173000 nA
+Fri Dec  6 02:13:58 CET 2013
+Temperature is : 32.897495 C, Bias Voltage is -50.000000 V, Current is -579.963200 nA
+Fri Dec  6 02:15:23 CET 2013
+Temperature is : 32.878775 C, Bias Voltage is -50.000000 V, Current is -573.676700 nA
+Fri Dec  6 02:16:48 CET 2013
+Temperature is : 32.869140 C, Bias Voltage is -50.000000 V, Current is -578.892400 nA
+Fri Dec  6 02:16:58 CET 2013
+Stopping Run 2342
+Fri Dec  6 02:50:06 CET 2013
+Starting Run 2343
+Fri Dec  6 02:51:50 CET 2013
+Temperature is : 34.219129 C, Bias Voltage is -50.000000 V, Current is -686.152200 nA
+Fri Dec  6 02:55:14 CET 2013
+Temperature is : 34.353449 C, Bias Voltage is -50.000000 V, Current is -693.558700 nA
+Fri Dec  6 02:56:41 CET 2013
+Temperature is : 33.589980 C, Bias Voltage is -50.000000 V, Current is -621.168700 nA
+Fri Dec  6 03:08:32 CET 2013
+Temperature is : 34.303701 C, Bias Voltage is -50.000000 V, Current is -666.741100 nA
+Fri Dec  6 03:10:00 CET 2013
+Temperature is : 33.446811 C, Bias Voltage is -50.000000 V, Current is -623.438200 nA
+Fri Dec  6 03:11:25 CET 2013
+Temperature is : 33.354353 C, Bias Voltage is -50.000000 V, Current is -603.612800 nA
+Fri Dec  6 03:12:51 CET 2013
+Temperature is : 33.125767 C, Bias Voltage is -50.000000 V, Current is -595.843700 nA
+Fri Dec  6 03:14:17 CET 2013
+Temperature is : 33.069549 C, Bias Voltage is -50.000000 V, Current is -586.128700 nA
+Fri Dec  6 03:17:59 CET 2013
+Temperature is : 34.451058 C, Bias Voltage is -50.000000 V, Current is -720.520700 nA
+Fri Dec  6 03:22:00 CET 2013
+Temperature is : 34.766281 C, Bias Voltage is -50.000000 V, Current is -708.797900 nA
+Fri Dec  6 03:23:34 CET 2013
+Temperature is : 33.889000 C, Bias Voltage is -50.000000 V, Current is -649.388300 nA
+Fri Dec  6 03:25:29 CET 2013
+Temperature is : 34.066678 C, Bias Voltage is -50.000000 V, Current is -669.882200 nA
+Fri Dec  6 03:45:01 CET 2013
+Temperature is : 34.357736 C, Bias Voltage is -50.000000 V, Current is -738.503200 nA
+Fri Dec  6 03:47:59 CET 2013
+Stopping Run 2343
+Fri Dec  6 03:48:19 CET 2013
+Starting Run 2344
+Fri Dec  6 03:52:05 CET 2013
+Temperature is : 33.890101 C, Bias Voltage is -50.000000 V, Current is -704.089300 nA
+Fri Dec  6 03:53:30 CET 2013
+Temperature is : 33.401034 C, Bias Voltage is -50.000000 V, Current is -612.263000 nA
+Fri Dec  6 03:54:56 CET 2013
+Temperature is : 33.324701 C, Bias Voltage is -50.000000 V, Current is -593.081000 nA
+Fri Dec  6 03:56:21 CET 2013
+Temperature is : 32.981457 C, Bias Voltage is -50.000000 V, Current is -591.383200 nA
+Fri Dec  6 03:57:47 CET 2013
+Temperature is : 32.994494 C, Bias Voltage is -50.000000 V, Current is -582.380100 nA
+Fri Dec  6 03:59:12 CET 2013
+Temperature is : 32.881843 C, Bias Voltage is -50.000000 V, Current is -578.615000 nA
+Fri Dec  6 04:03:01 CET 2013
+Temperature is : 34.242095 C, Bias Voltage is -50.000000 V, Current is -726.820800 nA
+Fri Dec  6 04:11:32 CET 2013
+Temperature is : 34.376416 C, Bias Voltage is -50.000000 V, Current is -646.907700 nA
+Fri Dec  6 04:12:57 CET 2013
+Temperature is : 33.628205 C, Bias Voltage is -50.000000 V, Current is -619.055200 nA
+Fri Dec  6 04:14:22 CET 2013
+Temperature is : 33.180293 C, Bias Voltage is -50.000000 V, Current is -596.978000 nA
+Fri Dec  6 04:15:48 CET 2013
+Temperature is : 33.249253 C, Bias Voltage is -50.000000 V, Current is -589.759400 nA
+Fri Dec  6 04:17:15 CET 2013
+Temperature is : 32.998250 C, Bias Voltage is -50.000000 V, Current is -596.453400 nA
+Fri Dec  6 04:18:03 CET 2013
+Stopping Run 2344
+Fri Dec  6 04:18:15 CET 2013
+Starting Run 2345
+Fri Dec  6 04:20:02 CET 2013
+Temperature is : 33.037223 C, Bias Voltage is -50.000000 V, Current is -588.726900 nA
+Fri Dec  6 04:21:28 CET 2013
+Temperature is : 33.088249 C, Bias Voltage is -50.000000 V, Current is -557.800500 nA
+Fri Dec  6 04:22:54 CET 2013
+Temperature is : 33.028296 C, Bias Voltage is -50.000000 V, Current is -587.549200 nA
+Fri Dec  6 04:24:20 CET 2013
+Temperature is : 32.973297 C, Bias Voltage is -50.000000 V, Current is -572.815100 nA
+Fri Dec  6 04:25:47 CET 2013
+Temperature is : 33.033093 C, Bias Voltage is -50.000000 V, Current is -570.379600 nA
+Fri Dec  6 04:27:36 CET 2013
+Temperature is : 33.342811 C, Bias Voltage is -50.000000 V, Current is -594.934200 nA
+Fri Dec  6 04:29:02 CET 2013
+Temperature is : 33.161653 C, Bias Voltage is -50.000000 V, Current is -593.618300 nA
+Fri Dec  6 04:30:27 CET 2013
+Temperature is : 33.222058 C, Bias Voltage is -50.000000 V, Current is -591.435900 nA
+Fri Dec  6 04:31:53 CET 2013
+Temperature is : 32.885854 C, Bias Voltage is -50.000000 V, Current is -576.310800 nA
+Fri Dec  6 04:33:19 CET 2013
+Temperature is : 32.925260 C, Bias Voltage is -50.000000 V, Current is -573.687500 nA
+Fri Dec  6 04:35:21 CET 2013
+Temperature is : 33.314732 C, Bias Voltage is -50.000000 V, Current is -617.312700 nA
+Fri Dec  6 04:35:54 CET 2013
+Stopping Run 2345
+Fri Dec  6 04:36:14 CET 2013
+Starting Run 2346
+Fri Dec  6 04:37:39 CET 2013
+Temperature is : 33.202316 C, Bias Voltage is -50.000000 V, Current is -596.146900 nA
+Fri Dec  6 04:39:06 CET 2013
+Temperature is : 33.161672 C, Bias Voltage is -50.000000 V, Current is -555.985400 nA
+Fri Dec  6 04:40:31 CET 2013
+Temperature is : 32.935740 C, Bias Voltage is -50.000000 V, Current is -574.946600 nA
+Fri Dec  6 04:41:56 CET 2013
+Temperature is : 33.093145 C, Bias Voltage is -50.000000 V, Current is -582.949400 nA
+Fri Dec  6 04:43:40 CET 2013
+Temperature is : 33.138135 C, Bias Voltage is -50.000000 V, Current is -595.700200 nA
+Fri Dec  6 04:45:06 CET 2013
+Temperature is : 33.062372 C, Bias Voltage is -50.000000 V, Current is -581.726500 nA
+Fri Dec  6 04:46:31 CET 2013
+Temperature is : 32.899815 C, Bias Voltage is -50.000000 V, Current is -580.068300 nA
+Fri Dec  6 04:47:57 CET 2013
+Temperature is : 32.996756 C, Bias Voltage is -50.000000 V, Current is -578.881800 nA
+Fri Dec  6 04:49:22 CET 2013
+Temperature is : 32.976522 C, Bias Voltage is -50.000000 V, Current is -576.598900 nA
+Fri Dec  6 04:51:09 CET 2013
+Temperature is : 33.434895 C, Bias Voltage is -50.000000 V, Current is -607.609000 nA
+Fri Dec  6 04:52:35 CET 2013
+Temperature is : 33.062746 C, Bias Voltage is -50.000000 V, Current is -589.628700 nA
+Fri Dec  6 04:53:17 CET 2013
+Stopping Run 2346
+Fri Dec  6 04:53:30 CET 2013
+Starting Run 2347
+Fri Dec  6 04:55:02 CET 2013
+Temperature is : 33.058282 C, Bias Voltage is -50.000000 V, Current is -612.374000 nA
+Fri Dec  6 04:56:27 CET 2013
+Temperature is : 32.989264 C, Bias Voltage is -50.000000 V, Current is -580.946100 nA
+Fri Dec  6 04:57:52 CET 2013
+Temperature is : 32.990286 C, Bias Voltage is -50.000000 V, Current is -583.413600 nA
+Fri Dec  6 04:59:36 CET 2013
+Temperature is : 33.284647 C, Bias Voltage is -50.000000 V, Current is -583.236600 nA
+Fri Dec  6 05:01:01 CET 2013
+Temperature is : 33.119199 C, Bias Voltage is -50.000000 V, Current is -581.492100 nA
+Fri Dec  6 05:02:27 CET 2013
+Temperature is : 32.989126 C, Bias Voltage is -50.000000 V, Current is -579.545100 nA
+Fri Dec  6 05:03:53 CET 2013
+Temperature is : 32.969522 C, Bias Voltage is -50.000000 V, Current is -577.712200 nA
+Fri Dec  6 05:05:18 CET 2013
+Temperature is : 33.073934 C, Bias Voltage is -50.000000 V, Current is -579.633200 nA
+Fri Dec  6 05:07:08 CET 2013
+Temperature is : 33.250924 C, Bias Voltage is -50.000000 V, Current is -591.203700 nA
+Fri Dec  6 05:08:33 CET 2013
+Temperature is : 33.130407 C, Bias Voltage is -50.000000 V, Current is -590.784900 nA
+Fri Dec  6 05:10:00 CET 2013
+Temperature is : 33.075940 C, Bias Voltage is -50.000000 V, Current is -582.945000 nA
+Fri Dec  6 05:10:47 CET 2013
+Stopping Run 2347
+Fri Dec  6 05:11:07 CET 2013
+Starting Run 2348
+Fri Dec  6 05:12:32 CET 2013
+Temperature is : 33.286456 C, Bias Voltage is -50.000000 V, Current is -599.963100 nA
+Fri Dec  6 05:14:10 CET 2013
+Temperature is : 33.242154 C, Bias Voltage is -50.000000 V, Current is -605.518600 nA
+Fri Dec  6 05:15:35 CET 2013
+Temperature is : 33.143248 C, Bias Voltage is -50.000000 V, Current is -590.797600 nA
+Fri Dec  6 05:17:01 CET 2013
+Temperature is : 33.157543 C, Bias Voltage is -50.000000 V, Current is -595.947100 nA
+Fri Dec  6 05:18:27 CET 2013
+Temperature is : 33.213426 C, Bias Voltage is -50.000000 V, Current is -592.919900 nA
+Fri Dec  6 05:19:53 CET 2013
+Temperature is : 33.305215 C, Bias Voltage is -50.000000 V, Current is -597.335700 nA
+Fri Dec  6 05:21:33 CET 2013
+Temperature is : 33.446339 C, Bias Voltage is -50.000000 V, Current is -617.229900 nA
+Fri Dec  6 05:22:59 CET 2013
+Temperature is : 33.388076 C, Bias Voltage is -50.000000 V, Current is -604.647500 nA
+Fri Dec  6 05:24:24 CET 2013
+Temperature is : 33.366466 C, Bias Voltage is -50.000000 V, Current is -609.717300 nA
+Fri Dec  6 05:25:50 CET 2013
+Temperature is : 33.354983 C, Bias Voltage is -50.000000 V, Current is -603.061400 nA
+Fri Dec  6 05:26:31 CET 2013
+Stopping Run 2348
+Fri Dec  6 05:26:44 CET 2013
+Starting Run 2349
+Fri Dec  6 05:28:17 CET 2013
+Temperature is : 33.305352 C, Bias Voltage is -50.000000 V, Current is -603.075600 nA
+Fri Dec  6 05:30:07 CET 2013
+Temperature is : 33.511346 C, Bias Voltage is -50.000000 V, Current is -618.482400 nA
+Fri Dec  6 05:31:32 CET 2013
+Temperature is : 33.246520 C, Bias Voltage is -50.000000 V, Current is -599.463400 nA
+Fri Dec  6 05:32:58 CET 2013
+Temperature is : 33.038776 C, Bias Voltage is -50.000000 V, Current is -599.745900 nA
+Fri Dec  6 05:34:24 CET 2013
+Temperature is : 33.235488 C, Bias Voltage is -50.000000 V, Current is -600.438000 nA
+Fri Dec  6 05:35:49 CET 2013
+Temperature is : 33.222865 C, Bias Voltage is -50.000000 V, Current is -598.620900 nA
+Fri Dec  6 05:37:35 CET 2013
+Temperature is : 33.319962 C, Bias Voltage is -50.000000 V, Current is -609.485400 nA
+Fri Dec  6 05:39:00 CET 2013
+Temperature is : 33.191325 C, Bias Voltage is -50.000000 V, Current is -596.997600 nA
+Fri Dec  6 05:40:25 CET 2013
+Temperature is : 33.113379 C, Bias Voltage is -50.000000 V, Current is -588.632900 nA
+Fri Dec  6 05:41:23 CET 2013
+Stopping Run 2349
+Fri Dec  6 05:41:36 CET 2013
+Starting Run 2350
+Fri Dec  6 05:43:08 CET 2013
+Temperature is : 32.814280 C, Bias Voltage is -50.000000 V, Current is -628.524700 nA
+Fri Dec  6 05:44:46 CET 2013
+Temperature is : 33.314221 C, Bias Voltage is -50.000000 V, Current is -597.958400 nA
+Fri Dec  6 05:46:13 CET 2013
+Temperature is : 33.228213 C, Bias Voltage is -50.000000 V, Current is -598.261700 nA
+Fri Dec  6 05:47:38 CET 2013
+Temperature is : 33.104255 C, Bias Voltage is -50.000000 V, Current is -590.157100 nA
+Fri Dec  6 05:49:05 CET 2013
+Temperature is : 33.055411 C, Bias Voltage is -50.000000 V, Current is -582.910800 nA
+Fri Dec  6 05:50:31 CET 2013
+Temperature is : 33.077513 C, Bias Voltage is -50.000000 V, Current is -587.106600 nA
+Fri Dec  6 05:52:11 CET 2013
+Temperature is : 33.473336 C, Bias Voltage is -50.000000 V, Current is -602.748800 nA
+Fri Dec  6 05:53:37 CET 2013
+Temperature is : 33.373781 C, Bias Voltage is -50.000000 V, Current is -598.089600 nA
+Fri Dec  6 05:55:02 CET 2013
+Temperature is : 33.268503 C, Bias Voltage is -50.000000 V, Current is -591.800000 nA
+Fri Dec  6 05:56:00 CET 2013
+Stopping Run 2350
+Fri Dec  6 05:56:13 CET 2013
+Starting Run 2351
+Fri Dec  6 05:57:45 CET 2013
+Temperature is : 33.301597 C, Bias Voltage is -50.000000 V, Current is -642.394800 nA
+Fri Dec  6 05:59:18 CET 2013
+Temperature is : 33.383790 C, Bias Voltage is -50.000000 V, Current is -650.858300 nA
+Fri Dec  6 06:00:46 CET 2013
+Temperature is : 33.427108 C, Bias Voltage is -50.000000 V, Current is -611.715100 nA
+Fri Dec  6 06:02:12 CET 2013
+Temperature is : 33.366171 C, Bias Voltage is -50.000000 V, Current is -600.651800 nA
+Fri Dec  6 06:03:37 CET 2013
+Temperature is : 33.268130 C, Bias Voltage is -50.000000 V, Current is -604.073500 nA
+Fri Dec  6 06:05:03 CET 2013
+Temperature is : 33.303170 C, Bias Voltage is -50.000000 V, Current is -602.591200 nA
+Fri Dec  6 06:06:29 CET 2013
+Temperature is : 33.205010 C, Bias Voltage is -50.000000 V, Current is -567.912100 nA
+Fri Dec  6 06:08:07 CET 2013
+Temperature is : 33.393877 C, Bias Voltage is -50.000000 V, Current is -615.366400 nA
+Fri Dec  6 06:09:32 CET 2013
+Temperature is : 33.097983 C, Bias Voltage is -50.000000 V, Current is -598.941800 nA
+Fri Dec  6 06:10:34 CET 2013
+Stopping Run 2351
+Fri Dec  6 06:10:46 CET 2013
+Starting Run 2352
+Fri Dec  6 06:12:18 CET 2013
+Temperature is : 33.304232 C, Bias Voltage is -50.000000 V, Current is -645.022600 nA
+Fri Dec  6 06:13:43 CET 2013
+Temperature is : 33.199957 C, Bias Voltage is -50.000000 V, Current is -590.031900 nA
+Fri Dec  6 06:15:21 CET 2013
+Temperature is : 33.351699 C, Bias Voltage is -50.000000 V, Current is -598.712600 nA
+Fri Dec  6 06:16:46 CET 2013
+Temperature is : 33.150857 C, Bias Voltage is -50.000000 V, Current is -601.950000 nA
+Fri Dec  6 06:18:13 CET 2013
+Temperature is : 33.208648 C, Bias Voltage is -50.000000 V, Current is -566.110100 nA
+Fri Dec  6 06:19:38 CET 2013
+Temperature is : 33.193094 C, Bias Voltage is -50.000000 V, Current is -592.899100 nA
+Fri Dec  6 06:21:03 CET 2013
+Temperature is : 33.096822 C, Bias Voltage is -50.000000 V, Current is -587.342000 nA
+Fri Dec  6 06:22:40 CET 2013
+Temperature is : 33.256253 C, Bias Voltage is -50.000000 V, Current is -602.906800 nA
+Fri Dec  6 06:24:07 CET 2013
+Temperature is : 33.101699 C, Bias Voltage is -50.000000 V, Current is -583.976000 nA
+Fri Dec  6 06:25:01 CET 2013
+Stopping Run 2352
+Fri Dec  6 06:25:13 CET 2013
+Starting Run 2353
+Fri Dec  6 06:26:46 CET 2013
+Temperature is : 32.887309 C, Bias Voltage is -50.000000 V, Current is -618.599200 nA
+Fri Dec  6 06:28:14 CET 2013
+Temperature is : 32.993845 C, Bias Voltage is -50.000000 V, Current is -576.412600 nA
+Fri Dec  6 06:29:52 CET 2013
+Temperature is : 33.190400 C, Bias Voltage is -50.000000 V, Current is -581.995900 nA
+Fri Dec  6 06:31:18 CET 2013
+Temperature is : 33.026329 C, Bias Voltage is -50.000000 V, Current is -583.173600 nA
+Fri Dec  6 06:32:43 CET 2013
+Temperature is : 32.963210 C, Bias Voltage is -50.000000 V, Current is -579.028800 nA
+Fri Dec  6 06:34:09 CET 2013
+Temperature is : 33.136287 C, Bias Voltage is -50.000000 V, Current is -579.096400 nA
+Fri Dec  6 06:35:35 CET 2013
+Temperature is : 33.015180 C, Bias Voltage is -50.000000 V, Current is -578.024900 nA
+Fri Dec  6 06:37:14 CET 2013
+Temperature is : 33.315086 C, Bias Voltage is -50.000000 V, Current is -573.541500 nA
+Fri Dec  6 06:38:40 CET 2013
+Temperature is : 33.241112 C, Bias Voltage is -50.000000 V, Current is -589.310500 nA
+Fri Dec  6 06:39:41 CET 2013
+Stopping Run 2353
+Fri Dec  6 06:39:54 CET 2013
+Starting Run 2354
+Fri Dec  6 06:41:27 CET 2013
+Temperature is : 33.005014 C, Bias Voltage is -50.000000 V, Current is -582.356900 nA
+Fri Dec  6 06:42:52 CET 2013
+Temperature is : 33.232224 C, Bias Voltage is -50.000000 V, Current is -591.986100 nA
+Fri Dec  6 06:44:32 CET 2013
+Temperature is : 33.287616 C, Bias Voltage is -50.000000 V, Current is -608.116400 nA
+Fri Dec  6 06:45:58 CET 2013
+Temperature is : 33.013076 C, Bias Voltage is -50.000000 V, Current is -589.660500 nA
+Fri Dec  6 06:47:41 CET 2013
+Temperature is : 33.547566 C, Bias Voltage is -50.000000 V, Current is -628.494100 nA
+Fri Dec  6 06:49:06 CET 2013
+Temperature is : 33.246205 C, Bias Voltage is -50.000000 V, Current is -599.691600 nA
+Fri Dec  6 06:50:32 CET 2013
+Temperature is : 33.171602 C, Bias Voltage is -50.000000 V, Current is -563.853100 nA
+Fri Dec  6 06:52:13 CET 2013
+Temperature is : 33.363025 C, Bias Voltage is -50.000000 V, Current is -604.622400 nA
+Fri Dec  6 06:53:38 CET 2013
+Temperature is : 33.159470 C, Bias Voltage is -50.000000 V, Current is -599.000000 nA
+Fri Dec  6 06:54:45 CET 2013
+Stopping Run 2354
+Fri Dec  6 06:54:58 CET 2013
+Starting Run 2355
+Fri Dec  6 06:56:29 CET 2013
+Temperature is : 32.869416 C, Bias Voltage is -50.000000 V, Current is -627.173000 nA
+Fri Dec  6 06:57:55 CET 2013
+Temperature is : 32.876652 C, Bias Voltage is -50.000000 V, Current is -574.876500 nA
+Fri Dec  6 06:59:35 CET 2013
+Temperature is : 32.831662 C, Bias Voltage is -50.000000 V, Current is -598.802100 nA
+Fri Dec  6 07:01:00 CET 2013
+Temperature is : 32.666273 C, Bias Voltage is -50.000000 V, Current is -562.479700 nA
+Fri Dec  6 07:02:25 CET 2013
+Temperature is : 32.701903 C, Bias Voltage is -50.000000 V, Current is -561.902400 nA
+Fri Dec  6 07:03:51 CET 2013
+Temperature is : 32.670226 C, Bias Voltage is -50.000000 V, Current is -559.833700 nA
+Fri Dec  6 07:05:18 CET 2013
+Temperature is : 32.566187 C, Bias Voltage is -50.000000 V, Current is -559.827600 nA
+Fri Dec  6 07:06:57 CET 2013
+Temperature is : 32.999135 C, Bias Voltage is -50.000000 V, Current is -588.086000 nA
+Fri Dec  6 07:08:23 CET 2013
+Temperature is : 33.080462 C, Bias Voltage is -50.000000 V, Current is -567.343100 nA
+Fri Dec  6 07:09:37 CET 2013
+Stopping Run 2355
+Fri Dec  6 07:09:50 CET 2013
+Starting Run 2356
+Fri Dec  6 07:11:22 CET 2013
+Temperature is : 32.789130 C, Bias Voltage is -50.000000 V, Current is -613.278000 nA
+Fri Dec  6 07:12:48 CET 2013
+Temperature is : 32.662832 C, Bias Voltage is -50.000000 V, Current is -564.371800 nA
+Fri Dec  6 07:14:28 CET 2013
+Temperature is : 33.009045 C, Bias Voltage is -50.000000 V, Current is -606.946600 nA
+Fri Dec  6 07:15:54 CET 2013
+Temperature is : 32.992843 C, Bias Voltage is -50.000000 V, Current is -585.410200 nA
+Fri Dec  6 07:17:19 CET 2013
+Temperature is : 32.996382 C, Bias Voltage is -50.000000 V, Current is -575.688500 nA
+Fri Dec  6 07:18:46 CET 2013
+Temperature is : 33.027922 C, Bias Voltage is -50.000000 V, Current is -579.536400 nA
+Fri Dec  6 07:20:12 CET 2013
+Temperature is : 32.738989 C, Bias Voltage is -50.000000 V, Current is -575.477800 nA
+Fri Dec  6 07:21:37 CET 2013
+Temperature is : 32.989952 C, Bias Voltage is -50.000000 V, Current is -573.842300 nA
+Fri Dec  6 07:23:16 CET 2013
+Temperature is : 32.973513 C, Bias Voltage is -50.000000 V, Current is -584.615000 nA
+Fri Dec  6 07:24:30 CET 2013
+Stopping Run 2356
+Fri Dec  6 07:24:43 CET 2013
+Starting Run 2357
+Fri Dec  6 07:26:15 CET 2013
+Temperature is : 32.813296 C, Bias Voltage is -50.000000 V, Current is -554.871600 nA
+Fri Dec  6 07:27:40 CET 2013
+Temperature is : 32.463819 C, Bias Voltage is -50.000000 V, Current is -554.340700 nA
+Fri Dec  6 07:29:05 CET 2013
+Temperature is : 32.491604 C, Bias Voltage is -50.000000 V, Current is -542.506800 nA
+Fri Dec  6 07:31:03 CET 2013
+Temperature is : 32.775464 C, Bias Voltage is -50.000000 V, Current is -564.986500 nA
+Fri Dec  6 07:32:30 CET 2013
+Temperature is : 32.685740 C, Bias Voltage is -50.000000 V, Current is -550.006800 nA
+Fri Dec  6 07:33:55 CET 2013
+Temperature is : 32.733266 C, Bias Voltage is -50.000000 V, Current is -549.554200 nA
+Fri Dec  6 07:35:21 CET 2013
+Temperature is : 32.566285 C, Bias Voltage is -50.000000 V, Current is -543.533800 nA
+Fri Dec  6 07:35:56 CET 2013
+Stopping Run 2357
+Fri Dec  6 07:36:09 CET 2013
+Starting Run 2358
+Fri Dec  6 07:37:53 CET 2013
+Temperature is : 32.628382 C, Bias Voltage is -50.000000 V, Current is -548.721300 nA
+Fri Dec  6 07:39:18 CET 2013
+Temperature is : 32.784784 C, Bias Voltage is -50.000000 V, Current is -552.321700 nA
+Fri Dec  6 07:40:44 CET 2013
+Temperature is : 32.474969 C, Bias Voltage is -50.000000 V, Current is -545.139000 nA
+Fri Dec  6 07:42:09 CET 2013
+Temperature is : 32.573246 C, Bias Voltage is -50.000000 V, Current is -542.502100 nA
+Fri Dec  6 07:43:34 CET 2013
+Temperature is : 32.399992 C, Bias Voltage is -50.000000 V, Current is -531.526200 nA
+Fri Dec  6 07:45:12 CET 2013
+Temperature is : 32.626258 C, Bias Voltage is -50.000000 V, Current is -549.033100 nA
+Fri Dec  6 07:46:38 CET 2013
+Temperature is : 32.390003 C, Bias Voltage is -50.000000 V, Current is -530.340500 nA
+Fri Dec  6 07:47:12 CET 2013
+Stopping Run 2358
+Fri Dec  6 07:47:25 CET 2013
+Starting Run 2359
+Fri Dec  6 07:48:56 CET 2013
+Temperature is : 32.401958 C, Bias Voltage is -50.000000 V, Current is -571.473400 nA
+Fri Dec  6 07:50:22 CET 2013
+Temperature is : 32.234643 C, Bias Voltage is -50.000000 V, Current is -530.914900 nA
+Fri Dec  6 07:52:02 CET 2013
+Temperature is : 32.584887 C, Bias Voltage is -50.000000 V, Current is -587.542100 nA
+Fri Dec  6 07:53:29 CET 2013
+Temperature is : 32.310013 C, Bias Voltage is -50.000000 V, Current is -529.060300 nA
+Fri Dec  6 07:54:55 CET 2013
+Temperature is : 32.497365 C, Bias Voltage is -50.000000 V, Current is -533.918100 nA
+Fri Dec  6 07:56:20 CET 2013
+Temperature is : 32.400877 C, Bias Voltage is -50.000000 V, Current is -537.457100 nA
+Fri Dec  6 07:57:45 CET 2013
+Temperature is : 32.185937 C, Bias Voltage is -50.000000 V, Current is -541.764600 nA
+Fri Dec  6 07:58:38 CET 2013
+Stopping Run 2359
+Fri Dec  6 07:58:51 CET 2013
+Starting Run 2360
+Fri Dec  6 08:00:42 CET 2013
+Temperature is : 32.324328 C, Bias Voltage is -50.000000 V, Current is -540.295700 nA
+Fri Dec  6 08:02:07 CET 2013
+Temperature is : 31.984309 C, Bias Voltage is -50.000000 V, Current is -530.349300 nA
+Fri Dec  6 08:03:33 CET 2013
+Temperature is : 32.341494 C, Bias Voltage is -50.000000 V, Current is -533.400500 nA
+Fri Dec  6 08:04:59 CET 2013
+Temperature is : 32.190931 C, Bias Voltage is -50.000000 V, Current is -528.038100 nA
+Fri Dec  6 08:06:24 CET 2013
+Temperature is : 32.397495 C, Bias Voltage is -50.000000 V, Current is -526.473100 nA
+Fri Dec  6 08:08:04 CET 2013
+Temperature is : 32.447322 C, Bias Voltage is -50.000000 V, Current is -538.967400 nA
+Fri Dec  6 08:09:29 CET 2013
+Temperature is : 32.604216 C, Bias Voltage is -50.000000 V, Current is -537.368600 nA
+Fri Dec  6 08:10:15 CET 2013
+Stopping Run 2360
+Fri Dec  6 08:10:27 CET 2013
+Starting Run 2361
+Fri Dec  6 08:12:00 CET 2013
+Temperature is : 32.236177 C, Bias Voltage is -50.000000 V, Current is -522.972800 nA
+Fri Dec  6 08:13:25 CET 2013
+Temperature is : 32.204499 C, Bias Voltage is -50.000000 V, Current is -526.585700 nA
+Fri Dec  6 08:15:03 CET 2013
+Temperature is : 32.614008 C, Bias Voltage is -50.000000 V, Current is -537.793700 nA
+Fri Dec  6 08:16:31 CET 2013
+Temperature is : 32.251494 C, Bias Voltage is -50.000000 V, Current is -508.087900 nA
+Fri Dec  6 08:17:56 CET 2013
+Temperature is : 32.276329 C, Bias Voltage is -50.000000 V, Current is -530.759100 nA
+Fri Dec  6 08:19:21 CET 2013
+Temperature is : 32.226974 C, Bias Voltage is -50.000000 V, Current is -529.992600 nA
+Fri Dec  6 08:20:46 CET 2013
+Temperature is : 31.959729 C, Bias Voltage is -50.000000 V, Current is -527.126500 nA
+Fri Dec  6 08:21:30 CET 2013
+Stopping Run 2361
+Fri Dec  6 08:21:42 CET 2013
+Starting Run 2362
+Fri Dec  6 08:23:29 CET 2013
+Temperature is : 32.365129 C, Bias Voltage is -50.000000 V, Current is -524.991000 nA
+Fri Dec  6 08:24:55 CET 2013
+Temperature is : 32.113674 C, Bias Voltage is -50.000000 V, Current is -527.294300 nA
+Fri Dec  6 08:26:21 CET 2013
+Temperature is : 32.199996 C, Bias Voltage is -50.000000 V, Current is -527.572200 nA
+Fri Dec  6 08:27:46 CET 2013
+Temperature is : 32.503657 C, Bias Voltage is -50.000000 V, Current is -532.090600 nA
+Fri Dec  6 08:29:12 CET 2013
+Temperature is : 32.126986 C, Bias Voltage is -50.000000 V, Current is -525.981500 nA
+Fri Dec  6 08:30:51 CET 2013
+Temperature is : 32.357401 C, Bias Voltage is -50.000000 V, Current is -529.674100 nA
+Fri Dec  6 08:32:16 CET 2013
+Temperature is : 32.083923 C, Bias Voltage is -50.000000 V, Current is -523.536900 nA
+Fri Dec  6 08:32:57 CET 2013
+Stopping Run 2362
+Fri Dec  6 08:33:10 CET 2013
+Starting Run 2363
+Fri Dec  6 08:34:42 CET 2013
+Temperature is : 32.312549 C, Bias Voltage is -50.000000 V, Current is -523.332400 nA
+Fri Dec  6 08:36:08 CET 2013
+Temperature is : 32.663697 C, Bias Voltage is -50.000000 V, Current is -533.283600 nA
+Fri Dec  6 08:37:50 CET 2013
+Temperature is : 32.553819 C, Bias Voltage is -50.000000 V, Current is -545.139500 nA
+Fri Dec  6 08:39:15 CET 2013
+Temperature is : 32.157582 C, Bias Voltage is -50.000000 V, Current is -528.243700 nA
+Fri Dec  6 08:40:41 CET 2013
+Temperature is : 32.311664 C, Bias Voltage is -50.000000 V, Current is -524.949000 nA
+Fri Dec  6 08:42:06 CET 2013
+Temperature is : 32.293200 C, Bias Voltage is -50.000000 V, Current is -528.006300 nA
+Fri Dec  6 08:43:31 CET 2013
+Temperature is : 32.430313 C, Bias Voltage is -50.000000 V, Current is -530.901800 nA
+Fri Dec  6 08:44:28 CET 2013
+Stopping Run 2363
+Fri Dec  6 08:44:40 CET 2013
+Starting Run 2364
+Fri Dec  6 08:46:25 CET 2013
+Temperature is : 32.310563 C, Bias Voltage is -50.000000 V, Current is -576.245000 nA
+Fri Dec  6 08:47:50 CET 2013
+Temperature is : 32.279790 C, Bias Voltage is -50.000000 V, Current is -533.301300 nA
+Fri Dec  6 08:49:15 CET 2013
+Temperature is : 32.570670 C, Bias Voltage is -50.000000 V, Current is -529.273600 nA
+Fri Dec  6 08:50:40 CET 2013
+Temperature is : 32.302403 C, Bias Voltage is -50.000000 V, Current is -526.424600 nA
+Fri Dec  6 08:52:07 CET 2013
+Temperature is : 32.357205 C, Bias Voltage is -50.000000 V, Current is -522.395500 nA
+Fri Dec  6 08:53:50 CET 2013
+Temperature is : 32.169439 C, Bias Voltage is -50.000000 V, Current is -535.301900 nA
+Fri Dec  6 08:54:02 CET 2013
+Stopping Run 2364
+Fri Dec  6 09:01:18 CET 2013
+Producer Interupted
+###############################################
+Fri Dec  6 09:07:13 CET 2013
+Producer Interupted
+###############################################
+###############################################
+Fri Dec  6 09:08:29 CET 2013
+Started Producer
+################ execution log ################
+Fri Dec  6 09:08:42 CET 2013
+Producer Interupted
+###############################################
+###############################################
+Fri Dec  6 09:09:08 CET 2013
+Started Producer
+################ execution log ################
+Fri Dec  6 09:10:25 CET 2013
+Configuring with ni_timepix
+Fri Dec  6 09:10:25 CET 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/C04-W0110/Configs/BPC_C04-W0110_15V_IKrum1_96MHz_25-08-13_TOT
+Fri Dec  6 09:10:25 CET 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/C04-W0110/Configs/BPC_C04-W0110_15V_IKrum1_96MHz_25-08-13_TOT_ascii
+Fri Dec  6 09:10:25 CET 2013
+Mode is TOT
+Fri Dec  6 09:10:25 CET 2013
+Bias is 15.000000
+Fri Dec  6 09:11:17 CET 2013
+Starting Run 2365
+Fri Dec  6 09:12:48 CET 2013
+Temperature is : 31.104963 C, Bias Voltage is 15.000000 V, Current is 108.341900 nA
+Fri Dec  6 09:14:13 CET 2013
+Temperature is : 31.987691 C, Bias Voltage is 15.000000 V, Current is 167.592300 nA
+Fri Dec  6 09:15:58 CET 2013
+Temperature is : 32.905419 C, Bias Voltage is 15.000000 V, Current is 112.746000 nA
+Fri Dec  6 09:17:23 CET 2013
+Temperature is : 32.911731 C, Bias Voltage is 15.000000 V, Current is 78.392940 nA
+Fri Dec  6 09:18:50 CET 2013
+Temperature is : 33.001632 C, Bias Voltage is 15.000000 V, Current is 122.104600 nA
+Fri Dec  6 09:20:15 CET 2013
+Temperature is : 32.871874 C, Bias Voltage is 15.000000 V, Current is 161.189500 nA
+Fri Dec  6 09:21:40 CET 2013
+Temperature is : 33.022220 C, Bias Voltage is 15.000000 V, Current is 150.544100 nA
+Fri Dec  6 09:23:07 CET 2013
+Temperature is : 33.147711 C, Bias Voltage is 15.000000 V, Current is -175.870800 nA
+Fri Dec  6 09:25:09 CET 2013
+Temperature is : 33.266812 C, Bias Voltage is 15.000000 V, Current is 147.040900 nA
+Fri Dec  6 09:26:04 CET 2013
+Stopping Run 2365
+Fri Dec  6 09:26:15 CET 2013
+Starting Run 2366
+Fri Dec  6 09:27:49 CET 2013
+Temperature is : 33.128008 C, Bias Voltage is 15.000000 V, Current is 181.814000 nA
+Fri Dec  6 09:29:15 CET 2013
+Temperature is : 33.188513 C, Bias Voltage is 15.000000 V, Current is 276.261700 nA
+Fri Dec  6 09:30:39 CET 2013
+Temperature is : 33.358778 C, Bias Voltage is 15.000000 V, Current is 224.702200 nA
+Fri Dec  6 09:32:33 CET 2013
+Temperature is : 33.420245 C, Bias Voltage is 15.000000 V, Current is 149.034100 nA
+Fri Dec  6 09:33:59 CET 2013
+Temperature is : 32.987396 C, Bias Voltage is 15.000000 V, Current is 120.584700 nA
+Fri Dec  6 09:35:24 CET 2013
+Temperature is : 33.106595 C, Bias Voltage is 15.000000 V, Current is 155.877100 nA
+Fri Dec  6 09:36:50 CET 2013
+Temperature is : 33.027076 C, Bias Voltage is 15.000000 V, Current is 141.018900 nA
+Fri Dec  6 09:38:15 CET 2013
+Temperature is : 32.916529 C, Bias Voltage is 15.000000 V, Current is -319.031800 nA
+Fri Dec  6 09:40:19 CET 2013
+Temperature is : 33.308951 C, Bias Voltage is 15.000000 V, Current is 338.192000 nA
+Fri Dec  6 09:40:58 CET 2013
+Stopping Run 2366
+Fri Dec  6 09:41:09 CET 2013
+Starting Run 2367
+Fri Dec  6 09:42:43 CET 2013
+Temperature is : 33.232677 C, Bias Voltage is 15.000000 V, Current is 139.820100 nA
+Fri Dec  6 09:44:09 CET 2013
+Temperature is : 33.176951 C, Bias Voltage is 15.000000 V, Current is -721.229000 nA
+Fri Dec  6 09:45:35 CET 2013
+Temperature is : 33.099536 C, Bias Voltage is 15.000000 V, Current is 149.097200 nA
+Fri Dec  6 09:47:01 CET 2013
+Temperature is : 33.128126 C, Bias Voltage is 15.000000 V, Current is 153.521600 nA
+Fri Dec  6 09:49:24 CET 2013
+Temperature is : 33.575488 C, Bias Voltage is 15.000000 V, Current is 181.760300 nA
+Fri Dec  6 09:50:50 CET 2013
+Temperature is : 33.432299 C, Bias Voltage is 15.000000 V, Current is 332.801600 nA
+Fri Dec  6 09:52:15 CET 2013
+Temperature is : 33.228115 C, Bias Voltage is 15.000000 V, Current is -205.470400 nA
+Fri Dec  6 09:53:40 CET 2013
+Temperature is : 33.235882 C, Bias Voltage is 15.000000 V, Current is -633.556700 nA
+Fri Dec  6 09:55:06 CET 2013
+Temperature is : 33.214665 C, Bias Voltage is 15.000000 V, Current is 157.634500 nA
+Fri Dec  6 09:57:04 CET 2013
+Temperature is : 33.571280 C, Bias Voltage is 15.000000 V, Current is 173.762100 nA
+Fri Dec  6 09:57:26 CET 2013
+Stopping Run 2367
+Fri Dec  6 09:57:40 CET 2013
+Starting Run 2368
+Fri Dec  6 09:59:12 CET 2013
+Temperature is : 33.215392 C, Bias Voltage is 15.000000 V, Current is 294.651800 nA
+Fri Dec  6 10:00:39 CET 2013
+Temperature is : 33.584336 C, Bias Voltage is 15.000000 V, Current is 149.232400 nA
+Fri Dec  6 10:02:05 CET 2013
+Temperature is : 33.406147 C, Bias Voltage is 15.000000 V, Current is 272.989200 nA
+Fri Dec  6 10:03:30 CET 2013
+Temperature is : 33.148832 C, Bias Voltage is 15.000000 V, Current is 775.032400 nA
+Fri Dec  6 10:05:49 CET 2013
+Temperature is : 33.610252 C, Bias Voltage is 15.000000 V, Current is 174.344400 nA
+Fri Dec  6 10:07:14 CET 2013
+Temperature is : 33.122758 C, Bias Voltage is 15.000000 V, Current is 117.496600 nA
+Fri Dec  6 10:08:40 CET 2013
+Temperature is : 33.169852 C, Bias Voltage is 15.000000 V, Current is 161.486400 nA
+Fri Dec  6 10:10:06 CET 2013
+Temperature is : 32.897141 C, Bias Voltage is 15.000000 V, Current is 267.647400 nA
+Fri Dec  6 10:11:32 CET 2013
+Temperature is : 33.290703 C, Bias Voltage is 15.000000 V, Current is 169.484400 nA
+Fri Dec  6 10:12:32 CET 2013
+Stopping Run 2368
+Fri Dec  6 10:12:43 CET 2013
+Starting Run 2369
+Fri Dec  6 10:14:21 CET 2013
+Temperature is : 33.153276 C, Bias Voltage is 15.000000 V, Current is 173.933100 nA
+Fri Dec  6 10:15:46 CET 2013
+Temperature is : 32.911377 C, Bias Voltage is 15.000000 V, Current is 160.069200 nA
+Fri Dec  6 10:17:11 CET 2013
+Temperature is : 33.050476 C, Bias Voltage is 15.000000 V, Current is 312.691800 nA
+Fri Dec  6 10:18:38 CET 2013
+Temperature is : 33.165467 C, Bias Voltage is 15.000000 V, Current is 77.656300 nA
+Fri Dec  6 10:20:03 CET 2013
+Temperature is : 33.036220 C, Bias Voltage is 15.000000 V, Current is -211.215400 nA
+Fri Dec  6 10:21:54 CET 2013
+Temperature is : 33.394054 C, Bias Voltage is 15.000000 V, Current is 184.148600 nA
+Fri Dec  6 10:23:20 CET 2013
+Temperature is : 33.333845 C, Bias Voltage is 15.000000 V, Current is 306.656500 nA
+Fri Dec  6 10:24:46 CET 2013
+Temperature is : 33.236118 C, Bias Voltage is 15.000000 V, Current is -159.100300 nA
+Fri Dec  6 10:26:11 CET 2013
+Temperature is : 33.254267 C, Bias Voltage is 15.000000 V, Current is 152.740900 nA
+Fri Dec  6 10:26:36 CET 2013
+Stopping Run 2369
+Fri Dec  6 10:26:50 CET 2013
+Starting Run 2370
+Fri Dec  6 10:28:22 CET 2013
+Temperature is : 33.097432 C, Bias Voltage is 15.000000 V, Current is 206.129400 nA
+Fri Dec  6 10:30:16 CET 2013
+Temperature is : 33.059088 C, Bias Voltage is 15.000000 V, Current is 343.122300 nA
+Fri Dec  6 10:31:41 CET 2013
+Temperature is : 33.051203 C, Bias Voltage is 15.000000 V, Current is 158.009600 nA
+Fri Dec  6 10:33:07 CET 2013
+Temperature is : 32.866289 C, Bias Voltage is 15.000000 V, Current is 252.077300 nA
+Fri Dec  6 10:34:33 CET 2013
+Temperature is : 33.078142 C, Bias Voltage is 15.000000 V, Current is 167.369900 nA
+Fri Dec  6 10:36:00 CET 2013
+Temperature is : 33.027155 C, Bias Voltage is 15.000000 V, Current is 161.336400 nA
+Fri Dec  6 10:37:59 CET 2013
+Temperature is : 33.603115 C, Bias Voltage is 15.000000 V, Current is 170.702600 nA
+Fri Dec  6 10:39:47 CET 2013
+Temperature is : 33.398183 C, Bias Voltage is 15.000000 V, Current is 312.275800 nA
+Fri Dec  6 10:41:13 CET 2013
+Temperature is : 33.346331 C, Bias Voltage is 15.000000 V, Current is -629.902800 nA
+Fri Dec  6 10:42:03 CET 2013
+Stopping Run 2370
+Fri Dec  6 10:42:17 CET 2013
+Starting Run 2371
+Fri Dec  6 10:43:48 CET 2013
+Temperature is : 32.989637 C, Bias Voltage is 15.000000 V, Current is 157.250500 nA
+Fri Dec  6 10:44:11 CET 2013
+Stopping Run 2371
+Fri Dec  6 10:44:59 CET 2013
+Configuring with ni_timepix
+Fri Dec  6 10:44:59 CET 2013
+Binary Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/C04-W0110/Configs/BPC_C04-W0110_15V_IKrum1_96MHz_25-08-13_TOT
+Fri Dec  6 10:44:59 CET 2013
+Ascii Config is /home/lcd/CLIC_Testbeam_August2013/TimepixAssemblies_Data/C04-W0110/Configs/BPC_C04-W0110_15V_IKrum1_96MHz_25-08-13_TOT_ascii
+Fri Dec  6 10:44:59 CET 2013
+Mode is TOT
+Fri Dec  6 10:44:59 CET 2013
+Bias is 15.000000
+Fri Dec  6 10:45:08 CET 2013
+Starting Run 2372
+Fri Dec  6 10:47:57 CET 2013
+Temperature is : 33.529790 C, Bias Voltage is 15.000000 V, Current is 171.968200 nA
+Fri Dec  6 10:53:04 CET 2013
+Temperature is : 34.131332 C, Bias Voltage is 15.000000 V, Current is -613.716500 nA
+Fri Dec  6 10:54:28 CET 2013
+Temperature is : 33.533644 C, Bias Voltage is 15.000000 V, Current is 274.201300 nA
+Fri Dec  6 10:55:53 CET 2013
+Temperature is : 33.400956 C, Bias Voltage is 15.000000 V, Current is 170.177800 nA
+Fri Dec  6 10:57:19 CET 2013
+Temperature is : 33.005407 C, Bias Voltage is 15.000000 V, Current is 294.897100 nA
+Fri Dec  6 10:58:44 CET 2013
+Temperature is : 32.807771 C, Bias Voltage is 15.000000 V, Current is 165.313700 nA
+Fri Dec  6 11:00:13 CET 2013
+Temperature is : 32.740719 C, Bias Voltage is 15.000000 V, Current is 337.368000 nA
+Fri Dec  6 11:02:08 CET 2013
+Temperature is : 33.009517 C, Bias Voltage is 15.000000 V, Current is 86.268210 nA
+Fri Dec  6 11:03:34 CET 2013
+Temperature is : 33.142028 C, Bias Voltage is 15.000000 V, Current is 168.824500 nA
+Fri Dec  6 11:04:59 CET 2013
+Temperature is : 32.832999 C, Bias Voltage is 15.000000 V, Current is 313.745500 nA
+Fri Dec  6 11:05:29 CET 2013
+Stopping Run 2372
+Fri Dec  6 11:05:49 CET 2013
+Starting Run 2373
+Fri Dec  6 11:07:14 CET 2013
+Temperature is : 32.877301 C, Bias Voltage is 15.000000 V, Current is 72.087790 nA
+Fri Dec  6 11:09:08 CET 2013
+Temperature is : 33.394683 C, Bias Voltage is 15.000000 V, Current is 208.167300 nA
+Fri Dec  6 11:10:33 CET 2013
+Temperature is : 32.892854 C, Bias Voltage is 15.000000 V, Current is 324.309500 nA
+Fri Dec  6 11:11:59 CET 2013
+Temperature is : 32.875590 C, Bias Voltage is 15.000000 V, Current is 170.665200 nA
+Fri Dec  6 11:13:24 CET 2013
+Temperature is : 32.862376 C, Bias Voltage is 15.000000 V, Current is 271.802500 nA
+Fri Dec  6 11:14:50 CET 2013
+Temperature is : 32.888843 C, Bias Voltage is 15.000000 V, Current is 601.228200 nA
+Fri Dec  6 11:16:15 CET 2013
+Temperature is : 32.866073 C, Bias Voltage is 15.000000 V, Current is -323.806000 nA
+Fri Dec  6 11:18:03 CET 2013
+Temperature is : 33.035709 C, Bias Voltage is 15.000000 V, Current is 464.392000 nA
+Fri Dec  6 11:19:11 CET 2013
+Stopping Run 2373
+Fri Dec  6 11:19:24 CET 2013
+Starting Run 2374
+Fri Dec  6 11:20:56 CET 2013
+Temperature is : 32.802324 C, Bias Voltage is 15.000000 V, Current is 175.575100 nA
+Fri Dec  6 11:22:21 CET 2013
+Temperature is : 32.854176 C, Bias Voltage is 15.000000 V, Current is 278.147700 nA
+Fri Dec  6 11:23:47 CET 2013
+Temperature is : 32.886306 C, Bias Voltage is 15.000000 V, Current is 24.585310 nA
+Fri Dec  6 11:25:34 CET 2013
+Temperature is : 33.289523 C, Bias Voltage is 15.000000 V, Current is 163.567800 nA
+Fri Dec  6 11:27:00 CET 2013
+Temperature is : 33.140357 C, Bias Voltage is 15.000000 V, Current is 299.072400 nA
+Fri Dec  6 11:28:29 CET 2013
+Temperature is : 33.235095 C, Bias Voltage is 15.000000 V, Current is 74.040020 nA
+Fri Dec  6 11:29:54 CET 2013
+Temperature is : 33.021079 C, Bias Voltage is 15.000000 V, Current is 172.370100 nA
+Fri Dec  6 11:31:21 CET 2013
+Temperature is : 33.051538 C, Bias Voltage is 15.000000 V, Current is 309.588700 nA
+Fri Dec  6 11:33:14 CET 2013
+Temperature is : 33.477643 C, Bias Voltage is 15.000000 V, Current is -184.603200 nA
+Fri Dec  6 11:33:51 CET 2013
+Stopping Run 2374
+Fri Dec  6 11:34:11 CET 2013
+Starting Run 2375
+Fri Dec  6 11:35:35 CET 2013
+Temperature is : 33.301557 C, Bias Voltage is 15.000000 V, Current is 185.206100 nA
+Fri Dec  6 11:37:00 CET 2013
+Temperature is : 33.181198 C, Bias Voltage is 15.000000 V, Current is 208.162300 nA
+Fri Dec  6 11:38:26 CET 2013
+Temperature is : 33.162852 C, Bias Voltage is 15.000000 V, Current is 198.570400 nA
+Fri Dec  6 11:39:51 CET 2013
+Temperature is : 33.164936 C, Bias Voltage is 15.000000 V, Current is 48.328600 nA
+Fri Dec  6 11:41:36 CET 2013
+Temperature is : 33.257433 C, Bias Voltage is 15.000000 V, Current is 239.136100 nA
+Fri Dec  6 11:43:01 CET 2013
+Temperature is : 33.198482 C, Bias Voltage is 15.000000 V, Current is 662.640800 nA
+Fri Dec  6 11:44:27 CET 2013
+Temperature is : 33.186763 C, Bias Voltage is 15.000000 V, Current is -603.828300 nA
+Fri Dec  6 11:45:52 CET 2013
+Temperature is : 33.134360 C, Bias Voltage is 15.000000 V, Current is 170.466500 nA
+Fri Dec  6 11:47:17 CET 2013
+Temperature is : 33.111019 C, Bias Voltage is 15.000000 V, Current is 327.634500 nA
+Fri Dec  6 11:47:28 CET 2013
+Stopping Run 2375
+Fri Dec  6 11:47:39 CET 2013
+Starting Run 2376
+Fri Dec  6 11:49:29 CET 2013
+Temperature is : 33.209592 C, Bias Voltage is 15.000000 V, Current is 3.371532 nA
+Fri Dec  6 11:50:54 CET 2013
+Temperature is : 33.070591 C, Bias Voltage is 15.000000 V, Current is -191.472400 nA
+Fri Dec  6 11:52:19 CET 2013
+Temperature is : 33.273222 C, Bias Voltage is 15.000000 V, Current is 765.638600 nA
+Fri Dec  6 11:53:44 CET 2013
+Temperature is : 33.131568 C, Bias Voltage is 15.000000 V, Current is 42.035610 nA
+Fri Dec  6 11:55:10 CET 2013
+Temperature is : 33.059541 C, Bias Voltage is 15.000000 V, Current is 356.821300 nA
+Fri Dec  6 11:56:54 CET 2013
+Temperature is : 33.374095 C, Bias Voltage is 15.000000 V, Current is 172.919900 nA
+Fri Dec  6 11:58:19 CET 2013
+Temperature is : 33.202375 C, Bias Voltage is 15.000000 V, Current is 178.286900 nA
+Fri Dec  6 11:59:45 CET 2013
+Temperature is : 33.102151 C, Bias Voltage is 15.000000 V, Current is 298.300200 nA
+Fri Dec  6 12:01:10 CET 2013
+Temperature is : 33.233050 C, Bias Voltage is 15.000000 V, Current is 218.180400 nA
+Fri Dec  6 12:01:31 CET 2013
+Stopping Run 2376
+Fri Dec  6 12:01:43 CET 2013
+Starting Run 2377
+Fri Dec  6 12:03:15 CET 2013
+Temperature is : 33.016714 C, Bias Voltage is 15.000000 V, Current is 180.640400 nA
+Fri Dec  6 12:05:20 CET 2013
+Temperature is : 33.479786 C, Bias Voltage is 15.000000 V, Current is 181.789800 nA
+Fri Dec  6 12:06:45 CET 2013
+Temperature is : 33.271236 C, Bias Voltage is 15.000000 V, Current is 311.743000 nA
+Fri Dec  6 12:08:11 CET 2013
+Temperature is : 33.122424 C, Bias Voltage is 15.000000 V, Current is 604.876200 nA
+Fri Dec  6 12:09:36 CET 2013
+Temperature is : 32.979511 C, Bias Voltage is 15.000000 V, Current is 160.307300 nA
+Fri Dec  6 12:11:01 CET 2013
+Temperature is : 33.135382 C, Bias Voltage is 15.000000 V, Current is 167.888900 nA
+Fri Dec  6 12:12:37 CET 2013
+Temperature is : 32.955443 C, Bias Voltage is 15.000000 V, Current is -419.014100 nA
+Fri Dec  6 12:15:19 CET 2013
+Temperature is : 33.478213 C, Bias Voltage is 15.000000 V, Current is 164.455600 nA
+Fri Dec  6 12:18:13 CET 2013
+Temperature is : 33.603665 C, Bias Voltage is 15.000000 V, Current is 792.964300 nA
+Fri Dec  6 12:21:50 CET 2013
+Temperature is : 33.824033 C, Bias Voltage is 15.000000 V, Current is 192.463100 nA
+Fri Dec  6 12:25:29 CET 2013
+Temperature is : 33.917866 C, Bias Voltage is 15.000000 V, Current is 342.966600 nA
+Fri Dec  6 12:28:29 CET 2013
+Temperature is : 33.972668 C, Bias Voltage is 15.000000 V, Current is 208.666300 nA
+Fri Dec  6 12:28:39 CET 2013
+Stopping Run 2377
+Fri Dec  6 12:28:51 CET 2013
+Starting Run 2378
+Fri Dec  6 12:31:46 CET 2013
+Temperature is : 33.880112 C, Bias Voltage is 15.000000 V, Current is 209.350900 nA
+Fri Dec  6 12:36:54 CET 2013
+Temperature is : 34.212856 C, Bias Voltage is 15.000000 V, Current is 184.695600 nA
+Fri Dec  6 12:45:58 CET 2013
+Temperature is : 34.508200 C, Bias Voltage is 15.000000 V, Current is 219.155800 nA
+Fri Dec  6 12:49:39 CET 2013
+Temperature is : 33.803052 C, Bias Voltage is 15.000000 V, Current is 358.604400 nA
+Fri Dec  6 12:55:56 CET 2013
+Temperature is : 34.132020 C, Bias Voltage is 15.000000 V, Current is 185.041200 nA
+Fri Dec  6 13:05:38 CET 2013
+Temperature is : 34.483188 C, Bias Voltage is 15.000000 V, Current is 213.633500 nA
+Fri Dec  6 13:08:15 CET 2013
+Temperature is : 33.599339 C, Bias Voltage is 15.000000 V, Current is 264.709700 nA
+Fri Dec  6 13:10:05 CET 2013
+Temperature is : 33.778040 C, Bias Voltage is 15.000000 V, Current is -728.112700 nA
+Fri Dec  6 13:11:31 CET 2013
+Temperature is : 33.129346 C, Bias Voltage is 15.000000 V, Current is -34.210790 nA
+Fri Dec  6 13:12:56 CET 2013
+Temperature is : 33.105042 C, Bias Voltage is 15.000000 V, Current is -552.143400 nA
+Fri Dec  6 13:14:21 CET 2013
+Temperature is : 32.871343 C, Bias Voltage is 15.000000 V, Current is 161.056500 nA
+Fri Dec  6 13:15:40 CET 2013
+Stopping Run 2378
+Fri Dec  6 13:15:52 CET 2013
+Starting Run 2379
+Fri Dec  6 13:17:39 CET 2013
+Temperature is : 33.147888 C, Bias Voltage is 15.000000 V, Current is 173.186600 nA
+Fri Dec  6 13:19:04 CET 2013
+Temperature is : 32.900798 C, Bias Voltage is 15.000000 V, Current is 174.264700 nA
+Fri Dec  6 13:20:30 CET 2013
+Temperature is : 32.776821 C, Bias Voltage is 15.000000 V, Current is 160.495300 nA
+Fri Dec  6 13:21:56 CET 2013
+Temperature is : 32.773517 C, Bias Voltage is 15.000000 V, Current is 335.711300 nA
+Fri Dec  6 13:23:21 CET 2013
+Temperature is : 32.874351 C, Bias Voltage is 15.000000 V, Current is 118.706500 nA
+Fri Dec  6 13:24:58 CET 2013
+Temperature is : 32.983502 C, Bias Voltage is 15.000000 V, Current is 168.872900 nA
+Fri Dec  6 13:26:40 CET 2013
+Temperature is : 33.137781 C, Bias Voltage is 15.000000 V, Current is 947.786500 nA
+Fri Dec  6 13:28:06 CET 2013
+Temperature is : 33.052934 C, Bias Voltage is 15.000000 V, Current is 176.174800 nA
+Fri Dec  6 13:29:32 CET 2013
+Temperature is : 33.010835 C, Bias Voltage is 15.000000 V, Current is 164.765300 nA
+Fri Dec  6 13:30:23 CET 2013
+Stopping Run 2379
+Fri Dec  6 13:30:35 CET 2013
+Starting Run 2380
+Fri Dec  6 13:32:08 CET 2013
+Temperature is : 32.938827 C, Bias Voltage is 15.000000 V, Current is 284.586000 nA
+Fri Dec  6 13:33:51 CET 2013
+Temperature is : 33.277804 C, Bias Voltage is 15.000000 V, Current is -175.107100 nA
+Fri Dec  6 13:34:40 CET 2013
+Stopping Run 2380
+Fri Dec  6 13:35:06 CET 2013
+Producer Interupted
+###############################################
