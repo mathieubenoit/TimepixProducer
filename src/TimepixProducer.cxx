@@ -373,6 +373,8 @@ public:
     }
 
     else {
+    	THLactual = aTimepix->ReadDACs();
+    	bore.SetTag("THL",THLactual);
 
     };
 

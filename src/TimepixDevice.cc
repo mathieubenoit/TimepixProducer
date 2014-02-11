@@ -154,7 +154,7 @@ int TimepixDevice::ReadDACs(){
 		cout << "[TimepixProducer] BIASLVDS Readout = " << dacVals_readout[TPX_BIASLVDS] << endl;
 		cout << "[TimepixProducer] REFLVDS Readout = " << dacVals_readout[TPX_REFLVDS] << endl;
 
-		return 0;
+		return dacVals_readout[TPX_THLFINE];
 	}
 
 
