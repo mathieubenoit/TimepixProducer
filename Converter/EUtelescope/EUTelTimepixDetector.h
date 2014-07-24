@@ -36,7 +36,7 @@ namespace eutelescope {
   /*!
    *
    *  @author Antonio Bulgheroni, INFN <mailto:antonio.bulgheroni@gmail.com>
-   *  @version $Id$
+   *  @version $Id: EUTelTimepixDetector.h 19 2013-07-25 11:01:40Z mbenoit $
    */
 
   class EUTelTimepixDetector : public EUTelPixelDetector {
